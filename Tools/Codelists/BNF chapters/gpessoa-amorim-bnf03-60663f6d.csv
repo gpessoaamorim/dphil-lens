@@ -1,0 +1,1841 @@
+code,term
+03,Respiratory System
+0301,Bronchodilators
+030101,Adrenoceptor agonists
+0301011,Selective beta(2)-agonists
+0301011AB,Beclometdiprop/formoterol/glycopyrronium
+0301011ABBB,Trimbow
+0301011ABBBAAA0,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh
+0301011B0,Bambuterol hydrochloride
+0301011B0AA,Bambuterol hydrochloride
+0301011B0AAAAAA,Bambuterol 10mg tablets
+0301011B0AAABAB,Bambuterol 20mg tablets
+0301011B0BB,Bambec
+0301011B0BBAAAA,Bambec 10mg tablets
+0301011B0BBABAB,Bambec 20mg tablets
+0301011E0,Formoterol fumarate
+0301011E0AA,Formoterol fumarate
+0301011E0AAAAAA,Formoterol 12microgram inhalation pdr caps with device
+0301011E0AAABAB,Formoterol 6micrograms/dose dry powder inhaler
+0301011E0AAACAC,Formoterol 12micrograms/dose dry powder inhaler
+0301011E0AAADAD,Formoterol 12micrograms/dose inhaler CFC free
+0301011E0BB,Foradil
+0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device
+0301011E0BC,Oxis
+0301011E0BCAAAB,Oxis 6 Turbohaler
+0301011E0BCABAC,Oxis 12 Turbohaler
+0301011E0BD,Atimos Modulite
+0301011E0BDAAAD,Atimos Modulite 12micrograms/dose inhaler
+0301011E0BE,Formoterol Easyhaler
+0301011E0BEAAAC,Formoterol Easyhaler 12micrograms/dose dry powder inhaler
+0301011F0,Fenoterol hydrobromide
+0301011F0AA,Fenoterol hydrobromide
+0301011F0AAAAAA,Fenoterol 200micrograms/dose inhaler
+0301011F0BB,Berotec
+0301011F0BBACAA,Berotec 200micrograms/dose inhaler
+0301011R0,Salbutamol
+0301011R0AA,Salbutamol
+0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler
+0301011R0AAADAD,Salbutamol 100micrograms/dose breath actuated inhaler
+0301011R0AAAFAF,Salbutamol 95micrograms/dose dry powder inhaler
+0301011R0AAAIAI,Salbutamol 200microgram inhalation pdr blist with device
+0301011R0AAAJAJ,Salbutamol 400microgram inhalation pdr blist with device
+0301011R0AAAKAK,Salbutamol 200microgram inhalation powder blisters
+0301011R0AAALAL,Salbutamol 400microgram inhalation powder blisters
+0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free
+0301011R0AAAQAQ,Salbutamol 200micrograms/dose dry powder inhaler
+0301011R0AAAUAU,Salbutamol 500micrograms/1ml solution for injection ampoules
+0301011R0AAAVAV,Salbutamol 200microgram inhalation powder capsules
+0301011R0AAAWAW,Salbutamol 400microgram inhalation powder capsules
+0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+0301011R0AAAZAZ,Salbutamol 2mg tablets
+0301011R0AABABA,Salbutamol 4mg tablets
+0301011R0AABBBB,Salbutamol 5mg/ml nebuliser liquid
+0301011R0AABCBC,Salbutamol 5mg/5ml solution for infusion ampoules
+0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+0301011R0AABEBE,Salbutamol 4mg modified-release tablets
+0301011R0AABFBF,Salbutamol 8mg modified-release tablets
+0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free
+0301011R0AABMBM,Salbutamol 4mg modified-release capsules
+0301011R0AABPBP,Salbutamol 8mg modified-release capsules
+0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inh CFC free
+0301011R0AABVBV,Salbutamol 5mg/50ml solution for infusion vials
+0301011R0AABZBZ,Salbutamol 100micrograms/dose dry powder inhaler
+0301011R0AACBCB,Salbutamol 100microg/dose dry pdr inhalation cart with dev
+0301011R0AACCCC,Salbutamol 100micrograms/dose dry pdr inhalation cartridge
+0301011R0BD,Salbulin
+0301011R0BDAEAP,Salbulin 100micrograms/dose inhaler
+0301011R0BE,Ventolin
+0301011R0BEAHAQ,Ventolin 200micrograms/dose Accuhaler
+0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler
+0301011R0BEAMBG,Ventolin 2mg/5ml syrup
+0301011R0BEANAX,Ventolin 2.5mg Nebules
+0301011R0BEAPAV,Ventolin 200microgram Rotacaps
+0301011R0BEAQAW,Ventolin 400microgram Rotacaps
+0301011R0BEARBB,Ventolin 5mg/ml respirator solution
+0301011R0BEATAU,Ventolin 500micrograms/1ml solution for injection ampoules
+0301011R0BEAUBC,Ventolin 5mg/5ml solution for infusion ampoules
+0301011R0BEAXBD,Ventolin 5mg Nebules
+0301011R0BG,Maxivent
+0301011R0BGABAX,Maxivent 2.5mg/2.5ml neb liq unit dose Steripoule vials
+0301011R0BGACBD,Maxivent 5mg/2.5ml neb liq unit dose Steripoule vials
+0301011R0BI,Salamol
+0301011R0BIADAX,Salamol 2.5mg/2.5ml neb liq Steri-Neb unit dose vials
+0301011R0BIAEBD,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials
+0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva)
+0301011R0BIAGBU,Salamol 100micrograms/dose Easi-Breathe inhaler
+0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow)
+0301011R0BJ,Asmasal
+0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler
+0301011R0BK,Aerolin
+0301011R0BKADAD,Aerolin 100micrograms/dose Autohaler
+0301011R0BL,Ventodisks
+0301011R0BLAAAI,Ventodisks 200microgram with Diskhaler
+0301011R0BLABAK,Ventodisks 200microgram
+0301011R0BLACAJ,Ventodisks 400microgram with Diskhaler
+0301011R0BLADAL,Ventodisks 400microgram
+0301011R0BM,Airomir
+0301011R0BMAAAP,Airomir 100micrograms/dose inhaler
+0301011R0BMABBU,Airomir 100micrograms/dose Autohaler
+0301011R0BN,Volmax
+0301011R0BNAABE,Volmax 4mg modified-release tablets
+0301011R0BNABBF,Volmax 8mg modified-release tablets
+0301011R0BP,Salbutamol Cyclocap
+0301011R0BPACAV,Salbutamol 200 Cyclocaps
+0301011R0BPADAW,Salbutamol 400 Cyclocaps
+0301011R0BS,Ventmax
+0301011R0BSAABM,Ventmax SR 4mg capsules
+0301011R0BSABBP,Ventmax SR 8mg capsules
+0301011R0BT,Pulvinal salbutamol
+0301011R0BTAAAQ,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler
+0301011R0BU,Salapin
+0301011R0BUAABG,Salapin 2mg/5ml syrup
+0301011R0BV,Salbutamol Steripoule
+0301011R0BVAAAX,Salbutamol 2.5mg/2.5ml neb liq unit dose Steripoule vials
+0301011R0BVABBD,Salbutamol 5mg/2.5ml neb liq unit dose Steripoule vials
+0301011R0BW,Easyhaler (Salbutamol sulfate)
+0301011R0BWAABZ,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh
+0301011R0BWABAQ,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh
+0301011R0BX,Salbulin Novolizer
+0301011R0BXAACB,Salbulin Novolizer 100micrograms/dose inhalation powder
+0301011R0BXABCC,Salbulin Novolizer 100micrograms/dose inhalation pdr refill
+0301011R0BY,Asmavent
+0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free
+0301011R0BZ,AirSalb
+0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free
+0301011U0,Salmeterol
+0301011U0AA,Salmeterol
+0301011U0AAAAAA,Salmeterol 50microgram inhalation pdr blist with device
+0301011U0AAABAB,Salmeterol 50microgram inhalation powder blisters
+0301011U0AAACAC,Salmeterol 25micrograms/dose inhaler
+0301011U0AAAEAE,Salmeterol 50micrograms/dose dry powder inhaler
+0301011U0AAAHAH,Salmeterol 25micrograms/dose inhaler CFC free
+0301011U0BB,Serevent
+0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler
+0301011U0BBABAB,Serevent 50microgram disks
+0301011U0BBACAC,Serevent 25micrograms/dose inhaler
+0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler
+0301011U0BBAFAH,Serevent 25micrograms/dose Evohaler
+0301011U0BD,Neovent (Teva)
+0301011U0BDAAAH,Neovent 25micrograms/dose inhaler CFC free (Teva)
+0301011U0BE,Neovent (Fannin)
+0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm)
+0301011U0BF,Vertine
+0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free
+0301011U0BG,Soltel
+0301011U0BGAAAH,Soltel 25micrograms/dose inhaler CFC free
+0301011V0,Terbutaline sulphate
+0301011V0AA,Terbutaline sulfate
+0301011V0AAAAAA,Terbutaline 250micrograms/dose inhaler
+0301011V0AAABAB,Terbutaline 500micrograms/1ml inj ampoules
+0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials
+0301011V0AAAFAF,Terbutaline 250micrograms/dose inhaler with spacer
+0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free
+0301011V0AAAHAH,Terbutaline 5mg tablets
+0301011V0AAAIAI,Terbutaline 7.5mg modified-release tablets
+0301011V0AAAKAK,Terbutaline 2.5mg/5ml solution for injection ampoules
+0301011V0AAAXAX,Terbutaline 10mg/ml nebuliser liquid
+0301011V0AABABA,Terbutaline 7.5mg/15ml inf pre-filled syringes
+0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler
+0301011V0BB,Bricanyl (Systemic)
+0301011V0BBAAAH,Bricanyl 5mg tablets
+0301011V0BBABAG,Bricanyl 1.5mg/5ml syrup
+0301011V0BBACAB,Bricanyl 500micrograms/1ml solution for injection ampoules
+0301011V0BBADAA,Bricanyl 250micrograms/dose inhaler
+0301011V0BBAFAF,Bricanyl 250micrograms/dose spacer inhaler
+0301011V0BBAJAK,Bricanyl 2.5mg/5ml solution for injection ampoules
+0301011V0BBALAD,Bricanyl 5mg/2ml Respules
+0301011V0BBANAI,Bricanyl SA 7.5mg tablets
+0301011V0BBAQAX,Bricanyl 10mg/ml respirator solution
+0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler
+0301011V0BD,Monovent
+0301011V0BDABAG,Monovent 1.5mg/5ml syrup
+0301011X0,Indacaterol maleate
+0301011X0AA,Indacaterol maleate
+0301011X0AAAAAA,Indacaterol 150microgram inhalation pdr caps with device
+0301011X0AAABAB,Indacaterol 300microgram inhalation pdr caps with device
+0301011X0BB,Onbrez Breezhaler
+0301011X0BBAAAA,Onbrez Breezhaler 150microgram inhalation pdr caps with dev
+0301011X0BBABAB,Onbrez Breezhaler 300microgram inhalation pdr caps with dev
+0301011Z0,Olodaterol
+0301011Z0AA,Olodaterol
+0301011Z0AAAAAA,Olodaterol 2.5microg/dose soln for inhalation CFCfree
+0301011Z0AAABAB,Olodaterol 2.5micrograms/dose inhalation soln cart CFC free
+0301011Z0BB,Striverdi Respimat
+0301011Z0BBAAAA,Striverdi Respimat 2.5microg/dose inhalation soln
+0301011Z0BBABAB,Striverdi Respimat 2.5microg/dose inhalation soln refill
+0301012,Other andrenoceptor agonists
+0301012A0,Adrenaline
+0301012A0AA,Adrenaline (Asthma)
+0301012A0AAABAB,Adrenaline (base) 220micrograms/dose inhaler
+0301012A0AAACAC,Adrenaline (base) 220micrograms/dose inhaler refill
+0301012A0BC,Primatene
+0301012A0BCABAB,Primatene Mist 220micrograms/dose inhaler
+0301012A0BCACAC,Primatene Mist 220micrograms/dose inhaler refill
+0301012F0,Ephedrine hydrochloride
+0301012F0AA,Ephedrine hydrochloride (Systemic)
+0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets
+0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets
+0301012F0AAADAD,Ephedrine 15mg/5ml elixir
+0301012F0AAALAL,Ephedrine 4mg/5ml oral solution sugar free
+0301012F0AAAUAU,Ephedrine 15mg/5ml oral suspension
+0301012F0AAAVAV,Ephedrine 4mg/5ml oral solution
+0301012F0BB,CAM
+0301012F0BBAAAL,CAM Mixture
+0301012S0,Orciprenaline sulfate
+0301012S0AA,Orcipren sulfate (Stimulant)
+0301012S0AAAFAF,Orciprenaline 20mg tablets
+0301012S0AAAGAG,Orciprenaline 10mg/5ml oral solution sugar free
+0301012S0BB,Alupent
+0301012S0BBAAAF,Alupent 20mg tablets
+0301012S0BBABAG,Alupent 10mg/5ml syrup
+030102,Antimuscarinic bronchodilators
+0301020,Antimuscarinic bronchodilators
+0301020I0,Ipratropium bromide
+0301020I0AA,Ipratropium bromide (Bronchodilators)
+0301020I0AAAAAA,Ipratropium bromide 20micrograms/dose inhaler
+0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml neb liq ud vials
+0301020I0AAADAD,Ipratropium bromide 40micrograms/dose inhaler
+0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml neb liq ud vials
+0301020I0AAAGAG,Ipratropium bromide 20micrograms/dose BA inhaler
+0301020I0AAAHAH,Ipratropium bromide 40microgram inhalation pdr caps with dev
+0301020I0AAAIAI,Ipratropium bromide 40microgram inhalation powder capsules
+0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free
+0301020I0BB,Atrovent
+0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler
+0301020I0BBACAC,Atrovent 500micrograms/2ml nebuliser liquid UDVs
+0301020I0BBADAD,Atrovent Forte 40micrograms/dose inhaler
+0301020I0BBAFAF,Atrovent 250micrograms/1ml nebuliser liquid UDVs
+0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler
+0301020I0BBAHAH,Atrovent 40microgram Aerocaps with Aerohaler
+0301020I0BBAIAI,Atrovent 40microgram Aerocaps
+0301020I0BBAJAN,Atrovent 20micrograms/dose inhaler CFC free
+0301020I0BE,Ipratropium Steri-Neb
+0301020I0BEAAAF,Ipratropium 250micrograms/1ml neb liq Steri-Neb ud vials
+0301020I0BEABAC,Ipratropium 500micrograms/2ml neb liq Steri-Neb ud vials
+0301020I0BF,Tropiovent
+0301020I0BFAAAF,Tropiovent 250micrograms/1ml neb liq ud Steripoule vials
+0301020I0BFABAC,Tropiovent 500micrograms/2ml neb liq ud Steripoule vials
+0301020I0BG,Respontin
+0301020I0BGAAAF,Respontin 250micrograms/1ml Nebules
+0301020I0BGABAC,Respontin 500micrograms/2ml Nebules
+0301020I0BH,Ipratropium Steripoule
+0301020I0BHAAAF,Ipratropium 250micrograms/1ml neb liq ud Steripoule vials
+0301020I0BHABAC,Ipratropium 500micrograms/2ml neb liq ud Steripoule vials
+0301020I0BI,Inhalvent
+0301020I0BIAAAN,Inhalvent 20micrograms/dose inhaler
+0301020I0BJ,Ipravent
+0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free
+0301020P0,Oxitropium bromide
+0301020P0AA,Oxitropium bromide
+0301020P0AAAAAA,Oxitropium bromide 100micrograms/dose inhaler
+0301020P0AAABAB,Oxitropium bromide 100micrograms/dose BA inhaler
+0301020P0BB,Oxivent
+0301020P0BBAAAA,Oxivent 100micrograms/dose inhaler
+0301020P0BBABAB,Oxivent 100micrograms/dose Autohaler
+0301020Q0,Tiotropium bromide
+0301020Q0AA,Tiotropium bromide
+0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation pdr caps with dev
+0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules
+0301020Q0AAACAC,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree
+0301020Q0AAADAD,Tiotropium bromide 10microgram inhalation pdr caps with dev
+0301020Q0AAAEAE,Tiotropium bromide 2.5micrograms/dose inhalation soln cart
+0301020Q0BB,Spiriva
+0301020Q0BBAAAA,Spiriva 18microgram inhalation pdr caps with HandiHaler
+0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules
+0301020Q0BBACAC,Spiriva Respimat 2.5microg/dose inhalation soln
+0301020Q0BBADAE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart
+0301020Q0BC,Braltus
+0301020Q0BCAAAD,Braltus 10microgram inhalation pdr caps with Zonda inhaler
+0301020R0,Aclidinium bromide
+0301020R0AA,Aclidinium bromide (Inhalation)
+0301020R0AAAAAA,Aclidinium bromide 375micrograms/dose dry powder inhaler
+0301020R0BB,Eklira
+0301020R0BBAAAA,Eklira 322micrograms/dose Genuair
+0301020S0,Glycopyrronium bromide
+0301020S0AA,Glycopyrronium bromide (Inhalation)
+0301020S0AAAAAA,Glycopyrronium bromide 55microg inhalation pdr caps with dev
+0301020S0BB,Seebri
+0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation pdr caps with dev
+0301020T0,Umeclidinium bromide
+0301020T0AA,Umeclidinium bromide
+0301020T0AAAAAA,Umeclidinium bromide 65micrograms/dose dry powder inhaler
+0301020T0BB,Incruse Ellipta
+0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler
+030103,Theophylline
+0301030,Theophylline
+0301030B0,Aminophylline
+0301030B0AA,Aminophylline
+0301030B0AAA9A9,Aminophylline 250mg/10ml inj pre-filled syringes
+0301030B0AAABAB,Aminophylline 250mg/10ml solution for injection ampoules
+0301030B0AAAMAM,Aminophylline 360mg suppositories
+0301030B0AAANAN,Aminophylline 100mg tablets
+0301030B0AAARAR,Aminophylline 225mg modified-release tablets
+0301030B0BC,Minjet (Aminophylline)
+0301030B0BCAAA9,Aminophylline 250mg/10ml inj Minijet pre-filled syringes
+0301030B0BD,Amnivent-225
+0301030B0BDAAAR,Amnivent-225 SR tablets
+0301030B0BF,Norphyllin
+0301030B0BFABAR,Norphyllin SR 225mg tablets
+0301030C0,Aminophylline hydrate
+0301030C0AA,Aminophylline hydrate
+0301030C0AAACAC,Aminophylline hydrate 350mg modified-release tablets
+0301030C0AAADAD,Aminophylline hydrate 100mg modified-release tablets
+0301030C0AAAEAE,Aminophylline hydrate 225mg modified-release tablets
+0301030C0BC,Phyllocontin
+0301030C0BCAAAE,Phyllocontin Continus 225mg tablets
+0301030C0BCABAC,Phyllocontin Forte Continus 350mg tablets
+0301030C0BCACAD,Phyllocontin Paediatric Continus 100mg tablets
+0301030S0,Theophylline
+0301030S0AA,Theophylline
+0301030S0AAA3A3,Theophylline 300mg suppositories
+0301030S0AAABAB,Theophylline 60mg modified-release capsules
+0301030S0AAACAC,Theophylline 125mg modified-release capsules
+0301030S0AAADAD,Theophylline 250mg modified-release capsules
+0301030S0AAAGAG,Theophylline 60mg/5ml oral liquid
+0301030S0AAAHAH,Theophylline 10mg/5ml oral liquid
+0301030S0AAAJAJ,Theophylline 125mg tablets
+0301030S0AAALAL,Theophylline 175mg modified-release tablets
+0301030S0AAAMAM,Theophylline 200mg modified-release tablets
+0301030S0AAANAN,Theophylline 250mg modified-release tablets
+0301030S0AAAPAP,Theophylline 300mg modified-release tablets
+0301030S0AAARAR,Theophylline 400mg modified-release tablets
+0301030S0AABBBB,Theophylline 125mg/5ml oral suspension
+0301030S0AABEBE,Theophylline 250mg/5ml oral liquid
+0301030S0AABFBF,Theophylline 120mg/5ml oral liquid
+0301030S0AABGBG,Theophylline 175mg/5ml oral liquid
+0301030S0AABHBH,Theophylline 5mg/5ml oral solution
+0301030S0AABJBJ,Theophylline 75mg/5ml oral suspension
+0301030S0AABKBK,Theophylline 50mg/5ml oral solution
+0301030S0AABLBL,Theophylline 50mg/5ml oral suspension
+0301030S0BD,Nuelin
+0301030S0BDAAAJ,Nuelin 125mg tablets
+0301030S0BDABAG,Nuelin 60mg/5ml liquid
+0301030S0BDAEAL,Nuelin SA 175mg tablets
+0301030S0BDAFAN,Nuelin SA 250 tablets
+0301030S0BH,Slo-Phyllin
+0301030S0BHAAAB,Slo-Phyllin 60mg capsules
+0301030S0BHABAC,Slo-Phyllin 125mg capsules
+0301030S0BHACAD,Slo-Phyllin 250mg capsules
+0301030S0BI,Theo-Dur
+0301030S0BIAAAM,Theo-Dur 200mg tablets
+0301030S0BIABAP,Theo-Dur 300mg tablets
+0301030S0BK,Uniphyllin Continus
+0301030S0BKAAAR,Uniphyllin Continus 400mg tablets
+0301030S0BKABAM,Uniphyllin Continus 200mg tablets
+0301030S0BKACAP,Uniphyllin Continus 300mg tablets
+030104,Compound bronchodilator preparations
+0301040,Compound bronchodilator preparations
+0301040J0,Ephedrine sulfate
+0301040J0AA,Ephedrine sulfate (Compounds)
+0301040J0AAAAAA,Theophylline 120mg / Ephedrine sulfate 15mg tablets
+0301040J0BB,Franol Plus
+0301040J0BBAAAA,Franol Plus tablets
+0301040K0,Ephedrine hydrochloride
+0301040K0AA,Ephedrine hydrochloride (Compounds)
+0301040K0AAAGAG,Theophylline 120mg / Ephedrine hydrochloride 11mg tablets
+0301040K0BF,Franol
+0301040K0BFABAG,Franol tablets
+0301040M0,Fenoterol hydrobromide
+0301040M0AA,Fenoterol hydrobromide/ipratropium
+0301040M0AAAAAA,Fenoterol 100microg/dose / Ipratropium 40microg/dose inh
+0301040M0AAABAB,Fenoterol 1.25mg/Ipratropium 500microg/4ml neb liq ud vials
+0301040M0AAACAC,Fenoterol 100microg/Ipratropium bromide 40microg/dose BA inh
+0301040M0AAADAD,Fenoterol 50microg/Ipratropium brom 20microg/dose CFC free
+0301040M0BB,Duovent
+0301040M0BBAAAA,Duovent inhaler
+0301040M0BBABAB,Duovent UDVs nebuliser liquid 4ml
+0301040M0BBACAC,Duovent Autohaler
+0301040M0BC,Berodual
+0301040M0BCABAD,Berodual N inhaler
+0301040R0,Salbutamol
+0301040R0AA,Salbutamol/ipratropium bromide
+0301040R0AAAAAA,Salbutamol 100microg/dose / Ipratropium 20microg/dose inh
+0301040R0AAABAB,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq vials
+0301040R0AAACAC,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq amp
+0301040R0BB,Combivent
+0301040R0BBAAAA,Combivent inhaler
+0301040R0BBABAB,Combivent nebuliser liquid 2.5ml UDVs
+0301040R0BC,Ipramol Steri-Neb
+0301040R0BCAAAB,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials
+0301040R0BD,Salipraneb (Arrow)
+0301040R0BDAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml ampoules (Arrow)
+0301040R0BE,Salipraneb (Actavis)
+0301040R0BEAAAC,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml amp (Actavis)
+0301040R0BF,Combiprasal
+0301040R0BFAAAB,Combiprasal 0.5mg/2.5mg neb soln 2.5ml unit dose vials
+0301040V0,Aclidinium bromide/formoterol
+0301040V0AA,Aclidinium bromide/formoterol
+0301040V0AAAAAA,Aclidinium brom 396mcg/dose / Formoterol 11.8mcg/dose DP inh
+0301040V0BB,Duaklir Genuair
+0301040V0BBAAAA,Duaklir 340micrograms/dose / 12micrograms/dose Genuair
+0301040W0,Umeclidinium bromide/vilanterol
+0301040W0AA,Umeclidinium bromide/vilanterol
+0301040W0AAAAAA,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr
+0301040W0BB,Anoro Ellipta
+0301040W0BBAAAA,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh
+0301040X0,Tiotropium bromide/olodaterol
+0301040X0AA,Tiotropium bromide/olodaterol
+0301040X0AAAAAA,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev
+0301040X0AAABAB,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln
+0301040X0BB,Spiolto Respimat
+0301040X0BBAAAA,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln
+0301040X0BBABAB,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill
+0301040X0BC,Yanimo Respimat
+0301040X0BCAAAA,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln
+0301040Y0,Indacaterol/glycopyrronium
+0301040Y0AA,Indacaterol/glycopyrronium
+0301040Y0AAAAAA,Indacaterol 85microg/Glycopyrronium brom 54microg/dose
+0301040Y0BB,Ultibro Breezhaler
+0301040Y0BBAAAA,Ultibro Breezhaler 85microg/43microg pdr caps with dev
+0302,Corticosteroids (respiratory)
+030200,Corticosteroids (respiratory)
+0302000,Corticosteroids (respiratory)
+0302000C0,Beclometasone dipropionate
+0302000C0AA,Beclometasone dipropionate (Inhalation)
+0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler
+0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler
+0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler
+0302000C0AAAEAE,Beclometasone 100microgram inhalation powder capsules
+0302000C0AAAFAF,Beclometasone 200microgram inhalation powder capsules
+0302000C0AAAGAG,Beclometasone 100microgram inhalation pdr blist with device
+0302000C0AAAHAH,Beclometasone 200microgram inhalation pdr blist with device
+0302000C0AAAIAI,Beclometasone 400microgram inhalation powder capsules
+0302000C0AAAJAJ,Beclometasone 400microgram inhalation pdr blist with device
+0302000C0AAAKAK,Beclometasone 200microgram inhalation powder blisters
+0302000C0AAALAL,Beclometasone 100microgram inhalation powder blisters
+0302000C0AAANAN,Salbutamol 100microg/dose / Beclometasone 50microg/dose inh
+0302000C0AAAPAP,Salbutamol 400microg/Beclometasone 200microg pdr caps
+0302000C0AAAQAQ,Beclometasone 400microgram inhalation powder blisters
+0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler
+0302000C0AAASAS,Beclometasone 50micrograms/dose breath actuated inhaler
+0302000C0AAATAT,Beclometasone 100micrograms/dose breath actuated inhaler
+0302000C0AAAUAU,Beclometasone 250micrograms/dose breath actuated inhaler
+0302000C0AABEBE,Beclometasone 50micrograms/dose inhaler CFC free
+0302000C0AABFBF,Beclometasone 100micrograms/dose inhaler CFC free
+0302000C0AABGBG,Beclometasone 50micrograms/dose breath actuated inh CFC free
+0302000C0AABHBH,Beclometasone 100mcg/dose breath actuated inhaler CFC free
+0302000C0AABIBI,Beclometasone 50micrograms/dose dry powder inhaler
+0302000C0AABJBJ,Beclometasone 100micrograms/dose dry powder inhaler
+0302000C0AABKBK,Beclometasone 250micrograms/dose dry powder inhaler
+0302000C0AABLBL,Salbutamol 200microg/Beclometasone 100microg pdr caps
+0302000C0AABSBS,Beclometasone 400micrograms/dose dry powder inhaler
+0302000C0AABUBU,Beclometasone 200micrograms/dose dry powder inhaler
+0302000C0AABVBV,Beclometasone 200micrograms/dose inhaler CFC free
+0302000C0AABWBW,Beclometasone 250micrograms/dose inhaler CFC free
+0302000C0AABXBX,Beclometasone 100microg/Formoterol 6microg/dose inh CFCfree
+0302000C0AABYBY,Beclometasone 100microg/Formoterol 6microg/dose dry pdr inh
+0302000C0AABZBZ,Beclometasone 200microg/Formoterol 6microg/dose inh CFC free
+0302000C0AACACA,Beclometasone 200microg/Formoterol 6microg/dose dry pdr inh
+0302000C0BB,Becloforte
+0302000C0BBAAAC,Becloforte 250micrograms/dose inhaler
+0302000C0BBACAJ,Becloforte 400microgram disks with Diskhaler
+0302000C0BBADAQ,Becloforte 400microgram disks
+0302000C0BC,Becotide
+0302000C0BCACAE,Becotide 100microgram Rotacaps
+0302000C0BCADAF,Becotide 200microgram Rotacaps
+0302000C0BCAGAI,Becotide 400microgram Rotacaps
+0302000C0BCAHAB,Becotide 100 inhaler
+0302000C0BCAIAA,Becotide 50 inhaler
+0302000C0BCAQAR,Becotide 200 inhaler
+0302000C0BD,Ventide
+0302000C0BDAAAN,Ventide inhaler
+0302000C0BDABAP,Ventide Rotacaps
+0302000C0BDACBL,Ventide Paediatric Rotacaps
+0302000C0BE,AeroBec
+0302000C0BEAAAS,AeroBec 50 Autohaler
+0302000C0BEABAU,AeroBec Forte 250 Autohaler
+0302000C0BEACAT,AeroBec 100 Autohaler
+0302000C0BF,Beclazone
+0302000C0BFAAAA,Beclazone 50 inhaler
+0302000C0BFABAB,Beclazone 100 inhaler
+0302000C0BFACAC,Beclazone 250 inhaler
+0302000C0BFADAS,Beclazone 50 Easi-Breathe inhaler
+0302000C0BFAEAT,Beclazone 100 Easi-Breathe inhaler
+0302000C0BFAFAU,Beclazone 250 Easi-Breathe inhaler
+0302000C0BFAGAR,Beclazone 200 inhaler
+0302000C0BG,Filair
+0302000C0BGAAAA,Filair 50 inhaler
+0302000C0BGABAB,Filair 100 inhaler
+0302000C0BGACAC,Filair Forte 250micrograms/dose inhaler
+0302000C0BH,Becodisks
+0302000C0BHAAAG,Becodisks 100microgram with Diskhaler
+0302000C0BHABAL,Becodisks 100microgram
+0302000C0BHACAH,Becodisks 200microgram with Diskhaler
+0302000C0BHADAK,Becodisks 200microgram
+0302000C0BHAEAJ,Becodisks 400microgram with Diskhaler
+0302000C0BHAFAQ,Becodisks 400microgram
+0302000C0BI,Asmabec
+0302000C0BIADBI,Asmabec 50 Clickhaler
+0302000C0BIAEBJ,Asmabec 100 Clickhaler
+0302000C0BIAFBK,Asmabec 250 Clickhaler
+0302000C0BJ,Qvar
+0302000C0BJAABE,Qvar 50 inhaler
+0302000C0BJABBF,Qvar 100 inhaler
+0302000C0BJACBG,Qvar 50 Autohaler
+0302000C0BJADBH,Qvar 100 Autohaler
+0302000C0BJAEBG,Qvar 50micrograms/dose Easi-Breathe inhaler
+0302000C0BJAFBH,Qvar 100micrograms/dose Easi-Breathe inhaler
+0302000C0BL,Pulvinal beclometasone
+0302000C0BLAABU,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh
+0302000C0BLABBJ,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh
+0302000C0BLACBS,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh
+0302000C0BM,Beclometasone Cyclocap
+0302000C0BMAAAE,Beclometasone 100 Cyclocaps
+0302000C0BMABAF,Beclometasone 200 Cyclocaps
+0302000C0BMACAI,Beclometasone 400 Cyclocaps
+0302000C0BN,Easyhaler (Beclometasone)
+0302000C0BNAABU,Easyhaler Beclometasone 200micrograms/dose dry pdr inhaler
+0302000C0BP,Clenil Modulite
+0302000C0BPAABE,Clenil Modulite 50micrograms/dose inhaler
+0302000C0BPABBF,Clenil Modulite 100micrograms/dose inhaler
+0302000C0BPACBV,Clenil Modulite 200micrograms/dose inhaler
+0302000C0BPADBW,Clenil Modulite 250micrograms/dose inhaler
+0302000C0BQ,Fostair
+0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler
+0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler
+0302000C0BR,Fostair NEXThaler
+0302000C0BRAABY,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh
+0302000C0BRABCA,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh
+0302000C0BS,Kelhale
+0302000C0BSAABE,Kelhale 50micrograms/dose inhaler
+0302000C0BSABBF,Kelhale 100micrograms/dose inhaler
+0302000C0BT,Soprobec
+0302000C0BTAABE,Soprobec 50micrograms/dose inhaler
+0302000C0BTABBV,Soprobec 200micrograms/dose inhaler
+0302000C0BTACBF,Soprobec 100micrograms/dose inhaler
+0302000C0BTADBW,Soprobec 250micrograms/dose inhaler
+0302000K0,Budesonide
+0302000K0AA,Budesonide (Inhalation)
+0302000K0AAAAAA,Budesonide 50micrograms/dose inhaler
+0302000K0AAADAD,Budesonide 200micrograms/dose inhaler
+0302000K0AAAGAG,Budesonide 200micrograms/dose dry powder inhaler
+0302000K0AAAHAH,Budesonide 400micrograms/dose dry powder inhaler
+0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials
+0302000K0AAAJAJ,Budesonide 500micrograms/2ml neb liq unit dose vials
+0302000K0AAAKAK,Budesonide 100micrograms/dose dry powder inhaler
+0302000K0AAALAL,Budesonide 100microg / Formoterol 6microg/dose dry pdr inh
+0302000K0AAAMAM,Budesonide 200mcg/dose / Formoterol 6mcg/dose dry powder inh
+0302000K0AAARAR,Budesonide 200microgram inhalation powder capsules
+0302000K0AAASAS,Budesonide 400microgram inhalation powder capsules
+0302000K0AAATAT,Budesonide 200micrograms/dose inhaler with spacer
+0302000K0AAAUAU,Budesonide 400mcg/dose /Formoterol 12mcg/dose dry powder inh
+0302000K0AAAVAV,Budesonide 200microg/dose dry pdr inhalation cart with dev
+0302000K0AAAWAW,Budesonide 200micrograms/dose dry pdr inhalation cartridge
+0302000K0AAAZAZ,Budesonide 100micrograms/dose inhaler CFC free
+0302000K0AABABA,Budesonide 200micrograms/dose inhaler CFC free
+0302000K0AABBBB,Budesonide 200microg / Formoterol 6microg/dose inh CFC free
+0302000K0BB,Pulmicort
+0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler
+0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler
+0302000K0BBAGAI,Pulmicort 1mg Respules
+0302000K0BBAHAG,Pulmicort 200 Turbohaler
+0302000K0BBAIAH,Pulmicort 400 Turbohaler
+0302000K0BBAJAJ,Pulmicort 0.5mg Respules
+0302000K0BBAKAK,Pulmicort 100 Turbohaler
+0302000K0BBALAT,Pulmicort 200micrograms/dose inhaler with Nebuchamber
+0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free
+0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free
+0302000K0BD,Symbicort
+0302000K0BDAAAL,Symbicort 100/6 Turbohaler
+0302000K0BDABAM,Symbicort 200/6 Turbohaler
+0302000K0BDACAU,Symbicort 400/12 Turbohaler
+0302000K0BDADBB,Symbicort 200microg/dose / 6microg/dose pressurised inh
+0302000K0BE,Budesonide Cyclocap
+0302000K0BEAAAR,Budesonide 200 Cyclocaps
+0302000K0BEABAS,Budesonide 400 Cyclocaps
+0302000K0BF,Budelin Novolizer
+0302000K0BFAAAV,Budelin Novolizer 200micrograms/dose inhalation powder
+0302000K0BFABAW,Budelin Novolizer 200micrograms/dose inhalation pdr refill
+0302000K0BG,Easyhaler (Budesonide)
+0302000K0BGAAAK,Easyhaler Budesonide 100micrograms/dose dry powder inhaler
+0302000K0BGABAG,Easyhaler Budesonide 200micrograms/dose dry powder inhaler
+0302000K0BGACAH,Easyhaler Budesonide 400micrograms/dose dry powder inhaler
+0302000K0BH,DuoResp Spiromax
+0302000K0BHAAAM,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh
+0302000K0BHABAU,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh
+0302000K0BI,Fobumix
+0302000K0BIAAAU,Fobumix Easyhaler 320microg/dose / 9microg/dose dry pdr inh
+0302000K0BIABAM,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh
+0302000K0BIADAL,Fobumix Easyhaler 80microg/dose / 4.5microg/dose dry pdr inh
+0302000N0,Fluticasone propionate (Inhalation)
+0302000N0AA,Fluticasone propionate (Inhalation)
+0302000N0AAAAAA,Fluticasone propionate 50microg inhalation pdr blist
+0302000N0AAABAB,Fluticasone propionate 50microgram inhalation pdr blist
+0302000N0AAACAC,Fluticasone propionate100microg inhalation pdr blist
+0302000N0AAADAD,Fluticasone propionate 100microgram inhalation pdr blist
+0302000N0AAAEAE,Fluticasone propionate 250mcg inhalation pdr blist + dev
+0302000N0AAAFAF,Fluticasone propionate 250microgram inhalation pdr blist
+0302000N0AAAGAG,Fluticasone 25micrograms/dose inhaler
+0302000N0AAAPAP,Fluticasone propionate 500microg inhalation pdr blist
+0302000N0AAAQAQ,Fluticasone propionate 500microgram inhalation pdr blist
+0302000N0AAARAR,Fluticasone propionate 50micrograms/dose dry powder inhaler
+0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler
+0302000N0AAATAT,Fluticasone propionate 250micrograms/dose dry powder inhaler
+0302000N0AAAUAU,Fluticasone propionate 500micrograms/dose dry powder inhaler
+0302000N0AAAVAV,Fluticasone 500micrograms/2ml neb liq unit dose vials
+0302000N0AAAWAW,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+0302000N0AAAXAX,Fluticasone propionate 100microg/Salmeterol 50microg/dose
+0302000N0AAAYAY,Fluticasone propionate 250microg/Salmeterol 50microg/dose
+0302000N0AAAZAZ,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh
+0302000N0AABABA,Fluticasone 125micrograms/dose inhaler CFC free
+0302000N0AABCBC,Fluticasone 250micrograms/dose inhaler CFC free
+0302000N0AABEBE,Fluticasone 50microg / Salmeterol 25microg/dose inh CFC free
+0302000N0AABFBF,Fluticasone 125mcg/dose / Salmeterol 25mcg/dose inh CFC free
+0302000N0AABGBG,Fluticasone 250mcg/dose / Salmeterol 25mcg/dose inh CFC free
+0302000N0AABHBH,Fluticasone 50micrograms/dose inhaler CFC free
+0302000N0AABJBJ,Fluticasone 125microg / Formoterol 5microg/dose inh CFC free
+0302000N0AABKBK,Fluticasone 250microg / Formoterol 10microg/dose inh CFCfree
+0302000N0AABLBL,Fluticasone 50microg / Formoterol 5microg/dose inh CFC free
+0302000N0AABPBP,Fluticasone 125microg/Formoterol 5microg/dose BA inh CFCfree
+0302000N0AABQBQ,Fluticasone 50microg/Formoterol 5microg/dose BA inh CFC free
+0302000N0BB,Flixotide
+0302000N0BBAAAA,Flixotide 50microgram disks with Diskhaler
+0302000N0BBABAB,Flixotide 50microgram disks
+0302000N0BBACAC,Flixotide 100microgram disks with Diskhaler
+0302000N0BBADAD,Flixotide 100microgram disks
+0302000N0BBAEAE,Flixotide 250microgram disks with Diskhaler
+0302000N0BBAFAF,Flixotide 250microgram disks
+0302000N0BBAGAG,Flixotide 25micrograms/dose inhaler
+0302000N0BBAPAP,Flixotide 500microgram disks with Diskhaler
+0302000N0BBAQAQ,Flixotide 500microgram disks
+0302000N0BBARAR,Flixotide 50micrograms/dose Accuhaler
+0302000N0BBASAS,Flixotide 100micrograms/dose Accuhaler
+0302000N0BBATAT,Flixotide 250micrograms/dose Accuhaler
+0302000N0BBAUAU,Flixotide 500micrograms/dose Accuhaler
+0302000N0BBAVAV,Flixotide 0.5mg/2ml Nebules
+0302000N0BBAWAW,Flixotide 2mg/2ml Nebules
+0302000N0BBAYBA,Flixotide 125micrograms/dose Evohaler
+0302000N0BBBABC,Flixotide 250micrograms/dose Evohaler
+0302000N0BBBBBH,Flixotide 50micrograms/dose Evohaler
+0302000N0BC,Seretide
+0302000N0BCAAAX,Seretide 100 Accuhaler
+0302000N0BCABAY,Seretide 250 Accuhaler
+0302000N0BCACAZ,Seretide 500 Accuhaler
+0302000N0BCADBE,Seretide 50 Evohaler
+0302000N0BCAEBF,Seretide 125 Evohaler
+0302000N0BCAFBG,Seretide 250 Evohaler
+0302000N0BD,Flutiform
+0302000N0BDAABJ,Flutiform 125micrograms/dose / 5micrograms/dose inhaler
+0302000N0BDABBK,Flutiform 250micrograms/dose / 10micrograms/dose inhaler
+0302000N0BDACBL,Flutiform 50micrograms/dose / 5micrograms/dose inhaler
+0302000N0BDADBP,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler
+0302000N0BDAEBQ,Flutiform K-haler 50microg/dose / 5microg/dose BA inh
+0302000N0BF,Sirdupla
+0302000N0BFAABF,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler
+0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler
+0302000N0BG,AirFluSal
+0302000N0BGAAAZ,AirFluSal Forspiro 50microg / 500microg/dose dry pdr inh
+0302000N0BGABBF,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler
+0302000N0BGACBG,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler
+0302000N0BH,Aerivio Spiromax
+0302000N0BHAAAZ,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh
+0302000N0BI,Sereflo
+0302000N0BIAABF,Sereflo 25micrograms/dose / 125micrograms/dose inhaler
+0302000N0BIABBG,Sereflo 25micrograms/dose / 250micrograms/dose inhaler
+0302000N0BJ,Aloflute
+0302000N0BJAABF,Aloflute 25micrograms/dose / 125micrograms/dose inhaler
+0302000N0BJABBG,Aloflute 25micrograms/dose / 250micrograms/dose inhaler
+0302000N0BK,Fusacomb Easyhaler
+0302000N0BKAAAY,Fusacomb Easyhaler 50microg / 250microg/dose dry pdr inh
+0302000N0BKABAZ,Fusacomb Easyhaler 50microg / 500microg/dose dry pdr inh
+0302000N0BL,Combisal
+0302000N0BLAABE,Combisal 25micrograms/dose / 50micrograms/dose inhaler
+0302000N0BLABBF,Combisal 25micrograms/dose / 125micrograms/dose inhaler
+0302000N0BLACBG,Combisal 25micrograms/dose / 250micrograms/dose inhaler
+0302000N0BM,Stalpex
+0302000N0BMAAAZ,Stalpex 50microg/dose / 500microg/dose dry powder inh
+0302000R0,Mometasone furoate
+0302000R0AA,Mometasone furoate (Inhalation)
+0302000R0AAAAAA,Mometasone 200micrograms/dose dry powder inhaler
+0302000R0AAACAC,Mometasone 400micrograms/dose dry powder inhaler
+0302000R0BB,Asmanex
+0302000R0BBAAAA,Asmanex 200micrograms/dose Twisthaler
+0302000R0BBACAC,Asmanex 400micrograms/dose Twisthaler
+0302000U0,Ciclesonide
+0302000U0AA,Ciclesonide
+0302000U0AAAAAA,Ciclesonide 80micrograms/dose inhaler CFC free
+0302000U0AAABAB,Ciclesonide 160micrograms/dose inhaler CFC free
+0302000U0BB,Alvesco
+0302000U0BBAAAA,Alvesco 80 inhaler
+0302000U0BBABAB,Alvesco 160 inhaler
+0302000V0,Fluticasone furoate (Inhalation)
+0302000V0AA,Fluticasone furoate (Inhalation)
+0302000V0AAAAAA,Fluticasone furoate 184microg/Vilanterol 22microg/dose
+0302000V0AAABAB,Fluticasone furoate 92microg/Vilanterol 22microg/dose
+0302000V0BB,Relvar Ellipta
+0302000V0BBAAAA,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh
+0302000V0BBABAB,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh
+0302000V0BC,Trelegy ellipta
+0302000V0BCAAA0,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh
+0303,"Cromoglycate, leukotriene and phosphodesterase type-4 inhib"
+030301,Cromoglycate and related therapy
+0303010,Cromoglycate and related therapy
+0303010J0,Nedocromil sodium
+0303010J0AA,Nedocromil sodium (Inhalation)
+0303010J0AAABAB,Nedocromil 2mg/dose inhaler
+0303010J0AAACAC,Nedocromil 2mg/dose inhaler with spacer
+0303010J0AAADAD,Nedocromil 2mg/dose inhaler CFC free
+0303010J0BB,Tilade
+0303010J0BBADAB,Tilade 2mg/dose inhaler
+0303010J0BBAEAC,Tilade 2mg/dose Syncroner with spacer
+0303010J0BBAFAD,Tilade 2mg/dose inhaler CFC free
+0303010Q0,Sodium cromoglicate
+0303010Q0AA,Sodium cromoglicate (Inhalation)
+0303010Q0AAABAB,Sodium cromoglicate 5mg/dose inhaler
+0303010Q0AAADAD,Sodium cromoglicate 20mg inhalation powder capsules
+0303010Q0AAAEAE,Sodium cromoglicate 20mg/2ml neb liq unit dose vials
+0303010Q0AAAHAH,Sodium cromoglicate 5mg/dose breath actuated inhaler
+0303010Q0AAAIAI,Sodium cromoglicate 1mg/dose / Salbutamol 100microg/dose inh
+0303010Q0AAAJAJ,Sodium cromoglicate 5mg/dose inhaler with spacer
+0303010Q0AAAKAK,Sod cromoglicate 1mg/Salbutamol 100microg/dose with spacer
+0303010Q0AAANAN,Sodium cromoglicate 5mg/dose inhaler CFC free
+0303010Q0BB,Intal
+0303010Q0BBACAD,Intal 20mg Spincaps
+0303010Q0BBAEAE,Intal 20mg/2ml nebuliser solution unit dose vials
+0303010Q0BBAFAB,Intal 5mg/dose inhaler
+0303010Q0BBAJAJ,Intal 5mg/dose Fisonair with spacer
+0303010Q0BBAKAJ,Intal 5mg/dose Syncroner with spacer
+0303010Q0BBALAN,Intal 5mg/dose inhaler CFC free
+0303010Q0BF,Cromogen
+0303010Q0BFABAB,Cromogen 5mg/dose inhaler
+0303010Q0BFACAE,Cromogen 20mg/2ml nebuliser liquid Steri-Neb unit dose vials
+0303010Q0BFADAH,Cromogen 5mg/dose Easi-Breathe inhaler
+0303010Q0BG,Aerocrom
+0303010Q0BGAAAI,Aerocrom inhaler
+0303010Q0BGABAK,Aerocrom Syncroner with spacer
+0303010Q0BH,Cromosol
+0303010Q0BHAAAE,Cromosol 20mg/2ml nebuliser liquid unit dose vials
+030302,Leukotriene receptor antagonists
+0303020,Leukotriene receptor antagonists
+0303020G0,Montelukast
+0303020G0AA,Montelukast
+0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free
+0303020G0AAABAB,Montelukast 10mg tablets
+0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free
+0303020G0AAADAD,Montelukast 4mg granules sachets sugar free
+0303020G0BB,Singulair
+0303020G0BBAAAA,Singulair Paediatric 5mg chewable tablets
+0303020G0BBABAB,Singulair 10mg tablets
+0303020G0BBACAC,Singulair Paediatric 4mg chewable tablets
+0303020G0BBADAD,Singulair Paediatric 4mg granules sachets
+0303020Z0,Zafirlukast
+0303020Z0AA,Zafirlukast
+0303020Z0AAABAB,Zafirlukast 20mg tablets
+0303020Z0BB,Accolate
+0303020Z0BBAAAB,Accolate 20mg tablets
+030303,Phosphodiesterase Type-4 inhibitors
+0303030,Phosphodiesterase Type-4 inhibitors
+0303030B0,Roflumilast
+0303030B0AA,Roflumilast
+0303030B0AAAAAA,Roflumilast 500microgram tablets
+0303030B0AAABAB,Roflumilast 250microgram tablets
+0303030B0BB,Daxas
+0303030B0BBAAAA,Daxas 500microgram tablets
+0303030B0BBABAB,Daxas 250microgram tablets
+0304,"Antihistamines, hyposensitisation and allergic emergencies"
+030401,Antihistamines
+0304010,Antihistamines
+0304010A0,Acrivastine
+0304010A0AA,Acrivastine
+0304010A0AAAAAA,Acrivastine 8mg capsules
+0304010A0AAACAC,Pseudoephedrine 60mg / Acrivastine 8mg capsules
+0304010A0BB,Semprex
+0304010A0BBAAAA,Semprex 8mg capsules
+0304010A0BC,Benadryl (Acrivastine)
+0304010A0BCAAAA,Benadryl Allergy Relief 8mg capsules
+0304010A0BCABAC,Benadryl Allergy Relief Plus Decongestant capsules
+0304010AA,Mizolastine
+0304010AAAA,Mizolastine
+0304010AAAAAAAA,Mizolastine 10mg modified-release tablets
+0304010AABB,Mizollen
+0304010AABBAAAA,Mizollen 10mg modified-release tablets
+0304010AABC,Mistamine
+0304010AABCAAAA,Mistamine 10mg modified-release tablets
+0304010AB,Desloratadine
+0304010ABAA,Desloratadine
+0304010ABAAAAAA,Desloratadine 5mg tablets
+0304010ABAAABAB,Desloratadine 2.5mg/5ml oral solution
+0304010ABAAADAD,Desloratadine 2.5mg/5ml oral solution sugar free
+0304010ABBB,Neoclarityn
+0304010ABBBAAAA,Neoclarityn 5mg tablets
+0304010ABBBABAB,Neoclarityn 2.5mg/5ml syrup
+0304010ABBBACAD,Neoclarityn 2.5mg/5ml oral solution
+0304010ABBD,Midetorin
+0304010ABBDAAAD,Midetorin 2.5mg/5ml oral solution (Actavis)
+0304010ABBDABAD,Midetorin 2.5mg/5ml oral solution (Arrow)
+0304010AC,Levocetirizine
+0304010ACAA,Levocetirizine
+0304010ACAAAAAA,Levocetirizine 5mg tablets
+0304010ACAAABAB,Levocetirizine 500micrograms/ml oral solution sugar free
+0304010ACBB,Xyzal
+0304010ACBBAAAA,Xyzal 5mg tablets
+0304010ACBBABAB,Xyzal 0.5mg/ml oral solution
+0304010AD,Phenylprop hydrochloride/chlorphenamine maleate
+0304010ADAA,Phenylpropanolamine hydrochloride/chlorphenamine maleate
+0304010ADAAAAAA,Phenylpropanolamine 50mg / Chlorphenamine 4mg MR capsules
+0304010ADBB,Contac (Antihistamine)
+0304010ADBBAAAA,Contac 400 modified-release capsules
+0304010AE,Rupatadine fumarate
+0304010AEAA,Rupatadine fumarate
+0304010AEAAAAAA,Rupatadine 10mg tablets
+0304010AEAAABAB,Rupatadine 1mg/ml oral solution
+0304010AEBB,Rupafin
+0304010AEBBAAAA,Rupafin 10mg tablets
+0304010AF,Bilastine
+0304010AFAA,Bilastine
+0304010AFAAAAAA,Bilastine 20mg tablets
+0304010AFBB,Ilaxten
+0304010AFBBAAAA,Ilaxten 20mg tablets
+0304010AG,Ketotifen fumarate
+0304010AGAA,Ketotifen Fumarate (Systemic)
+0304010AGAAAAAA,Ketotifen 1mg capsules
+0304010AGAAABAB,Ketotifen 1mg/5ml oral solution sugar free
+0304010AGAAACAC,Ketotifen 1mg tablets
+0304010AGAAADAD,Ketotifen 500micrograms/5ml oral solution
+0304010AGAAAEAE,Ketotifen 250micrograms/5ml oral suspension
+0304010AGBB,Zaditen (Systemic)
+0304010AGBBAAAA,Zaditen 1mg capsules
+0304010AGBBABAC,Zaditen 1mg tablets
+0304010AGBBACAB,Zaditen 1mg/5ml elixir
+0304010C0,Azatadine maleate
+0304010C0AA,Azatadine maleate
+0304010C0AAAAAA,Azatadine 500micrograms/5ml oral solution
+0304010C0BB,Optimine
+0304010C0BBABAA,Optimine 500micrograms/5ml syrup
+0304010D0,Loratadine
+0304010D0AA,Loratadine
+0304010D0AAAAAA,Loratadine 10mg tablets
+0304010D0AAABAB,Loratadine 5mg/5ml oral solution
+0304010D0AAAEAE,Loratadine 10mg oral lyophilisates sugar free
+0304010D0AAAFAF,Loratadine 5mg/5ml oral solution sugar free
+0304010D0BB,Clarityn
+0304010D0BBABAB,Clarityn 5mg/5ml syrup
+0304010D0BBACAA,Clarityn Allergy 10mg tablets
+0304010D0BBADAB,Clarityn Allergy 5mg/5ml syrup
+0304010D0BBAEAE,Clarityn Rapide Allergy 10mg tablets
+0304010D0BC,Boots (Loratadine)
+0304010D0BCACAA,Boots One A Day Allergy Relief 10mg tablets
+0304010D0BE,Hay-Rite
+0304010D0BEAAAA,Hay-Rite Allergy 10mg tablets
+0304010D0BF,Galpharm (Loratadine)
+0304010D0BFAAAA,Galpharm Non-Drowsy Hayfever and Allergy Relief 10mg tablets
+0304010D0BFABAA,Galpharm Non-Drowsy Allergy Relief 10mg tablets
+0304010D0BG,Lloydspharmacy (Loratadine)
+0304010D0BGAAAA,Lloydspharmacy Non-Drowsy Allergy Relief 10mg tablets
+0304010D0BH,Roletra
+0304010D0BHAAAA,Roletra 10mg tablets
+0304010D0BI,Numark (Loratadine)
+0304010D0BIAAAA,Numark Allergy & Hayfever 10mg tablets
+0304010D0BJ,Lorapaed
+0304010D0BJAAAB,Lorapaed Allergy Relief 5mg/5ml oral solution
+0304010E0,Fexofenadine hydrochloride
+0304010E0AA,Fexofenadine hydrochloride
+0304010E0AAAAAA,Fexofenadine 120mg tablets
+0304010E0AAABAB,Fexofenadine 180mg tablets
+0304010E0AAACAC,Fexofenadine 30mg tablets
+0304010E0AAADAD,Fexofenadine 120mg/5ml oral liquid
+0304010E0AAAEAE,Fexofenadine 180mg/5ml oral liquid
+0304010E0AAAFAF,Fexofenadine 125mg/5ml oral suspension
+0304010E0BB,Telfast
+0304010E0BBAAAA,Telfast 120mg tablets
+0304010E0BBABAB,Telfast 180mg tablets
+0304010E0BBACAC,Telfast 30mg tablets
+0304010F0,Brompheniramine maleate
+0304010F0AA,Brompheniramine maleate (Decongestant)
+0304010F0AAAAAA,Brompheniramine 2mg/5ml oral solution
+0304010F0AAADAD,Brompheniramine 12mg modified-release capsules
+0304010F0AAAEAE,Brompheniramine 12mg capsules
+0304010F0BB,Dimotane (Antihistamine)
+0304010F0BBABAA,Dimotane 2mg/5ml elixir
+0304010F0BC,Dimegan
+0304010F0BCAAAD,Dimegan 12mg modified-release capsules
+0304010G0,Chlorphenamine maleate
+0304010G0AA,Chlorphenamine maleate
+0304010G0AAAAAA,Chlorphenamine 10mg/1ml solution for injection ampoules
+0304010G0AAABAB,Chlorphenamine 2mg/5ml oral solution
+0304010G0AAACAC,Chlorphenamine 4mg tablets
+0304010G0AAALAL,Chlorphenamine 50mg/5ml oral solution
+0304010G0AAAPAP,Chlorphenamine 2mg/5ml oral solution sugar free
+0304010G0BC,Piriton
+0304010G0BCAAAC,Piriton 4mg tablets
+0304010G0BCACAB,Piriton 2mg/5ml syrup
+0304010G0BCAHAC,Piriton Allergy 4mg tablets
+0304010G0BE,Calimal
+0304010G0BEAAAC,Calimal 4mg tablets
+0304010G0BF,Boots Allergy Relief
+0304010G0BFAAAC,Boots Allergy Relief 4mg tablets
+0304010G0BFABAP,Boots Allergy Relief 1 Year Plus Antihistamine 2mg/5ml syrup
+0304010G0BFACAC,Boots Allergy Relief Antihistamine 4mg tablets
+0304010G0BH,Rhino-Syrup Allergy
+0304010G0BHAAAP,Rhino-Syrup Allergy 2mg/5ml
+0304010G0BI,Pollenase (Systemic)
+0304010G0BIAAAC,Pollenase Antihistamine 4mg tablets
+0304010G0BIABAP,Pollenase Allergy 2mg/5ml syrup
+0304010G0BJ,Allerief
+0304010G0BJAAAP,Allerief 2mg/5ml oral solution
+0304010G0BJABAC,Allerief 4mg tablets
+0304010G0BK,Hayleve
+0304010G0BKAAAC,Hayleve 4mg tablets
+0304010G0BL,Lloydspharmacy (Chlorphenamine maleate)
+0304010G0BLAAAC,Lloydspharmacy Allergy Relief Antihistamine 4mg tablets
+0304010G0BLABAP,Lloydspharmacy Allergy Relief 2mg/5ml syrup
+0304010G0BM,ALLERcalm
+0304010G0BMAAAC,ALLERcalm Allergy Relief 4mg tablets
+0304010G0BN,Numark (Chlorphenamine maleate)
+0304010G0BNAAAP,Numark Antihistamine 2mg/5ml oral solution
+0304010G0BNABAC,Numark Antihistamine 4mg tablets
+0304010H0,Clemastine fumarate
+0304010H0AA,Clemastine fumarate
+0304010H0AAAAAA,Clemastine 500micrograms/5ml oral solution sugar free
+0304010H0AAABAB,Clemastine 1mg tablets
+0304010H0BB,Tavegil
+0304010H0BBAAAB,Tavegil 1mg tablets
+0304010H0BBABAA,Tavegil 500micrograms/5ml elixir
+0304010I0,Cetirizine hydrochloride
+0304010I0AA,Cetirizine hydrochloride
+0304010I0AAAAAA,Cetirizine 10mg tablets
+0304010I0AAABAB,Cetirizine 1mg/ml oral solution sugar free
+0304010I0AAADAD,Cetirizine 10mg capsules
+0304010I0BB,Zirtek
+0304010I0BBAAAA,Zirtek 10mg tablets
+0304010I0BBACAA,Zirtek Allergy 10mg tablets
+0304010I0BBADAB,Zirtek Allergy 1mg/ml oral solution
+0304010I0BBAEAB,Zirtek Allergy Relief for Children 1mg/ml oral solution
+0304010I0BBAFAA,Zirtek Allergy Relief 10mg tablets
+0304010I0BD,Cetirocol
+0304010I0BDAAAA,Cetirocol 10mg tablets
+0304010I0BE,Benadryl
+0304010I0BEAAAA,Benadryl One A Day Relief 10mg tablets
+0304010I0BEABAA,Benadryl One A Day 10mg tablets
+0304010I0BEACAB,Benadryl Allergy 1mg/ml oral solution
+0304010I0BEADAB,Benadryl Allergy Children's 6+ 1mg/ml oral solution
+0304010I0BEAEAD,Benadryl Allergy Liquid Release 10mg capsules
+0304010I0BEAFAB,Benadryl Allergy Children's 1mg/ml oral solution
+0304010I0BEAGAA,Benadryl Allergy One A Day 10mg tablets
+0304010I0BF,Piriteze
+0304010I0BFAAAA,Piriteze Allergy 10mg tablets
+0304010I0BFABAB,Piriteze Allergy 1mg/ml syrup
+0304010I0BG,Galpharm (Cetirizine)
+0304010I0BGAAAA,Galpharm Hayfever and Allergy Relief 10mg tablets
+0304010I0BGABAB,Galpharm Hayfever and Allergy Relief 1mg/ml syrup
+0304010I0BI,Allertek
+0304010I0BIAAAA,AllerTek 10mg tablets
+0304010I0BJ,Cetec
+0304010I0BJAAAA,Cetec 10mg tablets
+0304010I0BK,Pollenshield
+0304010I0BKAAAA,Pollenshield Hayfever Relief 10mg tablets
+0304010I0BKABAA,Pollenshield Hayfever 10mg tablets
+0304010I0BL,Numark (Cetirizine)
+0304010I0BLAAAA,Numark Hayfever & Allergy Relief 10mg tablets
+0304010I0BM,Lloydspharmacy (Cetirizine)
+0304010I0BMAAAA,Lloydspharmacy Hayfever and Allergy Relief 10mg tablets
+0304010I0BN,Care
+0304010I0BNAAAB,Care Hayfever and Allergy oral solution
+0304010I0BP,Allacan
+0304010I0BPAAAA,Allacan 10mg tablets
+0304010I0BQ,BecoAllergy
+0304010I0BQAAAA,BecoAllergy 10mg tablets
+0304010I0BR,Ziralton
+0304010I0BRAAAB,Ziralton Allergy Relief for Children 5mg/5ml oral solution
+0304010J0,Hydroxyzine hydrochloride
+0304010J0AA,Hydroxyzine hydrochloride
+0304010J0AAABAB,Hydroxyzine 10mg tablets
+0304010J0AAACAC,Hydroxyzine 25mg tablets
+0304010J0AAAEAE,Hydroxyzine 10mg/5ml oral solution
+0304010J0AAAFAF,Hydroxyzine 5mg/5ml oral liquid
+0304010J0AAAGAG,Hydroxyzine 20mg/5ml oral solution
+0304010J0AAAHAH,Hydroxyzine 25mg/5ml oral solution
+0304010J0AAAIAI,Hydroxyzine 2.5mg/5ml oral solution
+0304010J0AAAJAJ,Hydroxyzine 15mg/5ml oral suspension
+0304010J0AAALAL,Hydroxyzine 10mg/5ml oral suspension
+0304010J0BB,Atarax
+0304010J0BBAAAB,Atarax 10mg tablets
+0304010J0BBABAC,Atarax 25mg tablets
+0304010J0BC,Ucerax
+0304010J0BCAAAE,Ucerax 10mg/5ml syrup
+0304010J0BCABAC,Ucerax 25mg tablets
+0304010K0,Cyproheptadine hydrochloride
+0304010K0AA,Cyproheptadine hydrochloride
+0304010K0AAABAB,Cyproheptadine 4mg tablets
+0304010K0AAADAD,Cyproheptadine 2mg/5ml oral liquid
+0304010K0AAAFAF,Cyproheptadine 4mg/5ml oral liquid
+0304010K0BB,Periactin
+0304010K0BBAAAB,Periactin 4mg tablets
+0304010N0,Diphenhydramine hydrochloride
+0304010N0AA,Diphenhydramine hydrochloride (Antihistamine)
+0304010N0AAAGAG,Diphenhydramine 25mg tablets
+0304010N0AAAKAK,Diphenhydramine 10mg/5ml oral solution
+0304010N0AAAPAP,Diphenhydramine 50mg tablets
+0304010N0AAATAT,Pseudoephedrine 22.5mg / Diphenhydramine 12.5mg/5ml soln SF
+0304010N0BC,Histergan (Antihistamine)
+0304010N0BCAAAG,Histergan 25mg tablets
+0304010N0BCABAK,Histergan 10mg/5ml syrup
+0304010N0BF,Nytol
+0304010N0BFACAG,Nytol 25mg tablets
+0304010N0BFADAP,Nytol One-A-Night 50mg tablets
+0304010N0BFAEAK,Nytol Liquid Caramel Flavour 10mg/5ml oral solution
+0304010N0BH,Boots (Diphenhydramine hydrochloride)
+0304010N0BHACAP,Sleepeaze 50mg tablets
+0304010N0BHADAG,Sleepeaze 25mg tablets
+0304010N0BI,Nightcalm
+0304010N0BIAAAG,Nightcalm 25mg tablets
+0304010N0BJ,Numark Sleep Aid
+0304010N0BJAAAG,Numark Night Time Sleep Aid 25mg tablets
+0304010N0BJABAP,Numark Night Time Sleep Aid 50mg tablets
+0304010N0BK,Lloydspharmacy (Diphenhydramine hydrochloride)
+0304010N0BKABAP,Lloydspharmacy Extra Strength Sleep Aid 50mg tablets
+0304010N0BL,Paxidorm
+0304010N0BLAAAG,Paxidorm 25mg tablets
+0304010N0BQ,Dreemon
+0304010N0BQAAAK,Dreemon 10mg/5ml syrup
+0304010N0BQABAG,Dreemon 25mg tablets
+0304010N0BR,Tixycolds
+0304010N0BRAAAT,Tixycolds syrup sugar free
+0304010N0BS,Care Sleep Aid
+0304010N0BSAAAG,Care Night Time Sleep Aid 25mg tablets
+0304010N0BT,Galpharm (Diphenhydramine hydrochloride)
+0304010N0BTAAAP,Galpharm One a Night Nightcalm 50mg tablets
+0304010N0BU,Lunox Sleep Aid
+0304010N0BUAAAG,Lunox Sleep Aid 25mg tablets
+0304010N0BUABAP,Lunox Max Strength Sleep Aid 50mg tablets
+0304010N0BV,Sleep Aid
+0304010N0BVAAAG,Sleep Aid 25mg tablets
+0304010W0,Promethazine hydrochloride
+0304010W0AA,Promethazine hydrochloride (Systemic)
+0304010W0AAABAB,Promethazine 25mg/1ml solution for injection ampoules
+0304010W0AAADAD,Promethazine hydrochloride 10mg tablets
+0304010W0AAAEAE,Promethazine hydrochloride 20mg tablets
+0304010W0AAALAL,Promethazine hydrochloride 25mg tablets
+0304010W0AAAPAP,Promethazine 5mg/5ml oral solution sugar free
+0304010W0AAAQAQ,Promethazine 25mg/5ml oral liquid
+0304010W0AAASAS,Promethazine 50mg/2ml solution for injection ampoules
+0304010W0BB,Phenergan (Systemic)
+0304010W0BBAAAD,Phenergan 10mg tablets
+0304010W0BBABAL,Phenergan 25mg tablets
+0304010W0BBADAB,Phenergan 25mg/1ml solution for injection ampoules
+0304010W0BBAIAL,Phenergan Nightime 25mg tablets
+0304010W0BBAJAP,Phenergan 5mg/5ml elixir
+0304010W0BC,Sominex
+0304010W0BCAAAE,Sominex 20mg tablets
+0304010X0,Terfenadine
+0304010X0AA,Terfenadine
+0304010X0AAABAB,Terfenadine 60mg tablets
+0304010X0AAACAC,Terfenadine 120mg tablets
+0304010X0BB,Triludan
+0304010X0BBAEAC,Triludan Forte 120mg tablets
+0304010Y0,Alimemazine tartrate
+0304010Y0AA,Alimemazine tartrate
+0304010Y0AAABAB,Alimemazine 7.5mg/5ml oral solution
+0304010Y0AAACAC,Alimemazine 30mg/5ml oral solution
+0304010Y0AAADAD,Alimemazine 10mg tablets
+0304010Y0AAAUAU,Alimemazine 15mg/5ml oral solution
+0304010Y0AAAVAV,Alimemazine 5mg/5ml oral solution
+0304010Y0AAAYAY,Alimemazine 10mg/5ml oral solution
+0304010Y0AAAZAZ,Alimemazine 5mg/5ml oral suspension
+0304010Y0AABABA,Alimemazine 1.5mg/5ml oral solution
+0304010Y0BB,Vallergan
+0304010Y0BBAAAD,Vallergan 10mg tablets
+0304010Y0BBABAB,Vallergan 7.5mg/5ml syrup
+0304010Y0BBACAC,Vallergan Forte 30mg/5ml syrup
+030402,Allergen immunotherapy
+0304020,Allergen immunotherapy
+0304020AA,Benralizumab
+0304020AAAA,Benralizumab
+0304020AAAAAAAA,Benralizumab 30mg/1ml inj pre-filled syringes
+0304020AAAAABAB,Benralizumab 30mg/1ml inj pre-filled disposable devices
+0304020AABB,Fasenra
+0304020AABBAAAA,Fasenra 30mg/1ml solution for injection pre-filled syringes
+0304020AABBABAB,Fasenra 30mg/1ml solution for injection pre-filled pens
+0304020AB,Timothy grass pollen allergen extract
+0304020ABAA,Timothy grass pollen allergen extract
+0304020ABAAAAAA,"Timothy grass pollen allergen ext 75,000 SQ-T lyophilisates"
+0304020ABBB,Grazax
+0304020ABBBAAAA,"Grazax 75,000 SQ-T oral lyophilisates"
+0304020P0,Pollen allergy preparations
+0304020P0BF,Pollinex
+0304020P0BFADA0,Pollinex Grasses + Rye inj treatment and extension course
+0304020P0BFAEA0,Pollinex Trees inj treatment and extension course vials
+0304020W0,Wasp and bee venom allergy preparations
+0304020W0AA,Wasp Venom Ext
+0304020W0AAAAAA,Wasp venom 120microgram inj vials
+0304020W0BC,Pharmalgen (Allergy)
+0304020W0BCAAA0,Pharmalgen Bee Venom maintenance set 120microgram inj vials
+0304020W0BCABAA,Pharmalgen Wasp Venom maintenance set 120microg vacc inj
+0304020W0BCADA0,Pharmalgen Bee Venom initial set inj vials
+0304020W0BCAEA0,Pharmalgen Wasp Venom initial set inj vials
+0304020X0,Omalizumab
+0304020X0AA,Omalizumab
+0304020X0AAAAAA,Omalizumab 150mg inj vials
+0304020X0AAABAB,Omalizumab 75mg/0.5ml inj pre-filled syringes
+0304020X0AAACAC,Omalizumab 150mg/1ml inj pre-filled syringes
+0304020X0BB,Xolair
+0304020X0BBAAAA,Xolair 150mg inj vials
+0304020X0BBABAB,Xolair 75mg/0.5ml solution for injection pre-filled syringes
+0304020X0BBACAC,Xolair 150mg/1ml solution for injection pre-filled syringes
+0304020Y0,Mepolizumab
+0304020Y0AA,Mepolizumab
+0304020Y0AAAAAA,Mepolizumab 100mg powder for solution for injection vials
+0304020Y0AAABAB,Mepolizumab 100mg/1ml inj pre-filled syringes
+0304020Y0AAACAC,Mepolizumab 100mg/1ml inj pre-filled disposable devices
+0304020Y0BB,Nucala
+0304020Y0BBAAAA,Nucala 100mg powder for solution for injection vials
+0304020Y0BBABAB,Nucala 100mg/1ml solution for injection pre-filled syringes
+0304020Y0BBACAC,Nucala 100mg/1ml solution for injection pre-filled pens
+0304020Z0,Reslizumab
+0304020Z0AA,Reslizumab
+0304020Z0AAAAAA,Reslizumab 100mg/10ml solution for infusion vials
+0304020Z0AAABAB,Reslizumab 25mg/2.5ml solution for infusion vials
+0304020Z0BB,Cinqaero
+0304020Z0BBAAAA,Cinqaero 100mg/10ml concentrate for inf vials
+0304020Z0BBABAB,Cinqaero 25mg/2.5ml concentrate for inf vials
+030403,Allergic emergencies
+0304030,Allergic emergencies
+0304030C0,Adrenaline
+0304030C0AA,Adrenaline (Anaphylactic)
+0304030C0AAA2A2,"Adrenaline (base) 150mcg/0.3ml (1in2,000) inj pf dispos dev"
+0304030C0AAA3A3,"Adrenaline (base) 300mcg/0.3ml (1in1,000) inj pf dispos dev"
+0304030C0AAABAB,"Adrenaline (base) 1mg/1ml (1 in 1,000) inj ampoules"
+0304030C0AAAFAF,"Adrenaline (base) 500micrograms/0.5ml (1 in 1,000) inj amp"
+0304030C0AAAIAI,"Adrenaline (base) 500micrograms/0.5ml (1 in 1,000) inj pfs"
+0304030C0AAAXAX,"Adrenaline (base) 5mg/5ml (1 in 1,000) inj ampoules"
+0304030C0AAAYAY,"Adrenaline (base) 1mg/1ml (1 in 1,000) inj pfs"
+0304030C0AABBBB,"Adrenaline (base) 5mg/5ml (1 in 1,000) inj pfs"
+0304030C0AABDBD,"Adrenaline (base) 10mg/10ml (1 in 1,000) inj ampoules"
+0304030C0AABEBE,Adrenaline (base) 500mcg/0.3ml (1 in 600) inj pf dispos dev
+0304030C0AABFBF,"Adrenaline (base) 150mcg/0.15ml (1in1,000) inj pf dispos dev"
+0304030C0AABGBG,"Adrenaline (base) 500mcg/0.5ml (1in1,000) inj pf dispos dev"
+0304030C0BC,Minjet adrenaline (Anaphylactic)
+0304030C0BCAAAI,"Adrenaline (base) 500microg/0.5ml (1 in 1,000) inj Minijet"
+0304030C0BCADAY,"Adrenaline (base) 1mg/1ml (1 in 1,000) inj Minijet 21 gauge"
+0304030C0BCAFAY,"Adrenaline (base) 1mg/1ml (1 in 1,000) inj Minijet 25 gauge"
+0304030C0BE,EpiPen
+0304030C0BEAAA2,"EpiPen Jr. 150microg/0.3ml (1 in 2,000) inj auto-injectors"
+0304030C0BEABA3,"EpiPen 300micrograms/0.3ml (1 in 1,000) inj auto-injectors"
+0304030C0BG,Anapen
+0304030C0BGAAA3,"Anapen 300micrograms/0.3ml (1 in 1,000) inj auto-injectors"
+0304030C0BGABA2,Anapen Junior 150microg/0.3ml inj auto-injectors
+0304030C0BGACBE,Anapen 500micrograms/0.3ml (1 in 600) inj auto-injectors
+0304030C0BH,Jext
+0304030C0BHAABF,"Jext 150micrograms/0.15ml (1 in 1,000) inj auto-injectors"
+0304030C0BHABA3,"Jext 300micrograms/0.3ml (1 in 1,000) inj auto-injectors"
+0304030C0BI,Emerade
+0304030C0BIAABF,"Emerade 150micrograms/0.15ml (1 in 1,000) inj auto-injectors"
+0304030C0BIABA3,"Emerade 300micrograms/0.3ml (1 in 1,000) inj auto-injectors"
+0304030C0BIACBG,"Emerade 500micrograms/0.5ml (1 in 1,000) inj auto-injectors"
+0304030F0,C1-Esterase inhibitor
+0304030F0AA,C1-Esterase inhibitor
+0304030F0AAAAAA,C1-esterase inhibitor 500unit inj vials
+0304030F0AAAEAE,"C1-esterase inhibitor 1,500unit inj vials"
+0304030F0BD,Berinert
+0304030F0BDAAAA,Berinert 500unit inj vials
+0304030F0BDACAE,"Berinert 1,500unit inj vials"
+0304030F0BE,Cetor
+0304030F0BEAAAA,Cetor 500unit inj vials
+0304030F0BF,Cinryze
+0304030F0BFAAAA,Cinryze 500unit inj vials
+0304030G0,Ephedrine hydrochloride
+0304030G0AA,Ephedrine hydrochloride (Anaphylactic)
+0304030G0AAAAAA,Ephedrine 2% oromucosal spray
+0304030H0,Icatibant acetate
+0304030H0AA,Icatibant acetate
+0304030H0AAAAAA,Icatibant 30mg/3ml inj pre-filled syringes
+0304030H0BB,Firazyr
+0304030H0BBAAAA,Firazyr 30mg/3ml solution for injection pre-filled syringes
+0305,Respiratory stimulants and pulmonary surfactants
+030501,Respiratory stimulants
+0305010,Respiratory stimulants
+0305010W0,Doxapram hydrochloride
+0305010W0AA,Doxapram hydrochloride
+0305010W0AAAAAA,Doxapram 100mg/5ml solution for injection ampoules
+0305010W0BB,Dopram
+0305010W0BBAAAA,Dopram 100mg/5ml solution for injection ampoules
+0307,Mucolytics
+030700,Mucolytics
+0307000,Mucolytics
+0307000C0,Acetylcysteine
+0307000C0AA,Acetylcysteine (Mucolytic)
+0307000C0AAAAAA,Acetylcysteine 200mg granules sachets
+0307000C0AAAJAJ,Acetylcysteine 600mg effervescent tablets
+0307000C0AAAKAK,Acetylcysteine 600mg capsules
+0307000C0AAALAL,Acetylcysteine 100mg granules sachets
+0307000C0AAAMAM,Acetylcysteine 600mg tablets
+0307000C0AAANAN,Acetylcysteine 100mg/5ml oral solution
+0307000C0AAAPAP,Acetylcysteine 200mg tablets
+0307000C0AAAQAQ,Acetylcysteine 200mg oral powder sachets sugar free
+0307000C0AAARAR,Acetylcysteine 600mg effervescent tablets sugar free
+0307000C0BD,Fluimucil
+0307000C0BDAAAA,Fluimucil N 200mg granules sachets
+0307000C0BDAEAL,Fluimucil N 100mg granules sachets
+0307000C0BDAFAJ,Fluimucil 600 effervescent tablets
+0307000C0BE,A-CYS
+0307000C0BEACAR,A-CYS 600mg effervescent tablets
+0307000C0BEADAA,A-CYS 200mg granules sachets
+0307000C0BEAEAK,A-CYS 600mg capsules
+0307000C0BEAFAM,A-CYS 600mg tablets
+0307000C0BF,OroNAC 600
+0307000C0BFAAAK,OroNAC 600 capsules
+0307000C0BFABAM,OroNAC 600 tablets
+0307000C0BFACAR,OroNAC 600 effervescent tablets
+0307000C0BG,Siran
+0307000C0BGAAAJ,Siran 600mg effervescent tablets
+0307000C0BH,EN-CYS
+0307000C0BHAAAM,EN-CYS 600mg tablets
+0307000C0BI,ACC-600
+0307000C0BIAAAJ,ACC-600 effervescent tablets
+0307000C0BJ,Solmucol
+0307000C0BJAAAN,Solmucol 100mg/5ml syrup
+0307000C0BK,YourNAC
+0307000C0BKAAAK,YourNAC 600mg capsules
+0307000C0BKABAM,YourNAC 600mg tablets
+0307000C0BL,Respi-Nac
+0307000C0BLAAAJ,Respi-Nac 600mg effervescent tablets
+0307000C0BM,Aceteff
+0307000C0BMAAAR,Aceteff 600mg effervescent tablets
+0307000C0BN,NACSYS
+0307000C0BNAAAR,NACSYS 600mg effervescent tablets
+0307000C0BP,Solgar
+0307000C0BPAAAK,Solgar NAC 600mg capsules
+0307000C0BQ,Acetyl-NAC
+0307000C0BQAAAQ,Acetyl-NAC 200mg oral powder sachets sugar free
+0307000C0BQABAM,Acetyl-NAC 600mg tablets
+0307000C0BQACAK,Acetyl-NAC 600mg capsules
+0307000C0BR,AceNAC
+0307000C0BRAAAK,AceNAC 600mg capsules
+0307000C0BRABAM,AceNAC 600mg tablets
+0307000C0BS,AceCil
+0307000C0BSAAAR,AceCil 600mg effervescent tablets
+0307000J0,Carbocisteine
+0307000J0AA,Carbocisteine
+0307000J0AAAAAA,Carbocisteine 375mg capsules
+0307000J0AAABAB,Carbocisteine 125mg/5ml oral solution
+0307000J0AAACAC,Carbocisteine 250mg/5ml oral solution
+0307000J0AAAGAG,Carbocisteine 750mg/10ml soln 10ml sachets sugar free
+0307000J0AAAHAH,Carbocisteine 250mg/5ml oral solution sugar free
+0307000J0AAAIAI,Carbocisteine 750mg/5ml oral solution sugar free
+0307000J0BB,Mucodyne
+0307000J0BBAAAA,Mucodyne 375mg capsules
+0307000J0BBABAC,Mucodyne 250mg/5ml syrup
+0307000J0BBADAB,Mucodyne Paediatric 125mg/5ml syrup
+0307000J0BBAEAC,Mucodyne Paediatric 250mg/5ml syrup
+0307000K0,Dornase alfa
+0307000K0AA,Dornase alfa
+0307000K0AAAAAA,Dornase alfa 2.5mg/2.5ml nebuliser liquid ampoules
+0307000K0BB,Pulmozyme
+0307000K0BBAAAA,Pulmozyme 2.5mg nebuliser liquid 2.5ml ampoules
+0307000L0,Mecysteine hydrochloride
+0307000L0AA,Mecysteine hydrochloride
+0307000L0AAAAAA,Mecysteine 100mg gastro-resistant tablets
+0307000L0BB,Visclair
+0307000L0BBAAAA,Visclair 100mg gastro-resistant tablets
+0307000P0,Tyloxapol
+0307000P0AA,Tyloxapol
+0307000P0AAAAAA,Tyloxapol 0.125% solution
+0307000Q0,Erdosteine
+0307000Q0AA,Erdosteine
+0307000Q0AAAAAA,Erdosteine 300mg capsules
+0307000Q0BB,Erdotin
+0307000Q0BBAAAA,Erdotin 300mg capsules
+0307000R0,Mannitol
+0307000R0AA,Mannitol
+0307000R0AAAAAA,Mannitol 40mg inhalation powder capsules with two devices
+0307000R0BB,Bronchitol
+0307000R0BBAAAA,Bronchitol 40mg inhalation powder capsules with two devices
+0307000S0,Ivacaftor
+0307000S0AA,Ivacaftor
+0307000S0AAAAAA,Ivacaftor 150mg tablets
+0307000S0AAABAB,Ivacaftor 50mg granules sachets sugar free
+0307000S0AAACAC,Ivacaftor 75mg granules sachets sugar free
+0307000S0AAADAD,Ivacaftor 25mg granules sachets sugar free
+0307000S0BB,Kalydeco
+0307000S0BBAAAA,Kalydeco 150mg tablets
+0307000S0BBABAB,Kalydeco 50mg granules sachets
+0307000S0BBACAC,Kalydeco 75mg granules sachets
+0307000S0BBADAD,Kalydeco 25mg granules sachets
+0307000T0,Lumacaftor/ivacaftor
+0307000T0AA,Lumacaftor/ivacaftor
+0307000T0AAAAAA,Lumacaftor 200mg / Ivacaftor 125mg tablets
+0307000T0AAABAB,Lumacaftor 100mg / Ivacaftor 125mg tablets
+0307000T0AAACAC,Lumacaftor 100mg / Ivacaftor 125mg granules sachets
+0307000T0AAADAD,Lumacaftor 150mg / Ivacaftor 188mg granules sachets
+0307000T0BB,Orkambi
+0307000T0BBAAAA,Orkambi 200mg/125mg tablets
+0307000T0BBABAB,Orkambi 100mg/125mg tablets
+0307000T0BBACAC,Orkambi 100mg/125mg granules sachets
+0307000T0BBADAD,Orkambi 150mg/188mg granules sachets
+0307000U0,Tezacaftor/ivacaftor
+0307000U0AA,Tezacaftor/ivacaftor
+0307000U0AAAAAA,Tezacaftor 100mg / Ivacaftor 150mg tablets
+0307000U0BB,Symkevi
+0307000U0BBAAAA,Symkevi 100mg/150mg tablets
+0308,Aromatic inhalations
+030800,Aromatic inhalations
+0308000,Aromatic inhalations
+030800000,Other aromatic inhalation preparations
+030800000BD,Proprietary compound preparation BNF 0308000
+030800000BDBIA0,Boots Mild Vapour Rub 3 Months Plus
+030800000BDBJA0,Mackenzies Smelling Salts
+030800000BDBKA0,Boots Vapour Chest Rub
+030800000BDBLA0,Olbas Oil liquid
+030800000BDBMA0,Olbas for Children liquid
+030800000BDBNA0,Covonia Vapour Drops
+030800000BDBPA0,Snufflebabe Vapour Rub
+030800000BDBQA0,Vicks Vaporub
+030800000BDBRA0,Jackson's Vapour Rub
+030800000BDBSA0,Vicks Inhaler
+030800000BDBTA0,Vicks Medinite syrup
+030800000BDBUA0,Numark Vapour Rub
+030800000BDBVA0,Bell's Vapour Rub
+0308000B0,Benzoin
+0308000B0AA,Benz
+0308000B0AAAAAA,Benzoin compound tincture
+0308000B0AAABAB,Benzoin tincture
+0308000M0,Menthol
+0308000M0AA,Menthol and Ecalyptus
+0308000M0AAAAAA,Menthol and Eucalyptus inhalation
+0308000M0BB,Karvol
+0308000M0BBAAA0,Karvol Decongestant capsules
+0308000M0BBABA0,Karvol Decongestant drops
+0308000M0BE,Tixycolds (Inhalation)
+0308000M0BEAAA0,Tixycolds Cold and Hayfever Inhalant capsules
+0309,Cough preparations
+030901,Cough suppressants
+0309010,Cough suppressants
+0309010C0,Codeine phosphate
+0309010C0AA,Codeine phosphate (Cough)
+0309010C0AAAAAA,Codeine 15mg/5ml linctus
+0309010C0AAACAC,Codeine 3mg/5ml linctus paediatric
+0309010C0AAADAD,Codeine 15mg/5ml linctus sugar free
+0309010C0AAAEAE,Codeine 3mg/5ml linctus paediatric sugar free
+0309010C0BB,Galcodine
+0309010C0BBAAAD,Galcodine 15mg/5ml linctus
+0309010C0BBABAE,Galcodine 3mg/5ml linctus paediatric
+0309010L0,Dextromethorphan hydrobromide
+0309010L0AA,Dextromethorphan hydrobromide
+0309010L0AAACAC,Dextromethorphan 10mg/5ml oral solution
+0309010L0AAADAD,Dextromethorphan 2.5mg lozenges
+0309010L0AAAHAH,Dextromethorphan 30mg/5ml oral suspension
+0309010L0AAAIAI,Dextromethorphan 20mg/5ml oral liquid
+0309010L0AAALAL,Dextromethorphan 40.5mg/5ml oral liquid
+0309010L0AAAMAM,Dextromethorphan 10mg/5ml oral suspension
+0309010L0AAANAN,Dextromethorphan 5mg / Triprolidine 625microg/5ml soln SF
+0309010L0AAAQAQ,Dextromethorphan 7.5mg/5ml oral solution sugar free
+0309010L0AAARAR,Dextromethorphan 5mg/5ml oral solution sugar free
+0309010L0AAASAS,Dextromethorphan 7.5mg pastilles sugar free
+0309010L0AAATAT,Dextromethorphan 7.5mg/5ml oral solution
+0309010L0AAAUAU,Dextromethorphan 3.75mg/5ml oral solution sugar free
+0309010L0AAAVAV,Dextromethorphan 7.5mg/5ml / Menthol 2.5mg/5ml oral solution
+0309010L0AAAXAX,Dextromethorphan 30mg/5ml oral solution
+0309010L0BD,Boots (Cough)
+0309010L0BDAAAD,Boots Dry Cough Relief 2.5mg lozenges
+0309010L0BF,Covonia
+0309010L0BFABAV,Covonia Original Bronchial Balsam oral solution
+0309010L0BG,Delsym
+0309010L0BGAAAH,Delsym 12 Hour Cough Relief liquid
+0309010L0BJ,Strepsils (Dextromethorphan)
+0309010L0BJAAAD,Strepsils Cough 2.5mg lozenges
+0309010L0BK,Benylin (Dextromethorphan)
+0309010L0BKAAAN,Benylin Children's Coughs & Colds oral solution
+0309010L0BKABAT,Benylin Dry Coughs 7.5mg/5ml oral solution
+0309010L0BM,Robitussin (Cough)
+0309010L0BMAAAQ,Robitussin Dry Cough 7.5mg/5ml oral solution sugar free
+0309010L0BMABAS,Robitussin soft pastilles for dry cough 7.5mg
+0309010L0BMACAU,Robitussin Junior Persistent Cough 3.75mg/5ml oral solution
+0309010L0BN,Lloydspharmacy Dry Adult Cough
+0309010L0BNAAAR,Dry Cough 5mg/5ml syrup
+0309010L0BP,Tussabron
+0309010L0BPAAAC,Tussabron 10mg/5ml syrup
+0309010L0BQ,Numark (Dextromethorphan)
+0309010L0BQAAAC,Numark Adult Dry Cough linctus
+0309010N0,Diamorphine hydrochloride
+0309010N0AA,Diamorphine hydrochloride (Cough)
+0309010N0AAAHAH,Diamorphine 2.5mg/5ml oral solution
+0309010N0AAAIAI,Diamorphine 1.25mg/5ml oral solution
+0309010N0AAAJAJ,Diamorphine 3mg/5ml oral solution
+0309010N0AAAKAK,Diamorphine 2mg/5ml oral solution
+0309010S0,Methadone hydrochloride
+0309010S0AA,Methadone hydrochloride (cough)
+0309010S0AAAAAA,Methadone 2mg/5ml linctus
+0309010X0,Pholcodine
+0309010X0AA,Pholcodine
+0309010X0AAAAAA,Pholcodine 4mg/5ml oral solution sugar free
+0309010X0AAABAB,Pholcodine 5mg/5ml linctus
+0309010X0AAACAC,Pholcodine 10mg/5ml linctus strong
+0309010X0AAAJAJ,Pholcodine 0.12% pastilles
+0309010X0AAALAL,Pholcodine 5mg/5ml linctus sugar free
+0309010X0AAAQAQ,Pholcodine 10mg/5ml linctus strong sugar free
+0309010X0AAARAR,Pholcodine 2mg/5ml oral solution sugar free
+0309010X0BC,Galenphol
+0309010X0BCAAAL,Galenphol 5mg/5ml linctus
+0309010X0BCABAQ,Galenphol Strong 10mg/5ml linctus
+0309010X0BCACAR,Galenphol Paediatric 2mg/5ml linctus
+0309010X0BF,Pavacol-D
+0309010X0BFAAAL,Pavacol-D 5mg/5ml mixture
+0309010X0BL,Expulin
+0309010X0BLAAAQ,Expulin Dry Cough 10mg/5ml linctus
+0309010X0BM,Potter's pholcodine
+0309010X0BMAAAJ,Potter's Pholcodine cough pastilles
+0309010X0BN,Boots pholcodine
+0309010X0BNAAAR,Children's 1 Year Plus Dry Cough 2mg/5ml syrup
+0309010X0BNABAR,Boots Dry Cough 6 Years+ 2mg/5ml syrup
+0309010X0BP,Tixylix Daytime
+0309010X0BPAAAA,Tixylix Dry Cough 4mg/5ml oral solution
+0309010X0BQ,Hill's pholcodine
+0309010X0BQAAAC,Hill's Balsam Dry Cough 10mg/5ml liquid
+0309010X0BR,Benylin pholcodine
+0309010X0BRAAAR,Benylin Children's Dry Coughs 2mg/5ml oral solution
+0309010X0BS,Covonia pholcodine
+0309010X0BSAAAL,Covonia Dry Cough Sugar Free Formula 5mg/5ml oral solution
+0309010Y0,Ephedrine hydrochloride/dextromethorphan hydrobromide
+0309010Y0AA,Ephedrine hydrochloride/dextromethorphan hydrobromide
+0309010Y0AAAAAA,Ephedrine 15mg/5ml / Dextromethorphan 7.5mg/5ml soln SF
+0309010Y0BB,Paranorm
+0309010Y0BBAAAA,Paranorm Cough Syrup
+030902,Expectorant and demulcent cough preparations
+0309020,Expectorant and demulcent cough preparations
+030902000,Other expectorantand demulcent cough preparations
+030902000AA,Generic compound preparation BNF 0309020
+030902000AAAYAY,Norway spruce extract 1.445g/5ml oral solution
+030902000AAAZAZ,Marshmallow root 830mg/15ml / Thyme 120mg/15ml susp SF
+030902000BE,Proprietary compound preparation BNF 0309020
+030902000BEBBA0,Boots Bronchial Cough mixture
+030902000BEBYA0,Mentholated Bronchial Balsam oral solution
+030902000BECBA0,Potter's Strong Bronchial Catarrh pastilles
+030902000BECDA0,Hill's Balsam Chesty Cough pastilles
+030902000BECGA0,Baby Meltus 0.42ml/5ml cough linctus
+030902000BECHA0,Adult Meltus Night Time syrup
+030902000BECIA0,Lockets Medicated linctus
+030902000BECLA0,Allens Pine and Honey Balsam oral solution
+030902000BECMA0,Vicks Vaposyrup for Tickly Coughs oral solution
+030902000BECNA0,Junior Meltus Dry Coughs with Congestion oral solution
+030902000BECPA0,Buttercup Original Cough syrup
+030902000BECQA0,Buttercup Syrup Honey and Lemon
+030902000BECTA0,Veno's Cough mixture
+030902000BECUA0,Veno's Expectorant oral solution
+030902000BECVA0,Veno's Honey and Lemon syrup
+030902000BECWA0,Potter's Balm of Gilead Cough mixture
+030902000BECXA0,Hill's Balsam Extra Strong 2 in 1 pastilles
+030902000BECYA0,Histalix Syrup
+030902000BECZA0,Benylin Dry Coughs Night syrup
+030902000BEDAA0,Do-Do ChestEze tablets
+030902000BEDBA0,Allens Chesty Cough oral solution
+030902000BEDCA0,Allens Dry Tickly Cough oral solution
+030902000BEDDA0,Covonia Catarrh Relief Formula oral solution
+030902000BEDEA0,Tixylix Cough & Cold oral solution
+030902000BEDGA0,Beehive Balsam oral suspension
+030902000BEDHA0,Buttercup Blackcurrant Flavoured Cough syrup
+030902000BEDIA0,Benylin Mucus Cough Night oral solution
+030902000BEDJA0,Menthodex Cough mixture
+030902000BEDKA0,Kilkof oral solution
+030902000BEDLA0,Bell's Mentholated Bronchial Balsam oral solution
+030902000BEDMAY,Bronchosan Pine Cough syrup
+030902000BEDNA0,Covonia Herbal Mucus Cough syrup
+030902000BEDPA0,Hactos Cough mixture
+030902000BEDQA0,Noradran Bronchial syrup
+030902000BEDRA0,Numark Mentholated Bronchial Balsam oral solution
+030902000BEDSAZ,Buttercup Bronchostop Cough syrup
+030902000BEDTA0,Bell's Cough linctus
+030902000BEDUA0,Unicough 14mg/5ml / 135mg/5ml / 1.1mg/5ml oral solution
+030902020,Potassium iodide
+030902020AA,Potassium iodide ammoniated
+030902020AAAAAA,Potassium iodide ammoniated mixture
+030902030,Pholcodine
+030902030AA,Generic pastilles
+030902030AAAHAH,Pholcodine 1.5mg/5ml / Promethazine 1.5mg/5ml soln SF
+030902030BE,Tixylix (Pholcodine/promethazine)
+030902030BEACAH,Tixylix Night Cough oral solution
+030902040,Diphenhydramine hydrochloride
+030902040AA,Diphenhydramine hydrochloride/menthol
+030902040AAAAAA,Diphenhydramine 7mg/5ml / Levomenthol 550microg/5ml soln SF
+030902040AAABAB,Diphenhydramine 6.25mg/5ml oral solution sugar free
+030902040BB,Benylin
+030902040BBAAA0,Benylin Chesty Coughs Original oral solution
+030902040BBACA0,Benylin with Codeine oral solution
+030902040BBADAA,Benylin Children's Night Coughs oral solution
+030902040BD,Fedril
+030902040BDAAAB,Fedril Paediatric 6.25mg/5ml elixir
+0309020A0,Ammonium acetate
+0309020A0AA,Ammon acetate
+0309020A0AAAAAA,Ammonium acetate solution strong
+0309020AA,Ibuprofen/pseudoephedrine hydrochloride
+0309020AAAA,Ibuprofen/pseudoephedrine hydrochloride
+0309020AAAAAAAA,Ibuprofen/Pseudoephedrine 300mg/45mg m/r capsules
+0309020AAAAABAB,Ibuprofen 100mg/5ml / Pseudoephedrine 15mg/5ml susp SF
+0309020AABB,Lemsip (Ibuprofen/pseudoephedrine hydrochloride)
+0309020AABBAAAA,Lemsip Cold and Flu Sinus 12 Hr Ibuprofen + Pseudoephedrine
+0309020AABBABAA,Lemsip Flu 12 Hr Ibuprofen + Pseudoephedrine MR caps
+0309020AABC,Orbifen (Ibuprofen/pseudoephedrine hydrochloride)
+0309020AABCAAAB,Orbifen Cold & Flu oral suspension
+0309020AB,Diphenhydramine hydrochloride/pholcodine
+0309020ABAA,Diphenhydramine hydrochloride/pholcodine
+0309020ABAAAAAA,Diphenhydramine 12.5mg/5ml / Pholcodine 3.75mg/5ml soln
+0309020ABBB,Cough Nurse
+0309020ABBBAAAA,Cough Nurse Night Time Liquid
+0309020ABBC,Nirolex (Diphenhydramine hydrochloride/pholcodine)
+0309020ABBCAAAA,Nirolex Night Time Coughs oral solution
+0309020ABBD,Boots (Diphenhydramine hydrochloride/pholcodine)
+0309020ABBDAAAA,Boots Night Cough Relief oral solution
+0309020AC,Guaiacol and codeine
+0309020ACAA,Guaiacol/codeine
+0309020ACAAAAAA,Guaiacol 75mg/5ml / Codeine 7mg/5ml oral solution
+0309020ACBB,Pulmo Bailly
+0309020ACBBAAAA,Pulmo Bailly oral solution
+0309020AD,Squill/ipecacuanha
+0309020ADAA,Squill/ipecacuanha (Cough)
+0309020ADAAAAAA,Squill liq ext 73mg/g / Ipecacuanha liq ext 36mg/g pstl
+0309020ADBB,Halls (Cough)
+0309020ADBBAAAA,Halls Children's Cough pastilles
+0309020AE,Ephedrine hydrochloride/ipecacuanha
+0309020AEAA,Ephedrine hydrochloride/ipecacuanha
+0309020AEAAAAAA,Ephedrine 3mg/5ml / Ipecacuanha liq ext 6.25mg/5ml soln SF
+0309020AEBB,Boots (Ephedine/ipecacunha)
+0309020AEBBAAAA,Children's 6 Month Plus Cough and Congestion syrup
+0309020AF,Pseudoephedrine hydrochloride/dextromethorphan hydrobromide
+0309020AFAA,Pseudoephedrine hydrochloride/dextromethorphan hydrobromide
+0309020AFAAAAAA,Pseudoephedrine 30mg/5ml / Dextromethorphan 10mg/5ml soln
+0309020AFBB,Boots (Pseudoephedrine hydrochloride/dextromethorphan)
+0309020AFBBAAAA,Boots Dry Cough & Congestion Relief oral solution
+0309020AFBC,Sudafed (pseudoephedrine hydrochloride/dextromethorphan)
+0309020AFBCAAAA,Sudafed Dry Coughs with Decongestant liquid
+0309020AG,Citric acid monohydrate/ipecacuanha
+0309020AGAA,Citric acid monohydrate/ipecacuanha
+0309020AGAAAAAA,Citric acid 20mg/Ipecac liq ext 10microL/5ml soln
+0309020AGBB,Hill's (Citric acid monohydrate/ipecacuanha)
+0309020AGBBAAAA,Hill's Balsam Chesty Cough Liquid for Children
+0309020AH,Ammonium chloride/diphenhydramine hydrochloride
+0309020AHAA,Ammonium chloride/diphenhydramine hydrochloride
+0309020AHAAAAAA,Ammonium chloride 130mg/5ml / Diphenhydramine 14mg/5ml soln
+0309020AHBB,Numark (Ammonium chloride/diphenhydrate hydrochloride)
+0309020AHBBAAAA,Numark Chesty Cough Expectorant oral solution
+0309020B0,Ammonium bicarbonate
+0309020B0AA,Ammon bicarbonate
+0309020B0AAACAC,Ammonia and Ipecacuanha mixture
+0309020D0,Simple
+0309020D0AA,Simple
+0309020D0AAAAAA,Simple linctus
+0309020D0AAABAB,Simple linctus paediatric
+0309020D0AAADAD,Simple linctus sugar free
+0309020D0AAAFAF,Simple linctus paediatric sugar free
+0309020D0BB,Numark Simple
+0309020D0BBABAA,Numark Simple linctus
+0309020D0BBACAB,Numark Paediatric Simple linctus
+0309020D0BC,Care Simple
+0309020D0BCAAAF,Care Simple linctus paediatric sugar free
+0309020G0,Guaifenesin
+0309020G0AA,Guaifenesin (Expectorant/Demulcents)
+0309020G0AAAAAA,Guaifenesin powder
+0309020G0AAABAB,Guaifenesin 100mg/5ml oral solution
+0309020G0AAAEAE,Guaifenesin 66.67mg/5ml oral solution sugar free
+0309020G0AAAGAG,Guaifenesin 100mg/5ml / Pseudoephedrine 30mg/5ml soln
+0309020G0AAAHAH,Guaifenesin 50mg/Cetylpyridinium chloride 2.5mg/5ml soln SF
+0309020G0AAAJAJ,Guaifenesin 33.33mg/5ml oral solution sugar free
+0309020G0AAAKAK,Guaifenesin 100mg/Cetylpyridinium chloride 2.5mg/5ml soln SF
+0309020G0AAALAL,Guaifenesin 50mg/5ml oral solution
+0309020G0AAAMAM,Guaifenesin 100mg/5ml / Levomenthol 1.1mg/5ml soln 5ml sach
+0309020G0AAANAN,Guaifenesin 50mg/5ml oral solution sugar free
+0309020G0AAAPAP,Guaifenesin 100mg/5ml / Levomenthol 1.1mg/5ml oral solution
+0309020G0AAAQAQ,Guaifenesin 66.67mg/5ml / Pseudoephedrine 20mg/5ml soln SF
+0309020G0AAARAR,Guaifenesin 66.67mg/5ml oral solution
+0309020G0AAASAS,Guaifenesin 50mg/5ml / Pseudoephedrine 10mg/5ml soln SF
+0309020G0AAATAT,Guaifenesin 100mg/5ml / Pseudoephedrine 30mg/5ml soln SF
+0309020G0BB,Robitussin
+0309020G0BBACAB,Robitussin Chesty Cough 100mg/5ml oral solution
+0309020G0BBADAT,Robitussin Chesty Cough with Congestion liquid
+0309020G0BE,Vicks (Cough)
+0309020G0BEACAR,Vicks Vaposyrup for Chesty Coughs 66.67mg/5ml oral solution
+0309020G0BF,Lloydspharmacy (Guaifenasin)
+0309020G0BFAAAE,Lloydspharmacy Expectorant Cough 66.67mg/5ml syrup
+0309020G0BFABAJ,Lloydspharmacy Expectorant Junior Cough 33.33mg/5ml syrup
+0309020G0BFACAQ,Lloydspharmacy Expectorant and Decongestant Cough syrup
+0309020G0BG,Tixylix (Guaifenesin)
+0309020G0BGABAN,Tixylix Chesty Cough 50mg/5ml oral solution
+0309020G0BH,Boots (Guaifenesin)
+0309020G0BHABAN,Children's 1 Year Plus Chesty Cough 50mg/5ml syrup
+0309020G0BHACAN,Boots Chesty Cough 6 Years+ 50mg/5ml syrup
+0309020G0BHADAS,Boots Cough and Decongestant 6 Years+ syrup
+0309020G0BHAEAG,Boots Nirolex Chesty Cough & Congestion Relief linctus
+0309020G0BHAFAT,Boots Catarrh Cough syrup
+0309020G0BHAGAB,Boots Chesty Cough Relief 100mg/5ml oral solution
+0309020G0BJ,Meltus (Expectorant/Demulcents)
+0309020G0BJAAAH,Junior Meltus Colour and Sugar Free Expectorant soln
+0309020G0BJABAH,Junior Meltus Chesty Coughs with Catarrh oral solution
+0309020G0BJACAK,Adult Meltus Chesty Coughs Sugar & Colour Free oral solution
+0309020G0BJADAL,Family Meltus Chesty Coughs 50mg/5ml soln
+0309020G0BJAEA0,Adult Meltus for Chesty Coughs and Catarrh oral solution
+0309020G0BJAFAG,Adult Meltus Chesty Cough with Decongestant oral solution
+0309020G0BK,Beechams Veno's for Kids
+0309020G0BKAAAJ,Beechams Veno's for Kids Chesty Cough 33.33mg/5ml syrup
+0309020G0BL,Nirolex (Guaifenesin)
+0309020G0BLAAAG,Nirolex Chesty Coughs with Decongestant oral solution
+0309020G0BLABAB,Boots Mucus Cough Relief 100mg/5ml oral solution
+0309020G0BM,Jackson's All Fours (Guaifenesin)
+0309020G0BMAAAB,Jackson's Extra Strength All Fours 100mg/5ml oral solution
+0309020G0BMABAL,Jackson's The Original All Fours 50mg/5ml oral solution
+0309020G0BN,Benylin (Guaifenesin)
+0309020G0BNAAA0,Benylin Children's Chesty Coughs 50mg/5ml soln 5ml sachets
+0309020G0BNABAM,Benylin Chesty Coughs oral solution 5ml sachets
+0309020G0BNACAP,Benylin Chesty Coughs Non-Drowsy oral solution
+0309020G0BNADAN,Benylin Children's Chesty Coughs 50mg/5ml oral solution
+0309020G0BNAEAP,Benylin Mucus Cough oral solution
+0309020G0BNAFAG,Benylin Mucus Cough Plus Decongestant syrup
+0309020G0BNAGAB,Benylin Mucus Cough Max Menthol 100mg/5ml oral solution
+0309020G0BNAHAB,Benylin Mucus Cough Max Honey & Lemon Flavour 100mg/5ml syr
+0309020G0BP,Lemsip (Guaifenesin)
+0309020G0BPAAAL,Lemsip Cough for Chesty Cough 50mg/5ml oral solution
+0309020G0BPABA0,Lemsip Cough for Mucus Cough 100mg/2.5mg/5ml oral solution
+0309020G0BPACAK,Lemsip Cough for Mucus Cough Sugar & CF 100mg/2.5mg/5ml soln
+0309020G0BPADAK,Lemsip Cough for Mucus Cough & Catarrh100mg/2.5mg/5ml soln
+0309020G0BQ,Calcough
+0309020G0BQAAAN,Calcough Six Plus 50mg/5ml oral solution
+0309020G0BR,Hill's (Guaifenesin)
+0309020G0BRAAAB,Hill's Balsam Chesty Cough 100mg/5ml liquid
+0309020G0BS,Sudafed (Guaifenesin)
+0309020G0BSAAAG,Sudafed Chesty Coughs with Decongestant liquid
+0309020G0BT,Bell's (Guaifenesin)
+0309020G0BTAAAB,Bell's Mucus Cough 100mg/5ml oral solution
+0309020G0BU,Numark (Guaifenesin)
+0309020G0BUAAAB,Numark Mucus Cough 100mg/5ml oral solution
+0309020G0BV,Covonia (Guaifenesin)
+0309020G0BVAAAE,Covonia Chesty Cough Sugar Free syrup
+0309020G0BW,Liqufruta
+0309020G0BWAAAL,Liqufruta Garlic Cough Medicine 50mg/5ml oral solution
+0309020H0,Glycerol
+0309020H0AA,Glycerol (Expectorant/Demulcents)
+0309020H0AAABAB,"Gen Glycerin, Lemon and Honey + Glucose & Ipecacuanha soln"
+0309020H0AAAEAE,"Generic Glycerin, Honey and Lemon linctus"
+0309020H0AAAHAH,Glycerol 750microlitres/5ml oral solution sugar free
+0309020H0AAAIAI,Glycerol 750microlitres/5ml / Sucrose 1.7g/5ml oral solution
+0309020H0AAAJAJ,Glycerol 1.36g/5ml / Glucose liquid 280mg/5ml oral solution
+0309020H0AAAKAK,Glycerol 500microL/Ipecacuanha liq ext 9.8microL/5ml soln
+0309020H0AAALAL,"Generic Glycerin, Lemon and Honey Expectorant oral solution"
+0309020H0AAAMAM,Glycerol 750mg/5ml oral solution
+0309020H0BE,Lemsip
+0309020H0BEABAE,Lemsip Cough for Dry Cough & Sore Throat oral solution
+0309020H0BF,Numark Glycerol (Linctus)
+0309020H0BFABAM,"Numark Compound Syrup of Glycerin, Lemon & Honey"
+0309020H0BH,Tixylix (Glycerol)
+0309020H0BHABAH,Tixylix Toddler 750microlitres/5ml syrup
+0309020H0BHACAE,"Tixylix Honey, Lemon & Glycerol oral solution"
+0309020H0BHADAH,Tixylix Blackcurrant Flavour syrup
+0309020H0BHAEAH,Tixylix Baby 15% syrup
+0309020H0BI,"Jackson's Glycerol, Lemon and Honey"
+0309020H0BIAAAE,Jackson's Lemon linctus
+0309020H0BJ,Boots glycerol
+0309020H0BJAAAH,Boots Cough Syrup 3 Months Plus
+0309020H0BJABAI,Glycerin and Blackcurrant linctus
+0309020H0BJACAI,Benylin Dry Coughs Blackcurrant oral solution
+0309020H0BJADAI,Boots Tickly Cough Relief oral solution
+0309020H0BJAEAE,"Glycerin, Honey and Lemon linctus"
+0309020H0BK,Nirolex (Glycerol)
+0309020H0BKAAAI,Nirolex Dry Cough linctus
+0309020H0BL,Benylin (Glycerol)
+0309020H0BLAAAH,Benylin Children's Tickly Coughs 750microlitres/5ml soln
+0309020H0BLABAH,Benylin Children's Apple Flavour Cough syrup
+0309020H0BLACAI,Benylin Children's Blackcurrant Flavour Cough syrup
+0309020H0BLADAH,Benylin Infant's Cough syrup
+0309020H0BLAEAI,Benylin Children's Cough & Sore Throat syrup
+0309020H0BLAFAI,Benylin Dry & Tickly Cough syrup
+0309020H0BM,CalCough (Glycerol)
+0309020H0BMAAAH,CalCough Tickly 750microlitres/5ml oral solution
+0309020H0BMABAH,CalCough Infant 750microlitres/5ml syrup
+0309020H0BMACAI,CalCough Children's syrup
+0309020H0BN,Covonia (Glycerol)
+0309020H0BNAAAJ,Covonia Dry & Tickly Cough linctus
+0309020H0BP,Bell's (Glycerol)
+0309020H0BPAAAM,Bell's Dry Tickly Cough 750mg/5ml syrup
+0309020H0BPABAM,Bell's Childrens Dry Cough syrup
+0309020H0BPACAK,"Chesty Cough Compound of Glycerin, Lemon and Ipecac soln"
+0309020H0BQ,Buttercup (Glycerol)
+0309020H0BQAAAK,Buttercup Chesty Cough oral solution
+0309020I0,Squill
+0309020I0AA,Squill
+0309020I0AAABAB,Squill liquid extract
+0309020I0AAAEAE,Squill oxymel
+0309020I0BB,Covonia mentholated cough mix
+0309020I0BBAAA0,Covonia mentholated cough mixture
+0309020K0,Squill opiate
+0309020K0AA,Squill opiate
+0309020K0AAAAAA,Generic Potter's Gees Linctus pastilles
+0309020K0AAAEAE,Squill opiate linctus
+0309020K0AAAFAF,Squill opiate linctus paediatric
+0309020K0BC,Potter's Gees
+0309020K0BCAAAA,Potter's Gees Linctus pastilles
+0309020N0,Powdered opium
+0309020N0AA,Opium camph
+0309020N0AAABAB,Camphorated opium tincture
+0309020Q0,Pseudoephedrine hydrochloride combinations
+0309020Q0AA,Generic linctus/syrup
+0309020Q0AAABAB,Generic Sudafed Non-Drowsy Children's 30mg/5ml syrup
+0309020Q0AAACAC,Generic Multi-Action Actifed Chesty Coughs oral solution
+0309020Q0AAADAD,Generic Multi-Action Actifed Dry Coughs liquid
+0309020Q0BB,Sudafed (Expectorant/Demulcents)
+0309020Q0BBABAB,Sudafed Non-Drowsy Children's 30mg/5ml syrup
+0309020Q0BC,Multi-Action Actifed (Expectorant & Demulcent)
+0309020Q0BCACAD,Multi-Action Actifed Dry Coughs liquid
+0309020Q0BCADAC,Multi-Action Actifed Chesty Coughs oral solution
+0309020R0,Dextromethorphan hydrobrom compound prepartions
+0309020R0AA,Dextromethorphan hydrobromide compound preparations
+0309020R0AAABAB,Diphenhydramine 10mg / Dextromethorphan 6.65mg/5ml soln SF
+0309020R0AAACAC,Dextromethorphan 10mg/5ml /Pseudoephedrine 10mg/5ml susp SF
+0309020R0BD,Covonia (Dextromethorphan/diphenhydramine)
+0309020R0BDAAAB,Covonia night time formula oral solution
+0309020R0BDABAB,Covonia Hot Dose Cough & Cold syrup
+0309020R0BE,Meltus (Dextromethorphan/pseudoephedrine)
+0309020R0BEAAAC,Adult Meltus for Dry Coughs with Congestion oral suspension
+0309020T0,Ipecacuanha
+0309020T0AA,Ipecacuanha
+0309020T0AAAAAA,Ipecacuanha alkaline mixture
+0309020T0AAABAB,Ipecacuanha mixture paediatric
+0309020T0AAACAC,Ipecacuanha and Ammonia mixture paediatric
+0309020T0AAADAD,Ipecacuanha opiate mixture paediatric
+0309020T0AAAFAF,Ipecacuanha 20mg tablets
+0309020T0AAAGAG,Liquorice liq ext 125microL/Ipecac liq ext 5microL/5ml soln
+0309020T0AAAHAH,Ipecacuanha and Morphine mixture BP 1980
+0309020T0BD,Fennings
+0309020T0BDAAAF,Fennings Little Healers 20mg tablets
+0309020T0BE,Children's Cough Balsam (Bells)
+0309020T0BEAAAG,Children'	s Cough Balsam linctus
+0309020U0,Brompheniramine maleate combinations
+0309020U0AA,Brompheniramine maleate (Expectorant & Demulcent)
+0309020U0AAAAAA,Generic Dimotane Co oral solution sugar free
+0309020U0AAABAB,Generic Dimotane Co oral solution paediatric sugar free
+0309020U0AAACAC,Generic Dimotane Expectorant oral solution sugar free
+0309020U0BB,Dimotane (Expectorant/Demulcents)
+0309020U0BBAAAA,Dimotane Co oral solution sugar free
+0309020U0BBABAB,Dimotane Co oral solution paediatric sugar free
+0309020U0BBADAC,Dimotane Expectorant oral solution
+0309020V0,Liquorice
+0309020V0BE,Potter's Sugar Free Cough
+0309020V0BEAAA0,Potter's Sugar Free Cough pastilles
+0309020X0,Terpin hydrate
+0309020X0AA,Terpin and codeine
+0309020X0AAAAAA,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus
+0309020Z0,Wild cherry bark
+0309020Z0AA,Wild cherry
+0309020Z0AAAAAA,Wild cherry syrup
+0310,Systemic nasal decongestants
+031000,Systemic nasal decongestants
+0310000,Systemic nasal decongestants
+0310000E0,Ephedrine hydrochloride
+0310000E0AA,Ephedrine/chlorpheniramine
+0310000E0AAAAAA,Ephedrine hydrochloride 15mg / Chlorphenamine 10mg tablets
+0310000E0BB,Haymine
+0310000E0BBAAAA,Haymine tablets
+0310000K0,Phenylpropanolamine hydrochloride
+0310000K0AA,Phenylpropanolamine hydrochloride
+0310000K0AAABAB,Phenylpropanolamine 50mg capsules
+0310000K0AAAIAI,Phenylpropanolamine 25mg/5ml oral liquid
+0310000M0,Pseudoephedrine sulfate combinations
+0310000M0AA,Pseudoephedrine sulfate (combinations)
+0310000M0AAADAD,Dexbrompheniramine 6mg/Pseudoephedrine sulfate 120mg MR tab
+0310000M0BD,Disophrol
+0310000M0BDAAAD,Disophrol modified-release tablets
+0310000N0,Pseudoephedrine hydrochloride
+0310000N0AA,Pseudoephedrine hydrochloride
+0310000N0AAAAAA,Pseudoephedrine 120mg modified-release capsules
+0310000N0AAABAB,Pseudoephedrine 30mg/5ml oral solution
+0310000N0AAACAC,Pseudoephedrine hydrochloride 60mg tablets
+0310000N0AAAFAF,Pseudoephedrine 30mg/5ml oral solution sugar free
+0310000N0AAAGAG,Pseudoephedrine hydrochloride 60mg / Triprolidine 2.5mg tab
+0310000N0AAAHAH,Pseudoephedrine 30mg/5ml / Triprolidine 1.25mg/5ml soln
+0310000N0AAAIAI,Pseudoephedrine 15mg/5ml / Brompheniramine 2mg/5ml soln SF
+0310000N0AAAJAJ,Pseudoephedrine 30mg/5ml / Brompheniramine 4mg/5ml soln SF
+0310000N0AAALAL,Pseudoephedrine 30mg/5ml / Chlorphenamine 2mg/5ml soln SF
+0310000N0AAANAN,Ibuprofen/Pseudoephedrine hydrochloride 200mg/30mg tablets
+0310000N0AAAUAU,Paracetamol 500mg / Pseudoephedrine hydrochloride 60mg tab
+0310000N0AAAVAV,Pseudoephedrine 120mg modified-release tablets
+0310000N0AAAWAW,Paracetamol 500mg / Pseudoephedrine hydrochloride 30mg tab
+0310000N0BB,Galpseud
+0310000N0BBAAAC,Galpseud 60mg tablets
+0310000N0BBABAF,Galpseud 30mg/5ml linctus
+0310000N0BBACAL,Galpseud Plus linctus
+0310000N0BC,Sudafed (Nasal decongestant)
+0310000N0BCABAB,Sudafed Decongestant 30mg/5ml liquid
+0310000N0BCACAC,Sudafed Decongestant 60mg tablets
+0310000N0BCAEAG,Sudafed Plus 60mg/2.5mg tablets
+0310000N0BCAFAH,Sudafed Plus syrup
+0310000N0BCAHAV,Sudafed 12 Hour Decongestant 120mg tablets
+0310000N0BE,Boots Decongestant (Pseudoephedrine hydrochloride)
+0310000N0BEAAAC,Boots Decongestant 60mg tablets
+0310000N0BEADAU,Decongestant with Paracetamol tablets
+0310000N0BF,Dimotane Plus
+0310000N0BFAAAI,Dimotane Plus Paediatric elixir
+0310000N0BFABAJ,Dimotane Plus oral solution
+0310000N0BG,Multi-Action Actifed
+0310000N0BGACAG,Multi-Action Actifed 60mg/2.5mg tablets
+0310000N0BGADAH,Multi-Action Actifed syrup
+0310000N0BL,Lemsip Power
+0310000N0BLAAAR,Lemsip Ibuprofen modified-release capsules
+0310000N0BP,Boots Cold and Flu Relief
+0310000N0BPAAAN,Boots Cold and Flu Relief with Ibuprofen tablets
+0310000N0BQ,Contac (Pseudoephedrine hydrochloride)
+0310000N0BQAAAA,Contac Non Drowsy 12 Hour Relief 120mg modified-release caps
+0310000N0BR,Otrivine Mu-Cron
+0310000N0BRAAAU,Otrivine Mu-Cron tablets
+0310000N0BS,Sudafed (Paracetamol/pseudoephedrine)
+0310000N0BSAAAU,Sudafed Non-Drowsy Congestion Cold and Flu tablets
+0310000N0BT,Galsud
+0310000N0BTAAAF,Galsud 30mg/5ml linctus
+0310000N0BTABAC,Galsud 60mg tablets
+0310000N0BU,Meltus (Pseudoephedrine hydrochloride)
+0310000N0BUAAAF,Meltus Decongestant 30mg/5ml oral solution
+0310000N0BV,Sinutab (Paracetamol/pseudoephedrine)
+0310000N0BVAAAW,Sinutab Non-Drowsy tablets
+0310000N0BW,Care (Pseudoephedrine hydrochloride)
+0310000N0BWAAAF,Care Decongestant 30mg/5ml oral liquid
+0310000N0BWABAC,Care Decongestant 60mg tablets
+0310000N0BX,Contac (Paracetamol/pseudoephedrine)
+0310000N0BXAAAW,Contac Non Drowsy Dual Relief tablets
+0310000Q0,Phenylephrine hydrochloride
+0310000Q0AA,Phenylephrine hydrochloride (Decongestant)
+0310000Q0AAAAAA,Phenylephrine 12mg capsules
+0310000Q0AAABAB,Phenylephrine 12.18mg tablets
+0310000Q0AAACAC,Ibuprofen 200mg / Phenylephrine 5mg tablets
+0310000Q0AAADAD,Phenylephrine 12.2mg capsules
+0310000Q0BB,Boots Blocked Nose Relief
+0310000Q0BBAAAA,Boots Blocked Nose Relief 12mg capsules
+0310000Q0BC,Sudafed (Phenylephedrine hydrochloride)
+0310000Q0BCAAAA,Sudafed Blocked Nose 12mg capsules
+0310000Q0BD,Galpharm (Phenylephrine hydrochloride)
+0310000Q0BDAAAB,Max Strength Decongestant 12.18mg tablets
+0310000Q0BE,Lemsip (Ibuprofen/phenylephedrine hydrochloride)
+0310000Q0BEAAAC,Lemsip Max All Night Cold & Flu tablets
+0310000Q0BF,Nurofen (Ibuprofen/phenylephrine hydrochloride)
+0310000Q0BFAAAC,Nurofen Cold & Flu Relief 200mg/5mg tablets
+0310000Q0BFABAC,Nurofen Day & Night Cold & Flu 200mg/5mg tablets
+0310000Q0BFACAC,Nurofen Sinus & Blocked Nose 200mg/5mg tablets
+0310000Q0BFADAC,Nurofen Sinus Pain Relief 200mg/5mg tablets
+0310000Q0BG,Numark (Phenylephrine hydrochloride)
+0310000Q0BGAAAD,Numark Max-Strength Congestion Relief 12.2mg capsules
+0311,Antifibrotics
+031101,Antifibrotics
+0311010,Antifibrotics
+0311010B0,Pirfenidone
+0311010B0AA,Pirfenidone
+0311010B0AAAAAA,Pirfenidone 267mg capsules
+0311010B0AAABAB,Pirfenidone 267mg tablets
+0311010B0AAACAC,Pirfenidone 801mg tablets
+0311010B0BB,Esbriet
+0311010B0BBAAAA,Esbriet 267mg capsules
+0311010B0BBABAB,Esbriet 267mg tablets
+0311010B0BBACAC,Esbriet 801mg tablets

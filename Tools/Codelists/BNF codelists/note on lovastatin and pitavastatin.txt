@@ -1,0 +1,1 @@
+no bnf codelist built for lovastatin or pivastatin as the terms are not represented in the bnf hierarchy (assume this means they are not sold in the UK)

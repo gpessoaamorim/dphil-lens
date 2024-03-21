@@ -1,0 +1,2772 @@
+code,term
+06,Endocrine System
+0601,Drugs used in diabetes
+060101,Insulin
+0601011,Short-acting insulins
+0601011A0,Insulin aspart
+0601011A0AA,Insulin aspart
+0601011A0AAAAAA,Insulin aspart 100units/ml solution for injection 10ml vials
+0601011A0AAABAB,Insulin aspart 100units/ml inj 3ml cartridges
+0601011A0AAACAC,Insulin aspart 100units/ml inj 3ml pf dispos dev
+0601011A0AAADAD,Insulin aspart 100units/ml inj 1.6ml cartridges
+0601011A0BB,Insulin NovoRapid
+0601011A0BBAAAA,NovoRapid 100units/ml solution for injection 10ml vials
+0601011A0BBABAB,NovoRapid Penfill 100units/ml inj 3ml cartridges
+0601011A0BBACAC,NovoRapid Novolet 100units/ml solution for injection
+0601011A0BBADAC,NovoRapid FlexPen 100units/ml inj 3ml pre-filled pens
+0601011A0BBAEAC,NovoRapid FlexTouch 100units/ml inj 3ml pre-filled pens
+0601011A0BBAFAD,NovoRapid PumpCart 100units/ml inj 1.6ml cartridges
+0601011A0BC,Insulin Fiasp
+0601011A0BCAAAC,Fiasp FlexTouch 100units/ml inj 3ml pre-filled pens
+0601011A0BCABAB,Fiasp Penfill 100units/ml inj 3ml cartridges
+0601011A0BCACAA,Fiasp 100units/ml solution for injection 10ml vials
+0601011L0,Insulin Lispro
+0601011L0AA,Insulin Lispro
+0601011L0AAAAAA,Insulin lispro 100units/ml inj 1.5ml cartridges
+0601011L0AAABAB,Insulin lispro 100units/ml solution for injection 10ml vials
+0601011L0AAACAC,Insulin lispro 100units/ml inj 3ml cartridges
+0601011L0AAAFAF,Insulin lispro 100units/ml inj 3ml pf dispos dev
+0601011L0AAAGAG,Insulin lispro 200units/ml  inj 3ml pf dispos dev
+0601011L0BB,Insulin Humalog
+0601011L0BBAAAA,Humalog 100units/ml solution for injection 1.5ml cartridges
+0601011L0BBABAB,Humalog 100units/ml solution for injection 10ml vials
+0601011L0BBACAC,Humalog 100units/ml solution for injection 3ml cartridges
+0601011L0BBAFAF,Humalog Pen 100units/ml inj 3ml pre-filled pens
+0601011L0BBAGAF,Humalog KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BBAHAG,Humalog KwikPen 200units/ml inj 3ml pre-filled pens
+0601011L0BBAIAF,Humalog Junior KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BC,Insulin Lispro (Sanofi)
+0601011L0BCAAAB,Insulin lispro Sanofi 100units/ml inj 10ml vials
+0601011L0BCABAC,Insulin lispro Sanofi 100units/ml inj 3ml cartridges
+0601011L0BCACAF,Insulin lispro Sanofi 100units/ml inj 3ml pre-filled pens
+0601011L0BD,Insulin Lyumjev
+0601011L0BDAAAG,Lyumjev KwikPen 200units/ml inj 3ml pre-filled pens
+0601011L0BDABAB,Lyumjev 100units/ml solution for injection 10ml vials
+0601011L0BDACAC,Lyumjev 100units/ml solution for injection 3ml cartridges
+0601011L0BDADAF,Lyumjev KwikPen 100units/ml inj 3ml pre-filled pens
+0601011L0BDAEAF,Lyumjev Junior KwikPen 100units/ml inj 3ml pre-filled pens
+0601011N0,Soluble insulin (Neutral insulin)
+0601011N0AA,Insulin soluble
+0601011N0AAAAAA,Insulin soluble bovine 100units/ml inj 10ml vials
+0601011N0AAACAC,Insulin soluble porcine 100units/ml inj 10ml vials
+0601011N0AAADAD,Insulin soluble human 100units/ml inj 1.5ml cartridges
+0601011N0AAALAL,Insulin soluble human 100units/ml inj 10ml vials
+0601011N0AAAMAM,Insulin soluble human 100units/ml inj 3ml pf dispos dev
+0601011N0AAAPAP,Insulin soluble human 100units/ml inj 3ml cartridges
+0601011N0AAATAT,Insulin soluble bovine 100units/ml inj 1.5ml cartridges
+0601011N0AAAUAU,Insulin soluble porcine 100units/ml inj 1.5ml cartridges
+0601011N0AAAWAW,Insulin soluble human 100units/ml inj 5ml vials
+0601011N0AAAYAY,Insulin soluble bovine 100units/ml inj 3ml cartridges
+0601011N0AAAZAZ,Insulin soluble porcine 100units/ml inj 3ml cartridges
+0601011N0BC,Insulin soluble (CP Pharm)
+0601011N0BCAAAA,Hypurin Bovine Neutral 100units/ml inj 10ml vials
+0601011N0BCADAT,Hypurin Bovine Neutral 100units/ml inj 1.5ml cartridges
+0601011N0BCAEAC,Hypurin Porcine Neutral 100units/ml inj 10ml vials
+0601011N0BCAFAU,Hypurin Porcine Neutral 100units/ml inj 1.5ml cartridges
+0601011N0BCAGAY,Hypurin Bovine Neutral 100units/ml inj 3ml cartridges
+0601011N0BCAHAZ,Hypurin Porcine Neutral 100units/ml inj 3ml cartridges
+0601011N0BF,Insulin soluble (Novo-Nordisk)
+0601011N0BFACAL,Velosulin 100units/ml solution for injection 10ml vials
+0601011N0BFAEAL,Actrapid 100units/ml solution for injection 10ml vials
+0601011N0BFAJAD,Human Actrapid Penfill 100units/ml inj 1.5ml cartridges
+0601011N0BFAPAM,Actrapid NovoLet 100units/ml solution for injection
+0601011N0BFAQAP,Actrapid Penfill 100units/ml inj 3ml cartridges
+0601011N0BFASAC,Pork Actrapid 100units/ml solution for injection 10ml vials
+0601011N0BH,Insulin Humulin S (Soluble)
+0601011N0BHAAAL,Humulin S 100units/ml solution for injection 10ml vials
+0601011N0BHACAM,HumaJect S Pen 100units/ml solution for injection
+0601011N0BHADAP,Humulin S 100units/ml solution for injection 3ml cartridges
+0601011N0BK,Insulin soluble (Aventis Pharma)
+0601011N0BKAAAW,Insuman Rapid 100units/ml solution for injection 5ml vials
+0601011N0BKABAP,Insuman Rapid 100units/ml inj 3ml cartridges
+0601011N0BKACAM,Insuman Rapid 100units/ml inj 3ml pre-filled OptiSet pens
+0601011P0,Insulin glulisine
+0601011P0AA,Insulin glulisine
+0601011P0AAAAAA,Insulin glulisine 100units/ml inj 10ml vials
+0601011P0AAABAB,Insulin glulisine 100units/ml inj 3ml cartridges
+0601011P0AAACAC,Insulin glulisine 100units/ml inj 3ml pf dispos dev
+0601011P0BB,Insulin Apidra
+0601011P0BBAAAA,Apidra 100units/ml solution for injection 10ml vials
+0601011P0BBABAB,Apidra 100units/ml solution for injection 3ml cartridges
+0601011P0BBACAC,Apidra 100units/ml inj 3ml pre-filled OptiSet pens
+0601011P0BBADAB,Apidra 100units/ml inj 3ml OptiClik cartridges
+0601011P0BBAEAC,Apidra 100units/ml inj 3ml pre-filled SoloStar pens
+0601011Q0,Insulin human inhaled
+0601011Q0AA,Insulin human inhaled
+0601011Q0AAAAAA,Insulin human 1mg inhalation powder blisters
+0601011Q0AAABAB,Insulin human 3mg inhalation powder blisters
+0601011Q0BB,Exubera
+0601011Q0BBAAAA,Exubera 1mg inhalation powder blisters
+0601011Q0BBABAB,Exubera 3mg inhalation powder blisters
+0601011R0,Insulin human
+0601011R0AA,Insulin human
+0601011R0AAABAB,Insulin human 500units/ml solution for injection 20ml vials
+0601011R0AAACAC,Insulin human 100units/ml inj 3.15ml cartridges
+0601011R0AAADAD,Insulin human 100units/ml solution for injection 10ml vials
+0601011R0AAAEAE,Insulin human 500units/ml inj 3ml pf dispos dev
+0601011R0BB,Insulin Humulin R
+0601011R0BBAAAD,Humulin R 100units/ml solution for injection 10ml vials
+0601011R0BBABAB,Humulin R 500units/ml solution for injection 20ml vials
+0601011R0BC,Insulin Insuman Infusat
+0601011R0BCAAAD,Insuman Infusat 100units/ml inj 10ml vials
+0601011R0BD,Insuman Infusat
+0601011R0BDAAAC,Insuman Infusat 100units/ml inj 3.15ml cartridges
+0601011R0BE,Humulin R Kwikpen
+0601011R0BEAAAE,Humulin R KwikPen 500units/ml inj 3ml pre-filled pens
+0601012,Intermediate and long-acting insulins
+0601012AB,Insulin glargine/lixisenatide
+0601012ABAA,Insulin glargine/lixisenatide
+0601012ABAAAAAA,Ins glargine 100u/ml / Lixis 33mcg/ml inj 3ml pf dispos dev
+0601012ABAAABAB,Ins glargine 100u/ml / Lixis 50mcg/ml inj 3ml pf dispos dev
+0601012ABBB,Suliqua
+0601012ABBBAAAA,Suliqua 100units/ml / 33microg/ml inj 3ml pf SoloStar pens
+0601012ABBBABAB,Suliqua 100units/ml / 50microg/ml inj 3ml pf SoloStar pens
+0601012D0,Biphasic isophane insulin
+0601012D0AA,Biphasic isophane insulin
+0601012D0AAA2A2,Insulin isophane biphasic human 50/50 100u/ml inj 1.5ml cart
+0601012D0AAA3A3,Insulin isoph biphas hum 20/80 100u/ml inj 3ml pf dispos dev
+0601012D0AAA4A4,Insulin isophane biphas hum 50/50 100units/ml inj 10ml vials
+0601012D0AAAGAG,Insulin isophane biphasic human 30/70 100u/ml inj 10ml vials
+0601012D0AAAIAI,Insulin isophane biphas porc 30/70 100units/ml inj 10ml
+0601012D0AAAJAJ,Insulin isophane biphas hum 30/70 100units/ml inj 1.5ml cart
+0601012D0AAAZAZ,Insulin isophane biphasic human 20/80 100u/ml inj 3ml cart
+0601012D0AABABA,Insulin isophane biphasic human 30/70 100u/ml inj 3ml cart
+0601012D0AABDBD,Insulin isophane biphas porcine 30/70 100u/ml inj 1.5ml cart
+0601012D0AABEBE,Insulin isophane biphasic human 20/80 100u/ml inj 1.5ml cart
+0601012D0AABHBH,Insulin isoph biphas hum 40/60 100u/ml inj 3ml pf dispos dev
+0601012D0AABIBI,Insulin isophane biphasic human 10/90 100u/ml inj 3ml cart
+0601012D0AABJBJ,Insulin isophane biphasic human 10/90 100u/ml inj 1.5ml cart
+0601012D0AABKBK,Insulin isophane biphasic human 40/60 100u/ml inj 3ml cart
+0601012D0AABLBL,Insulin isophane biphasic human 40/60 100u/ml inj 1.5ml cart
+0601012D0AABMBM,Insulin isophane biphas hum 25/75 100units/ml inj 5ml vials
+0601012D0AABNBN,Insulin isophane biphasic human 25/75 100u/ml inj 3ml cart
+0601012D0AABQBQ,Insulin isoph biphas hum 10/90 100u/ml inj 3ml pf dispos dev
+0601012D0AABRBR,Insulin isophane biphas hum 15/85 100units/ml inj 5ml vials
+0601012D0AABSBS,Insulin isophane biphasic human 15/85 100u/ml inj 3ml cart
+0601012D0AABTBT,Insulin isophane biphas hum 50/50 100units/ml inj 5ml vials
+0601012D0AABUBU,Insulin isophane biphasic human 50/50 100u/ml inj 3ml cart
+0601012D0AABVBV,Insulin isoph biphas hum 15/85 100u/ml inj 3ml pf dispos dev
+0601012D0AABWBW,Insulin isoph biphas hum 25/75 100u/ml inj 3ml pf dispos dev
+0601012D0AABXBX,Ins isoph biphas hum 50/50 100u/ml inj 3ml  pf dispos dev
+0601012D0AABYBY,Insulin isophane biphasic porcine 30/70 100u/ml inj 3ml cart
+0601012D0AABZBZ,Insulin isoph biphas hum 30/70 100u/ml inj 3ml pf dispos dev
+0601012D0BB,Insulin Humulin
+0601012D0BBACAG,Humulin M3 100units/ml suspension for injection 10ml vials
+0601012D0BBAIA4,Humulin M5 100units/ml suspension for injection 10ml vials
+0601012D0BBAMBZ,HumaJect M3 Pen 100units/ml suspension for injection
+0601012D0BBARAZ,Humulin M2 100units/ml inj 3ml cartridges
+0601012D0BBASBA,Humulin M3 100units/ml inj 3ml cartridges
+0601012D0BBAUBZ,Humulin M3 Pen 100units/ml inj 3ml pre-filled pens
+0601012D0BBAVBZ,Humulin M3 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012D0BC,Insulin biphasic isophane (Novo-Nordisk)
+0601012D0BCABAI,Pork Mixtard 30 100units/ml inj 10ml vials
+0601012D0BCALAJ,Human Mixtard 30 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAMBJ,Human Mixtard 10 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCANBE,Human Mixtard 20 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAPBL,Human Mixtard 40 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCAQA2,Human Mixtard 50 Penfill 100units/ml inj 1.5ml cartridges
+0601012D0BCARBZ,Mixtard 30 NovoLet 100units/ml suspension for injection
+0601012D0BCASBQ,Mixtard 10 NovoLet 100units/ml suspension for injection
+0601012D0BCATA3,Mixtard 20 NovoLet 100units/ml suspension for injection
+0601012D0BCAUBH,Mixtard 40 NovoLet 100units/ml suspension for injection
+0601012D0BCAVBX,Mixtard 50 NovoLet 100units/ml suspension for injection
+0601012D0BCAWAG,Mixtard 30 100units/ml suspension for injection 10ml vials
+0601012D0BCAXA4,Human Mixtard 50 100units/ml inj 10ml vials
+0601012D0BCAYBI,Mixtard 10 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCAZAZ,Mixtard 20 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBABA,Mixtard 30 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBBBK,Mixtard 40 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBCBU,Mixtard 50 Penfill 100units/ml inj 3ml cartridges
+0601012D0BCBDBZ,Mixtard 30 InnoLet 100units/ml inj 3ml pre-filled pens
+0601012D0BE,Insulin biphasic isophane (CP Pharm)
+0601012D0BEAGAI,Hypurin Porcine 30/70 Mix 100units/ml inj 10ml vials
+0601012D0BEAHBD,Hypurin Porcine 30/70 Mix 100units/ml inj 1.5ml cartridges
+0601012D0BEAIBY,Hypurin Porcine 30/70 Mix 100units/ml inj 3ml cartridges
+0601012D0BG,Insulin biphasic isophane (Sanofi Aventis)
+0601012D0BGAABM,Insuman Comb 25 100units/ml inj 5ml vials
+0601012D0BGABBN,Insuman Comb 25 100units/ml inj 3ml cartridges
+0601012D0BGACBR,Insuman Comb 15 100units/ml inj 5ml vials
+0601012D0BGADBS,Insuman Comb 15 100units/ml inj 3ml cartridges
+0601012D0BGAEBT,Insuman Comb 50 100units/ml inj 5ml vials
+0601012D0BGAFBU,Insuman Comb 50 100units/ml inj 3ml cartridges
+0601012D0BGAGBV,Insuman Comb 15 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAHBW,Insuman Comb 25 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAIBX,Insuman Comb 50 100units/ml inj 3ml pre-filled OptiSet pens
+0601012D0BGAJBW,Insuman Comb 25 100units/ml inj 3ml pre-filled SoloStar pens
+0601012F0,Biphasic insulin lispro
+0601012F0AA,Insulin Lispro biphasic
+0601012F0AAAAAA,Insulin lispro biphasic 25/75 100u/ml inj 3ml pf dispos dev
+0601012F0AAABAB,Insulin lispro biphasic 25/75 100units/ml inj 3ml cartridges
+0601012F0AAACAC,Insulin lispro biphasic 50/50 100u/ml inj 3ml pf dispos dev
+0601012F0AAADAD,Insulin lispro biphasic 50/50 100units/ml inj 3ml cartridges
+0601012F0AAAEAE,Insulin lispro biphasic 25/75 100units/ml inj 10ml vials
+0601012F0BB,Insulin Humalog Mix
+0601012F0BBAAAA,Humalog Mix25 Pen 100units/ml inj 3ml pre-filled pens
+0601012F0BBABAB,Humalog Mix25 100units/ml inj 3ml cartridges
+0601012F0BBACAC,Humalog Mix50 Pen 100units/ml inj 3ml pre-filled pens
+0601012F0BBADAD,Humalog Mix50 100units/ml inj 3ml cartridges
+0601012F0BBAEAA,Humalog Mix25 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012F0BBAFAC,Humalog Mix50 KwikPen 100units/ml inj 3ml pre-filled pens
+0601012F0BBAGAE,Humalog Mix25 100units/ml inj 10ml vials
+0601012G0,Insulin zinc suspension
+0601012G0AA,Generic insulin
+0601012G0AAAHAH,Insulin zinc mixed bovine 100units/ml inj 10ml vials
+0601012G0BC,Insulin Hypurin Bovine Lente
+0601012G0BCAAAH,Hypurin Bovine Lente 100units/ml inj 10ml vials
+0601012G0BD,Insulin zinc suspension (Novo-Nordisk)
+0601012G0BDABAH,Monotard 100units/ml suspension for injection 10ml vials
+0601012G0BG,Insulin Humulin Lente
+0601012G0BGAAAH,Humulin Lente 100units/ml inj 10ml vials
+0601012N0,Insulin zinc suspension (Crystalline)
+0601012N0AA,Generic insulin
+0601012N0AAACAC,Insulin zinc crystalline human 100units/ml inj 10ml vials
+0601012N0BB,Insulin zinc suspension (Crystalline)
+0601012N0BBAAAC,Ultratard 100units/ml suspension for injection 10ml vials
+0601012N0BC,Insulin Humulin Zinc
+0601012N0BCAAAC,Humulin Zn 100units/ml suspension for injection 10ml vials
+0601012S0,Isophane insulin
+0601012S0AA,Insulin isophane
+0601012S0AAABAB,Insulin isophane porcine 100units/ml inj 10ml vials
+0601012S0AAADAD,Insulin isophane bovine 100units/ml inj 10ml vials
+0601012S0AAAEAE,Insulin isophane human 100units/ml inj 10ml vials
+0601012S0AAAIAI,Insulin isophane human 100units/ml inj 3ml pf dispos dev
+0601012S0AAALAL,Insulin isophane human 100units/ml inj 3ml cartridges
+0601012S0AAAMAM,Insulin isophane human 100units/ml inj 1.5ml cartridges
+0601012S0AAANAN,Insulin isophane bovine 100units/ml inj 1.5ml cartridges
+0601012S0AAAPAP,Insulin isophane porcine 100units/ml inj 1.5ml cartridges
+0601012S0AAAQAQ,Insulin isophane human 100units/ml inj 5ml vials
+0601012S0AAASAS,Insulin isophane bovine 100units/ml inj 3ml cartridges
+0601012S0AAATAT,Insulin isophane porcine 100units/ml inj 3ml cartridges
+0601012S0BC,Insulin isophane (CP Pharm)
+0601012S0BCAAAD,Hypurin Bovine Isophane 100units/ml inj 10ml vials
+0601012S0BCADAN,Hypurin Bovine Isophane 100units/ml inj 1.5ml cartridges
+0601012S0BCAEAB,Hypurin Porcine Isophane 100units/ml inj 10ml vials
+0601012S0BCAFAP,Hypurin Porcine Isophane 100units/ml inj 1.5ml cartridges
+0601012S0BCAGAS,Hypurin Bovine Isophane 100units/ml inj 3ml cartridges
+0601012S0BCAHAT,Hypurin Porcine Isophane 100units/ml inj 3ml cartridges
+0601012S0BD,Insulin isophane (Novo-Nordisk)
+0601012S0BDAAAB,Pork Insulatard 100units/ml inj 10ml vials
+0601012S0BDAIAI,Insulatard NovoLet 100units/ml suspension for injection
+0601012S0BDAJAE,Insulatard 100units/ml suspension for injection 10ml vials
+0601012S0BDAKAM,Human Insulatard Penfill 100units/ml inj 1.5ml cartridges
+0601012S0BDALAL,Insulatard Penfill 100units/ml inj 3ml cartridges
+0601012S0BDAMAI,Insulatard InnoLet 100units/ml inj 3ml pre-filled pens
+0601012S0BDANAI,Insulatard FlexPen 100units/ml suspension for injection
+0601012S0BG,Insulin Humulin I (Isophane)
+0601012S0BGAAAE,Humulin I 100units/ml suspension for injection 10ml vials
+0601012S0BGADAL,Humulin I 100units/ml inj 3ml cartridges
+0601012S0BGAEAI,Humulin I Pen 100units/ml inj 3ml pre-filled pens
+0601012S0BGAFAI,Humulin I KwikPen 100units/ml inj 3ml pre-filled pens
+0601012S0BI,Insulin Insuman Basal
+0601012S0BIAAAQ,Insuman Basal 100units/ml suspension for injection 5ml vials
+0601012S0BIABAL,Insuman Basal 100units/ml inj 3ml cartridges
+0601012S0BIACAI,Insuman Basal 100units/ml inj 3ml pre-filled OptiSet pens
+0601012S0BIADAI,Insuman Basal 100units/ml inj 3ml pre-filled SoloStar pens
+0601012U0,Protamine zinc insulin
+0601012U0AA,Insulin protamine zinc
+0601012U0AAAAAA,Insulin protamine zinc bovine 100units/ml inj 10ml vials
+0601012U0BB,Insulin Hypurin Bovine Protamine Zinc
+0601012U0BBAAAA,Hypurin Bovine Protamine Zinc 100units/ml inj 10ml vials
+0601012V0,Insulin glargine
+0601012V0AA,Insulin glargine
+0601012V0AAAAAA,Insulin glargine 100units/ml inj 3ml cartridges
+0601012V0AAABAB,Insulin glargine 100units/ml inj 10ml vials
+0601012V0AAADAD,Insulin glargine 100units/ml inj 3ml pf dispos dev
+0601012V0AAAEAE,Insulin glargine 300units/ml inj 1.5ml pf dispos dev
+0601012V0AAAFAF,Insulin glargine 300units/ml inj 3ml pf disposable devices
+0601012V0BB,Insulin Lantus
+0601012V0BBAAAA,Lantus 100units/ml solution for injection 3ml cartridges
+0601012V0BBABAB,Lantus 100units/ml solution for injection 10ml vials
+0601012V0BBACAD,Lantus 100units/ml inj 3ml pre-filled OptiSet pens
+0601012V0BBADAA,Lantus 100units/ml inj 3ml OptiClik cartridges
+0601012V0BBAEAD,Lantus 100units/ml inj 3ml pre-filled SoloStar pens
+0601012V0BC,Toujeo
+0601012V0BCAAAE,Toujeo 300units/ml inj 1.5ml pre-filled SoloStar pens
+0601012V0BCABAF,Toujeo 300units/ml inj 3ml pre-filled DoubleStar pens
+0601012V0BD,Abasaglar
+0601012V0BDABAA,Abasaglar 100units/ml solution for injection 3ml cartridges
+0601012V0BDACAD,Abasaglar KwikPen 100units/ml inj 3ml pre-filled pens
+0601012V0BE,Semglee
+0601012V0BEAAAD,Semglee 100units/ml inj 3ml pre-filled pens
+0601012W0,Biphasic insulin aspart
+0601012W0AA,Insulin aspart biphasic
+0601012W0AAAAAA,Insulin aspart biphasic 30/70 100units/ml inj 3ml cartridges
+0601012W0AAABAB,Insulin aspart biphasic 30/70 100u/ml inj 3ml pf dispos dev
+0601012W0BB,NovoMix
+0601012W0BBAAAA,NovoMix 30 Penfill 100units/ml inj 3ml cartridges
+0601012W0BBABAB,NovoMix 30 FlexPen 100units/ml inj 3ml pre-filled pens
+0601012X0,Insulin detemir
+0601012X0AA,Insulin detemir
+0601012X0AAAAAA,Insulin detemir 100units/ml inj 3ml cartridges
+0601012X0AAABAB,Insulin detemir 100units/ml inj 3ml pf dispos dev
+0601012X0BB,Insulin Levemir (Novo-Nordisk)
+0601012X0BBAAAA,Levemir Penfill 100units/ml inj 3ml cartridges
+0601012X0BBABAB,Levemir FlexPen 100units/ml inj 3ml pre-filled pens
+0601012X0BBACAB,Levemir InnoLet 100units/ml inj 3ml pre-filled pens
+0601012Z0,Insulin degludec
+0601012Z0AA,Insulin degludec
+0601012Z0AAAAAA,Insulin degludec 100units/ml inj 3ml cartridges
+0601012Z0AAABAB,Insulin degludec 100units/ml inj 3ml pf dispos dev
+0601012Z0AAACAC,Insulin degludec 200units/ml inj 3ml pf dispos dev
+0601012Z0BB,Insulin Tresiba
+0601012Z0BBAAAA,Tresiba Penfill 100units/ml inj 3ml cartridges
+0601012Z0BBABAB,Tresiba FlexTouch 100units/ml inj 3ml pre-filled pens
+0601012Z0BBACAC,Tresiba FlexTouch 200units/ml inj 3ml pre-filled pens
+060102,Antidiabetic drugs
+0601021,Sulfonylureas
+0601021A0,Glimepiride
+0601021A0AA,Glimepiride
+0601021A0AAAAAA,Glimepiride 2mg tablets
+0601021A0AAABAB,Glimepiride 1mg tablets
+0601021A0AAACAC,Glimepiride 3mg tablets
+0601021A0AAADAD,Glimepiride 4mg tablets
+0601021A0AAAGAG,Glimepiride 2mg/5ml oral liquid
+0601021A0AAAHAH,Glimepiride 6mg/5ml oral suspension
+0601021A0BB,Amaryl
+0601021A0BBAAAA,Amaryl 2mg tablets
+0601021A0BBABAB,Amaryl 1mg tablets
+0601021A0BBACAC,Amaryl 3mg tablets
+0601021A0BBADAD,Amaryl 4mg tablets
+0601021A0BC,Niddaryl
+0601021A0BCAAAB,Niddaryl 1mg tablets
+0601021A0BCABAA,Niddaryl 2mg tablets
+0601021A0BCACAC,Niddaryl 3mg tablets
+0601021A0BCADAD,Niddaryl 4mg tablets
+0601021E0,Chlorpropamide
+0601021E0AA,Chlorpropamide
+0601021E0AAAAAA,Chlorpropamide 100mg tablets
+0601021E0AAABAB,Chlorpropamide 250mg tablets
+0601021E0AAADAD,Chlorpropamide 250mg/5ml oral suspension
+0601021H0,Glibenclamide
+0601021H0AA,Glibenclamide
+0601021H0AAAAAA,Glibenclamide 2.5mg tablets
+0601021H0AAABAB,Glibenclamide 5mg tablets
+0601021H0AAAIAI,Glibenclamide 625micrograms/5ml oral liquid
+0601021H0AAAJAJ,Glibenclamide 5mg/5ml oral liquid
+0601021H0AAAKAK,Glibenclamide 2.5mg/5ml oral liquid
+0601021H0AAAMAM,Glibenclamide 15mg/5ml oral liquid
+0601021H0AAANAN,Glibenclamide 7.5mg/5ml oral liquid
+0601021H0AAAPAP,Glibenclamide 600micrograms/ml oral suspension sugar free
+0601021H0AAAQAQ,Glibenclamide 6mg/ml oral suspension sugar free
+0601021H0BB,Daonil
+0601021H0BBAAAB,Daonil 5mg tablets
+0601021H0BBACAA,Semi-Daonil 2.5mg tablets
+0601021H0BD,Euglucon
+0601021H0BDAAAA,Euglucon 2.5mg tablets
+0601021H0BDABAB,Euglucon 5mg tablets
+0601021H0BK,Diabetamide
+0601021H0BKAAAA,Diabetamide 2.5mg tablets
+0601021H0BKABAB,Diabetamide 5mg tablets
+0601021H0BN,Amglidia
+0601021H0BNAAAP,Amglidia 0.6mg/ml oral suspension with 1ml oral syringe
+0601021H0BNABAP,Amglidia 0.6mg/ml oral suspension with 5ml oral syringe
+0601021H0BNACAQ,Amglidia 6mg/ml oral suspension with 1ml oral syringe
+0601021H0BNADAQ,Amglidia 6mg/ml oral suspension with 5ml oral syringe
+0601021M0,Gliclazide
+0601021M0AA,Gliclazide
+0601021M0AAAAAA,Gliclazide 80mg tablets
+0601021M0AAAGAG,Gliclazide 60mg/5ml oral suspension
+0601021M0AAAHAH,Gliclazide 50mg/5ml oral suspension
+0601021M0AAAIAI,Gliclazide 120mg/5ml oral suspension
+0601021M0AAAJAJ,Gliclazide 160mg/5ml oral suspension
+0601021M0AAALAL,Gliclazide 100mg/5ml oral suspension
+0601021M0AAAMAM,Gliclazide 30mg modified-release tablets
+0601021M0AAANAN,Gliclazide 20mg/5ml oral suspension
+0601021M0AAAPAP,Gliclazide 30mg/5ml oral suspension
+0601021M0AAARAR,Gliclazide 40mg tablets
+0601021M0AAASAS,Gliclazide 80mg/5ml oral suspension
+0601021M0AAATAT,Gliclazide 60mg modified-release tablets
+0601021M0AAAUAU,Gliclazide 40mg/5ml oral suspension
+0601021M0AAAVAV,Gliclazide 160mg tablets
+0601021M0BB,Diamicron
+0601021M0BBAAAA,Diamicron 80mg tablets
+0601021M0BBABAM,Diamicron 30mg MR tablets
+0601021M0BC,Diaglyk
+0601021M0BCAAAA,Diaglyk 80mg tablets
+0601021M0BD,Vivazide
+0601021M0BDAAAA,Vivazide 80mg tablets
+0601021M0BE,Glimil
+0601021M0BEAAAA,Glimil 80mg tablets
+0601021M0BF,Nazdol
+0601021M0BFAAAM,Nazdol MR 30mg tablets (Consilient Health)
+0601021M0BFABAM,Nazdol MR 30mg tablets (Mylan)
+0601021M0BFACAM,Nazdol MR 30mg tablets (Teva)
+0601021M0BG,Edicil
+0601021M0BGAAAM,Edicil MR 30mg tablets
+0601021M0BH,Dacadis
+0601021M0BHAAAM,Dacadis MR 30mg tablets
+0601021M0BI,Zicron
+0601021M0BIAAAR,Zicron 40mg tablets
+0601021M0BIABAM,Zicron PR 30mg tablets
+0601021M0BJ,Vitile
+0601021M0BJAAAM,Vitile XL 30mg tablets
+0601021M0BK,Laaglyda M/R
+0601021M0BKAAAT,Laaglyda MR 60mg tablets
+0601021M0BL,Ziclaseg
+0601021M0BLAAAM,Ziclaseg 30mg modified-release tablets
+0601021M0BM,Vamju
+0601021M0BMAAAM,Vamju 30mg modified-release tablets
+0601021M0BMABAT,Vamju 60mg modified-release tablets
+0601021M0BN,Bilxona
+0601021M0BNAAAM,Bilxona 30mg modified-release tablets
+0601021M0BNABAT,Bilxona 60mg modified-release tablets (Actavis)
+0601021M0BNACAT,Bilxona 60mg modified-release tablets (Accord)
+0601021M0BP,Glydex
+0601021M0BPAAAV,Glydex 160mg tablets
+0601021M0BQ,Lamzarin
+0601021M0BQAAAM,Lamzarin 30mg modified-release tablets
+0601021M0BQABAT,Lamzarin 60mg modified-release tablets
+0601021P0,Glipizide
+0601021P0AA,Glipizide
+0601021P0AAAAAA,Glipizide 2.5mg tablets
+0601021P0AAABAB,Glipizide 5mg tablets
+0601021P0BB,Glibenese
+0601021P0BBAAAB,Glibenese 5mg tablets
+0601021P0BC,Minodiab
+0601021P0BCACAA,Minodiab 2.5mg tablets
+0601021P0BCADAB,Minodiab 5mg tablets
+0601021R0,Gliquidone
+0601021R0AA,Gliquidone
+0601021R0AAAAAA,Gliquidone 30mg tablets
+0601021R0BB,Glurenorm
+0601021R0BBAAAA,Glurenorm 30mg tablets
+0601021X0,Tolbutamide
+0601021X0AA,Tolbutamide
+0601021X0AAADAD,Tolbutamide 500mg tablets
+0601021X0AAAJAJ,Tolbutamide 500mg/5ml oral suspension
+0601021X0AAAKAK,Tolbutamide 250mg/5ml oral suspension
+0601021X0AAALAL,Tolbutamide 1g/5ml oral suspension
+0601022,Biguanides
+0601022B0,Metformin hydrochloride
+0601022B0AA,Metformin hydrochloride
+0601022B0AAABAB,Metformin 500mg tablets
+0601022B0AAADAD,Metformin 850mg tablets
+0601022B0AAAIAI,Metformin 500mg/5ml oral liquid
+0601022B0AAAJAJ,Metformin 850mg/5ml oral liquid
+0601022B0AAAKAK,Metformin 250mg/5ml oral liquid
+0601022B0AAALAL,Metformin 425mg/5ml oral liquid
+0601022B0AAAMAM,Metformin 1g/5ml oral solution
+0601022B0AAANAN,Metformin 5mg/5ml oral solution
+0601022B0AAAQAQ,Metformin 850mg capsules
+0601022B0AAARAR,Metformin 500mg/5ml oral solution sugar free
+0601022B0AAASAS,Metformin 500mg modified-release tablets
+0601022B0AAATAT,Metformin 750mg modified-release tablets
+0601022B0AAAVAV,Metformin 1g modified-release tablets
+0601022B0AAAWAW,Metformin 500mg oral powder sachets sugar free
+0601022B0AAAXAX,Metformin 1g oral powder sachets sugar free
+0601022B0AAAYAY,Metformin 1g/5ml oral solution sugar free
+0601022B0AAAZAZ,Metformin 850mg/5ml oral solution sugar free
+0601022B0BB,Glucophage
+0601022B0BBAAAB,Glucophage 500mg tablets
+0601022B0BBABAD,Glucophage 850mg tablets
+0601022B0BBACAS,Glucophage SR 500mg tablets
+0601022B0BBADAT,Glucophage SR 750mg tablets
+0601022B0BBAEAV,Glucophage SR 1000mg tablets
+0601022B0BBAFAW,Glucophage 500mg oral powder sachets
+0601022B0BBAGAX,Glucophage 1000mg oral powder sachets
+0601022B0BD,Glyformin
+0601022B0BDAAAB,Glyformin 500mg tablets
+0601022B0BH,Metsol
+0601022B0BHAAAR,Metsol 500mg/5ml oral solution
+0601022B0BI,Bolamyn
+0601022B0BIAAAS,Bolamyn SR 500mg tablets
+0601022B0BIABAV,Bolamyn SR 1000mg tablets
+0601022B0BJ,Metabet
+0601022B0BJAAAS,Metabet SR 500mg tablets (Morningside)
+0601022B0BJABAV,Metabet SR 1000mg tablets (Morningside)
+0601022B0BJACAV,Metabet SR 1000mg tablets (Actavis)
+0601022B0BJADAS,Metabet SR 500mg tablets (Actavis)
+0601022B0BK,Glucient SR
+0601022B0BKAAAS,Glucient SR 500mg tablets
+0601022B0BKABAT,Glucient SR 750mg tablets
+0601022B0BKACAV,Glucient SR 1000mg tablets
+0601022B0BL,Diagemet XL
+0601022B0BLAAAS,Diagemet XL 500mg tablets
+0601022B0BM,Sukkarto SR
+0601022B0BMAAAV,Sukkarto SR 1000mg tablets
+0601022B0BMABAS,Sukkarto SR 500mg tablets
+0601022B0BMACAT,Sukkarto SR 750mg tablets
+0601022B0BN,Meijumet
+0601022B0BNAAAS,Meijumet 500mg modified-release tablets
+0601022B0BNABAT,Meijumet 750mg modified-release tablets
+0601022B0BNACAV,Meijumet 1000mg modified-release tablets
+0601022B0BP,Yaltormin
+0601022B0BPAAAS,Yaltormin SR 500mg tablets
+0601022B0BPABAT,Yaltormin SR 750mg tablets
+0601022B0BPACAV,Yaltormin SR 1000mg tablets
+0601022B0BQ,Metuxtan SR
+0601022B0BQAAAS,Metuxtan SR 500mg tablets
+0601023,Other antidiabetic drugs
+0601023A0,Acarbose
+0601023A0AA,Acarbose
+0601023A0AAAAAA,Acarbose 50mg tablets
+0601023A0AAABAB,Acarbose 100mg tablets
+0601023A0BB,Glucobay
+0601023A0BBACAA,Glucobay 50mg tablets
+0601023A0BBADAB,Glucobay 100mg tablets
+0601023AA,Vildagliptin
+0601023AAAA,Vildagliptin
+0601023AAAAAAAA,Vildagliptin 50mg tablets
+0601023AABB,Galvus
+0601023AABBAAAA,Galvus 50mg tablets
+0601023AB,Liraglutide
+0601023ABAA,Liraglutide
+0601023ABAAAAAA,Liraglutide 6mg/1ml inj 3ml pre-filled disposable devices
+0601023ABBB,Victoza
+0601023ABBBAAAA,Victoza 6mg/ml solution for injection 3ml pre-filled pens
+0601023ABBC,Saxenda
+0601023ABBCAAAA,Saxenda 6mg/ml solution for injection 3ml pre-filled pens
+0601023AC,Saxagliptin
+0601023ACAA,Saxagliptin
+0601023ACAAAAAA,Saxagliptin 5mg tablets
+0601023ACAAABAB,Saxagliptin 2.5mg tablets
+0601023ACBB,Onglyza
+0601023ACBBAAAA,Onglyza 5mg tablets
+0601023ACBBABAB,Onglyza 2.5mg tablets
+0601023AD,Metformin hydrochloride/sitagliptin
+0601023ADAA,Metformin hydrochloride/sitagliptin
+0601023ADAAAAAA,Metformin 1g / Sitagliptin 50mg tablets
+0601023ADBB,Janumet
+0601023ADBBAAAA,Janumet 50mg/1000mg tablets
+0601023AE,Linagliptin
+0601023AEAA,Linagliptin
+0601023AEAAAAAA,Linagliptin 5mg tablets
+0601023AEBB,Trajenta
+0601023AEBBAAAA,Trajenta 5mg tablets
+0601023AF,Linagliptin/metformin
+0601023AFAA,Linagliptin/metformin
+0601023AFAAAAAA,Linagliptin 2.5mg / Metformin 850mg tablets
+0601023AFAAABAB,Linagliptin 2.5mg / Metformin 1g tablets
+0601023AFBB,Jentadueto
+0601023AFBBAAAA,Jentadueto 2.5mg/850mg tablets
+0601023AFBBABAB,Jentadueto 2.5mg/1000mg tablets
+0601023AG,Dapagliflozin
+0601023AGAA,Dapagliflozin
+0601023AGAAAAAA,Dapagliflozin 5mg tablets
+0601023AGAAABAB,Dapagliflozin 10mg tablets
+0601023AGBB,Forxiga
+0601023AGBBAAAA,Forxiga 5mg tablets
+0601023AGBBABAB,Forxiga 10mg tablets
+0601023AH,Saxagliptin/metformin
+0601023AHAA,Saxagliptin/metformin
+0601023AHAAAAAA,Saxagliptin 2.5mg / Metformin 850mg tablets
+0601023AHAAABAB,Saxagliptin 2.5mg / Metformin 1g tablets
+0601023AHBB,Komboglyze
+0601023AHBBAAAA,Komboglyze 2.5mg/850mg tablets
+0601023AHBBABAB,Komboglyze 2.5mg/1000mg tablets
+0601023AI,Lixisenatide
+0601023AIAA,Lixisenatide
+0601023AIAAAAAA,Lixisenatide 20micrograms/0.2ml inj 3ml pf dispos dev
+0601023AIAAABAB,Lixisenatide 10micrograms/0.2ml inj 3ml pf dispos dev
+0601023AIAAACAC,Lixisenatide 10microg/0.2ml and 20microg/0.2ml inj
+0601023AIBB,Lyxumia
+0601023AIBBAAAA,Lyxumia 20micrograms/0.2ml inj 3ml pre-filled pens
+0601023AIBBABAB,Lyxumia 10micrograms/0.2ml inj 3ml pre-filled pens
+0601023AIBBACAC,Lyxumia 10micrograms/20micrograms treatment initiation pack
+0601023AJ,Alogliptin/metformin
+0601023AJAA,Alogliptin/metformin
+0601023AJAAAAAA,Alogliptin 12.5mg / Metformin 1g tablets
+0601023AJBB,Vipdomet
+0601023AJBBAAAA,Vipdomet 12.5mg/1000mg tablets
+0601023AK,Alogliptin
+0601023AKAA,Alogliptin
+0601023AKAAAAAA,Alogliptin 6.25mg tablets
+0601023AKAAABAB,Alogliptin 12.5mg tablets
+0601023AKAAACAC,Alogliptin 25mg tablets
+0601023AKBB,Vipidia
+0601023AKBBAAAA,Vipidia 6.25mg tablets
+0601023AKBBABAB,Vipidia 12.5mg tablets
+0601023AKBBACAC,Vipidia 25mg tablets
+0601023AL,Dapagliflozin/metformin
+0601023ALAA,Dapagliflozin/metformin
+0601023ALAAAAAA,Dapagliflozin 5mg / Metformin 850mg tablets
+0601023ALAAABAB,Dapagliflozin 5mg / Metformin 1g tablets
+0601023ALBB,Xigduo
+0601023ALBBAAAA,Xigduo 5mg/850mg tablets
+0601023ALBBABAB,Xigduo 5mg/1000mg tablets
+0601023AM,Canagliflozin
+0601023AMAA,Canagliflozin
+0601023AMAAAAAA,Canagliflozin 100mg tablets
+0601023AMAAABAB,Canagliflozin 300mg tablets
+0601023AMBB,Invokana
+0601023AMBBAAAA,Invokana 100mg tablets
+0601023AMBBABAB,Invokana 300mg tablets
+0601023AN,Empagliflozin
+0601023ANAA,Empagliflozin
+0601023ANAAAAAA,Empagliflozin 10mg tablets
+0601023ANAAABAB,Empagliflozin 25mg tablets
+0601023ANBB,Jardiance
+0601023ANBBAAAA,Jardiance 10mg tablets
+0601023ANBBABAB,Jardiance 25mg tablets
+0601023AP,Canagliflozin/metformin
+0601023APAA,Canagliflozin/metformin
+0601023APAAAAAA,Canagliflozin 50mg / Metformin 850mg tablets
+0601023APAAABAB,Canagliflozin 50mg / Metformin 1g tablets
+0601023APBB,Vokanamet
+0601023APBBAAAA,Vokanamet 50mg/850mg tablets
+0601023APBBABAB,Vokanamet 50mg/1000mg tablets
+0601023AQ,Dulaglutide
+0601023AQAA,Dulaglutide
+0601023AQAAAAAA,Dulaglutide 0.75mg/0.5ml inj pre-filled disposable devices
+0601023AQAAABAB,Dulaglutide 1.5mg/0.5ml inj pre-filled disposable devices
+0601023AQBB,Trulicity
+0601023AQBBAAAA,Trulicity 0.75mg/0.5ml inj pre-filled pens
+0601023AQBBABAB,Trulicity 1.5mg/0.5ml solution for injection pre-filled pens
+0601023AR,Empagliflozin/metformin
+0601023ARAA,Empagliflozin/metformin
+0601023ARAAAAAA,Empagliflozin 5mg / Metformin 850mg tablets
+0601023ARAAABAB,Empagliflozin 5mg / Metformin 1g tablets
+0601023ARAAACAC,Empagliflozin 12.5mg / Metformin 850mg tablets
+0601023ARAAADAD,Empagliflozin 12.5mg / Metformin 1g tablets
+0601023ARBB,Synjardy
+0601023ARBBAAAA,Synjardy 5mg/850mg tablets
+0601023ARBBABAB,Synjardy 5mg/1000mg tablets
+0601023ARBBACAC,Synjardy 12.5mg/850mg tablets
+0601023ARBBADAD,Synjardy 12.5mg/1000mg tablets
+0601023AS,Albiglutide
+0601023ASAA,Albiglutide
+0601023ASAAAAAA,Albiglutide 30mg inj pre-filled disposable devices
+0601023ASAAABAB,Albiglutide 50mg inj pre-filled disposable devices
+0601023ASBB,Eperzan
+0601023ASBBAAAA,Eperzan 30mg inj pre-filled pens
+0601023ASBBABAB,Eperzan 50mg inj pre-filled pens
+0601023AU,Ins degludec/liraglutide
+0601023AUAA,Ins degludec/liraglutide
+0601023AUAAAAAA,Insulin degludec 100u/ml/Lirag 3.6mg/ml inj3ml pf dispos dev
+0601023AUBB,Xultophy
+0601023AUBBAAAA,Xultophy 100units/ml / 3.6mg/ml inj 3ml pre-filled pens
+0601023AV,Saxagliptin/dapagliflozin
+0601023AVAA,Saxagliptin/dapagliflozin
+0601023AVAAAAAA,Saxagliptin 5mg / Dapagliflozin 10mg tablets
+0601023AVBB,Qtern
+0601023AVBBAAAA,Qtern 5mg/10mg tablets
+0601023AW,Semaglutide
+0601023AWAA,Semaglutide
+0601023AWAAAAAA,Semaglutide 0.25mg/0.19ml inj 1.5ml pf dispos dev
+0601023AWAAABAB,Semaglutide 0.5mg/0.37ml inj 1.5ml pf dispos dev
+0601023AWAAACAC,Semaglutide 1mg/0.74ml inj 3ml pre-filled disposable device
+0601023AWAAADAD,Semaglutide 14mg tablets
+0601023AWAAAEAE,Semaglutide 3mg tablets
+0601023AWAAAFAF,Semaglutide 7mg tablets
+0601023AWBB,Ozempic
+0601023AWBBAAAA,Ozempic 0.25mg/0.19ml inj 1.5ml pre-filled pens
+0601023AWBBABAB,Ozempic 0.5mg/0.37ml inj 1.5ml pre-filled pens
+0601023AWBBACAC,Ozempic 1mg/0.74ml inj 3ml pre-filled pens
+0601023AWBC,Rybelsus
+0601023AWBCAAAD,Rybelsus 14mg tablets
+0601023AWBCABAE,Rybelsus 3mg tablets
+0601023AWBCACAF,Rybelsus 7mg tablets
+0601023AX,Ertugliflozin
+0601023AXAA,Ertugliflozin
+0601023AXAAAAAA,Ertugliflozin 5mg tablets
+0601023AXAAABAB,Ertugliflozin 15mg tablets
+0601023AXBB,Steglatro
+0601023AXBBAAAA,Steglatro 5mg tablets
+0601023AXBBABAB,Steglatro 15mg tablets
+0601023AY,Empagliflozin/linagliptin
+0601023AYAA,Empagliflozin/linagliptin
+0601023AYAAAAAA,Empagliflozin 10mg / Linagliptin 5mg tablets
+0601023AYAAABAB,Empagliflozin 25mg / Linagliptin 5mg tablets
+0601023AYBB,Glyxambi
+0601023AYBBAAAA,Glyxambi 10mg/5mg tablets
+0601023AYBBABAB,Glyxambi 25mg/5mg tablets
+0601023B0,Pioglitazone hydrochloride
+0601023B0AA,Pioglitazone hydrochloride
+0601023B0AAAAAA,Pioglitazone 15mg tablets
+0601023B0AAABAB,Pioglitazone 30mg tablets
+0601023B0AAACAC,Pioglitazone 45mg tablets
+0601023B0AAADAD,Pioglitazone 30mg/5ml oral suspension
+0601023B0AAAEAE,Pioglitazone 15mg/5ml oral suspension
+0601023B0AAAFAF,Pioglitazone 45mg/5ml oral suspension
+0601023B0BB,Actos
+0601023B0BBAAAA,Actos 15mg tablets
+0601023B0BBABAB,Actos 30mg tablets
+0601023B0BBACAC,Actos 45mg tablets
+0601023B0BC,Glizofar
+0601023B0BCAAAA,Glizofar 15mg tablets (Teva)
+0601023B0BCABAB,Glizofar 30mg tablets (Teva)
+0601023B0BCACAC,Glizofar 45mg tablets (Teva)
+0601023B0BCADAA,Glizofar 15mg tablets (Arrow)
+0601023B0BCAEAB,Glizofar 30mg tablets (Arrow)
+0601023B0BCAFAC,Glizofar 45mg tablets (Arrow)
+0601023B0BD,Glidipion
+0601023B0BDAAAB,Glidipion 30mg tablets
+0601023B0BDABAC,Glidipion 45mg tablets
+0601023B0BDACAA,Glidipion 15mg tablets
+0601023B0BE,Diabiom
+0601023B0BEAAAA,Diabiom 15mg tablets
+0601023B0BEABAB,Diabiom 30mg tablets
+0601023B0BEACAC,Diabiom 45mg tablets
+0601023I0,Guar gum
+0601023I0AA,Guar gum
+0601023I0AAADAD,Guar gum 5g granules sachets sugar free
+0601023I0BC,Guarem
+0601023I0BCAAAD,Guarem 5g granules sachets
+0601023R0,Repaglinide
+0601023R0AA,Repaglinide
+0601023R0AAAAAA,Repaglinide 500microgram tablets
+0601023R0AAABAB,Repaglinide 1mg tablets
+0601023R0AAACAC,Repaglinide 2mg tablets
+0601023R0BB,NovoNorm
+0601023R0BBAAAA,NovoNorm 500microgram tablets
+0601023R0BBABAB,NovoNorm 1mg tablets
+0601023R0BBACAC,NovoNorm 2mg tablets
+0601023R0BC,Prandin
+0601023R0BCAAAA,Prandin 0.5mg tablets
+0601023R0BCABAB,Prandin 1mg tablets
+0601023R0BCACAC,Prandin 2mg tablets
+0601023R0BD,Enyglid
+0601023R0BDAAAA,Enyglid 0.5mg tablets
+0601023R0BDABAB,Enyglid 1mg tablets
+0601023R0BDACAC,Enyglid 2mg tablets
+0601023S0,Rosiglitazone
+0601023S0AA,Rosiglitazone
+0601023S0AAAAAA,Rosiglitazone 4mg tablets
+0601023S0AAABAB,Rosiglitazone 8mg tablets
+0601023S0BB,Avandia
+0601023S0BBAAAA,Avandia 4mg tablets
+0601023S0BBABAB,Avandia 8mg tablets
+0601023U0,Nateglinide
+0601023U0AA,Nateglinide
+0601023U0AAAAAA,Nateglinide 60mg tablets
+0601023U0AAABAB,Nateglinide 120mg tablets
+0601023U0AAACAC,Nateglinide 180mg tablets
+0601023U0BB,Starlix
+0601023U0BBAAAA,Starlix 60mg tablets
+0601023U0BBABAB,Starlix 120mg tablets
+0601023U0BBACAC,Starlix 180mg tablets
+0601023V0,Metformin hydrochloride/rosiglitazone
+0601023V0AA,Metformin hydrochloride/rosiglitazone
+0601023V0AAAAAA,Rosiglitazone 1mg / Metformin 500mg tablets
+0601023V0AAABAB,Rosiglitazone 2mg / Metformin 500mg tablets
+0601023V0AAACAC,Rosiglitazone 4mg / Metformin 1g tablets
+0601023V0AAADAD,Rosiglitazone 2mg / Metformin 1g tablets
+0601023V0BB,Avandamet
+0601023V0BBAAAA,Avandamet 1mg/500mg tablets
+0601023V0BBABAB,Avandamet 2mg/500mg tablets
+0601023V0BBACAC,Avandamet 4mg/1000mg tablets
+0601023V0BBADAD,Avandamet 2mg/1000mg tablets
+0601023W0,Metformin hydrochloride/pioglitazone
+0601023W0AA,Metformin hydrochloride/pioglitazone
+0601023W0AAAAAA,Pioglitazone 15mg / Metformin 850mg tablets
+0601023W0BB,Competact
+0601023W0BBAAAA,Competact 15mg/850mg tablets
+0601023X0,Sitagliptin
+0601023X0AA,Sitagliptin
+0601023X0AAAAAA,Sitagliptin 100mg tablets
+0601023X0AAABAB,Sitagliptin 50mg tablets
+0601023X0AAACAC,Sitagliptin 25mg tablets
+0601023X0AAADAD,Sitagliptin 50mg/5ml oral solution
+0601023X0AAAEAE,Sitagliptin 50mg/5ml oral suspension
+0601023X0BB,Januvia
+0601023X0BBAAAA,Januvia 100mg tablets
+0601023X0BBABAB,Januvia 50mg tablets
+0601023X0BBACAC,Januvia 25mg tablets
+0601023Y0,Exenatide
+0601023Y0AA,Exenatide
+0601023Y0AAAAAA,Exenatide 5micrograms/0.02ml inj 1.2ml pf dispos dev
+0601023Y0AAABAB,Exenatide 10micrograms/0.04ml inj 2.4ml pf dispos dev
+0601023Y0AAACAC,Exenatide 2mg inj vials
+0601023Y0AAADAD,Exenatide 2mg inj pre-filled disposable devices
+0601023Y0AAAEAE,Exenatide 2mg/0.85ml prolonged-release inj pf dispos dev
+0601023Y0BB,Byetta
+0601023Y0BBAAAA,Byetta 5micrograms/0.02ml inj 1.2ml pre-filled pens
+0601023Y0BBABAB,Byetta 10micrograms/0.04ml inj 2.4ml pre-filled pens
+0601023Y0BC,Bydureon
+0601023Y0BCAAAC,Bydureon 2mg inj vials
+0601023Y0BCABAD,Bydureon 2mg inj pre-filled pens
+0601023Y0BCACAE,Bydureon BCise 2mg/0.85ml prolonged-release inj pf pens
+0601023Z0,Metformin hydrochloride/vildagliptin
+0601023Z0AA,Metformin hydrochloride/vildagliptin
+0601023Z0AAAAAA,Vildagliptin 50mg / Metformin 1g tablets
+0601023Z0AAABAB,Vildagliptin 50mg / Metformin 850mg tablets
+0601023Z0BB,Eucreas
+0601023Z0BBAAAA,Eucreas 50mg/1000mg tablets
+0601023Z0BBABAB,Eucreas 50mg/850mg tablets
+060104,Treatment of hypoglycaemia
+0601040,Treatment of hypoglycaemia
+0601040E0,Diazoxide
+0601040E0AA,Diazoxide (Systemic)
+0601040E0AAAAAA,Diazoxide 50mg tablets
+0601040E0AAAGAG,Diazoxide 25mg capsules
+0601040E0AAAIAI,Diazoxide 100mg capsules
+0601040E0AAAMAM,Diazoxide 50mg/5ml oral solution
+0601040E0AAANAN,Diazoxide 150mg/5ml oral liquid
+0601040E0AAAPAP,Diazoxide 100mg/5ml oral liquid
+0601040E0AAAQAQ,Diazoxide 25mg/5ml oral liquid
+0601040E0AAARAR,Diazoxide 12.5mg/5ml oral liquid
+0601040E0AAAUAU,Diazoxide 125mg/5ml oral liquid
+0601040E0AAAVAV,Diazoxide 30mg/5ml oral liquid
+0601040E0AAAWAW,Diazoxide 200mg/5ml oral liquid
+0601040E0AAAXAX,Diazoxide 10mg/5ml oral liquid
+0601040E0AAAYAY,Diazoxide 250mg/5ml oral solution
+0601040E0AABABA,Diazoxide 13mg/5ml oral liquid
+0601040E0AABBBB,Diazoxide 70mg/5ml oral liquid
+0601040E0AABCBC,Diazoxide 35mg/5ml oral liquid
+0601040E0AABDBD,Diazoxide 20mg/5ml oral liquid
+0601040E0AABEBE,Diazoxide 24mg/5ml oral liquid
+0601040E0AABFBF,Diazoxide 15mg/5ml oral liquid
+0601040E0AABGBG,Diazoxide 17.4mg/5ml oral liquid
+0601040E0AABHBH,Diazoxide 250mg/5ml oral suspension
+0601040E0AABIBI,Diazoxide 50mg/5ml oral suspension
+0601040E0AABJBJ,Diazoxide 5mg/5ml oral suspension
+0601040E0BB,Eudemine (Systemic)
+0601040E0BBAAAA,Eudemine 50mg tablets
+0601040E0BC,Proglycem
+0601040E0BCAAAG,Proglycem 25 capsules
+0601040E0BCADBH,Proglycem 250mg/5ml oral suspension
+0601040H0,Glucagon
+0601040H0AA,Glucagon
+0601040H0AAAEAE,Glucagon 1mg inj vials
+0601040H0BD,Glucagen
+0601040H0BDAAAE,GlucaGen Hypokit 1mg inj
+0601040I0,Glucose
+0601040I0AA,Glucose (Hypoglycaemia)
+0601040I0AAADAD,Glucose 40% oral gel
+0601040I0AAAEAE,Glucose 75g/300ml oral solution
+0601040I0AAAFAF,Glucose 3g/10ml oral solution
+0601040I0AAAGAG,Generic GSF-Syrup oral gel 18g sachets
+0601040I0BB,GlucoGel
+0601040I0BBABAD,GlucoGel 40% gel original
+0601040I0BBAEAD,GlucoGel 40% gel berry
+0601040I0BD,GSF-Syrup
+0601040I0BDAAAG,GSF-Syrup oral gel 18g sachets peppermint
+0601040I0BDABAG,GSF-Syrup oral gel 18g sachets mixed
+0601040I0BDACAG,GSF-Syrup oral gel 18g sachets orange
+0601040I0BDADAG,GSF-Syrup oral gel 18g sachets tropical
+0601040I0BE,Dextrogel
+0601040I0BEAAAD,Dextrogel 40% gel
+0601040I0BF,Rapilose
+0601040I0BFAAAD,Rapilose 40% gel
+0601040I0BFABAE,Rapilose OGTT solution
+0601040I0BG,GlucoBoost
+0601040I0BGAAAD,GlucoBoost 40% gel
+0601040I0BH,YourGLUCO
+0601040I0BHAAAD,YourGLUCO 40% gel
+060106,Diabetic diagnostic and monitoring agents
+0601060,Diabetic diagnostic and monitoring agents
+060106000,Other screening and monitoring agent preparations
+060106000BB,Proprietary compound preparation BNF 0601060
+060106000BBABA0,Neuropad neuropathy sweat detection pad
+0601060D0,Glucose blood testing reagents
+0601060D0BC,BM-Test 1-44 (Reagent)
+0601060D0BCAAA0,BM-Test 1-44 testing strips
+0601060D0BD,Glucostix (Reagent)
+0601060D0BDAAA0,Glucostix testing strips
+0601060D0BE,Hypoguard (Reagent)
+0601060D0BEABA0,Hypoguard Supreme testing strips
+0601060D0BEACA0,Hypoguard Supreme Spectrum testing strips
+0601060D0BF,ExacTech (Reagent)
+0601060D0BFAAA0,ExacTech testing strips
+0601060D0BG,BM-Accutest (Reagent)
+0601060D0BGABA0,BM-Accutest testing strips
+0601060D0BH,OneTouch (Reagent)
+0601060D0BHAAA0,OneTouch testing strips
+0601060D0BHABA0,OneTouch Ultra testing strips
+0601060D0BHACA0,OneTouch Vita testing strips
+0601060D0BHADA0,OneTouch Verio testing strips
+0601060D0BHAEA0,OneTouch Select Plus testing strips
+0601060D0BJ,MediSense (Reagent)
+0601060D0BJAAA0,MediSense G2 testing strips
+0601060D0BJABA0,MediSense Optium testing strips
+0601060D0BJACA0,MediSense SoftSense testing strips
+0601060D0BJADA0,FreeStyle Optium testing strips
+0601060D0BK,Medi-Test Glycaemie C (Reagent)
+0601060D0BKAAA0,Medi-Test Glycaemie C testing strips
+0601060D0BL,Glucotide (Reagent)
+0601060D0BLAAA0,Glucotide testing strips
+0601060D0BM,Ascensia (Reagent)
+0601060D0BMAAA0,Ascensia Glucodisc testing discs
+0601060D0BMABA0,Ascensia Autodisc testing discs
+0601060D0BP,Pocket Scan (Reagent)
+0601060D0BPAAA0,PocketScan testing strips
+0601060D0BQ,GlucoMen (Reagent) (Blood)
+0601060D0BQAAA0,GlucoMen Sensor testing strips
+0601060D0BQABA0,GlucoMen Visio testing strips
+0601060D0BQACA0,GlucoMen LX Sensor testing strips
+0601060D0BQADA0,GlucoMen GM testing strips
+0601060D0BQAEA0,GlucoMen areo Sensor testing strips
+0601060D0BR,Advantage Plus (Reagent)
+0601060D0BRAAA0,Advantage Plus testing strips
+0601060D0BS,Prestige
+0601060D0BSAAA0,Prestige Smart System testing strips
+0601060D0BT,Active (Reagent)
+0601060D0BTAAA0,Active testing strips
+0601060D0BU,Glucoflex-R (Reagent)
+0601060D0BUAAA0,Glucoflex-R testing strips
+0601060D0BV,Compact (Reagent)
+0601060D0BVAAA0,Compact testing strips
+0601060D0BW,FreeStyle (Reagent)
+0601060D0BWAAA0,FreeStyle testing strips
+0601060D0BWABA0,FreeStyle Lite testing strips
+0601060D0BX,TrueTrack (Reagent)
+0601060D0BXAAA0,TrueTrack System testing strips
+0601060D0BY,Senova (Reagent)
+0601060D0BYAAA0,SeNova testing strips
+0601060D0BZ,On Call Now (Reagent)
+0601060D0BZAAA0,On Call Now testing strips
+0601060D0CB,Sensocard (Reagent)
+0601060D0CBAAA0,Sensocard testing strips
+0601060D0CC,Aviva (Reagent)
+0601060D0CCAAA0,Aviva testing strips
+0601060D0CD,On-Call Plus (Reagent)
+0601060D0CDAAA0,On Call Plus testing strips
+0601060D0CE,Microdot (Reagent)
+0601060D0CEAAA0,Microdot testing strips
+0601060D0CEABA0,Microdot+ testing strips
+0601060D0CF,Breeze (Reagent)
+0601060D0CFAAA0,Breeze 2 testing discs
+0601060D0CG,Betachek (Reagent)
+0601060D0CGAAA0,Betachek G5 testing strips
+0601060D0CGABA0,Betachek Visual testing strips
+0601060D0CGACA0,Betachek C50 cassette
+0601060D0CH,Bionime (Reagent)
+0601060D0CHAAA0,Bionime Rightest GS300 testing strips
+0601060D0CI,WaveSense (Reagent)
+0601060D0CIAAA0,WaveSense JAZZ testing strips
+0601060D0CIABA0,WaveSense JAZZ Duo testing strips
+0601060D0CJ,TRUEone (Reagent)
+0601060D0CJAAA0,TRUEone testing strips
+0601060D0CK,Myglucohealth (Reagent)
+0601060D0CKAAA0,Myglucohealth testing strips
+0601060D0CL,Contour (Reagent)
+0601060D0CLAAA0,Contour testing strips
+0601060D0CM,CozyLab S7 (Reagent)
+0601060D0CMAAA0,CozyLab S7 testing strips
+0601060D0CN,CareSens N (Reagent)
+0601060D0CNAAA0,CareSens N testing strips
+0601060D0CP,Clever Chek (Reagent)
+0601060D0CPAAA0,Clever Chek testing strips
+0601060D0CQ,Every (Reagent)
+0601060D0CQAAA0,Every x 3 testing discs
+0601060D0CR,Mylife Pura (Reagent)
+0601060D0CRAAA0,Mylife Pura testing strips
+0601060D0CS,Mobile (Reagent)
+0601060D0CSAAA0,Mobile cassette
+0601060D0CT,TRUEresult (Reagent)
+0601060D0CTAAA0,TRUEresult testing strips
+0601060D0CU,GlucoRx (Reagent) (Blood)
+0601060D0CUAAA0,GlucoRx Q testing strips
+0601060D0CUABA0,GlucoRx Nexus testing strips
+0601060D0CUACA0,GlucoRx HCT Glucose testing strips
+0601060D0CUADA0,GlucoRx GO testing strips
+0601060D0CUAEA0,GlucoRx GO Professional testing strips
+0601060D0CUAFA0,GlucoRx Evolve Glucose testing strips
+0601060D0CV,Finetouch (Reagent)
+0601060D0CVAAA0,FineTouch testing tips
+0601060D0CW,IME-DC (Reagent)
+0601060D0CWAAA0,IME-DC testing strips
+0601060D0CX,Omnitest (Reagent)
+0601060D0CXAAA0,Omnitest 3 testing strips
+0601060D0CXABA0,Omnitest 5 testing strips
+0601060D0CY,On-Call Advanced (Reagent)
+0601060D0CYAAA0,On-Call Advanced testing strips
+0601060D0CZ,SuperCheck 2 (Reagent)
+0601060D0CZAAA0,SuperCheck 2 testing strips
+0601060D0DB,Element (Reagent)
+0601060D0DBAAA0,Element testing strips
+0601060D0DC,GlucoLab (Reagent)
+0601060D0DCAAA0,GlucoLab testing strips
+0601060D0DD,Palmdoc iCare Advanced (Reagent)
+0601060D0DDAAA0,palmdoc iCare Advanced testing strips
+0601060D0DE,Bgstar (Reagent)
+0601060D0DEAAA0,BGStar testing strips
+0601060D0DF,Mendor Discreet (Reagent)
+0601060D0DFAAA0,Mendor Discreet testing strips
+0601060D0DG,Contour Next (Reagent)
+0601060D0DGAAA0,Contour Next testing strips
+0601060D0DH,GlucoDock (Reagent)
+0601060D0DHAAA0,GlucoDock testing strips
+0601060D0DI,MediTouch (Reagent)
+0601060D0DIAAA0,MediTouch testing strips
+0601060D0DIABA0,MediTouch 2 testing strips
+0601060D0DJ,SD Codefree (Reagent)
+0601060D0DJAAA0,SD CodeFree testing strips
+0601060D0DK,TRUEyou (Reagent)
+0601060D0DKAAA0,TRUEyou testing strips
+0601060D0DL,Palmdoc iCare Advanced Solo (Reagent)
+0601060D0DLAAA0,palmdoc iCare Advanced Solo testing strips
+0601060D0DM,Mylife Unio (Reagent)
+0601060D0DMAAA0,Mylife Unio testing strips
+0601060D0DN,Autosense (Reagent)
+0601060D0DNAAA0,AutoSense testing strips
+0601060D0DP,SURESIGN Resure (Reagent)
+0601060D0DPAAA0,SURESIGN Resure testing strips
+0601060D0DQ,TEE2 (Reagent)
+0601060D0DQAAA0,TEE2 testing strips
+0601060D0DR,Dario (Reagent)
+0601060D0DRAAA0,Dario testing strips
+0601060D0DS,SuperCheck Plus (Reagent)
+0601060D0DSAAA0,SuperCheck Plus testing strips
+0601060D0DT,Contour TS (Reagent)
+0601060D0DTAAA0,Contour TS testing strips
+0601060D0DU,GluNEO (Reagent)
+0601060D0DUAAA0,GluNEO testing strips
+0601060D0DV,Advocate Redi-Code+ (Reagent)
+0601060D0DVAAA0,Advocate Redi-Code+ testing strips
+0601060D0DW,Performa (Reagent)
+0601060D0DWAAA0,Performa testing strips
+0601060D0DX,MODZ (Reagent)
+0601060D0DXAAA0,MODZ testing strips
+0601060D0DY,iHealth (Reagent)
+0601060D0DYAAA0,iHealth testing strips
+0601060D0DZ,Dario Lite (Reagent)
+0601060D0DZAAA0,Dario Lite testing strips
+0601060D0EB,eBchek (Reagent)
+0601060D0EBAAA0,eBchek testing strips
+0601060D0EC,GlucoZen.auto (Reagent)
+0601060D0ECAAA0,GlucoZen.auto testing strips
+0601060D0ED,Finetest (Reagent)
+0601060D0EDAAA0,Finetest Lite testing strips
+0601060D0EE,GlucoNavii (Reagent)
+0601060D0EEAAA0,GlucoNavii testing strips
+0601060D0EF,palmdoc (Reagent)
+0601060D0EFAAA0,palmdoc testing strips
+0601060D0EG,VivaChek Ino (Reagent)
+0601060D0EGAAA0,VivaChek Ino testing strips
+0601060D0EH,CareSens Pro (Reagent)
+0601060D0EHAAA0,CareSens PRO testing strips
+0601060D0EI,DiaCheck (Reagent)
+0601060D0EIAAA0,DiaCheck testing strips
+0601060D0EJ,True Metrix (Reagent)
+0601060D0EJAAA0,True Metrix testing strips
+0601060D0EK,4SURE (Reagent)
+0601060D0EKAAA0,4SURE testing strips
+0601060D0EL,Fora Advanced pro (Reagent) (Blood)
+0601060D0ELAAA0,Fora Advanced pro GD40 testing strips
+0601060D0EM,Okmeter core (Reagent)
+0601060D0EMAAA0,OKmeter Core testing strips
+0601060D0EN,Contour Plus (Reagent)
+0601060D0ENAAA0,Contour Plus testing strips
+0601060D0EP,Kinetik Wellbeing (Reagent)
+0601060D0EPAAA0,Kinetik Wellbeing testing strips
+0601060D0EQ,Guide (Reagent)
+0601060D0EQAAA0,Guide testing strips
+0601060D0ER,Microdot Max (Reagent)
+0601060D0ERAAA0,Microdot Max testing strips
+0601060D0ES,Oh'Care Lite (Reagent)
+0601060D0ESAAA0,Oh'Care Lite testing strips
+0601060D0ET,On Call Sure (Reagent)
+0601060D0ETAAA0,On Call Sure testing strips
+0601060D0EU,On Call Extra (Reagent)
+0601060D0EUAAA0,On Call Extra testing strips
+0601060U0,Urine testing reagents
+0601060U0AA,Urine testing reagents
+0601060U0AAABAB,Urine glucose testing tablets
+0601060U0BB,Acetest (Reagent)
+0601060U0BBAAA0,Acetest testing tablets
+0601060U0BC,Albustix (Reagent)
+0601060U0BCAAA0,Albustix testing strips
+0601060U0BE,Clinistix (Reagent)
+0601060U0BEAAA0,Clinistix testing strips
+0601060U0BF,Clinitest (Reagent)
+0601060U0BFAAAB,Clinitest testing tablets
+0601060U0BG,Diabur Test 5000 (Reagent)
+0601060U0BGAAA0,Diabur Test 5000 testing strips
+0601060U0BH,Ketostix (Reagent)
+0601060U0BHAAA0,Ketostix testing strips
+0601060U0BI,Diastix (Reagent)
+0601060U0BIAAA0,Diastix testing strips
+0601060U0BJ,Ketur (Reagent)
+0601060U0BJAAA0,Ketur Test testing strips
+0601060U0BM,Medi-Test (Reagent)
+0601060U0BMAAA0,Medi-Test Glucose testing strips
+0601060U0BMABA0,Medi-Test Protein 2 testing strips
+0601060U0BP,Mission (Reagent)
+0601060U0BPAAA0,Mission Glucose testing strips
+0601060U0BPABA0,Mission Ketone testing strips
+0601060U0BQ,GlucoRx (Reagent) (Urine)
+0601060U0BQAAA0,GlucoRx KetoRx Sticks 2GK testing strips
+0601060W0,Ketone blood testing reagents
+0601060W0BB,MediSense (Reagent)
+0601060W0BBAAA0,MediSense Optium beta-ketone testing strips
+0601060W0BC,FreeStyle Optium (Reagent)
+0601060W0BCAAA0,FreeStyle Optium beta-ketone testing strips
+0601060W0BD,GlucoMen (Reagent)
+0601060W0BDAAA0,GlucoMen LX beta-ketone testing strips
+0601060W0BDABA0,GlucoMen areo Ketone Sensor testing strips
+0601060W0BE,GlucoRx (Reagent) (Ketone)
+0601060W0BEAAA0,GlucoRx HCT Ketone testing strips
+0601060W0BEABA0,GlucoRx Evolve Ketone testing strips
+0601060W0BF,KetoSens (Reagent)
+0601060W0BFAAA0,KetoSens testing strips
+0601060W0BG,4SURE (Reagent) (Ketone)
+0601060W0BGAAA0,4SURE beta-ketone testing strips
+0601060W0BH,Fora Advanced pro (Reagent) (Ketone)
+0601060W0BHAAA0,Fora Advanced pro GD40 Ketone testing strips
+0601060X0,Glucose and ketone blood testing reagents
+0601060X0BB,Keya (Reagent)
+0601060X0BBAAA0,KEYA Smart testing strips
+0602,Thyroid and antithyroid drugs
+060201,Thyroid hormones
+0602010,Thyroid hormones
+0602010A0,Thyrotropin alfa
+0602010A0AA,Thyrotropin alfa
+0602010A0AAAAAA,Thyrotropin alfa 900microgram inj vials
+0602010A0BB,Thyrogen
+0602010A0BBAAAA,Thyrogen 900microgram inj vials
+0602010M0,Liothyronine sodium
+0602010M0AA,Liothyronine sodium
+0602010M0AAAAAA,Liothyronine 20microgram tablets
+0602010M0AAABAB,Liothyronine 20microgram solution for injection ampoules
+0602010M0AAADAD,Liothyronine 5microgram tablets
+0602010M0AAAIAI,Liothyronine 2.5microgram capsules
+0602010M0AAAKAK,Liothyronine 37.5micrograms/5ml oral liquid
+0602010M0AAALAL,Liothyronine 50micrograms/5ml oral liquid
+0602010M0AAAMAM,Liothyronine 100micrograms/5ml oral liquid
+0602010M0AAANAN,Liothyronine 5micrograms/5ml oral liquid
+0602010M0AAAQAQ,Liothyronine 10microgram tablets
+0602010M0AAASAS,Liothyronine 50microgram tablets
+0602010M0AAATAT,Liothyronine 10micrograms/5ml oral suspension
+0602010M0AAAUAU,Liothyronine 10microgram capsules
+0602010M0AAAVAV,Liothyronine 20microgram inj vials
+0602010M0AAAWAW,Liothyronine 25microgram tablets
+0602010M0AAAXAX,Liothyronine 20micrograms/5ml oral suspension
+0602010M0AAAYAY,Liothyronine 25micrograms/5ml oral suspension
+0602010M0BB,Tertroxin
+0602010M0BBAAAA,Tertroxin 20microgram tablets
+0602010M0BF,Cytomel
+0602010M0BFAAAD,Cytomel 5microgram tablets
+0602010M0BFACAW,Cytomel 25microgram tablets
+0602010M0BG,Tri-iodothyronine
+0602010M0BGAAAB,Tri-iodothyronine 20microgram inj ampoules
+0602010M0BH,Iraksin
+0602010M0BHAAAA,Iraksin 20microgram tablets
+0602010V0,Levothyroxine sodium
+0602010V0AA,Levothyroxine sodium
+0602010V0AAAEAE,Levothyroxine sodium 75microgram capsules
+0602010V0AAAFAF,Levothyroxine sodium 50microgram capsules
+0602010V0AAAGAG,Levothyroxine sodium 25microgram capsules
+0602010V0AAAIAI,Levothyroxine sodium 25microgram oral powder sachets
+0602010V0AAAZAZ,Levothyroxine sodium 60microgram oral powder sachets
+0602010V0AABHBH,Levothyroxine sodium 200microgram capsules
+0602010V0AABMBM,Levothyroxine sodium 12.5microgram capsules
+0602010V0AABPBP,Levothyroxine sodium 50microgram oral powder sachets
+0602010V0AABTBT,Levothyroxine sodium 30microgram oral powder sachets
+0602010V0AABVBV,Levothyroxine sodium 40microgram oral powder sachets
+0602010V0AABWBW,Levothyroxine sodium 25microgram tablets
+0602010V0AABXBX,Levothyroxine sodium 50microgram tablets
+0602010V0AABYBY,Levothyroxine sodium 75microgram tablets
+0602010V0AABZBZ,Levothyroxine sodium 100microgram tablets
+0602010V0AACCCC,Levothyroxine sodium 75microgram oral powder sachets
+0602010V0AACICI,Levothyroxine sodium 10microgram capsules
+0602010V0AACJCJ,Levothyroxine sodium 150microgram capsules
+0602010V0AACMCM,Levothyroxine sodium 100microgram capsules
+0602010V0AACQCQ,Levothyroxine sodium 100microgram oral powder sachets
+0602010V0AACVCV,Levothyroxine sodium 75micrograms/5ml oral liquid
+0602010V0AACWCW,Levothyroxine sodium 50micrograms/5ml oral liquid
+0602010V0AACXCX,Levothyroxine sodium 100micrograms/5ml oral liquid
+0602010V0AACYCY,Levothyroxine sodium 125micrograms/5ml oral liquid
+0602010V0AACZCZ,Levothyroxine sodium 25micrograms/5ml oral liquid
+0602010V0AADADA,Levothyroxine sodium 150micrograms/5ml oral liquid
+0602010V0AADBDB,Levothyroxine sodium 37.5micrograms/5ml oral liquid
+0602010V0AADCDC,Levothyroxine sodium 250micrograms/5ml oral liquid
+0602010V0AADDDD,Levothyroxine sodium 30micrograms/5ml oral liquid
+0602010V0AADEDE,Levothyroxine sodium 15microgram capsules
+0602010V0AADFDF,Levothyroxine sodium 300micrograms/5ml oral liquid
+0602010V0AADGDG,Levothyroxine sodium 375micrograms/5ml oral liquid
+0602010V0AADHDH,Levothyroxine sodium 45micrograms/5ml oral liquid
+0602010V0AADIDI,Levothyroxine sodium 40micrograms/5ml oral liquid
+0602010V0AADJDJ,Levothyroxine sodium 60micrograms/5ml oral liquid
+0602010V0AADKDK,Levothyroxine sodium 200micrograms/5ml oral liquid
+0602010V0AADLDL,Levothyroxine sodium 48micrograms/5ml oral liquid
+0602010V0AADMDM,Levothyroxine sodium 500micrograms/5ml oral liquid
+0602010V0AADNDN,Levothyroxine sodium 150microgram oral powder sachets
+0602010V0AADPDP,Levothyroxine sodium 12.5micrograms/5ml oral liquid
+0602010V0AADRDR,Levothyroxine sodium 70micrograms/5ml oral liquid
+0602010V0AADTDT,Levothyroxine sodium 10micrograms/5ml oral liquid
+0602010V0AADUDU,Levothyroxine sodium 56micrograms/5ml oral liquid
+0602010V0AADVDV,Levothyroxine sodium 175micrograms/5ml oral liquid
+0602010V0AADWDW,Levothyroxine sodium 225micrograms/5ml oral liquid
+0602010V0AADXDX,Levothyroxine sodium 625micrograms/5ml oral liquid
+0602010V0AADYDY,Levothyroxine sodium 62.5micrograms/5ml oral liquid
+0602010V0AADZDZ,Levothyroxine sodium 200microgram oral powder sachets
+0602010V0AAEAEA,Levothyroxine sodium 250microgram oral powder sachets
+0602010V0AAEBEB,Levothyroxine sodium 500microgram inj vials
+0602010V0AAECEC,Levothyroxine sodium 1mg/5ml oral liquid
+0602010V0AAEEEE,Levothyroxine sodium 187.5micrograms/5ml oral liquid
+0602010V0AAEHEH,Levothyroxine sodium 15micrograms/5ml oral liquid
+0602010V0AAEIEI,Levothyroxine sodium 90micrograms/5ml oral liquid
+0602010V0AAEJEJ,Levothyroxine sodium 425micrograms/5ml oral liquid
+0602010V0AAEKEK,Levothyroxine sodium 700micrograms/5ml oral liquid
+0602010V0AAELEL,Levothyroxine sodium 750micrograms/5ml oral liquid
+0602010V0AAEMEM,Levothyroxine sodium 7.5micrograms/5ml oral liquid
+0602010V0AAENEN,Levothyroxine sodium 125microgram oral powder sachets
+0602010V0AAEPEP,Levothyroxine sodium 20micrograms/5ml oral liquid
+0602010V0AAERER,Levothyroxine sodium 120micrograms/5ml oral liquid
+0602010V0AAESES,Levothyroxine sodium 24micrograms/5ml oral liquid
+0602010V0AAETET,Levothyroxine sodium 325micrograms/5ml oral liquid
+0602010V0AAEVEV,Levothyroxine sodium 80micrograms/5ml oral liquid
+0602010V0AAEXEX,Levothyroxine sodium 275micrograms/5ml oral liquid
+0602010V0AAEZEZ,Levothyroxine sodium 450micrograms/5ml oral liquid
+0602010V0AAFAFA,Levothyroxine sodium 285micrograms/5ml oral liquid
+0602010V0AAFBFB,Levothyroxine sodium 2.5mg/5ml oral liquid
+0602010V0AAFCFC,Levothyroxine sodium 35micrograms/5ml oral liquid
+0602010V0AAFDFD,Levothyroxine sodium 5micrograms/5ml oral liquid
+0602010V0AAFEFE,Levothyroxine sodium 350micrograms/5ml oral liquid
+0602010V0AAFGFG,Levothyroxine sodium 27micrograms/5ml oral liquid
+0602010V0AAFJFJ,Levothyroxine sodium 400micrograms/5ml oral liquid
+0602010V0AAFKFK,Levothyroxine sodium 32micrograms/5ml oral liquid
+0602010V0AAFPFP,Levothyroxine sodium 55micrograms/5ml oral liquid
+0602010V0AAFQFQ,Levothyroxine sodium 37micrograms/5ml oral liquid
+0602010V0AAFRFR,Levothyroxine sodium 175microgram capsules
+0602010V0AAFUFU,Levothyroxine sodium 225microgram capsules
+0602010V0AAFVFV,Levothyroxine sodium 6.25micrograms/5ml oral liquid
+0602010V0AAFWFW,Levothyroxine sodium 200micrograms inj vials
+0602010V0AAFXFX,Levothyroxine sodium 87.5micrograms/5ml oral liquid
+0602010V0AAFYFY,Levothyroxine sodium 312.5micrograms/5ml oral liquid
+0602010V0AAFZFZ,Levothyroxine sodium 25micrograms/5ml soln sugar free
+0602010V0AAGAGA,Levothyroxine sodium 50micrograms/5ml soln sugar free
+0602010V0AAGBGB,Levothyroxine sodium 100micrograms/5ml soln sugar free
+0602010V0AAGGGG,Levothyroxine sodium 110microgram oral powder sachets
+0602010V0AAGHGH,Levothyroxine sodium 12.5microgram tablets
+0602010V0AAGIGI,Levothyroxine sodium 125micrograms/5ml soln sugar free
+0602010V0AAGJGJ,Levothyroxine sodium 375microgram capsules
+0602010V0BD,Eltroxin
+0602010V0BDAABX,Eltroxin 50microgram tablets
+0602010V0BDABBZ,Eltroxin 100microgram tablets
+0602010V0BDACBW,Eltroxin 25microgram tablets
+0602010V0BDADFZ,Eltroxin 25micrograms/5ml oral solution
+0602010V0BDAEGA,Eltroxin 50micrograms/5ml oral solution
+0602010V0BDAFGB,Eltroxin 100micrograms/5ml oral solution
+0602010V0BH,Evotrox
+0602010V0BHAAFZ,Evotrox 25micrograms/5ml oral solution
+0602010V0BHABGA,Evotrox 50micrograms/5ml oral solution
+0602010V0BHACGB,Evotrox 100micrograms/5ml oral solution
+0602010V0BI,Levothroid
+0602010V0BIAAEB,Levothroid 500microgram inj vials
+0602010V0BJ,Tirosint
+0602010V0BJAAAG,Tirosint 25microgram capsules
+0602010V0BJABAF,Tirosint 50microgram capsules
+0602010V0BJACCM,Tirosint 100microgram capsules
+0602010Z0,Levothyroxine sodium and liothyronine
+0602010Z0AA,Levothyroxine sodium/liothyronine
+0602010Z0AAAAAA,Levothyroxine sodium 19microg / Liothyronine 4.5microg tab
+0602010Z0AAABAB,Levothyroxine sodium 38microg / Liothyronine 9microg tab
+0602010Z0AAACAC,Levothyroxine sodium 57microg / Liothyronine 13.5microg tab
+0602010Z0AAADAD,Levothyroxine sodium 76microg / Liothyronine 18microg tab
+0602010Z0AAAEAE,Levothyroxine sodium 9.5microg / Liothyronine 2.25microg tab
+0602010Z0AAAFAF,Levothyroxine sodium 152microg / Liothyronine 36microg tab
+0602010Z0AAAGAG,Levothyroxine sodium 190microg / Liothyronine 45microg tab
+0602010Z0AAAHAH,Levothyroxine sodium 114microg / Liothyronine 27microg tab
+0602010Z0AAAIAI,Levothyroxine 73microgram / Liothyronine 17microgram tablets
+0602010Z0AAAJAJ,Levothyroxine 35microgram / Liothyronine 8microgram tablets
+0602010Z0AAAKAK,Levothyroxine 18microgram / Liothyronine 4microgram tablets
+0602010Z0BB,Armour
+0602010Z0BBAAAE,Armour Thyroid 15mg (quarter grain) tablets
+0602010Z0BBABAA,Armour Thyroid 30mg (half grain) tablets
+0602010Z0BBACAB,Armour Thyroid 60mg (1 grain) tablets
+0602010Z0BBADAD,Armour Thyroid 120mg (2 grains) tablets
+0602010Z0BBAGAC,Armour Thyroid 90mg (1 and a half grains) tablets
+0602010Z0BBAHAH,Armour Thyroid 180mg (3 grains) tablets
+0602010Z0BC,WP Thyroid
+0602010Z0BCAAAB,WP Thyroid 65mg (1 grain) tablets
+0602010Z0BD,Nature-Throid
+0602010Z0BDAAAB,Nature-Throid 65mg (1 grain) tablets
+0602010Z0BDABAA,Nature-Throid 32.5mg (half grain) tablets
+0602010Z0BDACAD,Nature-Throid 130mg (2 grains) tablets
+0602010Z0BDADAE,Nature-Throid 16.25mg (quarter grain) tablets
+0602010Z0BE,Erfa Thyroid
+0602010Z0BEAAAI,Erfa Thyroid 125mg (2 grains) tablets
+0602010Z0BEABAJ,Erfa Thyroid 60mg (1 grain) tablets
+0602010Z0BEACAK,Erfa Thyroid 30mg (half grain) tablets
+0602010Z0BF,NP Thyroid
+0602010Z0BFAAAA,NP Thyroid 30mg (half grain) tablets
+0602010Z0BFABAB,NP Thyroid 60mg (1 grain) tablets
+060202,Antithyroid drugs
+0602020,Antithyroid drugs
+0602020D0,Carbimazole
+0602020D0AA,Carbimazole
+0602020D0AAAAAA,Carbimazole 5mg tablets
+0602020D0AAABAB,Carbimazole 20mg tablets
+0602020D0AAAFAF,Carbimazole 20mg/5ml oral liquid
+0602020D0AAAGAG,Carbimazole 10mg/5ml oral solution
+0602020D0AAAIAI,Carbimazole 1.5mg/5ml oral liquid
+0602020D0AAAKAK,Carbimazole 5mg/5ml oral liquid
+0602020D0AAAPAP,Carbimazole 4mg/5ml oral liquid
+0602020D0AAAQAQ,Carbimazole 60mg/5ml oral liquid
+0602020D0AAARAR,Carbimazole 2.5mg capsules
+0602020D0AAATAT,Carbimazole 2.5mg/5ml oral liquid
+0602020D0AAAUAU,Carbimazole 2mg/5ml oral liquid
+0602020D0AAAVAV,Carbimazole 1.25mg/5ml oral liquid
+0602020D0AAAWAW,Carbimazole 10mg/5ml oral suspension
+0602020D0AAAXAX,Carbimazole 30mg/5ml oral suspension
+0602020D0AAAYAY,Carbimazole 10mg tablets
+0602020D0AAAZAZ,Carbimazole 15mg tablets
+0602020D0BB,NeoMercazole
+0602020D0BBAAAA,NeoMercazole 5 tablets
+0602020D0BBABAB,NeoMercazole 20 tablets
+0602020G0,Iodine
+0602020G0AA,Iodine (Systemic)
+0602020G0AAABAB,Iodine aqueous oral solution
+0602020H0,Potassium iodate
+0602020H0AA,Potassium iodate
+0602020H0AAABAB,Potassium iodate 85mg tablets
+0602020I0,Potassium iodide
+0602020I0AA,Potassium iodide (Systemic)
+0602020I0AAAHAH,Potassium iodide 300mg capsules
+0602020N0,Propylthiouracil
+0602020N0AA,Propylthiouracil
+0602020N0AAABAB,Propylthiouracil 50mg tablets
+0602020N0AAAGAG,Propylthiouracil 100mg/5ml oral liquid
+0602020N0AAAHAH,Propylthiouracil 20mg/5ml oral liquid
+0602020N0AAAIAI,Propylthiouracil 50mg/5ml oral liquid
+0602020N0AAAJAJ,Propylthiouracil 25mg/5ml oral liquid
+0602020N0AAAKAK,Propylthiouracil 150mg/5ml oral suspension
+0602020N0AAALAL,Propylthiouracil 200mg/5ml oral liquid
+0602020N0AAAMAM,Propylthiouracil 100mg suppositories
+0603,Corticosteroids (endocrine)
+060301,Replacement therapy
+0603010,Replacement therapy
+0603010I0,Fludrocortisone acetate
+0603010I0AA,Fludrocort acetate
+0603010I0AAA2A2,Fludrocortisone 150micrograms/5ml oral suspension
+0603010I0AAA3A3,Fludrocortisone 125micrograms/5ml oral suspension
+0603010I0AAA4A4,Fludrocortisone 500micrograms/5ml oral suspension
+0603010I0AAA5A5,Fludrocortisone 25micrograms/5ml oral suspension
+0603010I0AAA6A6,Fludrocortisone 200micrograms/5ml oral suspension
+0603010I0AAA7A7,Fludrocortisone 75micrograms/5ml oral suspension
+0603010I0AAA8A8,Fludrocortisone 250micrograms/5ml oral suspension
+0603010I0AAA9A9,Fludrocortisone 10micrograms/5ml oral suspension
+0603010I0AAACAC,Fludrocortisone 100microgram tablets
+0603010I0AAAJAJ,Fludrocortisone 50microgram capsules
+0603010I0AABCBC,Fludrocortisone 62.5micrograms/5ml oral suspension
+0603010I0AABEBE,Fludrocortisone 1mg/5ml oral suspension
+0603010I0AABFBF,Fludrocortisone 600micrograms/5ml oral suspension
+0603010I0AABGBG,Fludrocortisone 850micrograms/5ml oral suspension
+0603010I0AABHBH,Fludrocortisone 20micrograms/5ml oral suspension
+0603010I0AABIBI,Fludrocortisone 750micrograms/5ml oral suspension
+0603010I0AABJBJ,Fludrocortisone 625micrograms/5ml oral suspension
+0603010I0AABQBQ,Fludrocortisone 187.5micrograms/5ml oral suspension
+0603010I0AABSBS,Fludrocortisone 150microgram capsules
+0603010I0AABTBT,Fludrocortisone 85micrograms/5ml oral suspension
+0603010I0AABUBU,Fludrocortisone 400micrograms/5ml oral suspension
+0603010I0AABVBV,Fludrocortisone 30micrograms/5ml oral suspension
+0603010I0AABWBW,Fludrocortisone 130micrograms/5ml oral suspension
+0603010I0AABXBX,Fludrocortisone 30microgram capsules
+0603010I0AABYBY,Fludrocortisone 50micrograms/5ml oral suspension
+0603010I0AABZBZ,Fludrocortisone 100micrograms/5ml oral suspension
+0603010I0AACACA,Fludrocortisone 50microgram tablets
+0603010I0BB,Florinef
+0603010I0BBAAAC,Florinef 100microgram tablets
+060302,Glucocorticoid therapy
+0603020,Use of corticosteroids
+0603020AA,Dexamethasone phosphate
+0603020AAAA,Dexamethasone phosphate (Parenteral)
+0603020AAAAAAAA,Dexamethasone (base) 6.6mg/2ml solution for injection vials
+0603020AAAAABAB,Dexamethasone (base) 3.3mg/1ml inj ampoules
+0603020AAAAACAC,Dexamethasone (base) 6.6mg/2ml inj ampoules
+0603020AC,Methylprednisolone aceponate
+0603020ACAA,Methylprednisolone aceponate
+0603020ACAAAAAA,Methylprednisolone aceponate 0.1% ointment
+0603020ACBB,Advantan
+0603020ACBBAAAA,Advantan 0.1% ointment
+0603020B0,Betamethasone
+0603020B0AA,Betamethasone
+0603020B0AAABAB,Betamethasone 500microgram tablets
+0603020B0BB,Betnelan
+0603020B0BBAAAB,Betnelan 500microgram tablets
+0603020C0,Betamethasone sodium phosphate
+0603020C0AA,Betamethasone sodium phosphate (Systemic)
+0603020C0AAAAAA,Betamethasone 4mg/1ml solution for injection ampoules
+0603020C0AAABAB,Betamethasone 500microgram soluble tablets sugar free
+0603020C0BB,Betnesol (Systemic)
+0603020C0BBAAAB,Betnesol 500microgram soluble tablets
+0603020C0BBABAA,Betnesol 4mg/1ml solution for injection ampoules
+0603020F0,Cortisone acetate
+0603020F0AA,Cortisone acetate
+0603020F0AAAHAH,Cortisone 25mg tablets
+0603020F0AAAJAJ,Cortisone 2.5mg/5ml oral liquid
+0603020F0AAAKAK,Cortisone 5mg capsules
+0603020F0AAAMAM,Cortisone 5mg/5ml oral suspension
+0603020G0,Dexamethasone
+0603020G0AA,Dexamethasone (Systemic)
+0603020G0AAA5A5,Dexamethasone 5mg/5ml oral liquid
+0603020G0AAA6A6,Dexamethasone 2mg/5ml oral liquid
+0603020G0AAA7A7,Dexamethasone 500micrograms/5ml oral liquid
+0603020G0AAA8A8,Dexamethasone 4mg/5ml oral liquid
+0603020G0AAA9A9,Dexamethasone 8mg/5ml oral liquid
+0603020G0AAABAB,Dexamethasone 500microgram tablets
+0603020G0AAADAD,Dexamethasone 2mg tablets
+0603020G0AABHBH,Dexamethasone 10mg/5ml oral liquid
+0603020G0AABJBJ,Dexamethasone 1mg/5ml oral liquid
+0603020G0AABKBK,Dexamethasone 16mg/5ml oral liquid
+0603020G0AABLBL,Dexamethasone 14mg/5ml oral liquid
+0603020G0AABMBM,Dexamethasone 16.7mg/5ml oral liquid
+0603020G0AABNBN,Dexamethasone 6mg/5ml oral liquid
+0603020G0AABPBP,Dexamethasone 100microgram capsules
+0603020G0AABQBQ,Dexamethasone 2.5mg/5ml oral liquid
+0603020G0AABRBR,Dexamethasone 1.25mg/5ml oral liquid
+0603020G0AABTBT,Dexamethasone 250micrograms/5ml oral liquid
+0603020G0AABUBU,Dexamethasone 1.5mg/5ml oral liquid
+0603020G0AABVBV,Dexamethasone 20mg/5ml oral liquid
+0603020G0AABWBW,Dexamethasone 3mg/5ml oral liquid
+0603020G0AABXBX,Dexamethasone 2mg/5ml oral solution sugar free
+0603020G0AABYBY,Dexamethasone 10mg capsules
+0603020G0AABZBZ,Dexamethasone 10mg/5ml oral solution sugar free
+0603020G0AACACA,Dexamethasone 100micrograms/5ml oral liquid
+0603020G0AACCCC,Dexamethasone 200micrograms/5ml oral liquid
+0603020G0AACDCD,Dexamethasone 20mg/5ml oral solution sugar free
+0603020G0AACECE,Dexamethasone 400microgram capsules
+0603020G0AACFCF,Dexamethasone 2mg soluble tablets sugar free
+0603020G0AACGCG,Dexamethasone 8mg soluble tablets sugar free
+0603020G0AACHCH,Dexamethasone 4mg soluble tablets sugar free
+0603020G0AACICI,Dexamethasone 4mg tablets
+0603020G0AACJCJ,Dexamethasone 40mg tablets
+0603020G0AACKCK,Dexamethasone 8mg tablets
+0603020G0BB,Decadron
+0603020G0BBAAAB,Decadron 500microgram tablets
+0603020G0BE,Dexsol
+0603020G0BEAABX,Dexsol 2mg/5ml oral solution
+0603020G0BF,Martapan
+0603020G0BFAABX,Martapan 2mg/5ml oral solution
+0603020G0BG,Glensoludex
+0603020G0BGAACF,Glensoludex 2mg soluble tablets
+0603020G0BGABCH,Glensoludex 4mg soluble tablets
+0603020G0BGACCG,Glensoludex 8mg soluble tablets
+0603020G0BH,Neofordex
+0603020G0BHAACJ,Neofordex 40mg tablets
+0603020H0,Dexamethasone sodium phosphate
+0603020H0AA,Dexamethasone sodium phosphate (Parenteral)
+0603020H0AAABAB,Dexamethasone 4mg/1ml solution for injection ampoules
+0603020H0AAAIAI,Dexamethasone 100mg/5ml solution for injection vials
+0603020H0AAAKAK,Dexamethasone 8mg/2ml solution for injection vials
+0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials
+0603020I0,Deflazacort
+0603020I0AA,Deflazacort
+0603020I0AAAAAA,Deflazacort 6mg tablets
+0603020I0AAACAC,Deflazacort 30mg tablets
+0603020I0AAADAD,Deflazacort 1mg tablets
+0603020I0AAAFAF,Deflazacort 22.75mg/1ml oral suspension
+0603020I0BB,Calcort
+0603020I0BBAAAA,Calcort 6mg tablets
+0603020I0BBABAC,Calcort 30mg tablets
+0603020I0BBACAD,Calcort 1mg tablets
+0603020J0,Hydrocortisone
+0603020J0AA,Hydrocortisone (Systemic)
+0603020J0AAA5A5,Hydrocortisone 2.5mg capsules
+0603020J0AAADAD,Hydrocortisone 10mg tablets
+0603020J0AAAEAE,Hydrocortisone 20mg tablets
+0603020J0AAAJAJ,Hydrocortisone 5mg/5ml oral solution
+0603020J0AAAKAK,Hydrocortisone 10mg/5ml oral suspension
+0603020J0AAAXAX,Hydrocortisone 5mg/5ml oral suspension
+0603020J0AABBBB,Hydrocortisone 12.5mg/5ml oral suspension
+0603020J0AABCBC,Hydrocortisone 2.5mg/5ml oral suspension
+0603020J0AABDBD,Hydrocortisone 1mg/5ml oral suspension
+0603020J0AABJBJ,Hydrocortisone 50mg/5ml oral suspension
+0603020J0AABLBL,Hydrocortisone 25mg/5ml oral suspension
+0603020J0AABMBM,Hydrocortisone 2mg/5ml oral suspension
+0603020J0AABNBN,Hydrocortisone 3mg/5ml oral suspension
+0603020J0AABRBR,Hydrocortisone 2mg capsules
+0603020J0AABSBS,Hydrocortisone 7.5mg/5ml oral suspension
+0603020J0AABTBT,Hydrocortisone 1mg capsules
+0603020J0AABUBU,Hydrocortisone 1.5mg/5ml oral suspension
+0603020J0AABVBV,Hydrocortisone 20mg/5ml oral suspension
+0603020J0AABWBW,Hydrocortisone 2.6mg/5ml oral suspension
+0603020J0AABYBY,Hydrocortisone 30mg/5ml oral suspension
+0603020J0AABZBZ,Hydrocortisone 250micrograms/5ml oral suspension
+0603020J0AACACA,Hydrocortisone 100mg/5ml oral suspension
+0603020J0AACBCB,Hydrocortisone 6mg/5ml oral suspension
+0603020J0AACDCD,Hydrocortisone 3.75mg/5ml oral suspension
+0603020J0AACFCF,Hydrocortisone 6.25mg/5ml oral suspension
+0603020J0AACGCG,Hydrocortisone 4mg/5ml oral suspension
+0603020J0AACICI,Hydrocortisone 4.25mg/5ml oral suspension
+0603020J0AACJCJ,Hydrocortisone 3.6mg/5ml oral suspension
+0603020J0AACKCK,Hydrocortisone 85micrograms/5ml oral suspension
+0603020J0AACLCL,Hydrocortisone 13.95mg/5ml oral suspension
+0603020J0AACMCM,Hydrocortisone 50micrograms/5ml oral suspension
+0603020J0AACQCQ,Hydrocortisone 7mg/5ml oral suspension
+0603020J0AACTCT,Hydrocortisone 18mg/5ml oral suspension
+0603020J0AACUCU,Hydrocortisone 75mg/5ml oral suspension
+0603020J0AACVCV,Hydrocortisone 5mg modified-release tablets
+0603020J0AACWCW,Hydrocortisone 20mg modified-release tablets
+0603020J0AACXCX,Hydrocortisone 500microgram granules in capsules for opening
+0603020J0AACYCY,Hydrocortisone 1mg granules in capsules for opening
+0603020J0AACZCZ,Hydrocortisone 2mg granules in capsules for opening
+0603020J0AADADA,Hydrocortisone 5mg granules in capsules for opening
+0603020J0AADBDB,Hydrocortisone 10mg soluble tablets sugar free
+0603020J0BC,Hydrocortone
+0603020J0BCAAAD,Hydrocortone 10mg tablets
+0603020J0BCABAE,Hydrocortone 20mg tablets
+0603020J0BE,Plenadren
+0603020J0BEAACV,Plenadren 5mg modified-release tablets
+0603020J0BEABCW,Plenadren 20mg modified-release tablets
+0603020J0BF,Alkindi
+0603020J0BFAACX,Alkindi 0.5mg granules in capsules for opening
+0603020J0BFABCY,Alkindi 1mg granules in capsules for opening
+0603020J0BFACCZ,Alkindi 2mg granules in capsules for opening
+0603020J0BFADDA,Alkindi 5mg granules in capsules for opening
+0603020J0BG,Hydventia
+0603020J0BGAAAD,Hydventia 10mg tablets
+0603020J0BGABAE,Hydventia 20mg tablets
+0603020K0,Methylprednisolone sodium succinate
+0603020K0AA,Methylprednisolone sodium succinate
+0603020K0AAAAAA,Methylprednisolone sodium succinate 40mg inj vials
+0603020K0AAABAB,Methylprednisolone sodium succinate 125mg inj vials
+0603020K0AAACAC,Methylprednisolone sodium succinate 500mg inj vials
+0603020K0AAADAD,Methylprednisolone sodium succinate 1g inj vials
+0603020K0AAAEAE,Methylprednisolone sodium succinate 2g inj vials
+0603020K0BC,Solu-Medrone
+0603020K0BCAAAA,Solu-Medrone 40mg inj vials
+0603020K0BCABAB,Solu-Medrone 125mg inj vials
+0603020K0BCACAC,Solu-Medrone 500mg inj vials
+0603020K0BCADAD,Solu-Medrone 1g inj vials
+0603020K0BCAEAE,Solu-Medrone 2g inj vials
+0603020L0,Hydrocortisone sodium phosphate
+0603020L0AA,Hydrocortisone sodium phosphate
+0603020L0AAABAB,Hydrocortisone sodium phosphate 100mg/1ml inj ampoules
+0603020L0AAACAC,Hydrocortisone sodium phosphate 500mg/5ml inj ampoules
+0603020L0BB,Efcortesol
+0603020L0BBAAAB,Efcortesol 100mg/1ml solution for injection ampoules
+0603020L0BBABAC,Efcortesol 500mg/5ml solution for injection ampoules
+0603020M0,Hydrocortisone sodium succinate
+0603020M0AA,Hydrocortisone sodium succinate (Parenteral)
+0603020M0AAAAAA,Hydrocortisone sodium succinate 100mg inj vials
+0603020M0AAAEAE,Hydrocortisone sodium succinate 100mg pdr for soln inj vials
+0603020M0BC,Solu-Cortef
+0603020M0BCAAAA,Solu-Cortef 100mg inj vials
+0603020M0BCABAE,Solu-Cortef 100mg powder for solution for injection vials
+0603020S0,Methylprednisolone
+0603020S0AA,Methylprednisolone
+0603020S0AAAAAA,Methylprednisolone 2mg tablets
+0603020S0AAABAB,Methylprednisolone 4mg tablets
+0603020S0AAACAC,Methylprednisolone 16mg tablets
+0603020S0AAADAD,Methylprednisolone 100mg tablets
+0603020S0AAAEAE,Methylprednisolone 1mg/5ml oral suspension
+0603020S0BB,Medrone (Systemic)
+0603020S0BBAAAA,Medrone 2mg tablets
+0603020S0BBABAB,Medrone 4mg tablets
+0603020S0BBACAC,Medrone 16mg tablets
+0603020S0BBADAD,Medrone 100mg tablets
+0603020T0,Prednisolone
+0603020T0AA,Prednisolone (Systemic)
+0603020T0AAAAAA,Prednisolone 1mg tablets
+0603020T0AAABAB,Prednisolone 2.5mg tablets
+0603020T0AAACAC,Prednisolone 5mg tablets
+0603020T0AAAEAE,Prednisolone 50mg tablets
+0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets
+0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets
+0603020T0AAARAR,Prednisolone 25mg tablets
+0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets
+0603020T0AAAXAX,Prednisolone 20mg tablets
+0603020T0AAAYAY,Prednisolone 15mg/5ml oral liquid
+0603020T0AAAZAZ,Prednisolone 5mg/5ml oral liquid
+0603020T0AABBBB,Prednisolone 1.5mg/5ml oral liquid
+0603020T0AABCBC,Prednisolone 10mg/5ml oral liquid
+0603020T0AABDBD,Prednisolone 25mg/5ml oral liquid
+0603020T0AABEBE,Prednisolone 2mg/5ml oral suspension
+0603020T0AABFBF,Prednisolone 1mg/5ml oral liquid
+0603020T0AABGBG,Prednisolone 20mg/5ml oral liquid
+0603020T0AABHBH,Prednisolone 5mg soluble tablets
+0603020T0AABIBI,Prednisolone 2.5mg/5ml oral liquid
+0603020T0AABJBJ,Prednisolone 1.67mg/5ml oral liquid
+0603020T0AABKBK,Prednisolone 10mg tablets
+0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose
+0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free
+0603020T0AABNBN,Prednisolone 30mg tablets
+0603020T0BC,Deltacortril
+0603020T0BCAAAF,Deltacortril 2.5mg gastro-resistant tablets
+0603020T0BCABAG,Deltacortril 5mg gastro-resistant tablets
+0603020T0BK,Dilacort (Auden Mckenzie)
+0603020T0BKAAAF,Dilacort 2.5mg gastro-resistant tablets (Auden McKenzie)
+0603020T0BKABAG,Dilacort 5mg gastro-resistant tablets (Auden McKenzie)
+0603020T0BL,Pevanti
+0603020T0BLAAAB,Pevanti 2.5mg tablets
+0603020T0BLABAC,Pevanti 5mg tablets
+0603020T0BLACBK,Pevanti 10mg tablets
+0603020T0BLADAX,Pevanti 20mg tablets
+0603020T0BLAEAR,Pevanti 25mg tablets
+0603020T0BM,Prednisolone Dompe
+0603020T0BMAABL,Prednisolone Dompe 5mg/5ml oral solution unit dose
+0603020T0BN,Dilacort (Crescent Pharma Ltd)
+0603020T0BNAAAF,Dilacort 2.5mg gastro-resistant tablets (Cresent Pharma)
+0603020T0BNABAG,Dilacort 5mg gastro-resistant tablets (Cresent Pharma)
+0603020T0BP,Dilacort (Teva UK Ltd)
+0603020T0BPAAAF,Dilacort 2.5mg gastro-resistant tablets (Teva)
+0603020T0BPABAG,Dilacort 5mg gastro-resistant tablets (Teva)
+0603020X0,Prednisone
+0603020X0AA,Prednisone
+0603020X0AAAEAE,Prednisone 1mg modified-release tablets
+0603020X0AAAFAF,Prednisone 2mg modified-release tablets
+0603020X0AAAGAG,Prednisone 5mg modified-release tablets
+0603020X0BD,Lodotra
+0603020X0BDAAAE,Lodotra 1mg modified-release tablets
+0603020X0BDABAF,Lodotra 2mg modified-release tablets
+0603020X0BDACAG,Lodotra 5mg modified-release tablets
+0603020Z0,Triamcinolone acetonide
+0603020Z0AA,Triamcinolone acetonide (Glucocorticoid)
+0603020Z0AAAAAA,Triamcinolone acetonide 40mg/1ml inj pre-filled syringes
+0603020Z0AAABAB,Triamcinolone acetonide 80mg/2ml inj pre-filled syringes
+0603020Z0BB,Kenalog (Glucocorticoid)
+0603020Z0BBAAAA,Kenalog Intramuscular 40mg/1ml inj pre-filled syringes
+0603020Z0BBABAB,Kenalog Intramuscular 80mg/2ml inj pre-filled syringes
+0604,Sex Hormones
+060401,Female sex hormones and their modulators
+0604011,Oestrogens and heart
+0604011AD,Oestrogens conjugated with bazedoxifene
+0604011ADAA,Conjugated oestrogens / bazedoxifene
+0604011ADAAAAAA,Conjugated oestrogens 450microg / Bazedoxifene 20mg MR tab
+0604011ADBB,Duavive
+0604011ADBBAAAA,Duavive 0.45mg/20mg modified-release tablets
+0604011D0,Ethinylestradiol
+0604011D0AA,Ethinylestradiol (Systemic)
+0604011D0AAAAAA,Ethinylestradiol 10microgram tablets
+0604011D0AAACAC,Ethinylestradiol 50microgram tablets
+0604011D0AAAEAE,Ethinylestradiol 1mg tablets
+0604011D0AAALAL,Ethinylestradiol 2microgram tablets
+0604011D0AAARAR,Ethinylestradiol 5microgram capsules
+0604011D0AAAWAW,Ethinylestradiol 2microgram capsules
+0604011D0AABDBD,Ethinylestradiol 2micrograms/5ml oral suspension
+0604011D0AABEBE,Ethinylestradiol 4micrograms/5ml oral suspension
+0604011G0,Estradiol
+0604011G0AA,Estradiol (Systemic)
+0604011G0AAAAAA,Estradiol 25mg implant
+0604011G0AAABAB,Estradiol 50mg implant
+0604011G0AAACAC,Estradiol 100mg implant
+0604011G0AAAIAI,Estradiol 2mg tablets
+0604011G0AAAUAU,Estradiol 0.06% gel (750microgram per actuation)
+0604011G0AABABA,Estradiol 25micrograms/24hours transdermal patches
+0604011G0AABDBD,Estradiol 1mg tablets
+0604011G0AABEBE,Estradiol 40micrograms/24hours transdermal patches
+0604011G0AABGBG,Estradiol 80micrograms/24hours transdermal patches
+0604011G0AABHBH,Estradiol 37.5micrograms/24hours transdermal patches
+0604011G0AABIBI,Estradiol 500microgram gel sachets
+0604011G0AABJBJ,Estradiol 1mg gel sachets
+0604011G0AABLBL,Estradiol 50micrograms/24hours transdermal patches
+0604011G0AABNBN,Estradiol 100micrograms/24hours transdermal patches
+0604011G0AABQBQ,Estradiol 75microgram/24hours transdermal patches
+0604011G0AABRBR,Estradiol 75micrograms/24hours transdermal patches
+0604011G0AABSBS,Estradiol 150micrograms/dose nasal spray
+0604011G0AABTBT,Estradiol 1.53mg/dose transdermal spray
+0604011G0BC,Estraderm
+0604011G0BCAABL,Estraderm TTS 50 patches
+0604011G0BCABBA,Estraderm TTS 25 patches
+0604011G0BCACBN,Estraderm TTS 100 patches
+0604011G0BCADBA,Estraderm MX 25 patches
+0604011G0BCAEBL,Estraderm MX 50 patches
+0604011G0BCAFBN,Estraderm MX 100 patches
+0604011G0BCAGBR,Estraderm MX 75 patches
+0604011G0BE,Zumenon
+0604011G0BEAAAI,Zumenon 2mg tablets
+0604011G0BEABBD,Zumenon 1mg tablets
+0604011G0BF,Evorel
+0604011G0BFAABL,Evorel 50 patches
+0604011G0BFABBA,Evorel 25 patches
+0604011G0BFACBR,Evorel 75 patches
+0604011G0BFADBN,Evorel 100 patches
+0604011G0BH,Fematrix
+0604011G0BHAABG,Fematrix 80 patches
+0604011G0BHABBE,Fematrix 40 patches
+0604011G0BI,Oestrogel
+0604011G0BIABAU,Oestrogel Pump-Pack 0.06% gel
+0604011G0BJ,Menorest
+0604011G0BJAABH,Menorest 37.5 patches
+0604011G0BJABBL,Menorest 50 patches
+0604011G0BJACBR,Menorest 75 patches
+0604011G0BK,FemSeven
+0604011G0BKAABL,FemSeven 50 patches
+0604011G0BKABBR,FemSeven 75 patches
+0604011G0BKACBN,FemSeven 100 patches
+0604011G0BL,Progynova (Patches)
+0604011G0BLAABL,Progynova TS 50micrograms/24hours transdermal patches
+0604011G0BLABBN,Progynova TS 100micrograms/24hours transdermal patches
+0604011G0BM,Elleste Solo
+0604011G0BMAABD,Elleste Solo 1mg tablets
+0604011G0BMABAI,Elleste Solo 2mg tablets
+0604011G0BMACBE,Elleste Solo MX 40 transdermal patches
+0604011G0BMADBG,Elleste Solo MX 80 transdermal patches
+0604011G0BN,Dermestril
+0604011G0BNAABA,Dermestril 25 patches
+0604011G0BNABBL,Dermestril 50 patches
+0604011G0BNACBN,Dermestril 100 patches
+0604011G0BNAEBL,Dermestril - Septem 50 patches
+0604011G0BNAFBR,Dermestril - Septem 75 patches
+0604011G0BP,Sandrena
+0604011G0BPAABI,Sandrena 500microgram gel sachets
+0604011G0BPABBJ,Sandrena 1mg gel sachets
+0604011G0BR,Adgyn Estro
+0604011G0BRAAAI,Adgyn Estro 2mg tablets
+0604011G0BS,Aerodiol
+0604011G0BSAABS,Aerodiol 150micrograms/dose nasal spray
+0604011G0BU,Estradot
+0604011G0BUAABR,Estradot 75micrograms/24hours patches
+0604011G0BUABBN,Estradot 100micrograms/24hours patches
+0604011G0BUACBA,Estradot 25micrograms/24hours patches
+0604011G0BUADBH,Estradot 37.5micrograms/24hours patches
+0604011G0BUAEBL,Estradot 50micrograms/24hours patches
+0604011G0BV,Bedol
+0604011G0BVAAAI,Bedol 2mg tablets
+0604011G0BW,Lenzetto
+0604011G0BWAABT,Lenzetto 1.53mg/dose transdermal spray
+0604011H0,"Estradiol, estriol and estrone"
+0604011H0AA,"Oestradiol, oestriol and oestrone"
+0604011H0AAAAAA,Generic Hormonin tablets
+0604011H0BB,Hormonin
+0604011H0BBAAAA,Hormonin tablets
+0604011J0,Estradiol and estriol with progestogen
+0604011J0AA,Oestradiol and oestriol with progestogen
+0604011J0AAAAAA,Generic Trisequens tablets
+0604011J0AAABAB,Generic Trisequens Forte tablets
+0604011J0BB,Trisequens
+0604011J0BBAAAA,Trisequens tablets
+0604011J0BBABAB,Trisequens Forte tablets
+0604011K0,Estradiol valerate
+0604011K0AA,Estradiol valerate
+0604011K0AAAAAA,Estradiol valerate 1mg tablets
+0604011K0AAABAB,Estradiol valerate 2mg tablets
+0604011K0BB,Progynova (Tablet)
+0604011K0BBAAAA,Progynova 1mg tablets
+0604011K0BBABAB,Progynova 2mg tablets
+0604011K0BC,Climaval
+0604011K0BCAAAA,Climaval 1mg tablets
+0604011K0BCABAB,Climaval 2mg tablets
+0604011K0BE,FemTab
+0604011K0BEAAAA,FemTab 1mg tablets
+0604011K0BEABAB,FemTab 2mg tablets
+0604011L0,Estradiol with progestogen
+0604011L0AA,Estradiol with progestogen
+0604011L0AAABAB,Generic Cyclo-Progynova 1mg tablets
+0604011L0AAACAC,Generic Cyclo-Progynova 2mg tablets
+0604011L0AAAFAF,Generic Nuvelle tablets
+0604011L0AAAGAG,Generic Estracombi TTS transdermal patches
+0604011L0AAAHAH,Generic Climagest 1mg tablets
+0604011L0AAAIAI,Generic Climagest 2mg tablets
+0604011L0AAAJAJ,Estradiol 50microg/24hours ptch and Norethist 1mg tab
+0604011L0AAAKAK,Estradiol 2mg / Norethisterone acetate 1mg tablets
+0604011L0AAALAL,Generic Tridestra tablets
+0604011L0AAAMAM,Generic Femoston 2/10mg tablets
+0604011L0AAANAN,Generic Femoston 2/20mg tablets
+0604011L0AAAPAP,Generic Femoston 1/10mg tablets
+0604011L0AAAQAQ,Estradiol 80microg/24hours ptch and Dydrogesterone 10mg tab
+0604011L0AAARAR,Estradiol valerate 2mg / Norethisterone 700microgram tablets
+0604011L0AAATAT,Generic Elleste Duet 2mg tablets
+0604011L0AAAUAU,Estradiol 40microg/24hours ptch and Dydrogesterone 10mg tab
+0604011L0AAAWAW,Generic Elleste Duet 1mg tablets
+0604011L0AAAXAX,Estradiol 50microg/Norethist 170microg/24hours ptch
+0604011L0AAAYAY,Generic Evorel Sequi transdermal patches
+0604011L0AAAZAZ,Generic Nuvelle TS transdermal patches
+0604011L0AABABA,Estradiol 1mg / Norethisterone acetate 500microgram tablets
+0604011L0AABBBB,Estradiol 50microg/24hours ptch and Norethist acet 1mg tab
+0604011L0AABDBD,Estradiol 1mg / Dydrogesterone 5mg tablets
+0604011L0AABEBE,Estradiol valerate 1mg / Medroxyprogesterone 2.5mg tablets
+0604011L0AABFBF,Estradiol valerate 1mg / Medroxyprogesterone 5mg tablets
+0604011L0AABGBG,Estradiol valerate 2mg / Medroxyprogesterone 5mg tablets
+0604011L0AABHBH,Generic Novofem tablets
+0604011L0AABIBI,Generic FemSeven Sequi transdermal patches
+0604011L0AABJBJ,Estradiol 50microg/Levonorgestrel 7microg/24hours ptch
+0604011L0AABKBK,Estradiol 1mg / Drospirenone 2mg tablets
+0604011L0AABLBL,Estradiol 500micrograms / Dydrogesterone 2.5mg tablets
+0604011L0BB,Estrapak 50
+0604011L0BBAABB,Estrapak 50
+0604011L0BC,Cyclo-Progynova
+0604011L0BCAAAB,Cyclo-Progynova 1mg tablets
+0604011L0BCABAC,Cyclo-Progynova 2mg tablets
+0604011L0BE,Nuvelle
+0604011L0BEAAAF,Nuvelle tablets
+0604011L0BEABAZ,Nuvelle TS patches
+0604011L0BEACAK,Nuvelle Continuous tablets
+0604011L0BF,Estracombi
+0604011L0BFAAAG,Estracombi TTS patches
+0604011L0BG,Climagest
+0604011L0BGAAAH,Climagest 1mg tablets
+0604011L0BGABAI,Climagest 2mg tablets
+0604011L0BH,Evorel (with Progestogen)
+0604011L0BHAAAJ,Evorel Pak
+0604011L0BHABAX,Evorel Conti patches
+0604011L0BHACAY,Evorel Sequi patches
+0604011L0BI,Kliofem
+0604011L0BIAAAK,Kliofem tablets
+0604011L0BJ,Tridestra
+0604011L0BJAAAL,Tridestra tablets
+0604011L0BK,Femoston
+0604011L0BKAAAM,Femoston 2/10mg tablets
+0604011L0BKABAN,Femoston 2/20mg tablets
+0604011L0BKACAP,Femoston 1/10mg tablets
+0604011L0BKADBD,Femoston-conti 1mg/5mg tablets
+0604011L0BKAEBL,Femoston-conti 0.5mg/2.5mg tablets
+0604011L0BL,Femapak
+0604011L0BLAAAQ,Femapak 80
+0604011L0BLABAU,Femapak 40
+0604011L0BM,Climesse
+0604011L0BMAAAR,Climesse tablets
+0604011L0BP,Elleste Duet
+0604011L0BPAAAT,Elleste Duet 2mg tablets
+0604011L0BPABAW,Elleste Duet 1mg tablets
+0604011L0BPACAK,Elleste Duet Conti tablets
+0604011L0BR,Kliovance
+0604011L0BRAABA,Kliovance tablets
+0604011L0BS,Adgyn Combi
+0604011L0BSAAAI,Adgyn Combi tablets
+0604011L0BT,Indivina
+0604011L0BTAABE,Indivina 1mg/2.5mg tablets
+0604011L0BTABBF,Indivina 1mg/5mg tablets
+0604011L0BTACBG,Indivina 2mg/5mg tablets
+0604011L0BU,Novofem
+0604011L0BUAABH,Novofem tablets
+0604011L0BV,FemSeven Sequi
+0604011L0BVAABI,FemSeven Sequi patches
+0604011L0BW,FemSeven Conti
+0604011L0BWAABJ,FemSeven Conti patches
+0604011L0BX,FemTab Continuous
+0604011L0BXAAAK,FemTab Continuous tablets
+0604011L0BY,FemTab Sequi
+0604011L0BYAAAF,FemTab Sequi tablets
+0604011L0BZ,Angeliq
+0604011L0BZAABK,Angeliq 1mg/2mg tablets
+0604011L0CB,Clinorette
+0604011L0CBAAA0,Clinorette tablets
+0604011M0,Estriol
+0604011M0AA,Estriol (Systemic)
+0604011M0AAABAB,Estriol 1mg tablets
+0604011M0BB,Ovestin (Systemic)
+0604011M0BBABAB,Ovestin 1mg tablets
+0604011N0,Estradiol with cyproterone acetate
+0604011N0AA,Oestradiol with cyprote acetate
+0604011N0AAAAAA,Generic Climen tablets
+0604011N0BB,Climen
+0604011N0BBAAAA,Climen tablets
+0604011P0,Oestrogens conjugated
+0604011P0AA,Oestro Conj (Systemic)
+0604011P0AAABAB,Conjugated oestrogens 625microgram tablets
+0604011P0AAACAC,Conjugated oestrogens 1.25mg tablets
+0604011P0AAADAD,Conjugated oestrogens 2.5mg tablets
+0604011P0AAAFAF,Conjugated oestrogens 300microgram tablets
+0604011P0BB,Premarin (Systemic)
+0604011P0BBAAAB,Premarin 0.625mg tablets
+0604011P0BBABAC,Premarin 1.25mg tablets
+0604011P0BBACAD,Premarin 2.5mg tablets
+0604011P0BBAGAF,Premarin 0.3mg tablets
+0604011Q0,Oestrogens conjugated with progestogen
+0604011Q0AA,Conjugated oestrogens / progestogen
+0604011Q0AAACAC,Conj oestrogens 625microg tab and Norgestrel 150microg tab
+0604011Q0AAADAD,Conj oestrogens 1.25mg tab and Norgestrel 150microg tab
+0604011Q0AAAEAE,Conjugated oestrogens 625microg/Medroxyprogesterone 5mg tab
+0604011Q0AAAGAG,Generic Premique Cycle tablets
+0604011Q0AAAHAH,Conj oestrogens 300microg/Medroxyprogesterone 1.5mg MR tab
+0604011Q0BB,Prempak-C
+0604011Q0BBACAC,Prempak-C 0.625mg/0.15mg tablets
+0604011Q0BBADAD,Prempak-C 1.25mg/0.15mg tablets
+0604011Q0BC,Premique
+0604011Q0BCACAG,Premique Cycle 0.625mg/10mg tablets
+0604011Q0BCADAE,Premique 0.625mg/5mg tablets
+0604011Q0BCAEAH,Premique Low Dose 0.3mg/1.5mg modified-release tablets
+0604011R0,Estropipate
+0604011R0AA,Estropipate
+0604011R0AAAAAA,Estropipate 1.5mg tablets
+0604011R0BB,Harmogen
+0604011R0BBAAAA,Harmogen 1.5mg tablets
+0604011X0,Raloxifene hydrochloride
+0604011X0AA,Raloxifene hydrochloride
+0604011X0AAAAAA,Raloxifene 60mg tablets
+0604011X0BB,Evista
+0604011X0BBAAAA,Evista 60mg tablets
+0604011X0BD,Razylan
+0604011X0BDAAAA,Razylan 60mg tablets
+0604011X0BE,Ostiral
+0604011X0BEAAAA,Ostiral 60mg tablets
+0604011X0BF,Evirex
+0604011X0BFAAAA,Evirex 60mg tablets
+0604011Y0,Tibolone
+0604011Y0AA,Tibolone
+0604011Y0AAAAAA,Tibolone 2.5mg tablets
+0604011Y0BB,Livial
+0604011Y0BBAAAA,Livial 2.5mg tablets
+0604012,Progestogens and progesterone receptor modulators
+0604012F0,Dydrogesterone
+0604012F0AA,Dydrogesterone
+0604012F0AAAAAA,Dydrogesterone 10mg tablets
+0604012F0BB,Duphaston
+0604012F0BBAAAA,Duphaston 10mg tablets
+0604012F0BBABAA,Duphaston HRT 10mg tablets
+0604012J0,Hydroxyprogesterone caproate
+0604012J0AA,Hydroxyprogesterone caproate
+0604012J0AAAAAA,Hydroxyprogesterone 250mg/1ml inj ampoules
+0604012J0BB,Proluton Depot
+0604012J0BBAAAA,Proluton Depot 250mg/1ml solution for injection ampoules
+0604012M0,Medroxyprogesterone acetate
+0604012M0AA,Medroxyprogest acetate (Hormone)
+0604012M0AAABAB,Medroxyprogesterone 5mg tablets
+0604012M0AAAEAE,Medroxyprogesterone 10mg tablets
+0604012M0AAAFAF,Medroxyprogesterone 2.5mg tablets
+0604012M0BC,Provera (Hormone)
+0604012M0BCAAAB,Provera 5mg tablets
+0604012M0BCABAE,Provera 10mg tablets
+0604012M0BCACAF,Provera 2.5mg tablets
+0604012M0BD,Adgyn Medro (Hormone)
+0604012M0BDAAAB,Adgyn Medro 5mg tablets
+0604012M0BE,Climanor (Hormone)
+0604012M0BEAAAB,Climanor 5mg tablets
+0604012P0,Norethisterone
+0604012P0AA,Norethisterone (Hormone)
+0604012P0AAAAAA,Norethisterone 5mg tablets
+0604012P0AAADAD,Norethisterone 1mg tablets
+0604012P0AAAEAE,Norethisterone 5mg/5ml oral suspension
+0604012P0BB,Primolut N
+0604012P0BBAAAA,Primolut N 5mg tablets
+0604012P0BC,Utovlan
+0604012P0BCAAAA,Utovlan 5mg tablets
+0604012P0BE,Micronor HRT
+0604012P0BEAAAD,Micronor HRT 1mg tablets
+0604012S0,Progesterone
+0604012S0AA,Progesterone
+0604012S0AAACAC,Progesterone 25mg/1ml solution for injection ampoules
+0604012S0AAADAD,Progesterone 50mg/1ml solution for injection ampoules
+0604012S0AAAEAE,Progesterone 200mg pessaries
+0604012S0AAAFAF,Progesterone 400mg pessaries
+0604012S0AAAHAH,Progesterone 100mg/2ml solution for injection ampoules
+0604012S0AAALAL,Progesterone micronised 100mg capsules
+0604012S0AAANAN,Progesterone 100mg pessaries
+0604012S0AAAVAV,Progesterone 4% vaginal gel 1.125g applicators
+0604012S0AAAWAW,Progesterone 8% vaginal gel 1.125g applicators
+0604012S0AABWBW,Progesterone micronised 200mg capsules
+0604012S0AABXBX,Progesterone 2% in Aqueous cream
+0604012S0AABYBY,Progesterone 2.34% cream
+0604012S0AABZBZ,Progesterone micronised 200mg vaginal capsules
+0604012S0AACACA,Progesterone 100mg/1ml solution for injection ampoules
+0604012S0AACBCB,Progesterone 25mg/1.119ml solution for injection vials
+0604012S0AACCCC,Progesterone 25mg/1.112ml solution for injection vials
+0604012S0BB,Cyclogest
+0604012S0BBAAAE,Cyclogest 200mg pessaries
+0604012S0BBABAF,Cyclogest 400mg pessaries
+0604012S0BC,Gestone
+0604012S0BCABAC,Gestone 25mg/1ml solution for injection ampoules
+0604012S0BCACAD,Gestone 50mg/1ml solution for injection ampoules
+0604012S0BCADAH,Gestone 100mg/2ml solution for injection ampoules
+0604012S0BD,Utrogestan
+0604012S0BDAAAL,Utrogestan 100mg capsules
+0604012S0BDACBW,Utrogestan 200mg capsules
+0604012S0BDADBZ,Utrogestan 200mg vaginal capsules with applicators
+0604012S0BG,Crinone
+0604012S0BGAAAV,Crinone 4% progesterone vaginal gel
+0604012S0BGABAW,Crinone 8% progesterone vaginal gel
+0604012S0BM,Serenity Natural Progesterone
+0604012S0BMAABY,Serenity Natural Progesterone cream
+0604012S0BN,Lutigest
+0604012S0BNAAAN,Lutigest 100mg vaginal tablets
+0604012S0BP,Lubion
+0604012S0BPAACB,Lubion 25mg/1.119ml solution for injection vials
+0604012S0BPABCC,Lubion 25mg/1.112ml solution for injection vials
+0604012U0,Ulipristal acetate (Emergency Contraceptive)
+0604012U0AA,Ulipristal acetate (Emergency Contraceptive)
+0604012U0AAAAAA,Ulipristal 5mg tablets
+0604012U0BB,Esmya
+0604012U0BBAAAA,Esmya 5mg tablets
+0604012V0,Sildenafil (Female Sex Hormone)
+0604012V0AA,Sildenafil (Female Sex Hormone)
+0604012V0AAAAAA,Sildenafil 25mg pessaries
+0604012W0,Dienogest
+0604012W0AA,Dienogest
+0604012W0AAAAAA,Dienogest 2mg tablets
+0604012W0BB,Zalkya
+0604012W0BBAAAA,Zalkya 2mg tablets
+060402,Male sex hormones and antagonists
+0604020,Male sex hormones and antagonists
+060402000,Other male sex hormone and antagonist preparations
+060402000AA,Generic compound preparation BNF 0604020
+060402000AAAAAA,Generic Prowess capsules
+060402000BP,Proprietary compound preparation BNF 0604020
+060402000BPAAAA,Prowess capsules
+0604020B0,Dutasteride
+0604020B0AA,Dutasteride
+0604020B0AAAAAA,Dutasteride 500microgram capsules
+0604020B0AAABAB,Dutasteride 500micrograms/5ml oral solution
+0604020B0BB,Avodart
+0604020B0BBAAAA,Avodart 500microgram capsules
+0604020B0BC,Zepron
+0604020B0BCAAAA,Zepron 500microgram capsules
+0604020C0,Finasteride
+0604020C0AA,Finasteride
+0604020C0AAAAAA,Finasteride 5mg tablets
+0604020C0AAACAC,Finasteride 5mg/5ml oral suspension
+0604020C0AAADAD,Finasteride 5mg oral powder sachets
+0604020C0BB,Proscar
+0604020C0BBAAAA,Proscar 5mg tablets
+0604020D0,Cyproterone acetate
+0604020D0AA,Cyprote acetate (Male Hormone)
+0604020D0AAAAAA,Cyproterone 50mg tablets (Male Hormone)
+0604020D0AAABAB,Cyproterone 10mg tablets
+0604020D0BB,Androcur
+0604020D0BBAAAA,Androcur 50mg tablets
+0604020F0,Mesterolone
+0604020F0AA,Mesterolone
+0604020F0AAAAAA,Mesterolone 25mg tablets
+0604020F0BB,Pro-Viron
+0604020F0BBAAAA,Pro-Viron 25mg tablets
+0604020H0,Methyltestosterone
+0604020H0AA,Methyltestosterone
+0604020H0AAAJAJ,Methyltestosterone 10mg capsules
+0604020K0,Testosterone
+0604020K0AA,Testosterone
+0604020K0AAA8A8,Testosterone 2.5mg/24hours transdermal patches
+0604020K0AAA9A9,Testosterone 6mg/24hours transdermal patches
+0604020K0AAABAB,Testosterone 100mg implant
+0604020K0AAACAC,Testosterone 200mg implant
+0604020K0AAAJAJ,Testosterone 1% ointment
+0604020K0AABCBC,Testosterone 5mg/24hours transdermal patches
+0604020K0AABHBH,Testosterone 50mg/5g gel unit dose sachets
+0604020K0AABIBI,Testosterone 30mg modified-release muco-adhesive buccal tab
+0604020K0AABKBK,Testosterone 50mg/5g gel unit dose tube
+0604020K0AABLBL,Testosterone 300micrograms/24hours transdermal patches
+0604020K0AABMBM,Testosterone 2% gel (10mg per actuation)
+0604020K0AABPBP,Testosterone 2.4mg/24hours transdermal patches
+0604020K0AABQBQ,Testosterone 16.2mg/g gel (20.25mg per actuation)
+0604020K0AABRBR,Testosterone 20mg/g transdermal gel (23mg per actuation)
+0604020K0BD,Testoderm
+0604020K0BDAAA9,Testoderm 6mg/24hours patches
+0604020K0BE,Andropatch
+0604020K0BEAAA8,Andropatch 2.5mg/24hours patches
+0604020K0BEABBC,Andropatch 5mg/24hours patches
+0604020K0BH,Testogel
+0604020K0BHAABH,Testogel 50mg/5g gel sachets
+0604020K0BHABBQ,Testogel 16.2mg/g gel
+0604020K0BJ,Striant
+0604020K0BJAABI,Striant SR 30mg muco-adhesive buccal tablets
+0604020K0BK,Testim
+0604020K0BKAABK,Testim 50mg/5g gel
+0604020K0BL,Intrinsa
+0604020K0BLAABL,Intrinsa 300micrograms/24hours transdermal patches
+0604020K0BM,Tostran
+0604020K0BMAABM,Tostran 2% gel
+0604020K0BN,Androderm
+0604020K0BNAABC,Androderm 5mg/24hours transdermal patches
+0604020K0BP,Testopatch
+0604020K0BPAABP,Testopatch 2.4mg/24hours transdermal patches
+0604020K0BQ,Testavan
+0604020K0BQAABR,Testavan 20mg/g transdermal gel
+0604020M0,Testosterone enantate
+0604020M0AA,Testosterone enantate
+0604020M0AAAAAA,Testosterone enantate 250mg/1ml inj ampoules
+0604020P0,Testosterone propionate
+0604020P0AA,Testosterone propionate
+0604020P0AAADAD,Testosterone propionate 100mg/2ml inj ampoules
+0604020P0AAAKAK,Testosterone propionate 1% cream
+0604020P0BB,Virormone (Parenteral)
+0604020P0BBACAD,Virormone 100mg/2ml solution for injection ampoules
+0604020T0,Testosterone undecanoate
+0604020T0AA,Testosterone undecanoate
+0604020T0AAAAAA,Testosterone 40mg capsules
+0604020T0AAACAC,Testosterone undecanoate 1g/4ml inj ampoules
+0604020T0AAADAD,Testosterone undecanoate 1g/4ml solution for injection vials
+0604020T0BB,Restandol
+0604020T0BBAAAA,Restandol 40mg capsules
+0604020T0BBABAA,Restandol 40mg Testocaps
+0604020T0BD,Nebido
+0604020T0BDAAAC,Nebido 1000mg/4ml solution for injection ampoules
+0604020T0BDABAD,Nebido 1000mg/4ml solution for injection vials
+0604020U0,Testosterone esters
+0604020U0AA,Generic injection
+0604020U0AAAAAA,Generic Sustanon 250mg/1ml solution for injection ampoules
+0604020U0AAABAB,Generic Sustanon 100 solution for injection 1ml ampoules
+0604020U0BB,Sustanon
+0604020U0BBAAAB,Sustanon 100 solution for injection 1ml ampoules
+0604020U0BBABAA,Sustanon 250mg/1ml solution for injection ampoules
+060403,Anabolic steroids
+0604030,Anabolic steroids
+0604030L0,Nandrolone decanoate
+0604030L0AA,Nandrolone decanoate (Hormone)
+0604030L0AAABAB,Nandrolone 50mg/1ml solution for injection ampoules
+0604030L0BB,Deca-Durabolin (Steroid)
+0604030L0BBABAB,Deca-Durabolin 50mg/1ml solution for injection ampoules
+0604030P0,Oxandrolone
+0604030P0AA,Oxandrolone
+0604030P0AAABAB,Oxandrolone 2.5mg tablets
+0604030P0BC,Oxandrin
+0604030P0BCAAAB,Oxandrin 2.5mg tablets
+0604030Q0,Prasterone
+0604030Q0AA,Prasterone
+0604030Q0AAAAAA,Prasterone 25mg capsules
+0604030Q0AAACAC,Prasterone 50mg capsules
+0604030Q0AAAHAH,Prasterone 10mg tablets
+0604030Q0AAAIAI,Prasterone 25mg tablets
+0604030Q0AAALAL,Prasterone 10mg / Calcium carbonate 47mg tablets
+0604030Q0AAAMAM,Prasterone 6.5mg pessaries
+0604030Q0BB,DHEA
+0604030Q0BBAAAA,DHEA 25mg capsules
+0604030Q0BBACAC,DHEA 50mg capsules
+0604030Q0BBAFAI,DHEA 25mg tablets
+0604030Q0BBAGAH,DHEA 10mg tablets
+0604030Q0BG,Natrol DHEA
+0604030Q0BGAAAL,Natrol DHEA 10mg tablets
+0604030Q0BH,Intrarosa DHEA
+0604030Q0BHAAAM,Intrarosa 6.5mg pessaries
+0604030S0,Androstanalone
+0604030S0AA,Androstanalone
+0604030S0AAAAAA,Androstanolone 2.5% gel
+0604030S0BB,Andractim
+0604030S0BBAAAA,Andractim 2.5% gel
+0604030T0,Stanozolol
+0604030T0AA,Stanozolol
+0604030T0AAABAB,Stanozolol 5mg tablets
+0604030T0AAACAC,Stanozolol 2mg tablets
+0604030T0BB,Stromba
+0604030T0BBAAAB,Stromba 5mg tablets
+0605,"Hypothalamic and pituitary hormones and anti, oestrogens"
+060501,Hypothalamic & anterior pituitary hormone & antioestrogens
+0605010,Hypothalamic & anterior pituitary hormone & antioestrogens
+0605010AB,Follitropin alfa and lutropin alfa
+0605010ABAA,Follitropin alfa and lutropin alfa
+0605010ABAAAAAA,Follitropin alfa 150unit / Lutropin alfa 75unit inj vials
+0605010ABBB,Pergoveris
+0605010ABBBAAAA,Pergoveris 150unit/75unit inj vials
+0605010AC,Somatorelin
+0605010ACAA,Somatorelin
+0605010ACAAAAAA,Somatorelin 50microgram inj ampoules
+0605010ACBB,GHRH Ferring
+0605010ACBBAAAA,GHRH Ferring 50microgram inj ampoules
+0605010AD,Corifollitropin alfa
+0605010ADAA,Corifollitropin alfa
+0605010ADAAAAAA,Corifollitropin alfa 100micrograms/0.5ml inj pfs
+0605010ADAAABAB,Corifollitropin alfa 150micrograms/0.5ml inj pfs
+0605010ADBB,Elonva
+0605010ADBBAAAA,Elonva 100micrograms/0.5ml inj pre-filled syringes
+0605010ADBBABAB,Elonva 150micrograms/0.5ml inj pre-filled syringes
+0605010AF,Follitropin delta
+0605010AFAA,Follitropin delta
+0605010AFAAAAAA,Follitropin delta 12micrograms/0.36ml inj cartridges
+0605010AFAAABAB,Follitropin delta 36micrograms/1.08ml inj cartridges
+0605010AFAAACAC,Follitropin delta 72micrograms/2.16ml inj cartridges
+0605010AFAAADAD,Follitropin delta 12micrograms/0.36ml inj pf dispos dev
+0605010AFAAAEAE,Follitropin delta 72micrograms/2.16ml inj pf dispos dev
+0605010AFAAAFAF,Follitropin delta 36micrograms/1.08ml inj pf dispos dev
+0605010AFBB,Rekovelle
+0605010AFBBAAAA,Rekovelle 12micrograms/0.36ml inj cartridges
+0605010AFBBABAB,Rekovelle 36micrograms/1.08ml inj cartridges
+0605010AFBBACAC,Rekovelle 72micrograms/2.16ml inj cartridges
+0605010AFBBADAD,Rekovelle 12micrograms/0.36ml inj pre-filled pens
+0605010AFBBAEAE,Rekovelle 72micrograms/2.16ml inj pre-filled pens
+0605010AFBBAFAF,Rekovelle 36micrograms/1.08ml inj pre-filled pens
+0605010D0,Chorionic gonadotrophin
+0605010D0AA,Chorion gonadotroph
+0605010D0AAACAC,"Chorionic gonadotrophin 1,500unit inj ampoules"
+0605010D0AAADAD,"Chorionic gonadotrophin 2,000unit inj ampoules"
+0605010D0AAAEAE,"Chorionic gonadotrophin 5,000unit inj ampoules"
+0605010D0AAAGAG,"Chorionic gonadotrophin 10,000unit inj ampoules"
+0605010D0AAAHAH,"Chorionic gonadotrophin 2,000unit inj vials"
+0605010D0AAAIAI,"Chorionic gonadotrophin 5,000unit inj vials"
+0605010D0BC,Profasi
+0605010D0BCACAD,"Profasi 2,000unit inj ampoules"
+0605010D0BCADAE,"Profasi 5,000unit inj ampoules"
+0605010D0BCAEAG,"Profasi 10,000unit inj ampoules"
+0605010D0BD,Pregnyl
+0605010D0BDABAC,"Pregnyl 1,500unit inj ampoules"
+0605010D0BDACAE,"Pregnyl 5,000unit inj ampoules"
+0605010D0BE,Choragon
+0605010D0BEAAAE,"Choragon 5,000unit inj ampoules"
+0605010D0BF,Gonasi HP
+0605010D0BFAAAH,"Gonasi HP 2,000unit inj vials"
+0605010D0BFABAI,"Gonasi HP 5,000unit inj vials"
+0605010G0,Clomifene citrate
+0605010G0AA,Clomifene cit
+0605010G0AAAAAA,Clomifene 50mg tablets
+0605010G0BB,Clomid
+0605010G0BBAAAA,Clomid 50mg tablets
+0605010I0,Follitropin alfa
+0605010I0AA,Follitropin alfa
+0605010I0AAAAAA,Follitropin alfa 75unit inj ampoules
+0605010I0AAABAB,Follitropin alfa 150unit inj ampoules
+0605010I0AAACAC,Follitropin alfa 37.5unit inj ampoules
+0605010I0AAAEAE,Follitropin alfa 75unit inj vials
+0605010I0AAAFAF,"Follitropin alfa 1,050unit inj vials"
+0605010I0AAAGAG,Follitropin alfa 450unit inj vials
+0605010I0AAAHAH,Follitropin alfa 300units/0.5ml inj pre-filled syringes
+0605010I0AAAIAI,Follitropin alfa 450units/0.75ml inj pre-filled syringes
+0605010I0AAAJAJ,Follitropin alfa 900units/1.5ml inj pre-filled syringes
+0605010I0AAAKAK,Follitropin alfa 75units/0.125ml inj pf dispos dev
+0605010I0AAALAL,Follitropin alfa 150units/0.25ml inj pf dispos dev
+0605010I0AAAMAM,Follitropin alfa 225units/0.375ml inj pf dispos dev
+0605010I0AAANAN,Follitropin alfa 300units/0.5ml inj pf dispos dev
+0605010I0AAAPAP,Follitropin alfa 450units/0.75ml inj pf dispos dev
+0605010I0AAAQAQ,Follitropin alfa 900units/1.5ml inj pf dispos dev
+0605010I0AAARAR,Follitropin alfa 300units/0.5ml inj cartridges
+0605010I0AAASAS,Follitropin alfa 450units/0.75ml inj cartridges
+0605010I0AAATAT,Follitropin alfa 900units/1.5ml inj cartridges
+0605010I0BB,Gonal-F
+0605010I0BBAAAA,Gonal-f 75unit inj ampoules
+0605010I0BBABAB,Gonal-f 150unit inj ampoules
+0605010I0BBACAC,Gonal-f 37.5unit inj ampoules
+0605010I0BBAEAE,Gonal-f 75unit inj vials
+0605010I0BBAFAF,"Gonal-f 1,050unit inj vials"
+0605010I0BBAGAG,Gonal-f 450unit inj vials
+0605010I0BBAHAH,Gonal-f 300units/0.5ml inj pre-filled syringes
+0605010I0BBAIAI,Gonal-f 450units/0.75ml inj pre-filled syringes
+0605010I0BBAJAJ,Gonal-f 900units/1.5ml inj pre-filled syringes
+0605010I0BBAKAN,Gonal-f 300units/0.5ml inj pre-filled pens
+0605010I0BBALAP,Gonal-f 450units/0.75ml inj pre-filled pens
+0605010I0BBAMAQ,Gonal-f 900units/1.5ml inj pre-filled pens
+0605010I0BC,Bemfola
+0605010I0BCAAAK,Bemfola 75units/0.125ml inj pre-filled pens
+0605010I0BCABAL,Bemfola 150units/0.25ml inj pre-filled pens
+0605010I0BCACAM,Bemfola 225units/0.375ml inj pre-filled pens
+0605010I0BCADAN,Bemfola 300units/0.5ml inj pre-filled pens
+0605010I0BCAEAP,Bemfola 450units/0.75ml inj pre-filled pens
+0605010I0BD,Ovaleap
+0605010I0BDAAAR,Ovaleap 300units/0.5ml solution for injection cartridges
+0605010I0BDABAS,Ovaleap 450units/0.75ml solution for injection cartridges
+0605010I0BDACAT,Ovaleap 900units/1.5ml solution for injection cartridges
+0605010J0,Corticotropin
+0605010J0AA,Cortico
+0605010J0AAAFAF,Corticotropin 400units/5ml gel for injection vials
+0605010J0BB,Acthar
+0605010J0BBAEAF,Acthar 400units/5ml gel for injection vials
+0605010K0,Follitropin beta
+0605010K0AA,Follitropin beta
+0605010K0AAADAD,Follitropin beta 50units/0.5ml solution for injection vials
+0605010K0AAAEAE,Follitropin beta 100units/0.5ml solution for injection vials
+0605010K0AAAFAF,Follitropin beta 150units/0.5ml solution for injection vials
+0605010K0AAAGAG,Follitropin beta 200units/0.5ml solution for injection vials
+0605010K0AAAHAH,Follitropin beta 300units/0.36ml inj cartridges
+0605010K0AAAIAI,Follitropin beta 600units/0.72ml inj cartridges
+0605010K0AAAJAJ,Follitropin beta 900units/1.08ml inj cartridges
+0605010K0BB,Puregon
+0605010K0BBADAD,Puregon 50units/0.5ml solution for injection vials
+0605010K0BBAEAE,Puregon 100units/0.5ml solution for injection vials
+0605010K0BBAFAF,Puregon 150units/0.5ml solution for injection vials
+0605010K0BBAGAG,Puregon 200units/0.5ml solution for injection vials
+0605010K0BBAHAH,Puregon 300units/0.36ml solution for injection cartridges
+0605010K0BBAIAI,Puregon 600units/0.72ml solution for injection cartridges
+0605010K0BBAJAJ,Puregon 900units/1.08ml solution for injection cartridges
+0605010M0,Urofollitropin
+0605010M0AA,Urofollitropin
+0605010M0AAACAC,Urofollitropin 75unit inj ampoules
+0605010M0AAADAD,Urofollitropin 150unit inj ampoules
+0605010M0AAAEAE,Urofollitropin 75unit inj vials
+0605010M0AAAFAF,Urofollitropin 150unit inj vials
+0605010M0BD,Metrodin
+0605010M0BDABAC,Metrodin High Purity 75unit inj ampoules
+0605010M0BDACAD,Metrodin High Purity 150unit inj ampoules
+0605010M0BG,Fostimon
+0605010M0BGAAAE,Fostimon 75unit inj vials
+0605010M0BGABAF,Fostimon 150unit inj vials
+0605010M0BH,Bravelle
+0605010M0BHAAAE,Bravelle 75unit inj vials
+0605010N0,Menotrophin
+0605010N0AA,Menotrophin
+0605010N0AAAAAA,Menotrophin 75unit inj ampoules
+0605010N0AAAEAE,Menotrophin 75unit inj vials
+0605010N0AAAFAF,Menotrophin 150unit inj vials
+0605010N0AAAGAG,Menotrophin 600unit inj vials
+0605010N0AAAHAH,"Menotrophin 1,200unit inj vials"
+0605010N0BE,Menogon
+0605010N0BEAAAA,Menogon 75unit inj ampoules
+0605010N0BF,Menopur
+0605010N0BFAAAE,Menopur 75unit inj vials
+0605010N0BFABAG,Menopur 600unit inj vials
+0605010N0BFACAH,"Menopur 1,200unit inj vials"
+0605010N0BFADAF,Menopur 150unit inj vials
+0605010N0BG,Merional
+0605010N0BGACAE,Merional 75unit inj vials
+0605010N0BGADAF,Merional 150unit inj vials
+0605010N0BH,Meriofert
+0605010N0BHAAAE,Meriofert 75unit inj vials
+0605010N0BHABAF,Meriofert 150unit inj vials
+0605010P0,Gonadorelin
+0605010P0AA,Gonadorelin
+0605010P0AAAAAA,Gonadorelin 100microgram pdr & solv inj vials
+0605010P0AAAHAH,Gonadorelin 100microgram pdr for soln inj vials
+0605010P0BC,HRF
+0605010P0BCAAAA,HRF 100microgram inj vials
+0605010R0,Protirelin
+0605010R0AA,Protirelin
+0605010R0AAAAAA,Protirelin 200micrograms/2ml solution for injection ampoules
+0605010R0AAACAC,Protirelin 200micrograms/1ml solution for injection ampoules
+0605010S0,Somatropin
+0605010S0AA,Somatropin
+0605010S0AAAAAA,Somatropin (rbe) 1.3mg inj vials
+0605010S0AAABAB,Somatropin (rbe) 4mg inj vials
+0605010S0AAACAC,Somatropin (rmc) 1.33mg inj vials
+0605010S0AAAFAF,Somatropin (rbe) 5.3mg inj cartridges
+0605010S0AAAHAH,Somatropin (rbe) 1mg inj pre-filled disposable devices
+0605010S0AAAMAM,Somatropin (rmc) 3.33mg inj vials
+0605010S0AAAPAP,Somatropin (rbe) 5.3mg inj vials
+0605010S0AAARAR,Somatropin (rbe) 6mg inj cartridges
+0605010S0AAASAS,Somatropin (rbe) 24mg inj cartridges
+0605010S0AAATAT,Somatropin (rbe) 12mg inj cartridges
+0605010S0AAAVAV,Somatropin (rbe) 400microgram inj pf dispos dev
+0605010S0AAAWAW,Somatropin (rbe) 600microgram inj pf dispos dev
+0605010S0AAAXAX,Somatropin (rbe) 800microgram inj pf dispos dev
+0605010S0AAAYAY,Somatropin (rbe) 200microgram inj pf dispos dev
+0605010S0AAAZAZ,Somatropin (epr) 5mg/1.5ml solution for injection cartridges
+0605010S0AABABA,Somatropin (epr) 10mg/1.5ml inj cartridges
+0605010S0AABBBB,Somatropin (epr) 15mg/1.5ml inj cartridges
+0605010S0AABCBC,Somatropin (rbe) 1.2mg inj pre-filled disposable devices
+0605010S0AABDBD,Somatropin (rbe) 1.4mg inj pre-filled disposable devices
+0605010S0AABEBE,Somatropin (rbe) 1.6mg inj pre-filled disposable devices
+0605010S0AABFBF,Somatropin (rbe) 1.8mg inj pre-filled disposable devices
+0605010S0AABGBG,Somatropin (rbe) 2mg inj pre-filled disposable devices
+0605010S0AABHBH,Somatropin (rmc) 8mg inj vials
+0605010S0AABIBI,Somatropin (rbe) 10mg/2ml solution for injection cartridges
+0605010S0AABJBJ,Somatropin (rbe) 5mg inj vials
+0605010S0AABKBK,Somatropin (rbe) 5mg/1.5ml solution for injection cartridges
+0605010S0AABLBL,Somatropin (rbe) 10mg/1.5ml inj cartridges
+0605010S0AABMBM,Somatropin (rbe) 10mg inj vials
+0605010S0AABNBN,Somatropin (rbe) 12mg inj pre-filled disposable devices
+0605010S0AABPBP,Somatropin (rbe) 5.3mg inj pre-filled disposable devices
+0605010S0AABQBQ,Somatropin (rmc) 6mg/1.03ml inj cartridges
+0605010S0AABRBR,Somatropin (rmc) 12mg/1.5ml inj cartridges
+0605010S0AABSBS,Somatropin (rmc) 20mg/2.5ml inj cartridges
+0605010S0AABTBT,Somatropin (epr) 15mg/1.5ml inj pf dispos dev
+0605010S0AABUBU,Somatropin (rbe) 15mg/1.5ml inj cartridges
+0605010S0AABVBV,Somatropin (epr) 5mg/1.5ml inj pf disps dev
+0605010S0AABWBW,Somatropin (epr) 10mg/1.5ml inj pf dispos dev
+0605010S0BB,Genotropin
+0605010S0BBAJAT,Genotropin 12mg inj cartridges
+0605010S0BBAKAF,Genotropin 5.3mg inj cartridges
+0605010S0BBALAV,Genotropin MiniQuick 400microgram inj pf dispos dev
+0605010S0BBAMAW,Genotropin MiniQuick 600microgram inj pf dispos dev
+0605010S0BBANAX,Genotropin MiniQuick 800microgram inj pf dispos dev
+0605010S0BBAPAY,Genotropin MiniQuick 200microgram inj pf dispos dev
+0605010S0BBAQAH,Genotropin MiniQuick 1mg inj pre-filled disposable devices
+0605010S0BBARBC,Genotropin MiniQuick 1.2mg inj pre-filled disposable devices
+0605010S0BBASBD,Genotropin MiniQuick 1.4mg inj pre-filled disposable devices
+0605010S0BBATBE,Genotropin MiniQuick 1.6mg inj pre-filled disposable devices
+0605010S0BBAUBF,Genotropin MiniQuick 1.8mg inj pre-filled disposable devices
+0605010S0BBAVBG,Genotropin MiniQuick 2mg inj pre-filled disposable devices
+0605010S0BBAWBN,Genotropin GoQuick 12mg inj pre-filled pens
+0605010S0BBAXBP,Genotropin GoQuick 5.3 inj pre-filled pens
+0605010S0BC,Saizen
+0605010S0BCAAAC,Saizen 1.33mg inj vials
+0605010S0BCABAM,Saizen 3.33mg inj vials
+0605010S0BCADBH,Saizen 8mg click.easy inj vials
+0605010S0BCAEBQ,Saizen 6mg/1.03ml solution for injection cartridges
+0605010S0BCAFBR,Saizen 12mg/1.5ml solution for injection cartridges
+0605010S0BCAGBS,Saizen 20mg/2.5ml solution for injection cartridges
+0605010S0BD,Humatrope
+0605010S0BDAAAA,Humatrope 1.3mg inj vials
+0605010S0BDABAP,Humatrope 5.3mg inj vials
+0605010S0BDACAR,Humatrope 6mg inj cartridges
+0605010S0BDADAS,Humatrope 24mg inj cartridges
+0605010S0BDAEAT,Humatrope 12mg inj cartridges
+0605010S0BE,Norditropin
+0605010S0BEADAZ,Norditropin SimpleXx 5mg/1.5ml inj cartridges
+0605010S0BEAEBA,Norditropin SimpleXx 10mg/1.5ml inj cartridges
+0605010S0BEAFBB,Norditropin SimpleXx 15mg/1.5ml inj cartridges
+0605010S0BEAGBT,Norditropin NordiFlex 15mg/1.5ml inj pf pens
+0605010S0BEAHBV,Norditropin NordiFlex 5mg/1.5ml inj pf pens
+0605010S0BEAIBW,Norditropin NordiFlex 10mg/1.5ml inj pf pens
+0605010S0BEAKBV,Norditropin FlexPro 5mg/1.5ml inj pre-filled pens
+0605010S0BEALBW,Norditropin FlexPro 10mg/1.5ml inj pre-filled pens
+0605010S0BEAMBT,Norditropin FlexPro 15mg/1.5ml inj pre-filled pens
+0605010S0BF,Zomacton
+0605010S0BFAAAB,Zomacton 4mg inj vials
+0605010S0BFABBM,Zomacton 10mg inj vials
+0605010S0BG,NutropinAq
+0605010S0BGAABI,NutropinAq 10mg/2ml solution for injection cartridges
+0605010S0BH,Omnitrope
+0605010S0BHAABJ,Omnitrope 5mg inj vials
+0605010S0BHABBK,Omnitrope Pen 5 5mg/1.5ml solution for injection cartridges
+0605010S0BHACBL,Omnitrope Pen 10 10mg/1.5ml inj cartridges
+0605010S0BHADBK,Omnitrope SurePal 5 5mg/1.5ml inj cartridges
+0605010S0BHAEBL,Omnitrope SurePal 10 10mg/1.5ml inj cartridges
+0605010S0BHAFBU,Omnitrope SurePal 15 15mg/1.5ml inj cartridges
+0605010T0,Tetracosactide
+0605010T0AA,Tetracosactide
+0605010T0AAAAAA,Tetracosactide 250micrograms/1ml inj ampoules
+0605010T0AAABAB,Tetracosactide 1mg/1ml suspension for injection ampoules
+0605010T0BB,Synacthen
+0605010T0BBAAAA,Synacthen 250micrograms/1ml solution for injection ampoules
+0605010T0BBABAB,Synacthen Depot 1mg/1ml suspension for injection ampoules
+0605010U0,Sermorelin acetate
+0605010U0AA,Sermorelin acetate
+0605010U0AAAAAA,Sermorelin 50microgram inj ampoules
+0605010U0BB,Geref
+0605010U0BBAAAA,Geref 50 inj ampoules
+0605010X0,Choriogonadotropin alfa
+0605010X0AA,Choriogonadotropin alfa
+0605010X0AAAAAA,Choriogonadotropin alfa 250microgram inj vials
+0605010X0AAABAB,Choriogonadotropin alfa 250micrograms/0.5ml inj pfs
+0605010X0AAACAC,Choriogonadotropin alfa 250microg/0.5ml inj pf dispos dev
+0605010X0BB,Ovitrelle
+0605010X0BBAAAA,Ovitrelle 250microgram inj vials
+0605010X0BBABAB,Ovitrelle 250micrograms/0.5ml inj pre-filled syringes
+0605010X0BBACAC,Ovitrelle 250micrograms/0.5ml inj pre-filled pens
+0605010Y0,Lutropin alfa
+0605010Y0AA,Lutropin alfa
+0605010Y0AAAAAA,Lutropin alfa 75unit inj vials
+0605010Y0BB,Luveris
+0605010Y0BBAAAA,Luveris 75unit inj vials
+0605010Z0,Pegvisomant
+0605010Z0AA,Pegvisomant
+0605010Z0AAAAAA,Pegvisomant 10mg inj vials
+0605010Z0AAABAB,Pegvisomant 15mg inj vials
+0605010Z0AAACAC,Pegvisomant 20mg inj vials
+0605010Z0AAADAD,Pegvisomant 25mg inj vials
+0605010Z0AAAEAE,Pegvisomant 30mg inj vials
+0605010Z0BB,Somavert
+0605010Z0BBAAAA,Somavert 10mg inj vials
+0605010Z0BBABAB,Somavert 15mg inj vials
+0605010Z0BBACAC,Somavert 20mg inj vials
+0605010Z0BBADAD,Somavert 25mg inj vials
+0605010Z0BBAEAE,Somavert 30mg inj vials
+060502,Posterior pituitary hormones and antagonists
+0605020,Posterior pituitary hormones and antagonists
+0605020E0,Desmopressin acetate
+0605020E0AA,Desmopressin acetate
+0605020E0AAAAAA,Desmopressin 4micrograms/1ml solution for injection ampoules
+0605020E0AAABAB,Desmopressin 100micrograms/ml intranasal solution
+0605020E0AAACAC,Desmopressin 10micrograms/dose nasal spray
+0605020E0AAADAD,Desmopressin 100microgram tablets
+0605020E0AAAEAE,Desmopressin 200microgram tablets
+0605020E0AAALAL,Desmopressin 12.5microgram capsules
+0605020E0AAAPAP,Desmopressin 10micrograms/ml intranasal solution
+0605020E0AAASAS,Desmopressin 150micrograms/dose nasal spray
+0605020E0AAAYAY,Desmopressin 100micrograms/5ml oral liquid
+0605020E0AABCBC,Desmopressin 20micrograms/5ml oral liquid
+0605020E0AABDBD,Desmopressin 200micrograms/5ml oral liquid
+0605020E0AABEBE,Desmopressin 10micrograms/5ml oral liquid
+0605020E0AABIBI,Desmopressin 50micrograms/5ml oral liquid
+0605020E0AABJBJ,Desmopressin 250micrograms/5ml oral liquid
+0605020E0AABKBK,Desmopressin 15micrograms/1ml inj ampoules
+0605020E0AABLBL,Desmopressin 120microgram oral lyophilisates sugar free
+0605020E0AABMBM,Desmopressin 60microgram oral lyophilisates sugar free
+0605020E0AABNBN,Desmopressin 240microgram oral lyophilisates sugar free
+0605020E0AABPBP,Desmopressin 2.5micrograms/dose nasal spray
+0605020E0AABSBS,Desmopressin 5micrograms/5ml oral solution
+0605020E0AABTBT,Desmopressin 360micrograms/ml oral solution
+0605020E0AABUBU,Desmopressin 50microgram oral lyophilisates sugar free
+0605020E0AABVBV,Desmopressin 25microgram oral lyophilisates sugar free
+0605020E0BB,DDAVP
+0605020E0BBAAAB,DDAVP 100micrograms/ml intranasal solution
+0605020E0BBABAA,DDAVP 4micrograms/1ml solution for injection ampoules
+0605020E0BBADAE,DDAVP 0.2mg tablets
+0605020E0BBAEAD,DDAVP 0.1mg tablets
+0605020E0BBAFBM,DDAVP Melt 60microgram oral lyophilisates
+0605020E0BBAGBL,DDAVP Melt 120microgram oral lyophilisates
+0605020E0BBAHBN,DDAVP Melt 240microgram oral lyophilisates
+0605020E0BC,Desmospray
+0605020E0BCABAC,Desmospray 10micrograms/dose nasal spray
+0605020E0BCACBP,Desmospray 2.5micrograms/dose nasal spray
+0605020E0BD,Minirin
+0605020E0BDABBP,Minirin 2.5micrograms/dose nasal spray
+0605020E0BE,Desmotabs
+0605020E0BEAAAE,Desmotabs 0.2mg tablets
+0605020E0BG,Nocutil
+0605020E0BGAAAC,Nocutil 10micrograms/dose nasal spray
+0605020E0BH,Presinex
+0605020E0BHAAAC,Presinex 10micrograms/dose nasal spray
+0605020E0BI,Octim
+0605020E0BIAAAS,Octim 150micrograms/dose nasal spray
+0605020E0BIABBK,Octim 15micrograms/1ml solution for injection ampoules
+0605020E0BJ,DesmoMelt
+0605020E0BJAABL,DesmoMelt 120microgram oral lyophilisates
+0605020E0BJABBN,DesmoMelt 240microgram oral lyophilisates
+0605020E0BK,Noqdirna
+0605020E0BKAABU,Noqdirna 50microgram oral lyophilisates
+0605020E0BKABBV,Noqdirna 25microgram oral lyophilisates
+0605020T0,Terlipressin
+0605020T0AA,Terlipressin
+0605020T0AAAAAA,Terlipressin 1mg inj vials
+0605020T0AAABAB,Terlipressin 1mg/5ml solution for injection vials
+0605020T0BB,Glypressin
+0605020T0BBAAAA,Glypressin 1mg inj vials
+0605020T0BC,Variquel
+0605020T0BCAAAA,Variquel 1mg inj vials
+0605020T0BCABAB,Variquel 1mg/5ml solution for injection vials
+0605020W0,Argipressin
+0605020W0AA,Argipressin
+0605020W0AAAAAA,Argipressin 20units/1ml solution for injection ampoules
+0605020W0BB,Pitressin
+0605020W0BBAAAA,Pitressin 20units/1ml solution for injection ampoules
+0605020Y0,Tolvaptan
+0605020Y0AA,Tolvaptan
+0605020Y0AAAAAA,Tolvaptan 15mg tablets
+0605020Y0AAABAB,Tolvaptan 30mg tablets
+0605020Y0AAACAC,Tolvaptan 45mg tablets and Tolvaptan 15mg tablets
+0605020Y0AAADAD,Tolvaptan 60mg tablets and Tolvaptan 30mg tablets
+0605020Y0AAAEAE,Tolvaptan 90mg tablets and Tolvaptan 30mg tablets
+0605020Y0AAAFAF,Tolvaptan 7.5mg tablets
+0605020Y0BB,Samsca
+0605020Y0BBAAAA,Samsca 15mg tablets
+0605020Y0BBABAB,Samsca 30mg tablets
+0605020Y0BBACAF,Samsca 7.5mg tablets
+0605020Y0BC,Jinarc
+0605020Y0BCAAAA,Jinarc 15mg tablets
+0605020Y0BCABAB,Jinarc 30mg tablets
+0605020Y0BCACAC,Jinarc 45mg tablets and Jinarc 15mg tablets
+0605020Y0BCADAD,Jinarc 60mg tablets and Jinarc 30mg tablets
+0605020Y0BCAEAE,Jinarc 90mg tablets and Jinarc 30mg tablets
+0606,Drugs affecting bone metabolism
+060601,Calcitonin and parathyroid hormone
+0606010,Calcitonin and parathyroid hormone
+0606010T0,Calcitonin (Salmon)
+0606010T0AA,Calcitonin (Salmon)
+0606010T0AAAAAA,Calcitonin (salmon) 100units/1ml inj ampoules
+0606010T0AAABAB,Calcitonin (salmon) 400units/2ml inj vials
+0606010T0AAACAC,Calcitonin (salmon) 50units/1ml inj ampoules
+0606010T0AAAGAG,Calcitonin (salmon) 200units/dose nasal spray
+0606010T0BB,Calsynar
+0606010T0BBAAAA,Calsynar 100units/1ml solution for injection ampoules
+0606010T0BBABAB,Calsynar 400units/2ml solution for injection vials
+0606010T0BC,Miacalcic
+0606010T0BCAAAC,Miacalcic 50units/1ml solution for injection ampoules
+0606010T0BCABAA,Miacalcic 100units/1ml solution for injection ampoules
+0606010T0BCACAB,Miacalcic 400units/2ml multidose inj vials
+0606010T0BCAFAG,Miacalcic 200units/dose nasal spray
+0606010U0,Teriparatide
+0606010U0AA,Teriparatide
+0606010U0AAAAAA,Teriparatide 750micrograms/3ml inj pf dispos dev
+0606010U0AAACAC,Teriparatide 600micrograms/2.4ml inj pf dispos dev
+0606010U0AAADAD,Teriparatide 600micrograms/2.4ml inj cartridge with device
+0606010U0AAAEAE,Teriparatide 600micrograms/2.4ml inj cartridge
+0606010U0BB,Forsteo
+0606010U0BBAAAA,Forsteo 20micrograms/80microlitres inj 3ml pf dispos dev
+0606010U0BBABAC,Forsteo 20micrograms/80microlitres inj 2.4ml pre-filled pens
+0606010U0BD,Movymia
+0606010U0BDAAAD,Movymia 20micrograms/80microlitres inj 2.4ml cart with pen
+0606010U0BDABAE,Movymia 20micrograms/80micrlitres inj 2.4ml cartridge
+0606010U0BE,Terrosa
+0606010U0BEAAAE,Terrosa 20micrograms/80microlitres inj 2.4ml cartridge
+0606010U0BEABAD,Terrosa 20micrograms/80microlitres inj 2.4ml cart with pen
+0606010V0,Parathyroid hormone
+0606010V0AA,Parathyroid hormone
+0606010V0AAAAAA,Parathyroid hormone 1.61mg inj cartridges
+0606010V0BB,Preotact
+0606010V0BBAAAA,Preotact 1.61mg inj cartridges
+060602,Bisphosphonates and other drugs
+0606020,Bisphosphonates and other drugs
+060602000,Other bisphosphonate and other preparations
+060602000BB,Proprietary compound preparation BNF 0606020
+060602000BBAAA0,Actonel Combi 35mg tab and 1000mg/880unit efferv gran sach
+0606020A0,Alendronic acid
+0606020A0AA,Alendronic acid
+0606020A0AAAAAA,Alendronic acid 10mg tablets
+0606020A0AAABAB,Alendronic acid 5mg tablets
+0606020A0AAACAC,Alendronic acid 70mg tablets
+0606020A0AAADAD,Alendronic acid 35mg/5ml oral solution
+0606020A0AAAEAE,Alendronic acid 70mg/5ml oral solution
+0606020A0AAAFAF,Alendronic acid 70mg/100ml soln unit dose sugar free
+0606020A0AAAGAG,Alendronic acid 70mg/75ml oral solution unit dose
+0606020A0AAAHAH,Alendronic acid 70mg effervescent tablets sugar free
+0606020A0BB,Fosamax
+0606020A0BBAAAA,Fosamax 10mg tablets
+0606020A0BBABAB,Fosamax 5mg tablets
+0606020A0BBADAC,Fosamax Once Weekly 70mg tablets
+0606020A0BC,Binosto
+0606020A0BCAAAH,Binosto 70mg effervescent tablets
+0606020AA,Romosozumab
+0606020AAAA,Romosozumab
+0606020AAAAAAAA,Romosozumab 105mg/1.17ml inj pre-filled disposable devices
+0606020AABB,Evenity
+0606020AABBAAAA,Evenity 105mg/1.17ml solution for injection pre-filled pens
+0606020C0,Etidronate disodium
+0606020C0AA,Etidronate disodium
+0606020C0AAAAAA,Etidronate disodium 200mg tablets
+0606020C0AAACAC,Calc carb 1.25g efferv tab and Disodium etidronate 400mg tab
+0606020C0AAADAD,Etidronate disodium 400mg/5ml oral suspension
+0606020C0AAAEAE,Etidronate disodium 100mg/5ml oral suspension
+0606020C0BB,Didronel
+0606020C0BBAAAA,Didronel 200mg tablets
+0606020C0BBADAC,Didronel PMO tablets
+0606020P0,Pamidronate disodium
+0606020P0AA,Pamidronate disodium
+0606020P0AAABAB,Pamidronate disodium 15mg pdr & solv for soln inf vials
+0606020P0AAACAC,Pamidronate disodium 30mg inf vials
+0606020P0AAADAD,Pamidronate disodium 90mg inf vials
+0606020P0AAAGAG,Pamidronate disodium 60mg/10ml solution for infusion vials
+0606020P0AAAHAH,Pamidronate disodium 90mg/10ml solution for infusion vials
+0606020P0AAAIAI,Pamidronate disodium 15mg/5ml solution for infusion vials
+0606020P0AAAJAJ,Pamidronate disodium 30mg/10ml solution for infusion vials
+0606020P0AAAKAK,Pamidronate disodium 60mg/20ml solution for infusion vials
+0606020P0AAALAL,Pamidronate disodium 90mg/30ml solution for infusion vials
+0606020P0AAAMAM,Pamidronate disodium 15mg pdr for soln inf vials
+0606020P0AAANAN,Pamidronate disodium 30mg inj vials
+0606020P0AAAPAP,Pamidronate disodium 90mg inj vials
+0606020P0AAAQAQ,Pamidronate disodium 15mg/1ml solution for infusion ampoules
+0606020P0AAARAR,Pamidronate disodium 30mg/2ml solution for infusion ampoules
+0606020P0AAASAS,Pamidronate disodium 60mg/4ml solution for infusion ampoules
+0606020P0AAATAT,Pamidronate disodium 90mg/6ml solution for infusion ampoules
+0606020P0BB,Aredia
+0606020P0BBABAB,Aredia Dry Powder 15mg inf vials
+0606020P0BBACAC,Aredia Dry Powder 30mg inf vials
+0606020P0BBADAD,Aredia Dry Powder 90mg inf vials
+0606020R0,Risedronate sodium
+0606020R0AA,Risedronate sodium
+0606020R0AAAAAA,Risedronate sodium 5mg tablets
+0606020R0AAABAB,Risedronate sodium 30mg tablets
+0606020R0AAADAD,Risedronate sodium 35mg tablets
+0606020R0AAAEAE,Risedronate sodium 35mg/5ml oral liquid
+0606020R0BB,Actonel
+0606020R0BBAAAA,Actonel 5mg tablets
+0606020R0BBABAB,Actonel 30mg tablets
+0606020R0BBADAD,Actonel Once a Week 35mg tablets
+0606020T0,Sodium clodronate
+0606020T0AA,Sodium clodronate
+0606020T0AAAAAA,Sodium clodronate 400mg capsules
+0606020T0AAACAC,Sodium clodronate 300mg/5ml solution for infusion ampoules
+0606020T0AAADAD,Sodium clodronate 520mg tablets
+0606020T0AAAEAE,Sodium clodronate 800mg tablets
+0606020T0BB,Loron
+0606020T0BBAAAA,Loron 400mg capsules
+0606020T0BBACAD,Loron 520mg tablets
+0606020T0BC,Bonefos
+0606020T0BCAAAA,Bonefos 400mg capsules
+0606020T0BCABAC,Bonefos Concentrate 300mg/5ml solution for infusion ampoules
+0606020T0BCACAE,Bonefos 800mg tablets
+0606020T0BD,Clasteon
+0606020T0BDAAAA,Clasteon 400mg capsules
+0606020T0BDABAE,Clasteon 800mg tablets
+0606020U0,Tiludronic acid
+0606020U0AA,Tiludronic acid
+0606020U0AAAAAA,Tiludronic acid 200mg tablets
+0606020U0BB,Skelid
+0606020U0BBAAAA,Skelid 200mg tablets
+0606020V0,Zoledronic acid
+0606020V0AA,Zoledronic acid
+0606020V0AAAAAA,Zoledronic acid 4mg inf vials
+0606020V0AAABAB,Zoledronic acid 4mg/5ml solution for infusion vials
+0606020V0AAACAC,Zoledronic acid 5mg/100ml infusion bottles
+0606020V0AAADAD,Zoledronic acid 4mg/100ml infusion
+0606020V0AAAEAE,Zoledronic acid 4mg/100ml solution for infusion vials
+0606020V0AAAFAF,Zoledronic acid 5mg/100ml solution for infusion vials
+0606020V0AAAGAG,Zoledronic acid 5mg/100ml infusion bags
+0606020V0BB,Zometa
+0606020V0BBAAAA,Zometa 4mg inf vials
+0606020V0BBABAB,Zometa 4mg/5ml solution for infusion vials
+0606020V0BBACAD,Zometa 4mg/100ml infusion bottles
+0606020V0BC,Aclasta
+0606020V0BCAAAC,Aclasta 5mg/100ml infusion bottles
+0606020V0BD,Zerlinda
+0606020V0BDAAAD,Zerlinda 4mg/100ml infusion bags
+0606020W0,Ibandronic acid
+0606020W0AA,Ibandronic acid
+0606020W0AAAAAA,Ibandronic acid 2mg/2ml solution for infusion ampoules
+0606020W0AAABAB,Ibandronic acid 50mg tablets
+0606020W0AAACAC,Ibandronic acid 6mg/6ml solution for infusion vials
+0606020W0AAADAD,Ibandronic acid 150mg tablets
+0606020W0AAAEAE,Ibandronic acid 3mg/3ml inj pre-filled syringes
+0606020W0AAAFAF,Ibandronic acid 2mg/2ml solution for infusion vials
+0606020W0BB,Bondronat
+0606020W0BBAAAA,Bondronat 2mg/2ml solution for infusion ampoules
+0606020W0BBABAB,Bondronat 50mg tablets
+0606020W0BBACAC,Bondronat 6mg/6ml concentrate for inf vials
+0606020W0BBADAF,Bondronat 2mg/2ml concentrate for inf vials
+0606020W0BC,Bonviva
+0606020W0BCAAAD,Bonviva 150mg tablets
+0606020W0BCABAE,Bonviva 3mg/3ml solution for injection pre-filled syringes
+0606020W0BD,Iasibon
+0606020W0BDAAAB,Iasibon 50mg tablets
+0606020W0BE,Quodixor
+0606020W0BEAAAD,Quodixor 150mg tablets
+0606020X0,Strontium ranelate
+0606020X0AA,Strontium ranelate
+0606020X0AAAAAA,Strontium ranelate 2g granules sachets sugar free
+0606020X0BB,Protelos
+0606020X0BBAAAA,Protelos 2g granules sachets
+0606020Y0,Alendronic acid/colecalciferol
+0606020Y0AA,Alendronic acid/colecalciferol
+0606020Y0AAAAAA,Alendronic acid 70mg / Colecalciferol 70microgram tablets
+0606020Y0AAABAB,Alendronic acid 70mg / Colecalciferol 140microgram tablets
+0606020Y0BB,Fosavance
+0606020Y0BBAAAA,Fosavance tablets
+0606020Y0BC,Bentexo
+0606020Y0BCAAAB,"Bentexo 70mg/5,600unit tablets"
+0606020Z0,Denosumab
+0606020Z0AA,Denosumab
+0606020Z0AAAAAA,Denosumab 60mg/1ml inj pre-filled syringes
+0606020Z0AAABAB,Denosumab 120mg/1.7ml solution for injection vials
+0606020Z0BB,Prolia
+0606020Z0BBAAAA,Prolia 60mg/1ml solution for injection pre-filled syringes
+0606020Z0BC,Xgeva
+0606020Z0BCAAAB,Xgeva 120mg/1.7ml solution for injection vials
+0607,Other endocrine drugs
+060701,Bromocriptine and other dopaminergic drugs
+0607010,Bromocriptine and other dopaminergic drugs
+0607010B0,Bromocriptine
+0607010B0AA,Bromocriptine mesilate
+0607010B0AAAAAA,Bromocriptine 5mg capsules
+0607010B0AAABAB,Bromocriptine 10mg capsules
+0607010B0AAACAC,Bromocriptine 1mg tablets
+0607010B0AAADAD,Bromocriptine 2.5mg tablets
+0607010B0AAAFAF,Bromocriptine 200micrograms/5ml oral suspension
+0607010B0AAAGAG,Bromocriptine 2.5mg/5ml oral suspension
+0607010B0AAAHAH,Bromocriptine 20mg/5ml oral suspension
+0607010B0AAAIAI,Bromocriptine 1mg/5ml oral suspension
+0607010B0AAAJAJ,Bromocriptine 5mg/5ml oral suspension
+0607010B0AAAKAK,Bromocriptine 10mg/5ml oral suspension
+0607010B0BB,Parlodel
+0607010B0BBAAAC,Parlodel 1mg tablets
+0607010B0BBABAD,Parlodel 2.5mg tablets
+0607010B0BBACAA,Parlodel 5mg capsules
+0607010B0BBADAB,Parlodel 10mg capsules
+0607010C0,Cabergoline
+0607010C0AA,Cabergoline (Lactation)
+0607010C0AAAAAA,Cabergoline 500microgram tablets
+0607010C0BB,Dostinex
+0607010C0BBAAAA,Dostinex 500microgram tablets
+0607010T0,Quinagolide hydrochloride
+0607010T0AA,Quinagolide hydrochloride
+0607010T0AAAAAA,Quinagolide 50microgram tab and Quinagolide 25microgram tab
+0607010T0AAABAB,Quinagolide 75microgram tablets
+0607010T0BB,Norprolac
+0607010T0BBAAAA,Norprolac tablets starter pack
+0607010T0BBABAB,Norprolac 75microgram tablets
+060702,Drugs affecting gonadotrophins
+0607020,Drugs affecting gonadotrophins
+0607020B0,Buserelin
+0607020B0AA,Buserelin (Endometriosis)
+0607020B0AAAAAA,Buserelin 150micrograms/dose nasal spray
+0607020B0AAABAB,Buserelin 5.5mg/5.5ml solution for injection vials (Endomet)
+0607020B0BB,Suprecur
+0607020B0BBAAAA,Suprecur 150micrograms/dose nasal spray
+0607020B0BBABAB,Suprecur 5.5mg/5.5ml solution for injection vials
+0607020C0,Danazol
+0607020C0AA,Danazol
+0607020C0AAAAAA,Danazol 100mg capsules
+0607020C0AAABAB,Danazol 200mg capsules
+0607020C0AAADAD,Danazol 35mg capsules
+0607020C0BB,Danol
+0607020C0BBAAAB,Danol 200mg capsules
+0607020C0BBACAA,Danol 100mg capsules
+0607020D0,Cetrorelix
+0607020D0AA,Cetrorelix
+0607020D0AAAAAA,Cetrorelix 250microgram inj vials
+0607020D0AAABAB,Cetrorelix 3mg inj vials
+0607020D0BB,Cetrotide
+0607020D0BBAAAA,Cetrotide 250microgram inj vials
+0607020D0BBABAB,Cetrotide 3mg inj vials
+0607020F0,Gestrinone
+0607020F0AA,Gestrinone
+0607020F0AAAAAA,Gestrinone 2.5mg capsules
+0607020F0BB,Dimetriose
+0607020F0BBAAAA,Dimetriose 2.5mg capsules
+0607020P0,Nafarelin acetate
+0607020P0AA,Nafarelin acetate
+0607020P0AAAAAA,Nafarelin 200micrograms/dose nasal spray
+0607020P0BB,Synarel
+0607020P0BBABAA,Synarel 200micrograms/dose nasal spray
+0607020W0,Ganirelix
+0607020W0AA,Ganirelix
+0607020W0AAAAAA,Ganirelix 250microgram/0.5ml inj pre-filled syringe
+0607020W0BB,Orgalutran
+0607020W0BBAAAA,Orgalutran 250microgram/0.5ml inj pre-filled syringe
+060703,Metyrapone
+0607030,Metyrapone
+0607030M0,Metyrapone
+0607030M0AA,Metyrapone
+0607030M0AAAAAA,Metyrapone 250mg capsules
+0607030M0BB,Metopirone
+0607030M0BBAAAA,Metopirone 250mg capsules
+0607030T0,Trilostane
+0607030T0AA,Trilostane
+0607030T0AAAAAA,Trilostane 60mg capsules
+0607030T0AAABAB,Trilostane 120mg capsules
+0607030T0BB,Modrenal
+0607030T0BBAAAA,Modrenal 60mg capsules
+0607030T0BBABAB,Modrenal 120mg capsules
+060704,Somatomedins
+0607040,Somatomedins
+0607040A0,Mecasermin
+0607040A0AA,Mecasermin
+0607040A0AAAAAA,Mecasermin 40mg/4ml solution for injection vials
+0607040A0BB,Increlex
+0607040A0BBAAAA,Increlex 40mg/4ml solution for injection vials
+060705,Metreleptin
+0607050,Metreleptin
+0607050A0,Metreleptin
+0607050A0AA,Metreleptin
+0607050A0AAAAAA,Metreleptin 3mg powder for solution for injection vials
+0607050A0AAABAB,Metreleptin 5.8mg powder for solution for injection vials
+0607050A0AAACAC,Metreleptin 11.3mg powder for solution for injection vials
+0607050A0BB,Myalepta
+0607050A0BBAAAA,Myalepta 3mg powder for solution for injection vials
+0607050A0BBABAB,Myalepta 5.8mg powder for solution for injection vials
+0607050A0BBACAC,Myalepta 11.3mg powder for solution for injection vials

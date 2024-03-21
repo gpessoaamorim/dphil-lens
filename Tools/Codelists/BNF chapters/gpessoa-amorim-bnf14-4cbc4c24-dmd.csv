@@ -1,0 +1,451 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,11957911000001100,Tuberculin purified protein derivative (RT 23) 100 tuberculin units/ml solution for injection 1.5ml vials,140300000AAADAD
+AMP,17994211000001108,Tuberculin purified protein derivative (RT 23) 100 tuberculin units/ml solution for injection 1.5ml vials,140300000AAADAD
+VMP,11958011000001103,Tuberculin purified protein derivative (RT 23) 20 tuberculin units/ml solution for injection 1.5ml vials,140300000AAAEAE
+AMP,17994411000001107,Tuberculin purified protein derivative (RT 23) 20 tuberculin units/ml solution for injection 1.5ml vials,140300000AAAEAE
+AMP,11954211000001102,Tuberculin PPD RT 23 SSI 100 tuberculin units/ml solution for injection 1.5ml vials,140300000BKBGAD
+AMP,11953911000001109,Tuberculin PPD RT 23 SSI 20 tuberculin units/ml solution for injection 1.5ml vials,140300000BKBHAE
+VMP,406325005,"Hepatitis A vaccine (inactivated, adsorbed) suspension for injection 1ml pre-filled syringes",140400030AAACAC
+VMP,36055611000001107,"Hepatitis A vaccine (inactivated, adsorbed) suspension for injection 0.5ml pre-filled syringes",140400030AAADAD
+VMP,7641111000001107,"Hepatitis A vaccine (inactivated, adsorbed) emulsion for injection 0.5ml pre-filled syringes",140400030AAAIAI
+VMP,4672111000001109,"Hepatitis A vaccine (inactivated, adsorbed) suspension for injection 0.5ml vials",140400030AAAJAJ
+VMP,31002511000001108,"Hepatitis A vaccine (inactivated, adsorbed) suspension for injection 1ml vials",140400030AAAKAK
+AMP,3006311000001105,Havrix Monodose vaccine suspension for injection 1ml pre-filled syringes,140400030BBACAC
+AMP,3003611000001106,Havrix Junior Monodose vaccine suspension for injection 0.5ml pre-filled syringes,140400030BBADAD
+AMP,30997311000001102,Havrix Monodose vaccine suspension for injection 1ml vials,140400030BBAEAK
+AMP,30997511000001108,Havrix Junior Monodose vaccine suspension for injection 0.5ml vials,140400030BBAFAJ
+AMP,3004111000001101,Avaxim vaccine suspension for injection 0.5ml pre-filled syringes,140400030BCAAAD
+AMP,3005111000001102,VAQTA Paediatric vaccine suspension for injection 0.5ml pre-filled syringes,140400030BDAAAD
+AMP,21732911000001105,VAQTA Adult vaccine suspension for injection 1ml pre-filled syringes,140400030BDABAC
+AMP,3006711000001109,VAQTA vaccine suspension for injection 1ml pre-filled syringes,140400030BDABAC
+AMP,4643211000001105,VAQTA Paediatric vaccine suspension for injection 0.5ml vials,140400030BDACAJ
+AMP,33209211000001101,VAQTA Adult vaccine suspension for injection 1ml vials,140400030BDADAK
+AMP,7639411000001100,Epaxal vaccine emulsion for injection 0.5ml pre-filled syringes,140400030BEAAAI
+VMP,4639911000001104,Varicella vaccine (live) powder and solvent for solution for injection 0.5ml vials,140400050AAABAB
+VMP,7990711000001108,Varicella vaccine (live) powder and solvent for suspension for injection 0.5ml vials,140400050AAACAC
+AMP,4622911000001106,Varilrix vaccine powder and solvent for solution for injection 0.5ml vials,140400050BBAAAB
+AMP,7995511000001108,Varivax vaccine powder and solvent for suspension for injection 0.5ml vials,140400050BCAAAC
+VMP,4702411000001104,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) injection pre-filled syringes / Haemophilus type b conjugate vaccine injection vials,140400060AAADAD
+AMP,4689111000001105,Act-HIB DTP vaccine injection pack,140400060BBACAD
+AMP,4695011000001106,Infanrix-Hib vaccine injection pack,140400060BCAAAD
+VMP,36055511000001108,Hepatitis A (inactivated) / Hepatitis B (rDNA) vaccine (adsorbed) suspension for injection 1ml pre-filled syringes,140400070AAAAAA
+VMP,36055411000001109,Hepatitis A (inactivated) / Hepatitis B (rDNA) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,140400070AAABAB
+VMP,19448411000001104,Hepatitis A (inactivated) / Hepatitis B (rDNA) vaccine (adsorbed) suspension for injection 1ml vials,140400070AAACAC
+AMP,2993111000001103,Twinrix Adult vaccine suspension for injection 1ml pre-filled syringes,140400070BBAAAA
+AMP,2997511000001102,Twinrix Paediatric vaccine suspension for injection 0.5ml pre-filled syringes,140400070BBABAB
+AMP,19379811000001101,Twinrix Adult vaccine suspension for Injection 1ml vials,140400070BBACAC
+AMP,12951811000001104,Ambirix vaccine suspension for injection 1ml pre-filled syringes,140400070BCAAAA
+VMP,10246611000001100,Tick-borne encephalitis vaccine (inactivated) suspension for injection 0.25ml pre-filled syringes,1404000AAAAAAAA
+VMP,10246811000001101,Tick-borne encephalitis vaccine (inactivated) suspension for injection 0.5ml pre-filled syringes,1404000AAAAABAB
+AMP,5006811000001109,FSME-Immun vaccine suspension for injection 0.5ml pre-filled syringes,1404000AABBAAAB
+AMP,10230411000001101,FSME-Immun Junior vaccine suspension for injection 0.25ml pre-filled syringes,1404000AABBABAA
+AMP,13507411000001103,TicoVac vaccine suspension for injection 0.5ml pre-filled syringes,1404000AABDAAAB
+AMP,14603111000001107,TicoVac Junior vaccine suspension for injection 0.25ml pre-filled syringes,1404000AABDABAA
+VMP,11236711000001100,Hepatitis A HM175 strain (adsorbed) / Typhoid polysaccharide vaccine suspension for injection 1ml pre-filled syringes,1404000ADAAAAAA
+VMP,11236611000001109,Hepatitis A GBM strain (adsorbed) / Typhoid polysaccharide vaccine suspension for injection 1ml pre-filled syringes,1404000ADAAABAB
+AMP,11235311000001109,Hepatyrix vaccine suspension for injection 1ml pre-filled syringes,1404000ADBBAAAA
+AMP,11235911000001105,ViATIM vaccine suspension for injection 1ml pre-filled syringes,1404000ADBCAAAB
+VMP,9904411000001100,Haemophilus type b / Meningococcal C conjugate vaccine powder and solvent for solution for injection 0.5ml vials,1404000AFAAAAAA
+AMP,9903711000001109,Menitorix vaccine powder and solvent for solution for injection 0.5ml vials,1404000AFBBAAAA
+VMP,10353511000001102,Rotavirus vaccine live oral suspension 1ml vials,1404000AGAAAAAA
+VMP,17996111000001109,Rotavirus vaccine live oral suspension 1.5ml pre-filled syringes,1404000AGAAABAB
+VMP,34617511000001108,Rotavirus vaccine live oral suspension 1.5ml tube,1404000AGAAACAC
+AMP,10344411000001100,Rotarix vaccine live powder and solvent for oral suspension 1ml vials,1404000AGBBAAAA
+AMP,17992311000001107,Rotarix vaccine live oral suspension 1.5ml pre-filled syringes,1404000AGBBABAB
+AMP,34609911000001106,Rotarix vaccine live oral suspension 1.5ml tube,1404000AGBBACAC
+VMP,10893611000001107,"Human papillomavirus (type 6, 11, 16, 18) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes",1404000AHAAAAAA
+AMP,10880211000001104,Gardasil vaccine suspension for injection 0.5ml pre-filled syringes,1404000AHBBAAAA
+VMP,12299011000001104,"Human papillomavirus (type 16, 18) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes",1404000AIAAAAAA
+AMP,12238911000001100,Cervarix vaccine suspension for injection 0.5ml pre-filled syringes,1404000AIBBAAAA
+VMP,15651211000001104,"Influenza H1N1 vaccine (split virion, inactivated, adjuvanted) emulsion and suspension for emulsion for injection",1404000AJAAAAAA
+AMP,15651011000001109,Pandemrix vaccine emulsion and suspension for emulsion for injection,1404000AJBBAAAA
+VMP,15651311000001107,"Influenza H1N1 vaccine (whole virion, Vero cell derived, inactivated) suspension for injection",1404000AKAAAAAA
+AMP,15650611000001107,"Celvapan (H1N1) vaccine (whole virion, Vero cell derived, inactivated) suspension for injection",1404000AKBBAAAA
+VMP,20113811000001103,Shingles (Herpes Zoster) vaccine (live) powder and solvent for suspension for injection 0.65ml pre-filled syringes,1404000ALAAAAAA
+VMP,38737511000001105,Shingles (Herpes Zoster) adjuvanted recombinant vaccine powder and solvent for suspension for injection 0.5ml vials,1404000ALAAABAB
+AMP,20110511000001107,Zostavax vaccine powder and solvent for suspension for injection 0.65ml pre-filled syringes,1404000ALBBAAAA
+AMP,38736811000001106,Shingrix (Herpes Zoster) adjuvanted recombinant vaccine powder and solvent for suspension for injection 0.5ml vials,1404000ALBCAAAB
+VMP,33494711000001106,"Human papillomavirus (type 6, 11, 16, 18, 31, 33, 45, 52, 58) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes",1404000AMAAAAAA
+AMP,33493111000001108,Gardasil 9 vaccine suspension for injection 0.5ml pre-filled syringes,1404000AMBBAAAA
+VMP,3559211000001100,Meningococcal polysaccharide A and C vaccine powder and solvent for solution for injection vials,1404000ANAAAAAA
+AMP,4830711000001100,Mengivac A + C vaccine powder and solvent for solution for injection vials,1404000ANBBAAAA
+AMP,3492811000001107,AC Vax vaccine powder and solvent for solution for injection vials,1404000ANBCAAAA
+VMP,333670003,Meningococcal C conjugate vaccine suspension for injection 0.5ml vials,1404000APAAAAAA
+VMP,7353311000001101,Meningococcal C conjugate vaccine powder and solvent for suspension for injection 0.5ml vials,1404000APAAABAB
+VMP,333668007,Meningococcal C conjugate vaccine suspension for injection 0.5ml pre-filled syringes,1404000APAAACAC
+AMP,3491411000001100,Meningitec vaccine suspension for injection 0.5ml vials,1404000APBBAAAA
+AMP,13631611000001105,Meningitec vaccine suspension for injection 0.5ml pre-filled syringes,1404000APBBABAC
+AMP,7336611000001104,Menjugate vaccine powder and solvent for suspension for injection 0.5ml vials,1404000APBCAAAB
+AMP,4793211000001106,NeisVac-C vaccine suspension for injection 0.5ml pre-filled syringes,1404000APBDAAAC
+VMP,23611911000001107,Generic Bexsero vaccine suspension for injection 0.5ml pre-filled syringes,1404000AQAAAAAA
+AMP,23584211000001109,Bexsero vaccine suspension for injection 0.5ml pre-filled syringes,1404000AQBBAAAA
+VMP,34617111000001104,Generic Trumenba vaccine suspension for injection 0.5ml pre-filled syringes,1404000AQBCAAA0
+AMP,34610811000001107,Trumenba vaccine suspension for injection 0.5ml pre-filled syringes,1404000AQBCAAA0
+VMP,15437211000001107,"Japanese encephalitis vaccine (inactivated, adsorbed) suspension for injection 0.5ml pre-filled syringes",1404000ARAAAAAA
+AMP,15399311000001108,Ixiaro vaccine suspension for injection 0.5ml pre-filled syringes,1404000ARBBAAAA
+VMP,13756811000001108,Japanese encephalitis vaccine solution for injection 10ml vials,1404000ASAAAAAA
+VMP,13756911000001103,Japanese encephalitis vaccine solution for injection 1ml vials,1404000ASAAABAB
+VMP,13757011000001104,Japanese encephalitis vaccine solution for injection 20ml vials,1404000ASAAACAC
+AMP,13746011000001104,Japanese encephalitis GCVC vaccine solution for injection 1ml vials,1404000ASBBAAAB
+AMP,13747911000001102,Japanese encephalitis GCVC vaccine solution for injection 10ml vials,1404000ASBBABAA
+AMP,13748211000001105,Japanese encephalitis GCVC vaccine solution for injection 20ml vials,1404000ASBBACAC
+VMP,9324711000001105,Bacillus Calmette-Guerin vaccine powder and solvent for suspension for injection vials,1404000C0AAAAAA
+AMP,9316611000001101,Bacillus Calmette-Guerin vaccine powder and solvent for suspension for injection vials,1404000C0AAAAAA
+VMP,33523611000001101,Bacillus Calmette-Guerin vaccine powder and solvent for suspension for injection ampoules,1404000C0AAAFAF
+VMP,37247711000001104,Bacillus Calmette-Guerin vaccine powder for suspension for injection 1ml vials,1404000C0AAAGAG
+AMP,33513711000001100,InterVax BCG vaccine powder and solvent for suspension for injection ampoules,1404000C0BCAAAF
+AMP,37240111000001101,BCG Vaccine AJV powder for suspension for injection 1ml vials,1404000C0BDAAAG
+AMP,37240411000001106,Diluted Sauton AJV solvent for suspension for injection 1ml vials,1404000C0BEAAA0
+VMP,5191011000001100,Cholera vaccine oral suspension and vehicle,1404000E0AAAJAJ
+AMP,5185911000001103,Dukoral cholera vaccine oral suspension,1404000E0BFAAAJ
+VMP,35369211000001101,Diphtheria / Tetanus vaccine (adsorbed) for adults and adolescents suspension for injection 0.5ml pre-filled syringes,1404000F0AAARAR
+VMP,4702311000001106,Diphtheria / Tetanus / Pertussis (acellular component) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000F0AAAVAV
+VMP,7386611000001107,Diphtheria / Tetanus / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000F0AAAWAW
+VMP,8888711000001107,Diphtheria (low dose) / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000F0AAAXAX
+VMP,34769511000001105,Diphtheria / Tetanus / Pertussis (acellular component) / Hepatitis B (surface antigen) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pre-filled syringes,1404000F0AAAZAZ
+VMP,8100611000001109,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) suspension for injection 0.5ml vials,1404000F0AABABA
+VMP,10795711000001100,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) / Haemophilus type b conjugate vaccine (adsorbed) powder and suspension for suspension for injection 0.5ml pre-filled syringes,1404000F0AABBBB
+VMP,8153411000001106,Diphtheria / Tetanus / Pertussis (acellular component) / Poliomyelitis (inactivated) vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000F0AABBBB
+AMP,2984011000001101,Diftavax vaccine suspension for injection 0.5ml pre-filled syringes,1404000F0BJAAAR
+AMP,4697711000001102,Infanrix vaccine suspension for injection 0.5ml pre-filled syringes,1404000F0BKAAAV
+AMP,7374311000001101,Revaxis vaccine suspension for injection 0.5ml pre-filled syringes,1404000F0BLAAAW
+AMP,8882411000001103,Repevax vaccine suspension for injection 0.5ml pre-filled syringes,1404000F0BMAAAX
+AMP,8426011000001105,Infanrix-IPV vaccine suspension for injection 0.5ml pre-filled syringes,1404000F0BNAABB
+AMP,10776511000001109,Infanrix-IPV + Hib vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes,1404000F0BNABBB
+AMP,26267211000001100,Boostrix-IPV suspension for injection 0.5ml pre-filled syringes,1404000F0BPAAAX
+AMP,34765811000001105,Infanrix Hexa vaccine powder and suspension for suspension for injection 0.5ml pre-filled syringes,1404000F0BQAAAZ
+AMP,8088811000001100,Pediacel vaccine suspension for injection 0.5ml vials,1404000F0BRAABA
+VMP,35369311000001109,Hepatitis B (rDNA) 10micrograms/0.5ml vaccine suspension for injection vials,1404000G0AAAAAA
+VMP,35369411000001102,Hepatitis B (rDNA) 20micrograms/1ml vaccine suspension for injection vials,1404000G0AAABAB
+VMP,36055711000001103,Hepatitis B (rDNA) 20micrograms/1ml vaccine suspension for injection pre-filled syringes,1404000G0AAACAC
+VMP,3486911000001104,Hepatitis B (rDNA) 10micrograms/1ml vaccine suspension for injection vials,1404000G0AAADAD
+VMP,10774411000001102,Hepatitis B (rDNA) 10micrograms/1ml vaccine suspension for injection pre-filled syringes,1404000G0AAAEAE
+VMP,10774511000001103,Hepatitis B (rDNA) 5micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0AAAFAF
+VMP,3486811000001109,Hepatitis B (rDNA) 40micrograms/1ml vaccine suspension for injection vials,1404000G0AAAGAG
+VMP,4139611000001109,Hepatitis B (rDNA) 5micrograms/0.5ml vaccine suspension for injection vials,1404000G0AAAHAH
+VMP,3487011000001100,Hepatitis B (rDNA) 10micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0AAAIAI
+VMP,9564011000001101,Hepatitis B (rDNA) 20micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0AAAJAJ
+AMP,2988811000001104,Engerix B 20micrograms/1ml vaccine suspension for injection vials,1404000G0BCAAAB
+AMP,2990211000001104,Engerix B 10micrograms/0.5ml vaccine suspension for injection vials,1404000G0BCABAA
+AMP,2991611000001107,Engerix B 20micrograms/1ml vaccine suspension for injection pre-filled syringes,1404000G0BCACAC
+AMP,3020511000001106,Engerix B 10micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0BCADAI
+AMP,4130711000001107,HBvaxPRO 5micrograms/0.5ml vaccine suspension for injection vials,1404000G0BEAAAH
+AMP,2985811000001108,HBvaxPRO 10micrograms/1ml vaccine suspension for injection vials,1404000G0BEABAD
+AMP,2987811000001103,HBvaxPRO 40micrograms/1ml vaccine suspension for injection vials,1404000G0BEACAG
+AMP,10751711000001107,HBVAXPRO 5micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0BEADAF
+AMP,10752011000001102,HBVAXPRO 10micrograms/1ml vaccine suspension for injection pre-filled syringes,1404000G0BEAEAE
+AMP,9556411000001105,Fendrix 20micrograms/0.5ml vaccine suspension for injection pre-filled syringes,1404000G0BGAAAJ
+VMP,348047008,"Influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAFAF
+VMP,10309511000001105,"Influenza vaccine (surface antigen, inactivated, virosome) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAFAF
+AMP,3252611000001103,"Influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAFAF
+VMP,9519711000001102,"Influenza vaccine (split virion, inactivated) suspension for injection 0.25ml pre-filled syringes",1404000H0AAAGAG
+AMP,9509211000001106,"Influenza vaccine (split virion, inactivated) suspension for injection 0.25ml pre-filled syringes",1404000H0AAAGAG
+VMP,15474011000001107,"Influenza vaccine (split virion, inactivated) 9microgram strain suspension for injection 0.1ml pre-filled syringes",1404000H0AAAHAH
+VMP,15507511000001109,"Influenza vaccine (split virion, inactivated) 15microgram strain suspension for injection 0.1ml pre-filled syringes",1404000H0AAAIAI
+VMP,19821411000001103,Influenza vaccine (live attenuated) nasal suspension 0.2ml unit dose,1404000H0AAAJAJ
+VMP,348046004,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAKAK
+AMP,10133911000001103,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAKAK
+AMP,11278411000001109,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAKAK
+AMP,3244411000001106,"Influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAKAK
+VMP,36755311000001100,"Influenza vaccine (split virion, inactivated) High Dose suspension for injection 0.5ml pre-filled syringes",1404000H0AAALAL
+VMP,37531311000001101,"Adjuvanted trivalent influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAMAM
+AMP,37547211000001103,"Adjuvanted trivalent influenza vaccine (surface antigen, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0AAAMAM
+AMP,3249511000001109,Fluvirin vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BBAAAF
+AMP,3255011000001100,Influvac Sub-unit vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BCAAAF
+AMP,35727111000001109,Influvac sub-unit Tetra vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BCADAF
+AMP,3245911000001104,Fluarix vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BFAAAK
+AMP,3247011000001105,Begrivac vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BGAAAK
+AMP,3255311000001102,Agrippal vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BHAAAF
+AMP,10306611000001101,Inflexal V vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BIAAAF
+AMP,4365711000001104,Mastaflu vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BJAAAF
+AMP,10306411000001104,Invivac vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BKAAAF
+AMP,9511411000001107,Enzira vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BLAAAK
+AMP,10455811000001107,Viroflu vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BMAAAF
+AMP,10859911000001105,Imuvac vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BNAAAF
+AMP,15382311000001101,Optaflu vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BPAAAF
+AMP,15454511000001101,Intanza 9microgram strain vaccine suspension for injection 0.1ml pre-filled syringes,1404000H0BQAAAH
+AMP,15506511000001107,Intanza 15microgram strain vaccine suspension for injection 0.1ml pre-filled syringes,1404000H0BQABAI
+AMP,19820511000001106,Fluenz vaccine nasal suspension 0.2ml unit dose,1404000H0BRAAAJ
+AMP,27114211000001105,Fluenz Tetra vaccine nasal suspension 0.2ml unit dose,1404000H0BRABAJ
+AMP,20292211000001109,Preflucel vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BSAAAK
+AMP,22628411000001107,Influvac Desu vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BTAAAF
+AMP,22704311000001109,Fluarix Tetra vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BUAAAK
+AMP,30935711000001104,FluMist Quadrivalent vaccine nasal suspension 0.2ml unit dose,1404000H0BVAAAJ
+AMP,34680411000001107,"Quadrivalent influenza vaccine (split virion, inactivated) suspension for injection 0.5ml pre-filled syringes",1404000H0BWAAAK
+AMP,37514711000001105,Fluad vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BXAAAM
+AMP,35726811000001104,Influenza Tetra MYL vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BYAAAF
+AMP,35727411000001104,Influenza MYL vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BYABAF
+AMP,36509011000001106,Flucelvax Tetra vaccine suspension for injection 0.5ml pre-filled syringes,1404000H0BZAAAF
+AMP,36754111000001101,"Trivalent influenza vaccine (split virion, inactivated) High Dose suspension for injection 0.5ml pre-filled syringes",1404000H0CBAAAL
+VMP,3439311000001100,Pneumococcal polysaccharide vaccine solution for injection 0.5ml vials,1404000L0AAABAB
+AMP,34783011000001102,Pneumococcal polysaccharide vaccine solution for injection 0.5ml vials,1404000L0AAABAB
+AMP,35111211000001108,Pneumococcal polysaccharide vaccine solution for injection 0.5ml vials,1404000L0AAABAB
+AMP,27396511000001105,Pneumococcal polysaccharide vaccine solution for injection 0.5ml vials,1404000L0AAABAB
+VMP,3439211000001108,Pneumococcal polysaccharide vaccine solution for injection 0.5ml pre-filled syringes,1404000L0AAACAC
+VMP,3439111000001102,Pneumococcal polysaccharide conjugated vaccine (adsorbed) suspension for injection 0.5ml vials,1404000L0AAAEAE
+VMP,10245211000001108,Pneumococcal polysaccharide conjugated vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000L0AAAFAF
+AMP,3017311000001106,Pneumovax II vaccine solution for injection 0.5ml vials,1404000L0BBABAB
+AMP,3005011000001103,Pneumovax II vaccine solution for injection 0.5ml pre-filled syringes,1404000L0BBACAC
+AMP,36461211000001108,Pneumovax 23 solution for injection 0.5ml pre-filled syringes,1404000L0BBADAC
+AMP,3018111000001105,Pnu-Imune vaccine solution for injection 0.5ml vials,1404000L0BDAAAB
+AMP,10231211000001106,Prevenar vaccine suspension for injection 0.5ml pre-filled syringes,1404000L0BEAAAF
+AMP,3021111000001108,Prevenar vaccine suspension for injection 0.5ml vials,1404000L0BEABAE
+AMP,16649411000001104,Prevenar 13 vaccine suspension for injection 0.5ml pre-filled syringes,1404000L0BEACAF
+AMP,16660211000001102,Synflorix vaccine suspension for injection 0.5ml pre-filled syringes,1404000L0BFAAAF
+VMP,7661411000001109,Poliomyelitis vaccine (inactivated) suspension for injection 0.5ml pre-filled syringes,1404000M0AAAFAF
+AMP,7651111000001105,Poliomyelitis vaccine (inactivated) suspension for injection 0.5ml pre-filled syringes,1404000M0AAAFAF
+VMP,333607004,Rabies vaccine powder and solvent for suspension for injection 1ml vials,1404000N0AAAAAA
+AMP,33560211000001103,Rabies vaccine powder and solvent for suspension for injection 1ml vials,1404000N0AAAAAA
+AMP,3304011000001103,Rabies vaccine powder and solvent for suspension for injection 1ml vials,1404000N0AAAAAA
+AMP,2987111000001105,Rabies vaccine powder and solvent for suspension for injection 1ml vials,1404000N0AAAAAA
+VMP,8165711000001106,Rabies vaccine powder and solvent for solution for injection 1ml vials,1404000N0AAABAB
+AMP,8165511000001101,Rabies vaccine powder and solvent for solution for injection 1ml vials,1404000N0AAABAB
+VMP,28049911000001105,Rabies vaccine powder and solvent for suspension for injection 0.5ml vials,1404000N0AAADAD
+VMP,34236111000001109,Rabies vaccine powder and solvent for solution for injection 1ml pre-filled syringes,1404000N0AAAFAF
+AMP,8165311000001107,Rabipur vaccine powder and solvent for solution for injection 1ml vials,1404000N0BDAAAB
+AMP,34197611000001107,Rabipur vaccine powder and solvent for solution for injection 1ml pre-filled syringes,1404000N0BDABAF
+AMP,28048011000001101,Verorab powder and solvent for suspension for injection 0.5ml vials,1404000N0BGAAAD
+VMP,4177811000001103,Rubella vaccine powder and solvent for solution for injection 0.5ml vials,1404000P0AAAEAE
+AMP,4158911000001107,Ervevax vaccine powder and solvent for solution for injection 0.5ml vials,1404000P0BCAAAE
+VMP,37055911000001102,Tetanus vaccine (adsorbed) suspension for injection 0.5ml pre-filled syringes,1404000R0AAAGAG
+AMP,3002411000001104,Clostet vaccine suspension for injection 0.5ml pre-filled syringes,1404000R0BFAAAG
+VMP,36146311000001103,"Typhoid vaccine (live, oral, strain ty21a) gastro-resistant capsules",1404000S0AAACAC
+VMP,348070000,Typhoid polysaccharide 25micrograms/0.5ml vaccine solution for injection pre-filled syringes,1404000S0AAADAD
+AMP,2998811000001100,Vivotif vaccine gastro-resistant capsules,1404000S0BDAAAC
+AMP,2995611000001105,Typhim Vi 25micrograms/0.5ml vaccine solution for injection pre-filled syringes,1404000S0BEAAAD
+AMP,2996711000001109,Typherix 25micrograms/0.5ml vaccine solution for injection pre-filled syringes,1404000S0BFAAAD
+VMP,36150811000001108,Yellow fever vaccine (live) powder and solvent for suspension for injection 0.5ml vials,1404000U0AAAAAA
+AMP,8087111000001106,Arilvax vaccine powder and solvent for suspension for injection 0.5ml vials,1404000U0BBAAAA
+AMP,4820311000001102,Stamaril vaccine powder and solvent for suspension for injection 0.5ml vials,1404000U0BCAAAA
+VMP,4639811000001109,"Measles, Mumps and Rubella vaccine (live) powder and solvent for solution for injection 0.5ml vials",1404000W0AAABAB
+VMP,14015211000001108,"Measles, Mumps and Rubella vaccine (live) powder and solvent for suspension for injection 0.5ml pre-filled syringes",1404000W0AAADAD
+VMP,34938511000001103,"Measles, Mumps and Rubella vaccine (live) powder and solvent for solution for injection 0.5ml pre-filled syringes",1404000W0AAAEAE
+AMP,4830211000001107,M-M-R II vaccine powder and solvent for solution for injection 0.5ml vials,1404000W0BEAAAB
+AMP,4621611000001106,Priorix vaccine powder and solvent for solution for injection 0.5ml vials,1404000W0BHAAAB
+AMP,34925111000001104,Priorix vaccine powder and solvent for solution for injection 0.5ml pre-filled syringes,1404000W0BHABAE
+AMP,13968211000001108,M-M-RVAXPRO vaccine powder and solvent for suspension for injection 0.5ml pre-filled syringes,1404000W0BIAAAD
+VMP,17192211000001101,"Meningococcal oligosaccharide A, C, W135 and Y vaccine powder and solvent for solution for injection 0.5ml vials",1404000X0AAACAC
+VMP,3559311000001108,"Meningococcal polysaccharide A, C, W135 and Y vaccine powder and solvent for solution for injection 0.5ml vials",1404000X0AAACAC
+VMP,20556211000001108,"Meningococcal polysaccharide A, C, W135 and Y vaccine powder and solvent for solution for injection 0.5ml pre-filled syringes",1404000X0AAAGAG
+AMP,3492011000001101,ACWY Vax vaccine powder and solvent for solution for injection 0.5ml vials,1404000X0BEAAAC
+AMP,17188711000001105,Menveo vaccine powder and solvent for solution for injection 0.5ml vials,1404000X0BIAAAC
+AMP,20517811000001104,Nimenrix vaccine powder and solvent for solution for injection 0.5ml pre-filled syringes,1404000X0BJAAAG
+VMP,4652111000001107,Haemophilus type b conjugate vaccine powder and solvent for solution for injection 0.5ml vials,1404000Y0AAABAB
+VMP,4652011000001106,Haemophilus type b conjugate vaccine solution for injection 0.5ml vials,1404000Y0AAACAC
+AMP,4643711000001103,HibTITER vaccine solution for injection 0.5ml vials,1404000Y0BEAAAC
+AMP,4644211000001108,Hiberix vaccine powder and solvent for solution for injection 0.5ml vials,1404000Y0BFAAAB
+VMP,5005111000001108,Tick-borne encephalitis immunoglobulin human solution for injection 2ml vials,140500000BNADA0
+AMP,5004111000001109,FSME-Bulin solution for injection 2ml vials,140500000BNADA0
+VMP,5005211000001102,Tick-borne encephalitis immunoglobulin human solution for injection 5ml vials,140500000BNAIA0
+AMP,5004811000001102,FSME-Bulin solution for injection 5ml vials,140500000BNAIA0
+VMP,4792711000001107,Normal immunoglobulin human 500mg/10ml solution for infusion vials,1405010A0AAAAAA
+VMP,333727008,Normal immunoglobulin human 10g powder and solvent for solution for injection bottles,1405010A0AAABAB
+AMP,9054711000001105,Normal immunoglobulin human 10g powder and solvent for solution for injection bottles,1405010A0AAABAB
+VMP,4368411000001100,Normal immunoglobulin human 10g/200ml solution for infusion vials,1405010A0AAACAC
+VMP,7966211000001101,Normal immunoglobulin human 750mg/4.6875ml solution for injection vials,1405010A0AAAEAE
+VMP,4210311000001103,Normal immunoglobulin human 1.6g/10ml solution for injection vials,1405010A0AAAFAF
+VMP,333731002,Normal immunoglobulin human 3g powder and solvent for solution for injection bottles,1405010A0AAAHAH
+AMP,9053911000001105,Normal immunoglobulin human 3g powder and solvent for solution for injection bottles,1405010A0AAAHAH
+VMP,36032711000001106,Normal immunoglobulin human 6g powder and solvent for solution for infusion bottles,1405010A0AAAIAI
+VMP,333732009,Normal immunoglobulin human 2.5g powder and solvent for solution for injection bottles,1405010A0AAAJAJ
+VMP,4515111000001101,Normal immunoglobulin human 5g powder and solvent for solution for injection bottles,1405010A0AAAKAK
+VMP,4368511000001101,Normal immunoglobulin human 2.5g/50ml solution for infusion vials,1405010A0AAALAL
+VMP,4368311000001107,Normal immunoglobulin human 5g/100ml solution for infusion vials,1405010A0AAANAN
+VMP,4428211000001103,Normal immunoglobulin human 1g powder and solvent for solution for injection bottles,1405010A0AAAPAP
+VMP,333734005,Normal immunoglobulin human 500mg powder and solvent for solution for injection bottles,1405010A0AAARAR
+VMP,4428311000001106,Normal immunoglobulin human 12g powder and solvent for solution for infusion bottles,1405010A0AAAZAZ
+VMP,5457711000001100,Normal immunoglobulin human 800mg/5ml solution for injection vials,1405010A0AABEBE
+VMP,9056311000001100,Normal immunoglobulin human 250mg/1.67ml solution for injection vials,1405010A0AABGBG
+VMP,9262611000001107,Normal immunoglobulin human 6g/50ml solution for infusion vials,1405010A0AABHBH
+VMP,9262511000001108,Normal immunoglobulin human 12g/100ml solution for infusion vials,1405010A0AABIBI
+VMP,9724611000001102,Normal immunoglobulin human 1.5g/9.375ml solution for injection vials,1405010A0AABJBJ
+VMP,15097611000001109,Normal immunoglobulin human 5g/50ml solution for infusion bottles,1405010A0AABKBK
+VMP,15097511000001105,Normal immunoglobulin human 10g/100ml solution for infusion bottles,1405010A0AABLBL
+VMP,15144911000001109,Normal immunoglobulin human 480mg/3ml solution for injection vials,1405010A0AABMBM
+VMP,15145011000001109,Normal immunoglobulin human 3.2g/20ml solution for injection vials,1405010A0AABNBN
+VMP,15145311000001107,Normal immunoglobulin human 5g/50ml solution for infusion vials,1405010A0AABPBP
+AMP,28980511000001109,Normal immunoglobulin human 5g/50ml solution for infusion vials,1405010A0AABPBP
+VMP,15145411000001100,Normal immunoglobulin human 10g/100ml solution for infusion vials,1405010A0AABQBQ
+AMP,28981311000001108,Normal immunoglobulin human 10g/100ml solution for infusion vials,1405010A0AABQBQ
+VMP,15145611000001102,Normal immunoglobulin human 20g/200ml solution for infusion vials,1405010A0AABRBR
+AMP,28982311000001104,Normal immunoglobulin human 20g/200ml solution for infusion vials,1405010A0AABRBR
+VMP,15568111000001100,Normal immunoglobulin human 2.5g/25ml solution for infusion vials,1405010A0AABSBS
+AMP,28978511000001103,Normal immunoglobulin human 2.5g/25ml solution for infusion vials,1405010A0AABSBS
+VMP,16090711000001104,Normal immunoglobulin human 20g/400ml solution for infusion vials,1405010A0AABTBT
+VMP,17180811000001100,Normal immunoglobulin human 1g/10ml solution for infusion vials,1405010A0AABUBU
+VMP,17986911000001106,Normal immunoglobulin human 1.65g/10ml solution for injection vials,1405010A0AABVBV
+VMP,17987011000001105,Normal immunoglobulin human 3.3g/20ml solution for injection vials,1405010A0AABWBW
+VMP,19476011000001108,Normal immunoglobulin human 2g/20ml solution for infusion vials,1405010A0AABXBX
+VMP,19475911000001100,Normal immunoglobulin human 20g/200ml solution for infusion bottles,1405010A0AABYBY
+VMP,19475711000001102,Normal immunoglobulin human 10g/200ml solution for infusion bottles,1405010A0AABZBZ
+VMP,19475811000001105,Normal immunoglobulin human 2.5g/50ml solution for infusion bottles,1405010A0AACACA
+VMP,19476111000001109,Normal immunoglobulin human 5g/100ml solution for infusion bottles,1405010A0AACBCB
+VMP,19466511000001109,Normal immunoglobulin human 1g/5ml solution for infusion vials,1405010A0AACCCC
+VMP,19467111000001102,Normal immunoglobulin human 2g/10ml solution for infusion vials,1405010A0AACDCD
+VMP,19467511000001106,Normal immunoglobulin human 4g/20ml solution for infusion vials,1405010A0AACECE
+VMP,21216411000001100,Normal immunoglobulin human 1g/20ml solution for infusion vials,1405010A0AACFCF
+VMP,28989811000001103,Normal immunoglobulin human 10g/100ml solution for infusion vials and Recombinant human hyaluronidase solution for infusion 5ml vials,1405010A0AACGCG
+VMP,28989911000001108,Normal immunoglobulin human 2.5g/25ml solution for infusion vials and Recombinant human hyaluronidase solution for infusion 1.25ml vials,1405010A0AACHCH
+VMP,28990011000001100,Normal immunoglobulin human 20g/200ml solution for infusion vials and Recombinant human hyaluronidase solution for infusion 10ml vials,1405010A0AACICI
+VMP,28990211000001105,Normal immunoglobulin human 30g/300ml solution for infusion vials and Recombinant human hyaluronidase solution for infusion 15ml vials,1405010A0AACJCJ
+VMP,28990311000001102,Normal immunoglobulin human 5g/50ml solution for infusion vials and Recombinant human hyaluronidase solution for infusion 2.5ml vials,1405010A0AACKCK
+VMP,32523511000001106,Normal immunoglobulin human 1g/6ml solution for injection vials,1405010A0AACLCL
+VMP,32466911000001108,Normal immunoglobulin human 2g/12ml solution for injection vials,1405010A0AACMCM
+VMP,32467311000001105,Normal immunoglobulin human 4g/24ml solution for injection vials,1405010A0AACNCN
+VMP,32467711000001109,Normal immunoglobulin human 8g/48ml solution for injection vials,1405010A0AACPCP
+VMP,28990111000001104,Normal immunoglobulin human 30g/300ml solution for infusion vials,1405010A0AACQCQ
+AMP,28983211000001101,Normal immunoglobulin human 30g/300ml solution for infusion vials,1405010A0AACQCQ
+VMP,34697911000001102,Normal immunoglobulin human 8g/40ml solution for infusion vials,1405010A0AACRCR
+VMP,35356311000001108,Normal immunoglobulin human 1g/5ml solution for injection pre-filled syringes,1405010A0AACSCS
+VMP,35356411000001101,Normal immunoglobulin human 2g/10ml solution for injection pre-filled syringes,1405010A0AACTCT
+VMP,35431711000001107,Normal immunoglobulin human 2.5g/25ml solution for infusion bottles,1405010A0AACUCU
+VMP,36108211000001104,Normal immunoglobulin human 1g/6.25ml solution for injection vials,1405010A0AACVCV
+VMP,36108311000001107,Normal immunoglobulin human 2g/12.5ml solution for injection vials,1405010A0AACWCW
+VMP,36108411000001100,Normal immunoglobulin human 4g/25ml solution for injection vials,1405010A0AACXCX
+AMP,4205211000001100,Gammabulin 1.6g/10ml solution for injection vials,1405010A0BBACAF
+AMP,4164111000001105,Sandoglobulin 3g powder and solvent for solution for injection bottles,1405010A0BEAAAH
+AMP,4164811000001103,Sandoglobulin 6g powder and solvent for solution for infusion bottles,1405010A0BEABAI
+AMP,4401911000001108,Sandoglobulin 1g powder and solvent for solution for injection bottles,1405010A0BEACAP
+AMP,4402311000001103,Sandoglobulin 12g powder and solvent for solution for infusion bottles,1405010A0BEADAZ
+AMP,9253211000001108,Sandoglobulin NF 6g/50ml solution for infusion vials,1405010A0BEAEBH
+AMP,9253711000001101,Sandoglobulin NF 12g/100ml solution for infusion vials,1405010A0BEAFBI
+AMP,4764011000001101,Gammagard S/D 5g powder and solvent for solution for injection bottles,1405010A0BKAAAK
+AMP,4764611000001108,Gammagard S/D 2.5g powder and solvent for solution for injection bottles,1405010A0BKABAJ
+AMP,4765311000001104,Gammagard S/D 10g powder and solvent for solution for injection bottles,1405010A0BKACAB
+AMP,4764311000001103,Gammagard S/D 500mg powder and solvent for solution for injection bottles,1405010A0BKADAR
+AMP,4364311000001102,Vigam Liquid 5g/100ml solution for infusion vials,1405010A0BLACAN
+AMP,4764811000001107,Vigam-S 2.5g powder and solvent for solution for injection bottles,1405010A0BLADAJ
+AMP,4505911000001100,Vigam-S 5g powder and solvent for solution for injection bottles,1405010A0BLAEAK
+AMP,4365411000001105,Vigam Liquid 10g/200ml solution for infusion vials,1405010A0BLAFAC
+AMP,4364911000001101,Vigam Liquid 2.5g/50ml solution for infusion vials,1405010A0BLAGAL
+AMP,4763511000001106,Flebogamma 2.5g/50ml solution for infusion vials,1405010A0BMAAAL
+AMP,4763111000001102,Flebogamma 5g/100ml solution for infusion vials,1405010A0BMABAN
+AMP,4763311000001100,Flebogamma 10g/200ml solution for infusion vials,1405010A0BMACAC
+AMP,4781911000001102,Flebogamma 500mg/10ml solution for infusion vials,1405010A0BMADAA
+AMP,10793911000001104,Octagam 10g/200ml solution for infusion vials,1405010A0BNAAAC
+AMP,10793711000001101,Octagam 5g/100ml solution for infusion vials,1405010A0BNABAN
+AMP,10793511000001106,Octagam 2.5g/50ml solution for infusion vials,1405010A0BNACAL
+AMP,15073711000001100,Octagam 10% 5g/50ml solution for infusion bottles,1405010A0BNADBK
+AMP,15072511000001103,Octagam 10% 10g/100ml solution for infusion bottles,1405010A0BNAEBL
+AMP,19470311000001108,Octagam 10% 2g/20ml solution for infusion vials,1405010A0BNAFBX
+AMP,19470611000001103,Octagam 10% 20g/200ml solution for infusion bottles,1405010A0BNAGBY
+AMP,19470911000001109,Octagam 5% 10g/200ml solution for infusion bottles,1405010A0BNAHBZ
+AMP,19471211000001106,Octagam 5% 2.5g/50ml solution for infusion bottles,1405010A0BNAICA
+AMP,19471511000001109,Octagam 5% 5g/100ml solution for infusion bottles,1405010A0BNAJCB
+AMP,5438011000001102,Subcuvia 800mg/5ml solution for injection vials,1405010A0BPAABE
+AMP,5437711000001101,Subcuvia 1.6g/10ml solution for injection vials,1405010A0BPABAF
+AMP,7949411000001100,Subgam 750mg/4.6875ml solution for injection vials,1405010A0BQAAAE
+AMP,9721711000001108,Subgam 1.5g/9.375ml solution for injection vials,1405010A0BQABBJ
+AMP,35940311000001101,Subgam 1g/6.25ml solution for injection vials,1405010A0BQACCV
+AMP,35940611000001106,Subgam 2g/12.5ml solution for injection vials,1405010A0BQADCW
+AMP,35940911000001100,Subgam 4g/25ml solution for injection vials,1405010A0BQAECX
+AMP,9052411000001106,Liberim IM 250mg/1.67ml solution for injection vials,1405010A0BRAABG
+AMP,9362011000001105,Vivaglobin 1.6g/10ml solution for injection vials,1405010A0BSAAAF
+AMP,15145111000001105,Vivaglobin 480mg/3ml solution for injection vials,1405010A0BSABBM
+AMP,15145711000001106,Vivaglobin 3.2g/20ml solution for injection vials,1405010A0BSACBN
+AMP,15146111000001104,Privigen 5g/50ml solution for infusion vials,1405010A0BTAABP
+AMP,15146411000001109,Privigen 10g/100ml solution for infusion vials,1405010A0BTABBQ
+AMP,15146811000001106,Privigen 20g/200ml solution for infusion vials,1405010A0BTACBR
+AMP,15545711000001102,Privigen 2.5g/25ml solution for infusion vials,1405010A0BTADBS
+AMP,16077211000001101,Flebogamma DIF 500mg/10ml solution for infusion vials,1405010A0BUAAAA
+AMP,16077411000001102,Flebogamma DIF 2.5g/50ml solution for infusion vials,1405010A0BUABAL
+AMP,16076811000001102,Flebogamma DIF 5g/100ml solution for infusion vials,1405010A0BUACAN
+AMP,16077011000001106,Flebogamma DIF 10g/200ml solution for infusion vials,1405010A0BUADAC
+AMP,16077711000001108,Flebogamma DIF 20g/400ml solution for infusion vials,1405010A0BUAEBT
+AMP,19177211000001102,Flebogamma DIF 10g/100ml solution for infusion vials,1405010A0BUAFBQ
+AMP,19177411000001103,Flebogamma DIF 20g/200ml solution for infusion vials,1405010A0BUAGBR
+AMP,19177611000001100,Flebogamma DIF 5g/50ml solution for infusion vials,1405010A0BUAHBP
+AMP,17171811000001101,Kiovig 1g/10ml solution for infusion vials,1405010A0BVAABU
+AMP,17172011000001104,Kiovig 2.5g/25ml solution for infusion vials,1405010A0BVABBS
+AMP,17172211000001109,Kiovig 5g/50ml solution for infusion vials,1405010A0BVACBP
+AMP,17172411000001108,Kiovig 10g/100ml solution for infusion vials,1405010A0BVADBQ
+AMP,17172711000001102,Kiovig 20g/200ml solution for infusion vials,1405010A0BVAEBR
+AMP,33221311000001102,Kiovig 30g/300ml solution for infusion vials,1405010A0BVAFCQ
+AMP,17199811000001105,Gammaplex 2.5g/50ml solution for infusion vials,1405010A0BWAAAL
+AMP,17198811000001103,Gammaplex 5g/100ml solution for infusion vials,1405010A0BWABAN
+AMP,17200311000001105,Gammaplex 10g/200ml solution for infusion vials,1405010A0BWACAC
+AMP,21714211000001102,Gammaplex 20g/400ml solution for infusion vials,1405010A0BWADBT
+AMP,36937511000001108,Gammaplex 10% 5g/50ml solution for infusion bottles,1405010A0BWAEBK
+AMP,36941011000001106,Gammaplex 10% 10g/100ml solution for infusion bottles,1405010A0BWAFBL
+AMP,36941211000001101,Gammaplex 10% 20g/200ml solution for infusion bottles,1405010A0BWAGBY
+AMP,37564711000001109,Gammaplex 10g/100ml solution for infusion vials,1405010A0BWAHBQ
+AMP,37564911000001106,Gammaplex 20g/200ml solution for infusion vials,1405010A0BWAIBR
+AMP,37565111000001107,Gammaplex 5g/50ml solution for infusion vials,1405010A0BWAJBP
+AMP,17976811000001109,Gammanorm 1.65g/10ml solution for injection vials,1405010A0BXAABV
+AMP,17976511000001106,Gammanorm 3.3g/20ml solution for injection vials,1405010A0BXABBW
+AMP,32503011000001107,Gammanorm 1g/6ml solution for injection vials,1405010A0BXACCL
+AMP,32467111000001108,Gammanorm 2g/12ml solution for injection vials,1405010A0BXADCM
+AMP,32467511000001104,Gammanorm 4g/24ml solution for injection vials,1405010A0BXAECN
+AMP,32467911000001106,Gammanorm 8g/48ml solution for injection vials,1405010A0BXAFCP
+AMP,19804711000001100,Gamunex 10% 5g/50ml solution for infusion vials,1405010A0BYAABP
+AMP,19804911000001103,Gamunex 10% 10g/100ml solution for infusion vials,1405010A0BYABBQ
+AMP,19805111000001102,Gamunex 10% 20g/200ml solution for infusion vials,1405010A0BYACBR
+AMP,19839011000001108,Gamunex 10% 1g/10ml solution for infusion vials,1405010A0BYADBU
+AMP,19466811000001107,Hizentra 1g/5ml solution for infusion vials,1405010A0BZAACC
+AMP,19467211000001108,Hizentra 2g/10ml solution for infusion vials,1405010A0BZABCD
+AMP,19467611000001105,Hizentra 4g/20ml solution for infusion vials,1405010A0BZACCE
+AMP,35323911000001104,Hizentra 1g/5ml solution for injection pre-filled syringes,1405010A0BZADCS
+AMP,35324211000001106,Hizentra 2g/10ml solution for injection pre-filled syringes,1405010A0BZAECT
+AMP,21209611000001107,Intratect 1g/20ml solution for infusion vials,1405010A0CBAACF
+AMP,21209911000001101,Intratect 2.5g/50ml solution for infusion vials,1405010A0CBABAL
+AMP,21210311000001109,Intratect 5g/100ml solution for infusion vials,1405010A0CBACAN
+AMP,21210611000001104,Intratect 10g/200ml solution for infusion vials,1405010A0CBADAC
+AMP,21830411000001101,Intratect 1g/10ml solution for infusion vials,1405010A0CBAEBU
+AMP,21830811000001104,Intratect 5g/50ml solution for infusion vials,1405010A0CBAFBP
+AMP,21832011000001109,Intratect 10g/100ml solution for infusion vials,1405010A0CBAGBQ
+AMP,21833011000001100,Intratect 20g/200ml solution for infusion vials,1405010A0CBAHBR
+AMP,22355711000001102,Aragam 2.5g/50ml solution for infusion vials,1405010A0CCAAAL
+AMP,22355911000001100,Aragam 5g/100ml solution for infusion vials,1405010A0CCABAN
+AMP,22356211000001103,Aragam 10g/200ml solution for infusion vials,1405010A0CCACAC
+AMP,22356511000001100,Aragam 20g/400ml solution for infusion vials,1405010A0CCADBT
+AMP,28982111000001101,HyQvia 10g/100ml solution for infusion and 5ml vials,1405010A0CDAACG
+AMP,28980311000001103,HyQvia 2.5g/25ml solution for infusion and 1.25ml vials,1405010A0CDABCH
+AMP,28982911000001103,HyQvia 20g/200ml solution for infusion and 10ml vials,1405010A0CDACCI
+AMP,28983911000001105,HyQvia 30g/300ml solution for infusion and 15ml vials,1405010A0CDADCJ
+AMP,28981111000001106,HyQvia 5g/50ml solution for infusion and 2.5ml vials,1405010A0CDAECK
+AMP,34485211000001102,Iqymune 2g/20ml solution for infusion vials,1405010A0CEAABX
+AMP,34485011000001107,Iqymune 5g/50ml solution for infusion vials,1405010A0CEABBP
+AMP,34485711000001109,Iqymune 10g/100ml solution for infusion vials,1405010A0CEACBQ
+AMP,34485911000001106,Iqymune 20g/200ml solution for infusion vials,1405010A0CEADBR
+AMP,34690411000001106,Cuvitru 1g/5ml solution for injection vials,1405010A0CFAACC
+AMP,34690611000001109,Cuvitru 2g/10ml solution for injection vials,1405010A0CFABCD
+AMP,34690211000001107,Cuvitru 4g/20ml solution for injection vials,1405010A0CFACCE
+AMP,34690911000001103,Cuvitru 8g/40ml solution for injection vials,1405010A0CFADCR
+AMP,35379311000001103,Panzyga 2.5g/25ml solution for infusion bottles,1405010A0CGAACU
+AMP,35379511000001109,Panzyga 5g/50ml solution for infusion bottles,1405010A0CGABBK
+AMP,35379911000001102,Panzyga 10g/100ml solution for infusion bottles,1405010A0CGACBL
+AMP,35380411000001105,Panzyga 20g/200ml solution for infusion bottles,1405010A0CGADBY
+VMP,333769007,Tetanus immunoglobulin human 250unit solution for injection vials,1405020A0AAABAB
+AMP,4953011000001103,Tetanus immunoglobulin human 250unit solution for injection vials,1405020A0AAABAB
+VMP,9478811000001102,Tetanus immunoglobulin 250units/1ml solution for injection pre-filled syringes,1405020A0AAACAC
+AMP,4122211000001101,Tetabulin 250units/1ml solution for injection pre-filled syringes,1405020A0BCAAAC
+AMP,4955911000001103,Liberim T 250unit solution for injection vials,1405020A0BDAAAB
+VMP,333774004,Hepatitis B immunoglobulin human 500unit solution for injection vials,1405020B0AAAAAA
+AMP,5250811000001105,Hepatitis B immunoglobulin human 500unit solution for injection vials,1405020B0AAAAAA
+VMP,333773005,Hepatitis B immunoglobulin human 200unit solution for injection vials,1405020B0AAABAB
+AMP,5250511000001107,Hepatitis B immunoglobulin human 200unit solution for injection vials,1405020B0AAABAB
+AMP,9051511000001102,Liberim HB 500unit solution for injection vials,1405020B0BBAAAA
+VMP,333775003,Varicella immunoglobulin 250mg solution for injection vials,1405020C0AAAAAA
+AMP,4984311000001107,Varicella-Zoster immunoglobulin human 250mg solution for injection vials,1405020C0AAAAAA
+AMP,9050711000001104,Liberim Z 250mg solution for injection vials,1405020C0BBAAAA
+VMP,5002011000001102,Rabies immunoglobulin human 500unit solution for injection vials,1405020D0AAABAB
+AMP,4996611000001105,Rabies immunoglobulin human 500unit solution for injection vials,1405020D0AAABAB
+VMP,333783009,"Anti-D (RHO) immunoglobulin 1,250units/1ml solution for injection pre-filled syringes",1405030A0AAABAB
+AMP,4971911000001102,"Anti-D (RHO) immunoglobulin 1,250units/1ml solution for injection pre-filled syringes",1405030A0AAABAB
+VMP,13340711000001104,"Anti-D (RHO) immunoglobulin 1,500unit powder and solvent for solution for injection vials",1405030A0AAAIAI
+VMP,8174811000001108,"Anti-D (RHO) immunoglobulin 1,500units/2ml solution for injection pre-filled syringes",1405030A0AAAJAJ
+VMP,333784003,Anti-D (RHO) immunoglobulin 250unit solution for injection vials,1405030A0AAAMAM
+VMP,333785002,Anti-D (RHO) immunoglobulin 500unit solution for injection vials,1405030A0AAANAN
+VMP,333787005,"Anti-D (RHO) immunoglobulin 2,500unit solution for injection vials",1405030A0AAAPAP
+VMP,7577811000001104,"Anti-D (RHO) immunoglobulin 5,000unit powder and solvent for solution for injection vials",1405030A0AAAQAQ
+VMP,9566111000001107,"Anti-D (RHO) immunoglobulin 1,500unit solution for injection vials",1405030A0AAARAR
+AMP,7559711000001102,"Partobulin SDF 1,250units/1ml solution for injection pre-filled syringes",1405030A0BBADAB
+AMP,7577611000001103,"WinRho SDF 1,500unit powder and solvent for solution for injection vials",1405030A0BCABAI
+AMP,7578011000001106,"WinRho SDF 5,000unit powder and solvent for solution for injection vials",1405030A0BCACAQ
+AMP,8173611000001106,"Rhophylac 1,500units/2ml solution for injection pre-filled syringes",1405030A0BDAAAJ
+AMP,9048411000001105,Liberim D 500 solution for injection vials,1405030A0BEAAAN
+AMP,9048211000001106,Liberim D 250 solution for injection vials,1405030A0BEABAM
+AMP,4992311000001104,D-Gam Anti-D immunoglobulin 250unit solution for injection vials,1405030A0BFAAAM
+AMP,4992611000001109,D-Gam Anti-D immunoglobulin 500unit solution for injection vials,1405030A0BFABAN
+AMP,4993611000001104,"D-Gam Anti-D immunoglobulin 2,500unit solution for injection vials",1405030A0BFACAP
+AMP,4993011000001106,"D-Gam Anti-D immunoglobulin 1,500unit solution for injection vials",1405030A0BFADAR

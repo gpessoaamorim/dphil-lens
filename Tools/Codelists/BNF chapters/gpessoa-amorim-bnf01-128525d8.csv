@@ -1,0 +1,1966 @@
+code,term
+01,Gastro-Intestinal System
+0101,Dyspepsia and gastro-oesophageal reflux disease
+010101,Antacids and simeticone
+0101010,Antacids and simeticone
+010101000,Other antacid and simeticone preparations
+010101000BB,Proprietary compound preparation BNF 0101010
+010101000BBAJA0,Indigestion mixture
+0101010A0,Alexitol sodium
+0101010A0AA,Alexitol sodium
+0101010A0AAAAAA,Alexitol sodium 360mg tablets
+0101010A0BB,Actal
+0101010A0BBAAAA,Actal 360mg tablets
+0101010C0,Aluminium hydroxide
+0101010C0AA,Aluminium hydroxide
+0101010C0AAAAAA,Aluminium hydroxide 475mg capsules
+0101010C0AAACAC,Aluminium hydroxide oral suspension sugar free
+0101010C0AAAHAH,Aluminium hydroxide 500mg chewable tablets
+0101010C0AAAMAM,Aluminium hydroxide 475mg/5ml oral suspension
+0101010C0BB,Alu-Cap
+0101010C0BBAAAA,Alu-Cap 475mg capsules
+0101010C0BD,Aludrox (Gel/Liquid)
+0101010C0BDABAC,Aludrox Liquid
+0101010E0,Hydrotalcite
+0101010E0AA,Hydrotalcite
+0101010E0AAAAAA,Hydrotalcite 500mg/5ml oral suspension
+0101010E0AAAEAE,Hydrotalcite 500mg/5ml oral suspension sugar free
+0101010F0,Magnesium carbonate
+0101010F0AA,Magnesium carbonate (Antacid)
+0101010F0AAABAB,Magnesium carbonate mixture aromatic
+0101010F0AAAUAU,Magnesium carbonate heavy 500mg capsules
+0101010F0BB,Andrews (Magnesium carbonate)
+0101010F0BBAAA0,Andrews Antacid chewable tablets
+0101010F0BC,Magnesite
+0101010F0BCAAAU,Magnesite 500mg capsules
+0101010F0BD,MagnaCarb
+0101010F0BDAAAU,MagnaCarb 500mg capsules
+0101010G0,Co-magaldrox (Magnesium/aluminium hydroxide)
+0101010G0AA,Co-magaldrox
+0101010G0AAABAB,Co-magaldrox 195mg/220mg/5ml oral suspension sugar free
+0101010G0AAACAC,Co-magaldrox 300mg/600mg/5ml oral suspension sugar free
+0101010G0AAADAD,Co-magaldrox 300mg/600mg tablets
+0101010G0AAAGAG,Co-magaldrox 200mg/175mg/5ml oral suspension sugar free
+0101010G0BB,Maalox
+0101010G0BBABAB,Maalox oral suspension
+0101010G0BBACAC,Maalox TC oral suspension
+0101010G0BBADAD,Maalox TC tablets
+0101010G0BBAHAG,Maalox 175mg/200mg/5ml oral suspension
+0101010G0BC,Mucogel
+0101010G0BCABAB,Mucogel oral suspension
+0101010I0,Magnesium oxide
+0101010I0AA,Magnesium oxide
+0101010I0AAABAB,Magnesium oxide 100mg capsules
+0101010I0AAACAC,Magnesium oxide 160mg capsules
+0101010I0AAADAD,Magnesium oxide 200mg capsules
+0101010I0AAAEAE,Magnesium oxide 100mg tablets
+0101010I0AAAHAH,Magnesium oxide 400mg capsules
+0101010I0AAAJAJ,Magnesium oxide 10mg capsules
+0101010I0AAALAL,Magnesium oxide 160mg tablets
+0101010I0AAAMAM,Magnesium oxide 250mg capsules
+0101010I0AAATAT,Magnesium oxide 320mg capsules
+0101010I0AAAUAU,Magnesium oxide 300mg capsules
+0101010I0AAAVAV,Magnesium oxide 150mg/5ml oral suspension
+0101010I0AAAXAX,Magnesium oxide 500mg tablets
+0101010I0AAAYAY,Magnesium oxide 500mg capsules
+0101010I0AABGBG,Magnesium oxide 160mg/5ml oral suspension
+0101010I0AABIBI,Magnesium oxide 400mg tablets
+0101010I0AABPBP,Magnesium oxide 133mg tablets
+0101010I0AABQBQ,Magnesium oxide 375mg capsules
+0101010I0AABRBR,Magnesium oxide 375mg tablets
+0101010I0AABSBS,Magnesium oxide 250mg tablets
+0101010I0AABTBT,Magnesium oxide 280mg capsules
+0101010I0BC,Mag-Ox
+0101010I0BCAABI,Mag-Ox 400 tablets
+0101010I0BD,Magstar
+0101010I0BDAAAC,Magstar 160mg capsules
+0101010I0BDABAB,Magstar 100mg capsules
+0101010I0BE,Oromag 160
+0101010I0BEAAAC,Oromag 160 capsules
+0101010I0BEABAL,Oromag 160 tablets
+0101010I0BF,Magdose
+0101010I0BFAAAE,Magdose 100mg tablets
+0101010I0BFABAB,Magdose 100mg capsules
+0101010I0BFACAL,Magdose 160mg tablets
+0101010I0BFADAC,Magdose 160mg capsules
+0101010I0BFAEAY,Magdose 500mg capsules
+0101010I0BFAFBI,Magdose 400mg tablets
+0101010I0BG,Oximag
+0101010I0BGAAAB,Oximag 100mg capsules
+0101010I0BH,MagnEss
+0101010I0BHAAAB,MagnEss 100mg capsules
+0101010I0BHABAC,MagnEss 160mg capsules
+0101010I0BHACAY,MagnEss 500mg capsules
+0101010I0BI,MagnaOx
+0101010I0BIAAAC,MagnaOx 160mg capsules
+0101010J0,Magnesium trisilicate
+0101010J0AA,Magnesium trisilicate
+0101010J0AAAAAA,Magnesium trisilicate oral suspension
+0101010J0AAAGAG,Magnesium trisilicate compound powder
+0101010J0AAAHAH,Magnesium trisilicate compound tablets
+0101010L0,Aluminium and magnesium and activated simeticone
+0101010L0AA,Generic suspension
+0101010L0AAAAAA,Generic Asilone oral suspension sugar free
+0101010L0AAAIAI,Generic Maalox Plus oral suspension sugar free
+0101010L0BB,Asilone
+0101010L0BBABAA,Asilone oral suspension
+0101010L0BBADA0,Asilone Antacid chewable tablets
+0101010L0BBAEAA,Asilone Antacid liquid
+0101010L0BE,Maalox Plus
+0101010L0BEAAAI,Maalox Plus oral suspension
+0101010L0BEACA0,Maalox Plus chewable tablets
+0101010L0BG,Boots Wind Relief
+0101010L0BGACA0,Wind Relief chewable tablets
+0101010L0BH,Actonorm
+0101010L0BHAAA0,Actonorm gel
+0101010L0BHABA0,Actonorm oral powder
+0101010N0,Aluminium and magnesium and oxetacaine
+0101010N0AA,Antacid and oxetacaine
+0101010N0AAAAAA,Antacid & Oxetacaine oral suspension (old)
+0101010N0AAABAB,Antacid and Oxetacaine oral suspension
+0101010P0,Co-simalcite (Simeticone/hydrotalcite)
+0101010P0AA,Co-simalcite
+0101010P0AAAAAA,Co-simalcite 125mg/500mg/5ml oral suspension sugar free
+0101010P0BB,Altacite Plus
+0101010P0BBAAAA,Altacite Plus oral suspension
+0101010Q0,Magnesium hydroxide
+0101010Q0AA,Magnesium hydroxide (Antacid)
+0101010Q0AAAAAA,Magnesium hydroxide 415mg/5ml oral suspension sugar free
+0101010Q0AAABAB,Magnesium hydroxide 300mg chewable tablets
+0101010Q0AAAGAG,Magnesium hydroxide 7.45-8.35% oral suspension BP
+0101010Q0BC,Cream of Magnesia (Antacid)
+0101010Q0BCAAAB,Cream of Magnesia 300mg chewable tablets
+0101010Q0BD,Milk of Magnesia (Omega/SmithKline)
+0101010Q0BDACAG,Phillips' Milk of Magnesia 415mg/5ml oral suspension
+0101010Q0BDAFAB,Phillips' Milk of Magnesia 300mg chewable tablets
+0101010R0,Simeticone
+0101010R0AA,Simeticone
+0101010R0AAAAAA,Simeticone 100mg capsules
+0101010R0AAABAB,Simeticone 40mg/ml oral suspension sugar free
+0101010R0AAADAD,Simeticone 42mg/5ml oral drops
+0101010R0AAAEAE,Simeticone 125mg chewable tablets
+0101010R0AAAGAG,Simeticone 66.7mg/ml oral drops sugar free
+0101010R0AAAHAH,Simeticone 125mg capsules
+0101010R0BB,Asilone Windcheater
+0101010R0BBAAAA,Asilone Windcheaters 100mg capsules
+0101010R0BC,Infacol
+0101010R0BCAAAB,Infacol 40mg/ml oral suspension
+0101010R0BE,Dentinox (Antacid)
+0101010R0BEAAAD,Dentinox Infant colic drops
+0101010R0BF,Wind-eze
+0101010R0BFAAAE,Wind-eze 125mg chewable tablets
+0101010R0BFABAH,Wind-eze 125mg gel caps
+0101010R0BG,Woodward's Colic
+0101010R0BGAAAG,Woodward's colic drops
+0101010R0BH,WindSetlers
+0101010R0BHAAAA,WindSetlers 100mg capsules
+0101010S0,Calcium carbonate and simeticone
+0101010S0AA,Calcium carbonate/simeticone
+0101010S0AAAAAA,Calcium carbonate 800mg / Simeticone 125mg chewable tablets
+0101010S0BB,Remegel Wind Relief
+0101010S0BBAAAA,Remegel Wind Relief chewable tablets
+0101010T0,Magnesium sulphate
+0101010T0BB,Andrews (Magnesium sulphate)
+0101010T0BBAAA0,Original Andrews Salts effervescent powder
+0101010T0BC,Boots (Magnesium sulphate)
+0101010T0BCAAA0,Boots Effervescent Health Salts
+0101010U0,Sodium citrate
+0101010U0AA,Sodium citrate (Antacid)
+0101010U0AAAAAA,Sodium citrate 441.17mg/5ml oral solution
+0101010U0BB,Sodium citrate 0.3M
+0101010U0BBAAAA,Sodium citrate 0.3M oral solution
+0101012,Sodium bicarbonate
+0101012A0,Gripe mixtures
+0101012A0AA,Generic gripe water
+0101012A0AAAAAA,Sod bicarb 52.5mg/Terpeneless dill seed oil 2.3mg/5ml soln
+0101012A0BB,Woodward's Gripe
+0101012A0BBAAAA,Woodward's gripe water
+0101012A0BE,Neo Gripe
+0101012A0BEAAA0,Neo Baby Gripe mixture
+0101012B0,Sodium bicarbonate
+0101012B0AA,Sodium bicarbonate (Antacids)
+0101012B0AAABAB,Sodium bicarbonate 420mg/5ml (1mol/ml) soln sugar free
+0101012B0AAAEAE,Sodium bicarbonate compound orodispersible tablets
+0101012B0AAALAL,Sodium bicarbonate mixture paediatric
+0101012B0AAAPAP,Sodium bicarbonate powder
+0101012B0AAATAT,Sodium bicarbonate 4.2g oral powder sachets
+0101012B0AAAUAU,Sodium bicarbonate 420mg/5ml (1mmol/ml) oral liquid
+0101012B0AAAVAV,Sodium bicarbonate 210mg/5ml oral solution
+0101012B0AAAWAW,Sodium bicarbonate 1g/5ml oral suspension
+0101012B0AAAYAY,Sodium bicarbonate 425mg/5ml oral liquid
+0101012B0AAAZAZ,Sodium bicarbonate 333mg/5ml oral solution
+0101012B0AABABA,Sodium bicarbonate 500mg/5ml oral liquid
+0101012B0AABBBB,Sodium bicarbonate 293mg/5ml oral liquid
+0101012B0AABDBD,Sodium bicarbonate 70mg/5ml oral liquid
+0101012B0AABEBE,Sodium bicarbonate 290mg/5ml oral liquid
+0101012B0AABFBF,Sodium bicarbonate 252mg/5ml oral liquid
+0101012B0AABGBG,Sodium bicarbonate 168mg/5ml oral liquid
+0101012B0AABHBH,Sodium bicarbonate 100mg/5ml oral solution
+0101012B0AABIBI,Sodium bicarbonate 588mg/5ml oral liquid
+0101012B0AABJBJ,Sodium bicarbonate 40mg/5ml oral liquid
+0101012B0AABKBK,Sodium bicarbonate 292mg/5ml oral liquid
+0101012B0AABLBL,Sodium bicarbonate 20mg/5ml oral liquid
+0101012B0AABMBM,Sodium bicarbonate 336mg/5ml oral liquid
+0101012B0AABNBN,Sodium bicarbonate 250mg/5ml oral liquid
+0101012B0AABPBP,Sodium bicarbonate 10mg/5ml oral liquid
+0101012B0AABQBQ,Sodium bicarbonate 45mg/5ml oral liquid
+0101012B0AABRBR,Sodium bicarbonate 2.1g/5ml oral liquid
+0101012B0AABSBS,Sodium bicarbonate 50mg/5ml oral suspension
+0101012B0AABTBT,Sodium bicarbonate 300mg/5ml oral liquid
+0101012B0AABUBU,Sodium bicarbonate 52.5mg/5ml oral liquid
+0101012B0AABXBX,Sodium bicarbonate 50mg/5ml oral solution
+0101012B0AABYBY,Sodium bicarbonate 50mg/5ml oral solution sugar free
+0101012B0BC,SodiBic
+0101012B0BCAAAB,SodiBic 420mg/5ml (1mmol/ml) oral solution
+0101012B0BD,Bell's (Sodium bicarbonate)
+0101012B0BDAABX,Bell's Baby Gripe mixture
+0101012B0BE,Nurse Harveys Gripe
+0101012B0BEAABX,Nurse Harveys Gripe mixture
+0101012B0BF,S-Bicarb
+0101012B0BFAAAU,S-Bicarb 420mg/5ml (1mmol/ml) oral solution
+0101012B0BG,S-Bicarb SF
+0101012B0BGAAAB,S-Bicarb SF 420mg/5ml (1mmol/ml) oral solution
+0101012B0BH,Numark (Sodium bicarbonate)
+0101012B0BHAAAP,Numark Sodium bicarbonate powder
+0101012B0BI,Thamicarb
+0101012B0BIAAAB,Thamicarb 84mg/1ml oral solution
+0101012B0BJ,EssCarb
+0101012B0BJAAAB,EssCarb 84mg/1ml oral solution
+0101012B0BK,Boots Children's 1 Month Plus Gripe
+0101012B0BKAABY,Children's 1 Month Plus Gripe mixture
+0101012B0BL,Bidex
+0101012B0BLAAAB,Bidex 84mg/ml oral solution
+0101012B0BM,BiCarb
+0101012B0BMAAAB,BiCarb 84mg/1ml oral solution
+010102,Compound alginates and proprietary indigestion preparations
+0101021,Compound Alginates and proprietary indigestion preparations
+010102100,Compound alginates and proprietary indigestion preparations
+010102100AA,Generic compound preparation BNF 0101021
+010102100AAABAB,Generic Rennie Deflatine chewable tablets sugar free
+010102100AAAFAF,Calcium carb 680mg/Magnesium carb heavy 80mg chew tab
+010102100AAAGAG,Bismuth subsalicylate 17.5mg/1ml oral suspension sugar free
+010102100AAAHAH,Calcium carb 680mg/Magnesium carb heavy 80mg chew tab SF
+010102100AAAIAI,Bismuth subsalicylate 262.5mg chewable tablets sugar free
+010102100BB,Proprietary compound preparation BNF 0101021
+010102100BBABAB,Rennie Deflatine chewable tablets
+010102100BBADA0,Carbellon tablets
+010102100BBAFA0,Boots Indigestion Relief chewable tablets original
+010102100BBAJA0,Bisodol Wind Relief tablets
+010102100BBAKA0,Pepcidtwo chewable tablets
+010102100BBAMA0,Bisodol Indigestion Relief chewable tablets
+010102100BBANA0,Bisodol Indigestion Relief oral powder
+010102100BBAQAF,Rennie Peppermint chewable tablets
+010102100BBARAF,Rennie Spearmint chewable tablets
+010102100BBASA0,Eno effervescent powder
+010102100BBATA0,Eno effervescent powder 5g sachets
+010102100BBAUA0,Boots Indigestion Relief chewable tablets peppermint
+010102100BBAWAG,Pepto-Bismol 17.5mg/1ml oral suspension
+010102100BBAXA0,Galpharm 3-In-1 Antacid chewable tablets
+010102100BBAYA0,Bisodol Extra Strong Mint chewable tablets
+010102100BBAZA0,Rennie Extra chewable tablets
+010102100BBBAAH,Rennie Sugar Free chewable tablets
+010102100BBBCAF,Rennie Ice chewable tablets
+010102100BBBDAI,Pepto-Bismol 262.5mg chewable tablets
+010102100BBBEA0,Indian Brandee oral liquid
+010102100BBBFAG,Boots Pepti-Calm 525.6mg/30ml oral suspension
+010102100BBBGAB,"Rennie Heartburn, Indigestion and Wind Relief chewable tab"
+0101021B0,Alginic acid compound preparations
+0101021B0AA,Alginic acid compound preparation
+0101021B0AAAAAA,Generic Algicon oral suspension sugar free
+0101021B0AAABAB,Generic Algicon chewable tablets
+0101021B0AAACAC,Generic Gastrocote chewable tablets
+0101021B0AAAFAF,Generic Topal chewable tablets
+0101021B0AAAGAG,Generic Gaviscon 500mg chewable tablets sugar free
+0101021B0AAAHAH,Alginate raft-forming oral suspension sugar free
+0101021B0AAAIAI,Generic Gastrocote liquid sugar free
+0101021B0AAAJAJ,Sod algin 225mg/Mag algin 87.5mg/dose oral pdr sach SF
+0101021B0AAALAL,Sodium algin 500mg/Potassium bicarb 100mg/5ml susp SF
+0101021B0AAAMAM,Generic Gaviscon Liquid 10ml sachets sugar free
+0101021B0AAANAN,Generic Rennie Liquid Relief oral suspension sugar free
+0101021B0AAAPAP,Sodium algin 500mg/Potassium bicarb 100mg chew tab SF
+0101021B0AAARAR,Generic Gaviscon Cool 250mg chewable tablets sugar
+0101021B0BB,Algicon
+0101021B0BBAAAA,Algicon oral suspension
+0101021B0BBABAB,Algicon chewable tablets
+0101021B0BC,Gastrocote
+0101021B0BCAAAC,Gastrocote chewable tablets
+0101021B0BCABAI,Gastrocote liquid
+0101021B0BE,Gaviscon
+0101021B0BEABAG,Gaviscon 500mg chewable tablets peppermint
+0101021B0BEACAH,Gaviscon Original Aniseed Relief
+0101021B0BEADAJ,Gaviscon Infant oral powder sachets
+0101021B0BEAFAH,Gaviscon Peppermint Liquid Relief
+0101021B0BEAHAG,Gaviscon 500mg chewable tablets lemon
+0101021B0BEAIAL,Gaviscon Advance oral suspension aniseed (Reckitt Benckiser)
+0101021B0BEAJAM,Gaviscon Liquid 10ml sachets
+0101021B0BEALAG,Gaviscon Extra Strength chewable tablets lemon
+0101021B0BEAMAG,Gaviscon Extra Strength chewable tablets peppermint
+0101021B0BEANAH,Gaviscon Cool Liquid
+0101021B0BEAPAR,Gaviscon Cool chewable tablets
+0101021B0BEAQAP,Gaviscon Advance Mint chewable tablets (Reckitt Benckiser)
+0101021B0BEARA0,Gaviscon Double Action chewable tablets mint
+0101021B0BEASA0,Gaviscon Double Action Liquid peppermint
+0101021B0BEATAR,Gaviscon Lemon chewable tablets
+0101021B0BEAUAR,Gaviscon Peppermint chewable tablets
+0101021B0BEAVA0,Gaviscon Double Action Liquid aniseed
+0101021B0BEAWAR,Gaviscon Strawberry chewable tablets
+0101021B0BEAXA0,Gaviscon Instants Tropical Fruit Flavour oral powder sachets
+0101021B0BEAYAP,Gaviscon Advance Mint chewable tablets (Forum Health)
+0101021B0BEBAAL,Gaviscon Advance oral suspension aniseed (Forum Health)
+0101021B0BEBCAL,Gaviscon Advance oral suspension peppermint (Forum Health)
+0101021B0BEBDA0,Gaviscon Double Action Liquid 10ml sachets
+0101021B0BEBEAL,Gaviscon Advance oral susp peppermint (Reckitt Benckiser)
+0101021B0BEBFA0,Gaviscon Double Action chewable tablets mixed berries
+0101021B0BF,Topal
+0101021B0BFAAAF,Topal chewable tablets
+0101021B0BG,Bisodol
+0101021B0BGAAA0,Bisodol Heartburn Relief tablets
+0101021B0BGABA0,Bisodol Extra tablets
+0101021B0BH,Asilone Heartburn
+0101021B0BHAAAI,Asilone Heartburn liquid
+0101021B0BHABAC,Asilone Heartburn chewable tablets
+0101021B0BI,Peptac
+0101021B0BIAAAH,Peptac liquid aniseed
+0101021B0BIABAH,Peptac liquid peppermint
+0101021B0BJ,Rennie (Alginic acid)
+0101021B0BJAAAN,Rennie Dual Action Liquid oral suspension
+0101021B0BJABAH,Rennie Liquid Heartburn Relief oral suspension
+0101021B0BK,Coalgicarb
+0101021B0BKAAAH,Coalgicarb oral suspension
+0101021B0BL,Raft-Eze
+0101021B0BLAAAH,Raft-Eze liquid
+0101021B0BM,Lloydspharmacy Heartburn Indigestion
+0101021B0BMAAAH,Lloydspharmacy Heartburn and Indigestion liquid aniseed
+0101021B0BMABAH,Lloydspharmacy Heartburn and Indigestion liquid peppermint
+0101021B0BN,Setlers (Alginic acid)
+0101021B0BNAAAC,Setlers Heartburn chewable tablets
+0101021B0BP,Entrocalm (Alginic acid)
+0101021B0BPAAAH,Entrocalm Heartburn and Indigestion Relief oral suspension
+0101021B0BQ,Acidex (Alginic acid)
+0101021B0BQAAAH,Acidex oral suspension aniseed
+0101021B0BQABAH,Acidex oral suspension peppermint
+0101021B0BQACAL,Acidex Advance oral suspension aniseed
+0101021B0BQADAL,Acidex Advance oral suspension peppermint
+0101021B0BR,Numark (Alginic acid)
+0101021B0BRAAAH,Heartburn and Indigestion liquid
+0101021B0BS,Boots (Alginic acid)
+0101021B0BSAAAH,Boots Heartburn Relief liquid peppermint
+0101021B0BSABAH,Boots Heartburn Relief liquid aniseed
+0101021C0,Calcium carbonate
+0101021C0AA,Calcium carbonate (Antacid)
+0101021C0AAAFAF,Calcium carbonate 500mg chewable tablets
+0101021C0AAAJAJ,Calcium carbonate compound mixture paediatric
+0101021C0AAANAN,Calcium carbonate 300mg capsules
+0101021C0AAAPAP,Calcium carbonate 500mg capsules
+0101021C0AAATAT,Calcium carbonate 300mg tablets
+0101021C0AABDBD,Calcium carbonate 250mg tablets
+0101021C0AABQBQ,Calcium carbonate 400mg capsules
+0101021C0AABXBX,Calcium carbonate 800mg chewable tablets
+0101021C0AACCCC,Calcium carbonate 200mg/5ml oral suspension
+0101021C0AACDCD,Calcium carbonate 1g/5ml oral suspension
+0101021C0AACECE,Calcium carbonate 250mg/5ml oral suspension
+0101021C0AACICI,Calcium carbonate 250mg dispersible tablets
+0101021C0AACJCJ,Calcium carbonate 62.5mg/5ml oral suspension
+0101021C0AACKCK,Calcium carbonate 1.25g/5ml oral suspension
+0101021C0AACLCL,Calcium carbonate 360mg/5ml oral suspension
+0101021C0AACMCM,Calcium carbonate 5mg/5ml oral suspension
+0101021C0AACNCN,Calcium carbonate 1.564g/5ml oral suspension
+0101021C0AACPCP,Calcium carbonate 60mg/5ml oral suspension
+0101021C0AACRCR,Calcium carbonate 300mg/5ml oral suspension
+0101021C0AACSCS,Calcium carbonate 800mg/5ml oral suspension
+0101021C0AACTCT,Calcium carbonate 100mg/5ml oral suspension
+0101021C0AACUCU,Calcium carbonate 125mg/5ml oral suspension
+0101021C0AACVCV,Calcium carbonate 400mg/5ml oral suspension
+0101021C0AACWCW,Calcium carbonate 120mg/5ml oral suspension
+0101021C0AACXCX,Calcium carbonate 600mg/5ml oral suspension
+0101021C0AACYCY,Calcium carbonate 500mg/5ml oral suspension
+0101021C0AACZCZ,Calcium carbonate 625mg capsules
+0101021C0BB,Tums
+0101021C0BBAAAF,Tums Assorted Fruit Antacid tablets
+0101021C0BE,Rennie Rap-Eze
+0101021C0BEABAF,Rennie Fruit 500mg tablets
+0101021C0BF,Remegel
+0101021C0BFAABX,Remegel 800mg chewable tablets mint
+0101021C0BFADBX,Remegel Summer Fruit 800mg chewable tablets
+0101021C0BI,Rennie
+0101021C0BIAABX,Rennie Soft Chews 800mg chewable tablets
+0101021C0BIABAF,Rennie Orange 500mg chewable tablets
+0101021C0BJ,Setlers
+0101021C0BJAAAF,Setlers Antacid spearmint chewable tablets
+0101021C0BJABAF,Setlers Antacid peppermint chewable tablets
+0101021C0BK,Calconate
+0101021C0BKAACI,Calconate 250mg dispersible tablets
+0101021C0BL,Boots (Calcium carbonate)
+0101021C0BLAAAF,Boots Fruit Indigestion Relief 500mg tablets
+0102,Antispasmodics and other drugs altering gut motility
+010200,Antispasmodics and other drugs altering gut motility
+0102000,Antispasmodic and other drugs altering gut motility
+0102000A0,Alverine citrate
+0102000A0AA,Alverine citrate
+0102000A0AAAAAA,Alverine 60mg capsules
+0102000A0AAABAB,Alverine 120mg capsules
+0102000A0BB,Spasmonal
+0102000A0BBAAAA,Spasmonal 60mg capsules
+0102000A0BBABAB,Spasmonal Forte 120mg capsules
+0102000A0BC,Relaxyl
+0102000A0BCAAAA,Relaxyl 60mg capsules
+0102000A0BD,Audmonal
+0102000A0BDAAAA,Audmonal 60mg capsules
+0102000A0BDABAB,Audmonal Forte 120mg capsules
+0102000A0BE,Gielism
+0102000A0BEAAAA,Gielism 60mg capsules
+0102000AC,Atropine sulfate
+0102000ACAA,Atropine sulfate (Oral)
+0102000ACAAAGAG,Atropine 600microgram tablets
+0102000ACAAAPAP,Atropine 500micrograms/5ml oral suspension
+0102000ACAAAQAQ,Atropine 200micrograms/5ml oral solution
+0102000ACAAARAR,Atropine 600micrograms/5ml oral solution
+0102000ACAAASAS,Atropine 300micrograms/5ml oral liquid
+0102000ACAAATAT,Atropine 50micrograms/5ml oral solution
+0102000ACAAAUAU,Atropine 850micrograms/5ml oral solution
+0102000ACAAAVAV,Atropine 100micrograms/5ml oral solution
+0102000ACAAAWAW,Atropine 400micrograms/5ml oral liquid
+0102000ACAAAXAX,Atropine 150micrograms/5ml oral solution
+0102000ACAAAYAY,Atropine 5mg/5ml oral solution
+0102000ACAAAZAZ,Atropine 250micrograms/5ml oral liquid
+0102000ACAABABA,Atropine 500micrograms/5ml oral solution
+0102000AJ,Alverine citrate/simeticone
+0102000AJAA,Alverine citrate/simeticone
+0102000AJAAAAAA,Alverine 60mg / Simeticone 300mg capsules
+0102000AJBB,SimAlvia
+0102000AJBBAAAA,SimAlvia 60mg/300mg capsules
+0102000AK,Eluxadoline
+0102000AKAA,Eluxadoline
+0102000AKAAAAAA,Eluxadoline 100mg tablets
+0102000AKAAABAB,Eluxadoline 75mg tablets
+0102000AKBB,Truberzi
+0102000AKBBAAAA,Truberzi 100mg tablets
+0102000AKBBABAB,Truberzi 75mg tablets
+0102000C0,Alverine citrate compound preparations
+0102000C0AA,Sterculia/alverine
+0102000C0AAAAAA,Sterculia 62% / Alverine 0.5% granules
+0102000C0BC,Spasmonal Fibre
+0102000C0BCAAAA,Spasmonal Fibre granules
+0102000D0,Compound antispasmodic preparations
+0102000D0AA,Compound antispasmodic preparations
+0102000D0AAAFAF,Chamomilla oral powder sachets sugar free
+0102000D0AAAHAH,Chlordiazepoxide 5mg / Clidinium bromide 2.5mg capsules
+0102000D0BC,Ashton & Parsons
+0102000D0BCAAAF,Ashton & Parsons Teething Powders oral powder sachets
+0102000D0BH,Librax
+0102000D0BHABAH,Librax capsules
+0102000G0,Cisapride
+0102000G0AA,Cisapride
+0102000G0AAAAAA,Cisapride 10mg tablets
+0102000G0AAADAD,Cisapride 5mg/5ml oral suspension
+0102000G0BB,Prepulsid
+0102000G0BBAAAA,Prepulsid 10mg tablets
+0102000G0BBABAD,Prepulsid 5mg/5ml oral suspension
+0102000G0BC,Alimix
+0102000G0BCAAAA,Alimix 10mg tablets
+0102000H0,Belladonna alkaloids
+0102000H0AA,Belladonna (Alkaloids)
+0102000H0AAAFAF,Magnesium trisilicate and Belladonna mixture
+0102000H0AAAHAH,Belladonna tincture
+0102000H0AAAMAM,Belladonna medicated plaster 9.5cm x 12.5cm
+0102000H0AAANAN,Belladonna medicated plaster 28cm x 17.5cm
+0102000J0,Dicycloverine hydrochloride
+0102000J0AA,Dicycloverine hydrochloride
+0102000J0AAAAAA,Dicycloverine 10mg/5ml oral solution
+0102000J0AAABAB,Dicycloverine 10mg tablets
+0102000J0AAACAC,Dicycloverine 20mg tablets
+0102000J0BB,Merbentyl
+0102000J0BBAAAB,Merbentyl 10mg tablets
+0102000J0BBABAA,Merbentyl 10mg/5ml syrup
+0102000J0BBAEAC,Merbentyl 20 tablets
+0102000K0,Dicycloverine hydrochloride compound preparations
+0102000K0AA,Generic gel
+0102000K0AAAAAA,Generic Kolanticon gel sugar free
+0102000K0BB,Kolanticon
+0102000K0BBAAAA,Kolanticon gel
+0102000L0,Glycopyrronium bromide
+0102000L0AA,Glycopyrronium bromide (Oral)
+0102000L0AAAAAA,Glycopyrronium bromide 2mg tablets
+0102000L0AAACAC,Glycopyrronium bromide 1mg tablets
+0102000L0AAADAD,Glycopyrronium bromide 1mg/5ml oral liquid
+0102000L0AAAFAF,Glycopyrronium bromide 750micrograms/5ml oral liquid
+0102000L0AAAGAG,Glycopyrronium bromide 600micrograms/5ml oral liquid
+0102000L0AAAHAH,Glycopyrronium bromide 3mg/5ml oral liquid
+0102000L0AAAIAI,Glycopyrronium bromide 2mg/5ml oral liquid
+0102000L0AAALAL,Glycopyrronium bromide 1.25mg/5ml oral liquid
+0102000L0AAAMAM,Glycopyrronium bromide 350micrograms/5ml oral liquid
+0102000L0AAANAN,Glycopyrronium bromide 400micrograms/5ml oral liquid
+0102000L0AAAPAP,Glycopyrronium bromide 80micrograms/5ml oral liquid
+0102000L0AAAQAQ,Glycopyrronium bromide 250micrograms/5ml oral liquid
+0102000L0AAARAR,Glycopyrronium bromide 800micrograms/5ml oral liquid
+0102000L0AAASAS,Glycopyrronium bromide 1.8mg/5ml oral liquid
+0102000L0AAATAT,Glycopyrronium bromide 650micrograms/5ml oral liquid
+0102000L0AAAVAV,Glycopyrronium bromide 4mg/5ml oral solution
+0102000L0AAAYAY,Glycopyrronium bromide 300micrograms/5ml oral liquid
+0102000L0AABBBB,Glycopyrronium bromide 2.5mg/5ml oral solution
+0102000L0AABCBC,Glycopyrronium bromide 2.5mg/5ml oral suspension
+0102000L0AABDBD,Glycopyrronium bromide 200micrograms/5ml oral solution
+0102000L0AABEBE,Glycopyrronium bromide 200micrograms/5ml oral suspension
+0102000L0AABFBF,Glycopyrronium bromide 5mg/5ml oral solution
+0102000L0AABGBG,Glycopyrronium bromide 5mg/5ml oral suspension
+0102000L0AABHBH,Glycopyrronium bromide 500micrograms/5ml oral solution
+0102000L0AABIBI,Glycopyrronium bromide 500micrograms/5ml oral suspension
+0102000L0AABJBJ,Glycopyrronium bromide 1.3mg/5ml oral suspension
+0102000L0AABKBK,Glycopyrronium bromide 2mg capsules
+0102000L0AABLBL,Glycopyrronium bromide 1.5mg/5ml oral solution
+0102000L0AABMBM,Glycopyrronium bromide 640micrograms/5ml oral solution
+0102000L0AABNBN,Glycopyrronium bromide 1mg/5ml oral solution sugar free
+0102000L0AABPBP,Glycopyrronium bromide 1mg capsules
+0102000L0AABQBQ,Glycopyrronium bromide 400micrograms/ml soln sugar free
+0102000L0AABRBR,Glycopyrronium bromide 900micrograms/5ml oral suspension
+0102000L0AABSBS,Glycopyrronium bromide 900micrograms/5ml oral solution
+0102000L0BB,Robinul (Oral)
+0102000L0BBABAA,Robinul Forte 2mg tablets
+0102000L0BBACAC,Robinul 1mg tablets
+0102000L0BC,Sialanar
+0102000L0BCAABQ,Sialanar 320micrograms/ml oral solution
+0102000N0,Hyoscine butylbromide
+0102000N0AA,Hyoscine butylbromide
+0102000N0AAAAAA,Hyoscine butylbromide 20mg/1ml inj ampoules
+0102000N0AAABAB,Hyoscine butylbromide 10mg tablets
+0102000N0AAADAD,Hyoscine butylbromide 100mg/5ml oral solution
+0102000N0AAAEAE,Hyoscine butylbromide 1mg/5ml oral solution
+0102000N0AAAFAF,Hyoscine butylbromide 500micrograms/5ml oral solution
+0102000N0AAAHAH,Hyoscine butylbromide 20mg/5ml oral solution
+0102000N0AAAIAI,Hyoscine butylbromide 5mg/5ml oral solution
+0102000N0AAAMAM,Hyoscine butylbromide 400micrograms/5ml oral solution
+0102000N0AAANAN,Hyoscine butylbromide 4.9mg/5ml oral solution
+0102000N0AAAPAP,Hyoscine butylbromide 10mg/5ml oral solution
+0102000N0AAAQAQ,Hyoscine butylbromide 10mg/5ml oral suspension
+0102000N0AAATAT,Hyoscine butylbromide 20mg/5ml oral suspension
+0102000N0BB,Buscopan
+0102000N0BBAAAB,Buscopan 10mg tablets
+0102000N0BBABAA,Buscopan 20mg/1ml solution for injection ampoules
+0102000N0BBACAB,Buscopan IBS Relief 10mg tablets
+0102000N0BBADAB,Buscopan Cramps 10mg tablets
+0102000P0,Mebeverine hydrochloride
+0102000P0AA,Mebeverine hydrochloride
+0102000P0AAAAAA,Mebeverine 50mg/5ml oral suspension sugar free
+0102000P0AAABAB,Mebeverine 135mg tablets
+0102000P0AAACAC,Mebeverine 100mg tablets
+0102000P0AAADAD,Mebeverine 200mg modified-release capsules
+0102000P0AAAEAE,Mebeverine 135mg oral powder sachets
+0102000P0AAAFAF,Mebeverine 150mg/5ml oral suspension
+0102000P0BC,Colofac
+0102000P0BCAAAA,Colofac 50mg/5ml liquid
+0102000P0BCABAB,Colofac 135mg tablets
+0102000P0BCACAB,Colofac IBS 135mg tablets
+0102000P0BCADAC,Colofac 100 tablets
+0102000P0BCAEAD,Colofac MR 200mg capsules
+0102000P0BF,Equilon
+0102000P0BFAAAB,Equilon 135mg tablets
+0102000P0BH,Boots (Mebeverine hydrochloride)
+0102000P0BHAAAB,Boots IBS Relief 135mg tablets
+0102000P0BI,Aurobeverine
+0102000P0BIAAAD,Aurobeverine MR 200mg capsules
+0102000R0,Mepenzolate bromide
+0102000R0AA,Mepenzolate bromide
+0102000R0AAABAB,Mepenzolate bromide 25mg tablets
+0102000R0BB,Cantil
+0102000R0BBAAAB,Cantil 25mg tablets
+0102000T0,Peppermint oil
+0102000T0AA,Peppermint oil
+0102000T0AAAAAA,Peppermint oil 0.2ml gastro-resistant capsules
+0102000T0AAABAB,Peppermint oil liquid
+0102000T0AAAFAF,Peppermint oil 0.2ml gastro-resistant modified-release caps
+0102000T0BB,Colpermin
+0102000T0BBAAAF,Colpermin gastro-resistant modified-release capsules
+0102000T0BC,Mintec
+0102000T0BCAAAA,Mintec 0.2ml gastro-resistant capsules
+0102000T0BG,Equilon Herbal
+0102000T0BGAAAA,Equilon Herbal 0.2ml gastro-resistant capsules
+0102000T0BI,Apercap
+0102000T0BIAAAA,Apercap 0.2ml gastro-resistant capsules
+0102000T0BJ,Colomint
+0102000T0BJAAAA,Colomint 0.2ml gastro-resistant capsules
+0102000T0BK,PepperMinn
+0102000T0BKAAAA,PepperMinn 0.2ml gastro-resistant capsules
+0102000X0,Mebeverine hydrochloride compound preparations
+0102000X0AA,Generic granules
+0102000X0AAAAAA,Ispaghula husk 3.5g / Mebeverine 135mg efferv gran sach SF
+0102000X0BC,Fybogel mebeverine
+0102000X0BCAAAA,Fybogel Mebeverine effervescent granules sachets orange
+0102000Y0,Propantheline bromide
+0102000Y0AA,Propantheline bromide
+0102000Y0AAAFAF,Propantheline bromide 15mg tablets
+0102000Y0AAAIAI,Propantheline bromide 15mg/5ml oral liquid
+0102000Y0AAAUAU,Propantheline bromide 10mg/5ml oral solution
+0102000Y0AAAWAW,Propantheline bromide 30mg/5ml oral solution
+0102000Y0AAAXAX,Propantheline bromide 6.25mg/5ml oral solution
+0102000Y0AAAYAY,Propantheline bromide 2.5mg/5ml oral solution
+0102000Y0AAAZAZ,Propantheline bromide 5mg/5ml oral solution
+0102000Y0AABABA,Propantheline bromide 6.4mg/5ml oral solution
+0102000Y0AABBBB,Propantheline bromide 7.5mg/5ml oral liquid
+0102000Y0BB,Pro-Banthine
+0102000Y0BBAAAF,Pro-Banthine 15mg tablets
+0103,Antisecretory drugs and mucosal protectants
+010300,Test for helicobacter pylori
+0103000,Test for helicobacter pylori
+010300000,Other test for helicobacter pylori preparations
+010300000AA,Generic compound preparation BNF 0103000
+010300000AAAAAA,Urea [13-C] 75mg oral powder breath test kit sugar free
+010300000AAABAB,Urea [13-C] 100mg soluble tablets breath test kit
+010300000AAADAD,Urea [13-C] 50mg tablets breath test kit
+010300000AAAEAE,Urea [13-C] 45mg oral powder breath test kit sugar free
+010300000BB,Proprietary compound preparation BNF 0103000
+010300000BBAAAA,Helicobacter Test INFAI breath test kit
+010300000BBABAB,Pylobactell breath test kit
+010300000BBACAB,Helicobacter Test Hp-PLUS breath test kit
+010300000BBADAD,diabact UBT 50mg tablets
+010300000BBAEAE,Helicobacter Test INFAI for children breath test kit
+010301,H2-receptor antagonists
+0103010,H2-Receptor antagonists
+0103010D0,Cimetidine
+0103010D0AA,Cimetidine
+0103010D0AAAAAA,Cimetidine 200mg tablets
+0103010D0AAABAB,Cimetidine 400mg tablets
+0103010D0AAACAC,Cimetidine 800mg tablets
+0103010D0AAADAD,Cimetidine 200mg/5ml oral solution
+0103010D0AAAEAE,Cimetidine 200mg/2ml solution for injection ampoules
+0103010D0AAAFAF,Cimetidine 200mg chewable tablets sugar free
+0103010D0AAAGAG,Cimetidine 200mg/5ml oral suspension sugar free
+0103010D0AAAIAI,Cimetidine 400mg effervescent tablets sugar free
+0103010D0AAAKAK,Cimetidine 100mg tablets
+0103010D0AAALAL,Cimetidine 200mg/5ml oral solution sugar free
+0103010D0BB,Tagamet
+0103010D0BBAAAA,Tagamet 200mg tablets
+0103010D0BBABAB,Tagamet 400mg tablets
+0103010D0BBACAC,Tagamet 800mg tablets
+0103010D0BBADAD,Tagamet 200mg/5ml syrup
+0103010D0BBAEAE,Tagamet 200mg/2ml solution for injection ampoules
+0103010D0BBAGAI,Tagamet 400mg effervescent tablets
+0103010D0BBAIAK,Tagamet 100 tablets
+0103010D0BC,Dyspamet
+0103010D0BCAAAF,Dyspamet 200mg chewable tablets
+0103010D0BCABAG,Dyspamet 200mg/5ml oral suspension
+0103010D0BD,Peptimax
+0103010D0BDAAAA,Peptimax 200 tablets
+0103010D0BDABAB,Peptimax 400 tablets
+0103010D0BF,Galenamet
+0103010D0BFABAB,Galenamet 400mg tablets
+0103010D0BH,Ultec
+0103010D0BHAAAB,Ultec 400mg tablets
+0103010D0BI,Zita
+0103010D0BIABAB,Zita 400mg tablets
+0103010D0BK,Acitak
+0103010D0BKAAAB,Acitak 400mg tablets
+0103010D0BL,Acid-Eze
+0103010D0BLAAAA,Acid-Eze 200mg tablets
+0103010D0BM,Tagadine
+0103010D0BMAAAB,Tagadine 400mg tablets
+0103010H0,Famotidine
+0103010H0AA,Famotidine
+0103010H0AAAAAA,Famotidine 20mg tablets
+0103010H0AAABAB,Famotidine 40mg tablets
+0103010H0AAACAC,Famotidine 10mg tablets
+0103010H0BB,Pepcid
+0103010H0BBAAAA,Pepcid 20mg tablets
+0103010H0BBABAB,Pepcid 40mg tablets
+0103010H0BBACAC,Pepcid AC Indigestion 10mg tablets
+0103010H0BD,Galpharm (Famotidine)
+0103010H0BDAAAC,Ultra Heartburn Relief 10mg tablets
+0103010N0,Nizatidine
+0103010N0AA,Nizatidine
+0103010N0AAAAAA,Nizatidine 150mg capsules
+0103010N0AAABAB,Nizatidine 300mg capsules
+0103010N0AAACAC,Nizatidine 100mg/4ml solution for infusion ampoules
+0103010N0AAADAD,Nizatidine 150mg/5ml oral liquid
+0103010N0BB,Axid
+0103010N0BBAAAA,Axid 150mg capsules
+0103010N0BBABAB,Axid 300mg capsules
+0103010N0BBACAC,Axid 100mg/4ml solution for infusion ampoules
+0103010N0BC,Zinga 150
+0103010N0BCAAAA,Zinga 150mg capsules
+0103010N0BCABAB,Zinga 300mg capsules
+0103010S0,Ranitidine bismuth citrate
+0103010S0AA,Ranitidine bismuth citrate
+0103010S0AAAAAA,Ranitidine bismuth citrate 400mg tablets
+0103010S0BB,Pylorid
+0103010S0BBAAAA,Pylorid 400mg tablets
+0103010T0,Ranitidine hydrochloride
+0103010T0AA,Ranitidine hydrochloride
+0103010T0AAAAAA,Ranitidine 150mg tablets
+0103010T0AAACAC,Ranitidine 300mg tablets
+0103010T0AAADAD,Ranitidine 50mg/2ml solution for injection ampoules
+0103010T0AAAEAE,Ranitidine 75mg/5ml oral solution sugar free
+0103010T0AAAIAI,Ranitidine 150mg effervescent tablets
+0103010T0AAAJAJ,Ranitidine 300mg effervescent tablets
+0103010T0AAAPAP,Ranitidine 75mg tablets
+0103010T0AAARAR,Ranitidine 4mg/5ml oral liquid
+0103010T0AAASAS,Ranitidine 50mg/5ml oral liquid
+0103010T0AAATAT,Ranitidine 25mg/5ml oral liquid
+0103010T0AAAUAU,Ranitidine 8mg/5ml oral liquid
+0103010T0AAAVAV,Ranitidine 31mg/5ml oral liquid
+0103010T0AAAWAW,Ranitidine 30mg/5ml oral liquid
+0103010T0AAAXAX,Ranitidine 70mg/5ml oral liquid
+0103010T0AAAYAY,Ranitidine 10mg/5ml oral liquid
+0103010T0AAAZAZ,Ranitidine 1.5mg/5ml oral liquid
+0103010T0AABABA,Ranitidine 75mg/5ml oral liquid
+0103010T0AABBBB,Ranitidine 40mg/5ml oral liquid
+0103010T0AABCBC,Ranitidine 20mg/5ml oral liquid
+0103010T0AABDBD,Ranitidine 18mg/5ml oral liquid
+0103010T0AABEBE,Ranitidine 16mg/5ml oral liquid
+0103010T0AABHBH,Ranitidine 3mg/5ml oral liquid
+0103010T0AABIBI,Ranitidine 1.8mg/5ml oral liquid
+0103010T0AABKBK,Ranitidine 75mg effervescent tablets sugar free
+0103010T0AABNBN,Ranitidine 12mg/5ml oral liquid
+0103010T0AABPBP,Ranitidine 11.4mg/5ml oral liquid
+0103010T0AABQBQ,Ranitidine 5mg/5ml oral solution
+0103010T0AABRBR,Ranitidine 5mg/5ml oral suspension
+0103010T0AABSBS,Ranitidine 6mg/5ml oral solution
+0103010T0AABTBT,Ranitidine 1mg/5ml oral solution
+0103010T0AABUBU,Ranitidine 150mg/5ml oral solution sugar free
+0103010T0AABVBV,Ranitidine 37.5mg/5ml oral solution
+0103010T0BB,Zantac
+0103010T0BBAAAA,Zantac 150mg tablets
+0103010T0BBACAC,Zantac 300mg tablets
+0103010T0BBADAD,Zantac 50mg/2ml solution for injection ampoules
+0103010T0BBAEAE,Zantac 150mg/10ml syrup
+0103010T0BBAFAI,Zantac 150mg effervescent tablets
+0103010T0BBAGAJ,Zantac 300mg effervescent tablets
+0103010T0BBAHAP,Zantac 75 tablets
+0103010T0BBAIAP,Zantac 75 Relief tablets
+0103010T0BBAJBK,Zantac 75 Dissolve tablets
+0103010T0BBAKBK,Zantac 75 Relief Dissolve tablets
+0103010T0BE,Raciran
+0103010T0BEAAAA,Raciran 150 tablets
+0103010T0BEABAC,Raciran 300 tablets
+0103010T0BF,Zaedoc
+0103010T0BFAAAA,Zaedoc 150 tablets
+0103010T0BG,Rantec
+0103010T0BGAAAA,Rantec 150 tablets
+0103010T0BGABAC,Rantec 300 tablets
+0103010T0BH,Ranitic
+0103010T0BHAAAA,Ranitic 150mg tablets
+0103010T0BHABAC,Ranitic 300mg tablets
+0103010T0BI,Histac
+0103010T0BIAAAA,Histac 150mg tablets
+0103010T0BIABAC,Histac 300mg tablets
+0103010T0BJ,Ranitil
+0103010T0BJAAAA,Ranitil 150mg tablets
+0103010T0BJABAC,Ranitil 300mg tablets
+0103010T0BK,Ranzac
+0103010T0BKAAAP,Ranzac 75mg tablets
+0103010T0BN,Lloydspharmacy (Ranitidine)
+0103010T0BNAAAP,Lloydspharmacy Indigestion Relief 75mg tablets
+0103010T0BNABAP,Lloydspharmacy Heartburn & Indigestion Relief tablets
+0103010T0BP,Vivatak
+0103010T0BPAAAP,Vivatak Indigestion Relief 75mg tablets
+0103010T0BQ,Boots
+0103010T0BQABAP,Boots Heartburn Relief 75mg tablets
+0103010T0BT,Gavilast-P
+0103010T0BTAAAP,Gavilast-P 75mg tablets
+0103010T0BU,Gavilast
+0103010T0BUAAAP,Gavilast 75mg tablets
+0103010T0BUABAP,Gavilast Heartburn and Indigestion 75mg tablets
+0103010T0BW,Ranicalm
+0103010T0BWAAAP,Ranicalm 75mg tablets
+010302,Selective antimuscarinics
+0103020,Selective antimuscarinics
+0103020P0,Pirenzepine
+0103020P0AA,Pirenzepine
+0103020P0AAAAAA,Pirenzepine 50mg tablets
+0103020P0AAABAB,Pirenzepine 25mg tablets
+0103020P0AAACAC,Pirenzepine 100mg tablets
+010303,Chelates and complexes
+0103030,Chelates and complexes
+0103030S0,Sucralfate
+0103030S0AA,Sucralfate (Systemic)
+0103030S0AAAAAA,Sucralfate 1g tablets
+0103030S0AAACAC,Sucralfate 250mg/5ml oral suspension
+0103030S0AAADAD,Sucralfate 1g/5ml oral suspension sugar free
+0103030S0AAAEAE,Sucralfate 1g/5ml oral suspension
+0103030S0BB,Antepsin
+0103030S0BBAAAA,Antepsin 1g tablets
+0103030S0BBABAD,Antepsin 1g/5ml oral suspension
+0103030S0BC,Sulcrate
+0103030S0BCAAAA,Sulcrate 1g tablets
+0103030S0BD,Carafate
+0103030S0BDAAAA,Carafate 1g tablets
+0103030W0,Tripotassium dicitratobismuthate
+0103030W0AA,Tripotassium dicitratobismuthate
+0103030W0AAAAAA,Tripotassium dicitratobismuthate 120mg tablets
+0103030W0BB,De-Noltab
+0103030W0BBAAAA,De-Noltab 120mg tablets
+010304,Prostaglandin analogues
+0103040,Prostaglandin analogues
+0103040M0,Misoprostol
+0103040M0AA,Misoprostol
+0103040M0AAAAAA,Misoprostol 200microgram tablets
+0103040M0BB,Cytotec
+0103040M0BBAAAA,Cytotec 200microgram tablets
+010305,Proton pump inhibitors
+0103050,Proton pump inhibitors
+0103050A0,Helicobacter pylori eradication therapy
+0103050A0AA,Helicobacter pylori eradication therapy
+0103050A0AAAAAA,Generic HeliClear
+0103050A0AAABAB,Generic HeliMet
+0103050A0BB,HeliClear
+0103050A0BBAAAA,HeliClear
+0103050A0BC,HeliMet
+0103050A0BCAAAB,HeliMet
+0103050E0,Esomeprazole
+0103050E0AA,Esomeprazole
+0103050E0AAAAAA,Esomeprazole 20mg gastro-resistant tablets
+0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets
+0103050E0AAACAC,Esomeprazole 40mg powder for solution for injection vials
+0103050E0AAADAD,Esomeprazole 40mg/5ml oral suspension
+0103050E0AAAEAE,Esomeprazole 10mg gastro-resistant granules sachets
+0103050E0AAAFAF,Esomeprazole 20mg gastro-resistant capsules
+0103050E0AAAGAG,Esomeprazole 40mg gastro-resistant capsules
+0103050E0BB,Nexium
+0103050E0BBAAAA,Nexium 20mg gastro-resistant tablets (AstraZeneca)
+0103050E0BBABAB,Nexium 40mg gastro-resistant tablets (AstraZeneca)
+0103050E0BBACAC,Nexium I.V 40mg powder for solution for injection vials
+0103050E0BBADAE,Nexium 10mg gastro-resistant granules sachets
+0103050E0BBAEAA,Nexium 20mg gastro-resistant tablets (Arrow)
+0103050E0BBAFAB,Nexium 40mg gastro-resistant tablets (Arrow)
+0103050E0BBAGAA,Nexium Control 20mg gastro-resistant tablets
+0103050E0BBAHAF,Nexium Control 20mg gastro-resistant capsules
+0103050E0BC,Emozul
+0103050E0BCAAAF,Emozul 20mg gastro-resistant capsules
+0103050E0BCABAG,Emozul 40mg gastro-resistant capsules
+0103050E0BD,Ventra
+0103050E0BDAAAF,Ventra 20mg gastro-resistant capsules
+0103050E0BDABAG,Ventra 40mg gastro-resistant capsules
+0103050E0BE,Guardium
+0103050E0BEAAAA,Guardium acid reflux control 20mg gastro-resistant tablets
+0103050L0,Lansoprazole
+0103050L0AA,Lansoprazole
+0103050L0AAAAAA,Lansoprazole 30mg gastro-resistant capsules
+0103050L0AAABAB,Lansoprazole 15mg gastro-resistant capsules
+0103050L0AAADAD,Lansoprazole 30mg gastro-resistant granules sachets
+0103050L0AAAGAG,Lansoprazole 15mg orodispersible tablets
+0103050L0AAAHAH,Lansoprazole 30mg orodispersible tablets
+0103050L0AAAIAI,Lansoprazole 10mg/5ml oral liquid
+0103050L0AAAJAJ,Lansoprazole 30mg/5ml oral solution
+0103050L0AAAKAK,Lansoprazole 3mg/5ml oral liquid
+0103050L0AAALAL,Lansoprazole 60mg/5ml oral liquid
+0103050L0AAAMAM,Lansoprazole 15mg/5ml oral solution
+0103050L0AAANAN,Lansoprazole 7.5mg/5ml oral liquid
+0103050L0AAAPAP,Lansoprazole 4mg/5ml oral liquid
+0103050L0AAAQAQ,Lansoprazole 5mg/5ml oral solution
+0103050L0AAARAR,Lansoprazole 10mg oral powder sachets
+0103050L0AAASAS,Lansoprazole 20mg/5ml oral liquid
+0103050L0AAATAT,Lansoprazole 40mg/5ml oral liquid
+0103050L0AAAUAU,Lansoprazole 11mg/5ml oral liquid
+0103050L0AAAVAV,Lansoprazole 22mg/5ml oral liquid
+0103050L0AAAWAW,Lansoprazole 50mg/5ml oral suspension
+0103050L0AAAXAX,Lansoprazole 15mg/5ml oral suspension
+0103050L0AAAYAY,Lansoprazole 30mg/5ml oral suspension
+0103050L0AAAZAZ,Lansoprazole 5mg/5ml oral suspension
+0103050L0AABABA,Lansoprazole 22.5mg/5ml oral suspension
+0103050L0AABBBB,Lansoprazole 15mg oral powder sachets
+0103050L0AABCBC,Lansoprazole 8mg/5ml oral suspension
+0103050L0AABDBD,Lansoprazole 3.75mg/5ml oral solution
+0103050L0BB,Zoton
+0103050L0BBAAAA,Zoton 30mg gastro-resistant capsules
+0103050L0BBABAB,Zoton 15mg gastro-resistant capsules
+0103050L0BBACAD,Zoton 30mg gastro-resistant granules sachets
+0103050L0BBADAG,Zoton FasTab 15mg
+0103050L0BBAEAH,Zoton FasTab 30mg
+0103050P0,Omeprazole
+0103050P0AA,Omeprazole
+0103050P0AAAAAA,Omeprazole 20mg gastro-resistant capsules
+0103050P0AAAEAE,Omeprazole 40mg gastro-resistant capsules
+0103050P0AAAFAF,Omeprazole 10mg gastro-resistant capsules
+0103050P0AAAJAJ,Omeprazole 10mg/5ml oral solution
+0103050P0AAAKAK,Omeprazole 40mg/5ml oral solution
+0103050P0AAALAL,Omeprazole 2.5mg/5ml oral suspension
+0103050P0AAAMAM,Omeprazole 10mg dispersible gastro-resistant tablets
+0103050P0AAANAN,Omeprazole 20mg dispersible gastro-resistant tablets
+0103050P0AAAPAP,Omeprazole 40mg dispersible gastro-resistant tablets
+0103050P0AAAQAQ,Omeprazole 20mg/5ml oral solution
+0103050P0AAARAR,Omeprazole 25mg/5ml oral liquid
+0103050P0AAASAS,Omeprazole 4mg/5ml oral liquid
+0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials
+0103050P0AAAWAW,Omeprazole 50mg/5ml oral liquid
+0103050P0AAAXAX,Omeprazole 15.5mg/5ml oral liquid
+0103050P0AAAYAY,Omeprazole 500micrograms/5ml oral liquid
+0103050P0AAAZAZ,Omeprazole 8mg/5ml oral liquid
+0103050P0AABABA,Omeprazole 2mg/5ml oral liquid
+0103050P0AABBBB,Omeprazole 12.5mg/5ml oral liquid
+0103050P0AABCBC,Omeprazole 10mg gastro-resistant tablets
+0103050P0AABDBD,Omeprazole 20mg gastro-resistant tablets
+0103050P0AABEBE,Omeprazole 40mg gastro-resistant tablets
+0103050P0AABFBF,Omeprazole 3mg/5ml oral liquid
+0103050P0AABGBG,Omeprazole 40mg inj vials
+0103050P0AABHBH,Omeprazole 15mg/5ml oral liquid
+0103050P0AABIBI,Omeprazole 35mg/5ml oral liquid
+0103050P0AABJBJ,Omeprazole 8.5mg/5ml oral liquid
+0103050P0AABKBK,Omeprazole 6.8mg/5ml oral liquid
+0103050P0AABLBL,Omeprazole 10mg/5ml oral suspension
+0103050P0AABMBM,Omeprazole 20mg/5ml oral suspension
+0103050P0AABNBN,Omeprazole 5mg/5ml oral suspension
+0103050P0AABPBP,Omeprazole 40mg/5ml oral suspension
+0103050P0AABQBQ,Omeprazole 7mg/5ml oral suspension
+0103050P0AABRBR,Omeprazole 3.5mg/5ml oral suspension
+0103050P0AABSBS,Omeprazole 5mg/5ml oral solution
+0103050P0AABTBT,Omeprazole 30mg/5ml oral suspension
+0103050P0AABUBU,Omeprazole 10mg/5ml oral suspension sugar free
+0103050P0AABVBV,Omeprazole 20mg/5ml oral suspension sugar free
+0103050P0BB,Losec
+0103050P0BBAAAA,Losec 20mg gastro-resistant capsules
+0103050P0BBABAE,Losec 40mg gastro-resistant capsules
+0103050P0BBACAF,Losec 10mg gastro-resistant capsules
+0103050P0BBADAM,Losec MUPS 10mg gastro-resistant tablets
+0103050P0BBAEAN,Losec MUPS 20mg gastro-resistant tablets
+0103050P0BBAFAP,Losec MUPS 40mg gastro-resistant tablets
+0103050P0BBAGAV,Losec Infusion 40mg powder for solution for infusion vials
+0103050P0BBAHBG,Losec I.V. 40mg inj vials
+0103050P0BD,Omeran
+0103050P0BDAABC,Omeran 10mg gastro-resistant tablets
+0103050P0BDABBD,Omeran 20mg gastro-resistant tablets
+0103050P0BDACBE,Omeran 40mg gastro-resistant tablets
+0103050P0BE,Zanprol
+0103050P0BEAABC,Zanprol 10mg gastro-resistant tablets
+0103050P0BF,Mepradec
+0103050P0BFAAAF,Mepradec 10mg gastro-resistant capsules
+0103050P0BFABAA,Mepradec 20mg gastro-resistant capsules
+0103050P0BG,Mezzopram
+0103050P0BGAAAM,Mezzopram 10mg dispersible gastro-resistant tablets
+0103050P0BGABAN,Mezzopram 20mg dispersible gastro-resistant tablets
+0103050P0BGACAP,Mezzopram 40mg dispersible gastro-resistant tablets
+0103050R0,Pantoprazole
+0103050R0AA,Pantoprazole
+0103050R0AAAAAA,Pantoprazole 40mg gastro-resistant tablets
+0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets
+0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials
+0103050R0AAAEAE,Pantoprazole 20mg/5ml oral suspension
+0103050R0AAAFAF,Pantoprazole 40mg/5ml oral suspension
+0103050R0BB,Protium
+0103050R0BBAAAA,Protium 40mg gastro-resistant tablets
+0103050R0BBABAB,Protium 20mg gastro-resistant tablets
+0103050R0BBACAC,Protium I.V. 40mg powder for solution for injection vials
+0103050R0BC,Pantoloc
+0103050R0BCAAAB,Pantoloc Control 20mg gastro-resistant tablets
+0103050T0,Rabeprazole sodium
+0103050T0AA,Rabeprazole sodium
+0103050T0AAAAAA,Rabeprazole 10mg gastro-resistant tablets
+0103050T0AAABAB,Rabeprazole 20mg gastro-resistant tablets
+0103050T0BB,Pariet
+0103050T0BBAAAA,Pariet 10mg gastro-resistant tablets
+0103050T0BBABAB,Pariet 20mg gastro-resistant tablets
+010306,Other antisecretory drugs and mucosal protectants
+0103060,Other Ulcer-healing drugs
+0103060E0,Carbenoxolone sodium compound preparations
+0103060E0AA,Generic powder for suspension
+0103060E0AAAAAA,Generic Pyrogastrone oral suspension
+0103060E0AAABAB,Generic Pyrogastrone chewable tablets sugar free
+0103060E0BB,Pyrogastrone
+0103060E0BBAAAA,Pyrogastrone oral suspension
+0103060E0BBABAB,Pyrogastrone chewable tablets
+0104,Acute diarrhoea
+010401,Adsorbents and bulk-forming drugs
+0104010,Adsorbents and bulk-forming drugs
+010401000,Other adsorbent and bulk-forming preparations
+010401000BB,Proprietary compound preparation BNF 0104010
+010401000BBATA0,Pectigel powder
+0104010H0,Kaolin light
+0104010H0AA,Kaolin light
+0104010H0AAABAB,Kaolin mixture
+0104010H0AAACAC,Kaolin mixture paediatric
+0104010H0AAAKAK,Kaolin 400mg / Calcium carbonate 75mg tablets
+0104010H0AAALAL,Kaolin 500mg/5ml / Calcium carbonate 250mg/5ml susp SF
+0104010H0BE,Kao-C
+0104010H0BEAAAL,Kao-C junior diarrhoea oral suspension
+0104010H0BH,Entrocalm (Kaolin)
+0104010H0BHAAAK,Entrocalm tablets
+010402,Antimotility drugs
+0104020,Antimotility drugs
+0104020D0,Codeine phosphate compound mixtures
+0104020D0AA,Codeine phosphate (Compound preparations)
+0104020D0AAABAB,Kaolin light 1.5g/5ml / Codeine 5mg/5ml susp sugar free
+0104020D0BB,Kaodene
+0104020D0BBAAAB,Kaodene oral suspension
+0104020H0,Co-phenotrope (Diphenox hydrochloride/atropine sulfate)
+0104020H0AA,Co-phenotrope
+0104020H0AAAAAA,Co-phenotrope 2.5mg/0.025mg tablets
+0104020H0BB,Lomotil
+0104020H0BBAAAA,Lomotil 2.5mg/25microgram tablets (Advanz Phamra)
+0104020H0BBAEAA,Lomotil 2.5mg/25microgram tablets (Imported)
+0104020H0BF,Dymotil
+0104020H0BFAAAA,Dymotil 2.5mg/25microgram tablets
+0104020H0BG,Lofenoxal
+0104020H0BGAAAA,Lofenoxal 2.5mg/25microgram tablets
+0104020L0,Loperamide hydrochloride
+0104020L0AA,Loperamide hydrochloride
+0104020L0AAAAAA,Loperamide 2mg capsules
+0104020L0AAABAB,Loperamide 1mg/5ml oral solution sugar free
+0104020L0AAADAD,Loperamide 2mg tablets
+0104020L0AAAFAF,Loperamide 1mg/5ml oral liquid
+0104020L0AAAHAH,Loperamide 4mg/5ml oral liquid
+0104020L0AAAKAK,Loperamide 2.5mg/5ml oral liquid
+0104020L0AAALAL,Loperamide 2mg oral lyophilisates sugar free
+0104020L0AAAMAM,Generic Diocalm Complete pack
+0104020L0AAAPAP,Loperamide 25mg/5ml oral suspension
+0104020L0AAAQAQ,Loperamide 25mg/5ml oral solution
+0104020L0AAARAR,Loperamide 2mg orodispersible tablets sugar free
+0104020L0AAASAS,Loperamide 15mg/5ml oral solution
+0104020L0BB,Imodium
+0104020L0BBAAAA,Imodium Original 2mg capsules
+0104020L0BBABAB,Imodium 1mg/5ml oral solution
+0104020L0BBAEAB,Imodium 1mg/5ml liquid
+0104020L0BBAGAL,Imodium Instants 2mg orodispersible tablets (old)
+0104020L0BBAHAA,Imodium Classic 2mg capsules
+0104020L0BBAIAA,Imodium LiquiCaps 2mg Soft capsules
+0104020L0BBAJAA,Imodium 2mg Soft capsules
+0104020L0BBAKAR,Imodium Instant Melts 2mg orodispersible tablets
+0104020L0BBALAA,Imodium IBS Relief 2mg capsules
+0104020L0BBAMAR,Imodium Instants 2mg orodispersible tablets
+0104020L0BC,Diareze (Diarrhoea)
+0104020L0BCAAAA,Diareze Diarrhoea Relief 2mg capsules
+0104020L0BD,Arret
+0104020L0BDAAAA,Arret 2mg capsules
+0104020L0BE,Diocalm Ultra (Acute Diarrhoea)
+0104020L0BEAAAA,Diocalm Ultra 2mg capsules
+0104020L0BF,Diocaps
+0104020L0BFAAAA,Diocaps 2mg capsules
+0104020L0BH,Diasorb
+0104020L0BHAAAA,Diasorb 2mg capsules
+0104020L0BI,Norimode
+0104020L0BIAAAD,Norimode 2mg tablets
+0104020L0BJ,Normaloe
+0104020L0BJAAAD,Normaloe 2mg tablets
+0104020L0BL,Diah-Limit
+0104020L0BLAAAA,Diah-Limit 2mg capsules
+0104020L0BM,Entrocalm (Loperamide)
+0104020L0BMAAAA,Entrocalm Loperamide 2mg capsules
+0104020L0BN,Diocalm Complete
+0104020L0BNAAAM,Diocalm Complete pack
+0104020L0BP,Galpharm Dual Action Diarrhoea
+0104020L0BPAAAM,Galpharm Dual Action Diarrhoea Relief pack
+0104020L0BQ,Lloydspharmacy (Loperamide)
+0104020L0BQAAAA,Lloydspharmacy DiaFix 2mg capsules
+0104020L0BR,Diaquitte
+0104020L0BRAAAA,Diaquitte 2mg capsules
+0104020L0BS,Diarrhoea Relief
+0104020L0BSAAAA,Diarrhoea Relief 2mg capsules
+0104020L0BT,Numark (Loperamide)
+0104020L0BTAAAA,Numark Diarrhoea Relief 2mg capsules
+0104020L0BTABAR,Numark Diarrhoea Relief Instants 2mg orodispersible tablets
+0104020L0BU,Dioraleze
+0104020L0BUAAAA,Dioraleze 2mg capsules
+0104020N0,Opium and morphine
+0104020N0AA,Opium and morphine
+0104020N0AAAAAA,Chalk with Opium mixture aromatic BP 1988
+0104020N0AAABAB,Kaolin and Morphine mixture
+0104020N0AAACAC,Generic Diocalm Dual Action chewable tablets
+0104020N0AAAEAE,Morphine 1mg/5ml / Peppermint oil 1.5microlitres/5ml soln
+0104020N0AAAFAF,Generic J Collis Browne's tablets
+0104020N0AAAGAG,Generic Opazimes chewable tablets
+0104020N0BB,Diocalm (Diarrhoea)
+0104020N0BBAAAC,Diocalm Dual Action chewable tablets
+0104020N0BE,J Collis Browne's
+0104020N0BEAAAE,J Collis Browne's mixture
+0104020N0BEABAF,J Collis Browne's tablets
+0104020N0BF,Opazimes
+0104020N0BFAAAG,Opazimes chewable tablets
+0104020P0,Loperamide hydrochloride and simeticone
+0104020P0AA,Loperamide hydrochloride/simeticone
+0104020P0AAAAAA,Loperamide 2mg / Simeticone 125mg tablets
+0104020P0AAABAB,Simeticone 125mg / Loperamide 2mg chewable tablets
+0104020P0BB,Imodium Plus
+0104020P0BBAAAA,Imodium Plus caplets
+0104020P0BBABAB,Imodium Plus chewable tablets
+0104020P0BBACAA,Imodium Plus Comfort tablets
+010403,Enkephalinase inhibitors
+0104030,Enkephalinase inhibitors
+0104030A0,Racecadotril
+0104030A0AA,Racecadotril
+0104030A0AAAAAA,Racecadotril 10mg granules sachets
+0104030A0AAABAB,Racecadotril 30mg granules sachets
+0104030A0AAACAC,Racecadotril 100mg capsules
+0104030A0BB,Hidrasec
+0104030A0BBAAAA,Hidrasec Infants 10mg granules sachets
+0104030A0BBABAB,Hidrasec Children 30mg granules sachets
+0104030A0BBACAC,Hidrasec 100mg capsules
+010404,Tryptophan hydroxylase inhibitors
+0104040,Tryptophan hydroxylase inhibitors
+0104040A0,Telotristat ethyl
+0104040A0AA,Telotristat ethyl
+0104040A0AAAAAA,Telotristat ethyl 250mg tablets
+0104040A0BB,Xermelo
+0104040A0BBAAAA,Xermelo 250mg tablets
+0105,Chronic bowel disorders
+010501,Aminosalicylates
+0105010,Aminosalicylates
+0105010B0,Mesalazine (Systemic)
+0105010B0AA,Mesalazine
+0105010B0AAAAAA,Mesalazine 400mg gastro-resistant tablets
+0105010B0AAABAB,Mesalazine 500mg suppositories
+0105010B0AAACAC,Mesalazine 1g/100ml enema
+0105010B0AAAGAG,Mesalazine 250mg suppositories
+0105010B0AAAHAH,Mesalazine 250mg gastro-resistant tablets
+0105010B0AAAIAI,Mesalazine 500mg modified-release tablets
+0105010B0AAAJAJ,Mesalazine 1g suppositories
+0105010B0AAAKAK,Mesalazine 1g/application foam enema
+0105010B0AAALAL,Mesalazine 2g/59ml enema
+0105010B0AAAMAM,Mesalazine 400mg/5ml oral liquid
+0105010B0AAANAN,Mesalazine 1g modified-release granules sachets sugar free
+0105010B0AAAPAP,Mesalazine 500mg gast res MR gran sachets sugar free
+0105010B0AAARAR,Mesalazine 1.2g gastro-resistant modified-release tablets
+0105010B0AAASAS,Mesalazine 800mg gastro-resistant tablets
+0105010B0AAATAT,Mesalazine 2g modified-release granules sachets sugar free
+0105010B0AAAUAU,Mesalazine 1.5g gast res MR gran sachets sugar free
+0105010B0AAAVAV,Mesalazine 500mg/5ml oral liquid
+0105010B0AAAWAW,Mesalazine 500mg gastro-resistant tablets
+0105010B0AAAXAX,Mesalazine 1g gast res MR gran sachets sugar free
+0105010B0AAAYAY,Mesalazine 1g modified-release tablets
+0105010B0AAAZAZ,Mesalazine 3g gast res MR gran sachets sugar free
+0105010B0AABABA,Mesalazine 4g modified-release granules sachets sugar free
+0105010B0AABBBB,Mesalazine 300mg/5ml oral suspension
+0105010B0AABCBC,Mesalazine 1g gastro-resistant tablets
+0105010B0AABDBD,Mesalazine 1.6g gastro-resistant tablets
+0105010B0BB,Asacol
+0105010B0BBAAAA,Asacol 400mg MR gastro-resistant tablets
+0105010B0BBACAB,Asacol 500mg suppositories
+0105010B0BBADAG,Asacol 250mg suppositories
+0105010B0BBAEAK,Asacol 1g/application foam enema
+0105010B0BBAFAS,Asacol 800mg MR gastro-resistant tablets
+0105010B0BC,Pentasa
+0105010B0BCAAAC,Pentasa Mesalazine 1g/100ml enema
+0105010B0BCACAI,Pentasa 500mg modified-release tablets
+0105010B0BCADAJ,Pentasa 1g suppositories
+0105010B0BCAEAN,Pentasa 1g modified-release granules sachets
+0105010B0BCAFAT,Pentasa 2g modified-release granules sachets
+0105010B0BCAGAY,Pentasa 1g modified-release tablets
+0105010B0BCAHBA,Pentasa 4g modified-release granules sachets
+0105010B0BD,Salofalk
+0105010B0BDAAAH,Salofalk 250mg gastro-resistant tablets
+0105010B0BDACAB,Salofalk 500mg suppositories
+0105010B0BDADAL,Salofalk 2g/59ml enema
+0105010B0BDAEAK,Salofalk 1g/application foam enema
+0105010B0BDAFAX,Salofalk 1g gastro-resistant modified-release gran sachets
+0105010B0BDAGAP,Salofalk 500mg gast res MR gran sachets
+0105010B0BDAHAU,Salofalk 1.5g gastro-resistant modified-release gran sachets
+0105010B0BDAIAJ,Salofalk 1g suppositories
+0105010B0BDAJAW,Salofalk 500mg gastro-resistant tablets
+0105010B0BDAKAZ,Salofalk 3g gastro-resistant modified-release gran sachets
+0105010B0BDALBC,Salofalk 1g gastro-resistant tablets
+0105010B0BF,Ipocol
+0105010B0BFAAAA,Ipocol 400mg gastro-resistant tablets
+0105010B0BG,Mesren
+0105010B0BGABAA,Mesren MR 400mg gastro-resistant tablets
+0105010B0BH,Mezavant
+0105010B0BHAAAR,Mezavant XL 1200mg tablets
+0105010B0BI,Octasa
+0105010B0BIAAAS,Octasa 800mg MR gastro-resistant tablets
+0105010B0BIABAA,Octasa 400mg MR gastro-resistant tablets
+0105010B0BIACBD,Octasa 1600mg MR gastro-resistant tablets
+0105010B0BJ,Zintasa
+0105010B0BJAAAA,Zintasa 400mg EC tablets
+0105010C0,Olsalazine sodium
+0105010C0AA,Olsalazine sodium
+0105010C0AAAAAA,Olsalazine 250mg capsules
+0105010C0AAACAC,Olsalazine 250mg/5ml oral liquid
+0105010C0AAADAD,Olsalazine 500mg tablets
+0105010C0BB,Dipentum
+0105010C0BBAAAA,Dipentum 250mg capsules
+0105010C0BBABAD,Dipentum 500mg tablets
+0105010D0,Balsalazide sodium
+0105010D0AA,Balsalazide sodium
+0105010D0AAABAB,Balsalazide 750mg capsules
+0105010D0BB,Colazide
+0105010D0BBAAAB,Colazide 750mg capsules
+0105010E0,Sulfasalazine
+0105010E0AA,Sulfasalazine
+0105010E0AAAAAA,Sulfasalazine 500mg tablets
+0105010E0AAABAB,Sulfasalazine 500mg gastro-resistant tablets
+0105010E0AAACAC,Sulfasalazine 500mg suppositories
+0105010E0AAADAD,Sulfasalazine 3g/100ml retention enema
+0105010E0AAAEAE,Sulfasalazine 250mg/5ml oral suspension
+0105010E0AAAJAJ,Sulfasalazine 500mg/5ml oral suspension
+0105010E0AAAKAK,Sulfasalazine 125mg/5ml oral suspension
+0105010E0AAALAL,Sulfasalazine 200mg/5ml oral suspension
+0105010E0AAANAN,Sulfasalazine 100mg/5ml oral suspension
+0105010E0AAAPAP,Sulfasalazine 250mg/5ml oral suspension sugar free
+0105010E0BB,Salazopyrin
+0105010E0BBAAAA,Salazopyrin 500mg tablets
+0105010E0BBABAB,Salazopyrin EN-Tabs 500mg
+0105010E0BBACAC,Salazopyrin 500mg suppositories
+0105010E0BBADAD,Salazopyrin 3g/100ml enema
+0105010E0BBAEAE,Salazopyrin 250mg/5ml oral suspension
+0105010E0BC,Sulazine
+0105010E0BCABAB,Sulazine EC 500mg tablets (Genesis Pharm)
+0105010E0BCACAB,Sulazine EC 500mg tablets (Teva)
+010502,Corticosteroids
+0105020,Corticosteroids
+0105020A0,Budesonide
+0105020A0AA,Budesonide (Systemic)
+0105020A0AAAAAA,Budesonide 3mg gastro-resistant modified-release capsules
+0105020A0AAABAB,Budesonide 2mg/100ml enema
+0105020A0AAACAC,Budesonide 3mg gastro-resistant capsules
+0105020A0AAADAD,Budesonide 2mg foam enema
+0105020A0AAAEAE,Budesonide 9mg gastro-resistant granules sachets
+0105020A0AAAFAF,Budesonide 9mg modified-release tablets
+0105020A0AAAGAG,Budesonide 1mg orodispersible tablets sugar free
+0105020A0BB,Entocort
+0105020A0BBAAAA,Entocort CR 3mg capsules
+0105020A0BBABAB,Entocort 2mg/100ml enema
+0105020A0BC,Budenofalk
+0105020A0BCAAAC,Budenofalk 3mg gastro-resistant capsules
+0105020A0BCABAD,Budenofalk 2mg foam enema
+0105020A0BCACAE,Budenofalk 9mg gastro-resistant granules sachets
+0105020A0BD,Cortiment
+0105020A0BDAAAF,Cortiment 9mg modified-release tablets
+0105020A0BE,Jorveza
+0105020A0BEAAAG,Jorveza 1mg orodispersible tablets
+0105020B0,Hydrocortisone acetate
+0105020B0AA,Hydrocortisone acetate (Rectal)
+0105020B0AAAAAA,Hydrocortisone 10% foam aerosol enema
+0105020B0BB,Colifoam
+0105020B0BBAAAA,Colifoam 10% aerosol
+0105020C0,Hydrocortisone
+0105020C0AA,Hydrocortisone (Rectal)
+0105020C0AAABAB,Hydrocortisone 25mg suppositories
+0105020C0AAACAC,Hydrocortisone 100mg suppositories
+0105020C0AAAEAE,Hydrocortisone 200mg suppositories
+0105020C0AAAGAG,Hydrocortisone 50mg suppositories
+0105020D0,Prednisolone sodium metasulphobenzoate
+0105020D0AA,Prednisolone (Rectal)
+0105020D0AAAAAA,Prednisolone 20mg/100ml enema long tube
+0105020D0AAABAB,Generic Predenema 20mg/100ml standard tube
+0105020D0AAACAC,Prednisolone 20mg/application foam enema
+0105020D0BB,Predenema
+0105020D0BBAAAA,Predenema 20mg/100ml long tube
+0105020D0BBABAB,Predenema 20mg/100ml standard tube
+0105020D0BC,Predfoam
+0105020D0BCAAAC,Predfoam 20mg/application enema
+0105020E0,Prednisolone sodium phosphate
+0105020E0AA,Prednisolone sodium phosphate (Rectal)
+0105020E0AAAAAA,Prednisolone sodium phosphate 5mg suppositories
+0105020E0AAABAB,Prednisolone 20mg/100ml rectal solution
+0105020E0AAACAC,Prednisolone 40mg/100ml enema
+0105020E0BB,Predsol (Rectal)
+0105020E0BBAAAA,Predsol 5mg suppositories
+0105020E0BBABAB,Predsol 20mg/100ml retention enema
+0105020G0,Beclometasone dipropionate (Systemic)
+0105020G0AA,Beclometasone dipropionate (Systemic)
+0105020G0AAAAAA,Beclometasone 5mg gastro-resistant modified-release tablets
+0105020G0BB,Clipper
+0105020G0BBAAAA,Clipper 5mg gastro-resistant modified-release tablets
+010503,Drugs affecting immune response
+0105030,Drugs affecting immune response
+0105030A0,Vedolizumab
+0105030A0AA,Vedolizumab
+0105030A0AAAAAA,Vedolizumab 300mg powder for solution for infusion vials
+0105030A0AAABAB,Vedolizumab 108mg/0.68ml inj pre-filled syringes
+0105030A0AAACAC,Vedolizumab 108mg/.068ml inj pre-filled disposable devices
+0105030A0BB,Entyvio
+0105030A0BBAAAA,Entyvio 300mg pdr for concentrate for inf vials
+0105030A0BBABAB,Entyvio 108mg/0.68ml inj pre-filled syringes
+0105030A0BBACAC,Entyvio 108mg/0.68ml solution for injection pre-filled pens
+0105030B0,Ustekinumab (Crohn's)
+0105030B0AA,Ustekinumab (Crohn's)
+0105030B0AAAAAA,Ustekinumab 130mg/26ml solution for infusion vials
+0105030B0BB,Stelara (Crohn's)
+0105030B0BBAAAA,Stelara 130mg/26ml concentrate for inf vials
+010504,Food allergy
+0105040,Food allergy
+0105040A0,Sodium cromoglicate
+0105040A0AA,Sodium cromoglicate (Diarrhoea)
+0105040A0AAAAAA,Sodium cromoglicate 100mg capsules
+0105040A0AAABAB,Sodium cromoglicate 100mg/5ml oral solution
+0105040A0BB,Nalcrom
+0105040A0BBAAAA,Nalcrom 100mg capsules
+0106,Laxatives
+010601,Bulk-forming laxatives
+0106010,Bulk-forming laxatives
+0106010C0,Bran
+0106010C0AA,Bran (Wheat)
+0106010C0AAABAB,Wheat grain fibrous ext 3.5g oral pdr sachets sugar free
+0106010C0BG,Trifyba
+0106010C0BGAAAB,Trifyba 3.5g oral powder sachets
+0106010E0,Ispaghula husk
+0106010E0AA,Ispaghula husk (Laxative)
+0106010E0AAACAC,Ispaghula husk 90% granules sugar free
+0106010E0AAADAD,Ispaghula husk 3.5g efferv gran sach gluten free sugar free
+0106010E0AAAHAH,Ispaghula husk 3.5g efferv gran sach gluten free sf (old)
+0106010E0AAAJAJ,Ispaghula husk 3.4g oral pdr sachets gluten free sugar free
+0106010E0AAAKAK,Ispaghula husk 6g oral powder sachets gluten free sugar free
+0106010E0AAASAS,Ispaghula husk 3.5g oral pdr sachets gluten free sugar free
+0106010E0AAATAT,Ispaghula husk 3.5g granules sachets gluten free
+0106010E0AAAUAU,Ispaghula husk 3.5g granules sachets gluten free sugar free
+0106010E0AAAVAV,Ispaghula husk oral powder sugar free
+0106010E0BB,Fybogel
+0106010E0BBAAAD,Fybogel 3.5g effervescent granules sachets plain SF
+0106010E0BBABAD,Fybogel Orange 3.5g effervescent granules sachets SF
+0106010E0BBACAD,Fybogel Lemon 3.5g effervescent granules sachets SF
+0106010E0BC,Isogel
+0106010E0BCAAAC,Isogel 90% granules
+0106010E0BE,Regulan
+0106010E0BEABAJ,Regulan 3.4g oral powder sachets lemon & lime
+0106010E0BEACAJ,Regulan 3.4g oral powder sachets orange
+0106010E0BH,Konsyl
+0106010E0BHAAAK,Konsyl 6g oral powder sachets
+0106010E0BHADAS,Konsyl Orange Sugar Free 3.5g oral powder sachets
+0106010E0BJ,Ispagel Orange
+0106010E0BJAAAD,Ispagel Orange 3.5g effervescent granules sachets
+0106010E0BK,Senokot (Ispahulag husk)
+0106010E0BKAAAD,Fybogel Hi-Fibre Orange 3.5g effervescent granules sachets
+0106010E0BKABAD,Fybogel Hi-Fibre Lemon 3.5g effervescent granules sachets
+0106010E0BL,Fibrelief
+0106010E0BLAAAT,Fibrelief Orange 3.5g granules sachets
+0106010E0BLABAU,Fibrelief 3.5g granules sachets
+0106010E0BM,Husk
+0106010E0BMAAAV,Husk oral powder
+0106010H0,Methylcellulose
+0106010H0AA,Methylcellulose
+0106010H0AAACAC,Methylcellulose 500mg tablets
+0106010H0AAAIAI,Methylcellulose 200mg/5ml oral solution
+0106010H0AAAJAJ,Methylcellulose 450mg/5ml oral solution
+0106010H0AAAKAK,Methylcellulose 100mg/5ml oral liquid
+0106010H0AAALAL,Methylcellulose 112.5mg/5ml oral liquid
+0106010H0AAAMAM,Methylcellulose 225mg/5ml oral liquid
+0106010H0AAANAN,Methylcellulose 950mg/5ml oral liquid
+0106010H0AAAPAP,Methylcellulose 900mg/5ml oral liquid
+0106010H0AAASAS,Methylcellulose 45mg/5ml oral liquid
+0106010H0AAATAT,Methylcellulose 250mg/5ml oral liquid
+0106010H0AAAUAU,Methylcellulose 300mg/5ml oral solution
+0106010H0AAAVAV,Methylcellulose 168.75mg/5ml oral liquid
+0106010H0AAAWAW,Methylcellulose 50mg/5ml oral liquid
+0106010H0AAAXAX,Methylcellulose 270mg/5ml oral liquid
+0106010H0AAAYAY,Methylcellulose 25mg/5ml oral liquid
+0106010H0AABKBK,Methylcellulose 20mg/5ml oral liquid
+0106010H0AABLBL,Methylcellulose 500mg/5ml oral liquid
+0106010H0AABMBM,Methylcellulose 350mg/5ml oral liquid
+0106010H0AABNBN,Methylcellulose 2% oral gel
+0106010H0BB,Celevac
+0106010H0BBAAAC,Celevac 500mg tablets
+0106010N0,Sterculia
+0106010N0AA,Sterculia (Bulk Forming)
+0106010N0AAAAAA,Sterculia 62% granules gluten free
+0106010N0AAACAC,Sterculia 62% / Frangula 8% granules gluten free
+0106010N0AAADAD,Sterculia 62% granules 7g sachets gluten free
+0106010N0AAAFAF,Sterculia 62% / Frangula 8% granules 7g sachets gluten free
+0106010N0BB,Normacol
+0106010N0BBAAAA,Normacol granules
+0106010N0BBABAD,Normacol granules 7g sachets
+0106010N0BBACAC,Normacol Plus granules
+0106010N0BBADAF,Normacol Plus granules 7g sachets
+010602,Stimulant laxatives
+0106020,Stimulant laxatives
+010602000,Other stimulant laxative preparations
+010602000AA,Generic compound preparation BNF 0106020
+010602000AAACAC,Cascara dry extract 130mg / Senna leaf 32mg tablets
+010602000BB,Proprietary compound preparation BNF 0106020
+010602000BBBCA0,Ortisan Fruits & Fibre Cubes
+010602000BBBEA0,Boots Compound Laxative Syrup of Figs
+010602000BBBFAC,Senncalax tablets
+010602000BBBGA0,Senokot Dual Relief tablets
+010602000BBBHA0,Dual Lax Extra Strong tablets
+010602000BBBIA0,Lanes Modern Herbals Laxative tablets
+010602000BBBJA0,Boots Alternatives Laxative tablets
+010602000BBBKA0,Senokot Comfort tablets
+0106020B0,Co-danthramer (Dantron/poloxamer 188)
+0106020B0AA,Co-danthramer
+0106020B0AAAAAA,Co-danthramer 25mg/200mg/5ml oral suspension sugar free
+0106020B0AAABAB,Co-danthramer 75mg/1000mg/5ml oral suspension sugar free
+0106020B0AAACAC,Co-danthramer 25mg/200mg capsules
+0106020B0AAAFAF,Co-danthramer 37.5mg/500mg capsules
+0106020B0AAAHAH,Co-danthramer 25mg/200mg/5ml oral suspension
+0106020B0BD,Ailax
+0106020B0BDAAAA,Ailax oral suspension
+0106020B0BDABAB,Ailax Forte oral suspension
+0106020B0BE,Danlax
+0106020B0BEAAAH,Danlax oral suspension
+0106020C0,Bisacodyl
+0106020C0AA,Bisacodyl
+0106020C0AAAAAA,Bisacodyl 5mg gastro-resistant tablets
+0106020C0AAADAD,Bisacodyl 5mg suppositories
+0106020C0AAAEAE,Bisacodyl 10mg suppositories
+0106020C0AAAFAF,Bisacodyl 2.74mg/ml rectal solution
+0106020C0AAALAL,Bisacodyl 5mg/5ml oral suspension
+0106020C0AAAPAP,Bisacodyl 5mg/5ml rectal solution
+0106020C0AAAUAU,Bisacodyl 7.5mg suppositories
+0106020C0AAAVAV,Bisacodyl 2.5mg/5ml oral suspension
+0106020C0AAAWAW,Bisacodyl 2.75mg/ml rectal solution
+0106020C0AAAXAX,Bisacodyl 10mg/30ml enema
+0106020C0BD,Dulcolax (Bisacodyl)
+0106020C0BDAAAA,Dulcolax 5mg gastro-resistant tablets
+0106020C0BDABAD,Dulcolax 5mg suppositories for children
+0106020C0BDACAE,Dulcolax 10mg suppositories
+0106020C0BE,Fleet (Bisacodyl)
+0106020C0BEAAAX,Fleet Bisacodyl 10mg/30ml enema
+0106020C0BG,Vantage Bisacodyl
+0106020C0BGAAAA,Vantage Pharmacy Constipation Relief 5mg gast res tab
+0106020C0BH,Entrolax
+0106020C0BHAAAA,Entrolax Constipation Relief 5mg gastro-resistant tablets
+0106020C0BI,Numark (Bisacodyl)
+0106020C0BIAAAA,Numark Constipation Relief 5mg gastro-resistant tablets
+0106020C0BJ,Boots
+0106020C0BJAAAA,Boots Constipation Relief 5mg gastro-resistant tablets
+0106020F0,Castor oil
+0106020F0AA,Castor oil (Laxative)
+0106020F0AAAAAA,Castor oil liquid
+0106020I0,Docusate sodium
+0106020I0AA,Docusate sodium (Systemic)
+0106020I0AAAGAG,Docusate compound 5ml enema
+0106020I0AAAHAH,Docusate 12.5mg/5ml oral solution sugar free
+0106020I0AAAIAI,Docusate 50mg/5ml oral solution sugar free
+0106020I0AAAJAJ,Docusate 120mg/10g enema
+0106020I0AAAKAK,Docusate 100mg capsules
+0106020I0BB,Dioctyl (Systemic)
+0106020I0BBAGAK,Dioctyl 100mg capsules
+0106020I0BD,Fletchers Enemette
+0106020I0BDAAAG,Fletchers Enemette 5ml enema
+0106020I0BE,Norgalax
+0106020I0BEAAAJ,Norgalax 120mg/10g enema
+0106020I0BF,Docusol
+0106020I0BFAAAI,Docusol Adult 50mg/5ml oral solution
+0106020I0BFABAH,Docusol Paediatric 12.5mg/5ml oral solution
+0106020I0BG,DulcoEase
+0106020I0BGAAAK,DulcoEase 100mg capsules
+0106020J0,Co-danthrusate (Dantron/docusate sodium)
+0106020J0AA,Co-danthrusate
+0106020J0AAAAAA,Co-danthrusate 50mg/60mg capsules
+0106020J0AAADAD,Co-danthrusate 50mg/60mg/5ml oral suspension sugar free
+0106020J0BB,Normax
+0106020J0BBAAAA,Normax capsules
+0106020J0BBABAD,Normax oral suspension
+0106020J0BC,Capsuvac
+0106020J0BCAAAA,Capsuvac capsules
+0106020L0,Glycerol
+0106020L0AA,Glycerol (Systemic)
+0106020L0AAAAAA,Glycerol 1g suppositories
+0106020L0AAABAB,Glycerol 2g suppositories
+0106020L0AAACAC,Glycerol 4g suppositories
+0106020L0BB,Senokot Direct Relief
+0106020L0BBAAAC,Senokot Direct Relief 4g suppositories
+0106020M0,Senna
+0106020M0AA,Senna
+0106020M0AAACAC,Senna 7.5mg tablets
+0106020M0AAADAD,Senna 15mg/5ml granules
+0106020M0AAAEAE,Senna 7.5mg/5ml oral solution
+0106020M0AAAIAI,Generic Califig Syrup of Figs oral solution sugar free
+0106020M0AAAJAJ,Senna fruit 12.4% / Ispaghula 54.2% granules
+0106020M0AAALAL,Senna fruit 12.4% / Ispaghula 54.2% granules 4g sachets
+0106020M0AAAPAP,Senna 15mg tablets
+0106020M0AAAQAQ,Senna 15mg chewable tablets
+0106020M0AAASAS,Senna 12mg tablets
+0106020M0AAATAT,Senna 7.5mg/5ml oral solution sugar free
+0106020M0BB,Senokot (Senna)
+0106020M0BBAAAD,Senokot 15mg/5ml granules
+0106020M0BBABAE,Senokot 7.5mg/5ml syrup
+0106020M0BBAEAC,Senokot 7.5mg tablets
+0106020M0BBAFAP,Senokot Max Strength 15mg tablets
+0106020M0BBAGAT,Senokot 7.5mg/5ml syrup sugar free
+0106020M0BBAHAT,Senokot 7.5mg/5ml Syrup Pharmacy sugar free
+0106020M0BBAIAP,Senokot Max Strength tablets Adult
+0106020M0BE,Califig
+0106020M0BEAAAI,Califig California Syrup of Figs 2.5mg/5ml oral solution
+0106020M0BEABAI,Califig Syrup of Figs oral solution
+0106020M0BF,Manevac
+0106020M0BFAAAJ,Manevac granules
+0106020M0BFABAL,Manevac granules 4g sachets
+0106020M0BG,Potter's Senna
+0106020M0BGADAC,Potter's Senna 7.5mg tablets
+0106020M0BI,Ex-Lax
+0106020M0BIAAAP,Ex-Lax Senna 15mg tablets
+0106020M0BIABAS,Ex-Lax Senna 12mg pills
+0106020M0BJ,Sure-Lax
+0106020M0BJAAAQ,Sure-Lax Senna 15mg chewable tablets
+0106020M0BK,Valupak Senna
+0106020M0BKAAAC,Valupak Senna 7.5mg tablets
+0106020M0BL,Boots (Senna)
+0106020M0BLAAAC,Boots Natural Senna Laxative 7.5mg tablets
+0106020M0BM,Lloydspharmacy (Senna)
+0106020M0BMAAAC,Lloydspharmacy Senna 7.5mg tablets
+0106020P0,Sodium picosulfate
+0106020P0AA,Sodium picosulfate
+0106020P0AAABAB,Sodium picosulfate 5mg/5ml oral solution sugar free
+0106020P0AAAFAF,Sodium picosulfate 2.5mg capsules
+0106020P0BD,Dulcolax (Sodium picosulfate)
+0106020P0BDABAF,Dulcolax Pico 2.5mg Perles
+0106020P0BDACAB,Dulcolax Pico 5mg/5ml liquid
+0106020P0BE,OTC Concepts
+0106020P0BEAAAB,OTC Concepts Liquid Laxative 5mg/5ml oral solution
+0106020U0,Phenolphthalein and rhubarb
+0106020U0AA,Phenolphthalein/rhubarb
+0106020U0AAAAAA,Phenolphthalein yellow 120mg / Rhubarb 27.5mg tablets
+0106020U0BB,Fam-Lax
+0106020U0BBAAAA,Fam-Lax Phenolphthalein tablets
+010603,Faecal softeners
+0106030,Faecal softeners
+0106030A0,Arachis oil
+0106030A0AA,Arach oil (Enema)
+0106030A0AAAAAA,Arachis oil 130ml enema
+0106030A0BB,Fletchers Arach oil
+0106030A0BBAAAA,Fletchers Arachis oil 130ml enema
+0106030P0,Liquid paraffin
+0106030P0AA,Liq paraf (Systemic)
+0106030P0AAAAAA,Liquid paraffin oral emulsion
+0106030P0AAABAB,Liquid paraffin liquid
+010604,Osmotic laxatives
+0106040,Osmotic laxatives
+010604000,Other osmotic laxative preparations
+010604000BB,Proprietary compound preparation BNF 0106040
+010604000BBAAA0,Plenvu oral powder sachets
+0106040F0,Lactitol
+0106040F0AA,Lactitol
+0106040F0AAAAAA,Lactitol 10g oral powder sachets
+0106040G0,Lactulose
+0106040G0AA,Lactulose
+0106040G0AAAAAA,Lactulose 3.1-3.7g/5ml oral solution
+0106040G0AAAGAG,Lactulose 10g/15ml oral solution 15ml sachets sugar free
+0106040G0BC,Duphalac
+0106040G0BCAAAA,Duphalac 3.35g/5ml oral solution
+0106040G0BE,Lactugal
+0106040G0BEAAAA,Lactugal 3.1-3.7g/5ml oral solution
+0106040G0BF,Regulose
+0106040G0BFAAAA,Regulose 3.1-3.7g/5ml syrup
+0106040G0BH,Lemlax
+0106040G0BHAAAA,Lemlax 3.26g/5ml oral solution
+0106040J0,Magnesium hydroxide
+0106040J0AA,Magnesium hydroxide (Laxative)
+0106040J0AAAAAA,Magnesium hydroxide oral suspension
+0106040J0AAAFAF,Liq paraffin / Magnesium hydroxide emulsn sugar free
+0106040J0AAAIAI,Magnesium hydroxide 8% oral suspension
+0106040J0BD,Mil-Par
+0106040J0BDAAAF,Mil-Par liquid
+0106040L0,Magnesium sulfate
+0106040L0AA,Mag sulf (Laxative)
+0106040L0AAABAB,Magnesium sulfate powder
+0106040L0AAAEAE,Magnesium sulfate mixture
+0106040L0BC,Numark (Magesium sulfate)
+0106040L0BCAAAB,Numark Epsom Salts
+0106040M0,Macrogol 3350
+0106040M0AA,Macrogol 3350
+0106040M0AAAAAA,Macrogol compound oral powder sachets NPF sugar free
+0106040M0AAABAB,Macrogol compound half-strength oral pdr sach NPF sugar free
+0106040M0AAAEAE,Macrogol compound oral powder sachets NPF
+0106040M0AAAHAH,Macrogol compound oral liquid NPF sugar free
+0106040M0AAAIAI,Macrogol compound oral liquid 25ml sachets NPF sugar free
+0106040M0AAAJAJ,Macrogol 3350 oral powder 8.5g sachets sugar free
+0106040M0BB,Movicol
+0106040M0BBAAAA,Movicol oral powder 13.8g sachets lemon & lime
+0106040M0BBABAB,Movicol-Half oral powder 6.9g sachets
+0106040M0BBADAA,Movicol Plain oral powder 13.7g sachets
+0106040M0BBAEAA,Movicol Chocolate oral powder 13.9g sachets
+0106040M0BBAGAH,Movicol Liquid
+0106040M0BBAHAI,Movicol Ready to Take oral solution 25ml sachets
+0106040M0BBAIAB,Movicol Paediatric Plain oral powder 6.9g sachets
+0106040M0BBAJAB,Movicol Paediatric Chocolate oral powder 6.9g sachets
+0106040M0BC,Laxido
+0106040M0BCAAAE,Laxido Orange oral powder sachets
+0106040M0BCABAA,Laxido Natural oral powder 13.7g sachets
+0106040M0BCACAA,Laxido Orange oral powder sachets sugar free
+0106040M0BCADAB,Laxido Paediatric Plain oral powder 6.9g sachets
+0106040M0BD,Molaxole
+0106040M0BDAAAA,Molaxole oral powder sachets
+0106040M0BE,Laxagol
+0106040M0BEAAAA,Laxagol oral powder sachets
+0106040M0BF,Macroherm
+0106040M0BFABAE,Macroherm oral powder 13.8g sachets
+0106040M0BG,CosmoCol
+0106040M0BGAAAA,CosmoCol Orange Lemon and Lime oral powder sachets
+0106040M0BGABAA,CosmoCol Orange Flavour oral powder sachets
+0106040M0BGACAA,CosmoCol Lemon and Lime Flavour oral powder sachets
+0106040M0BGADAB,CosmoCol Paediatric oral powder 6.9g sachets
+0106040M0BGAEAB,CosmoCol Half oral powder 6.9g sachets
+0106040M0BGAFAA,CosmoCol Plain oral powder sachets
+0106040M0BH,Macilax
+0106040M0BHAAAA,Macilax oral powder 13.8g sachets
+0106040M0BHABAB,Macilax Paediatric oral powder 6.9g sachets
+0106040M0BI,Molative
+0106040M0BIAAAA,Molative oral powder 13.8g sachets
+0106040M0BIABAB,Molative Paediatric oral powder 6.9g sachets
+0106040M0BJ,TransiSoft
+0106040M0BJAAAJ,TransiSoft oral powder 8.5g sachets
+0106040M0BK,VistaPrep
+0106040M0BKAAAA,VistaPrep oral powder 110g sachets
+0106040N0,Phosphates (Rectal)
+0106040N0AA,Phosphate (Rectal)
+0106040N0AAAAAA,Phosphates enema (Formula B) 128ml long tube
+0106040N0AAABAB,Phosphates enema (Formula B) 128ml standard tube
+0106040N0AAACAC,Sod dihydrogen phos dihydrate 1.69g/Sod bicarb 1.08g suppos
+0106040N0AAADAD,Sod dihydrogen phos 18.1%/Disod hydrogen phos 8% enema
+0106040N0AAAEAE,Sod dihydrogen phos dihydrate 680mg/Sod bicarb 500mg suppos
+0106040N0AAAFAF,Sod dihydrogen phos anhydrous 680mg/Sod bicarb 500mg suppos
+0106040N0AAAGAG,Sod dihydrogen phos anhydrous 340mg/Sod bicarb 250mg suppos
+0106040N0BB,Fletchers phosphate
+0106040N0BBAAAA,Fletchers phosphate enema 128ml long tube
+0106040N0BBABAB,Fletchers phosphate enema 128ml standard tube
+0106040N0BC,Carbalax
+0106040N0BCAAAC,Carbalax suppositories
+0106040N0BD,Cleen (Phosphate)
+0106040N0BDAAAD,Cleen Ready-to-use 133ml enema
+0106040N0BE,Lecicarbon
+0106040N0BEAAAE,Lecicarbon E suppositories
+0106040N0BEABAF,Lecicarbon A suppositories
+0106040N0BEACAG,Lecicarbon C suppositories
+0106040R0,Sodium citrate (Rectal)
+0106040R0AA,Sodium citrate (Rectal)
+0106040R0AAAFAF,Sodium citrate compound 5ml enema
+0106040R0BB,Micralax
+0106040R0BBAAAF,Micralax Micro-enema 5ml
+0106040R0BD,Micolette
+0106040R0BDAAAF,Micolette Micro-enema 5ml
+0106040X0,Macrogol 4000
+0106040X0AA,Macrogol 4000
+0106040X0AAAAAA,Macrogol 4000 10g oral powder sachets sugar free
+0106040X0BB,Idrolax
+0106040X0BBAAAA,Idrolax 10g oral powder sachets
+0106040X0BC,Dulcobalance
+0106040X0BCAAAA,Dulcobalance 10g oral powder sachets
+010605,Bowel cleansing preparations
+0106050,Bowel cleansing preparations
+0106050B0,Bowel cleansing solutions
+0106050B0BB,Klean-Prep
+0106050B0BBAAA0,Klean-Prep oral powder 69g sachets
+0106050B0BE,Moviprep
+0106050B0BEAAA0,Moviprep oral powder sachets
+0106050B0BEABA0,Moviprep Orange oral powder sachets
+0106050B0BG,Izinova
+0106050B0BGAAA0,Izinova concentrate for oral solution
+0106050M0,Magnesium citrate
+0106050M0AA,Magnesium citrate (Bowel Cleansing)
+0106050M0AAAAAA,Citric acid 17.79g/Magnesium carb 11.57g efferv pdr sach SF
+0106050M0BB,Citramag
+0106050M0BBAAAA,Citramag effervescent powder sachets
+0106050S0,Sodium picosulfate
+0106050S0AA,Sodium picosulfate (Bowel Cleansing)
+0106050S0AAAAAA,Generic Picolax oral powder 16.1g sachets sugar free
+0106050S0BB,Picolax
+0106050S0BBABAA,Picolax oral powder 16.1g sachets
+0106050S0BC,CitraFleet
+0106050S0BCAAA0,CitraFleet oral powder 16.11g sachets
+0106050S0BCABA0,CitraFleet oral powder 15.08g sachets
+0106050U0,Phosphates
+0106050U0AA,Phosphates
+0106050U0AAAAAA,Sod dihydrogen phos 542mg/Disod hydrogen phos 240mg/ml soln
+0106050U0BB,Phospho-soda
+0106050U0BBAAAA,Phospho-soda 24.4g/10.8g oral solution
+010606,Peripheral opioid-receptor antagonists
+0106060,Peripheral opioid-receptor antagonists
+0106060A0,Methylnaltrexone bromide
+0106060A0AA,Methylnaltrex bromide
+0106060A0AAAAAA,Methylnaltrexone bromide 12mg/0.6ml inj vials
+0106060A0BB,Relistor
+0106060A0BBAAAA,Relistor 12mg/0.6ml solution for injection vials
+0106060B0,Naloxegol
+0106060B0AA,Naloxegol
+0106060B0AAAAAA,Naloxegol 12.5mg tablets
+0106060B0AAABAB,Naloxegol 25mg tablets
+0106060B0BB,Moventig
+0106060B0BBAAAA,Moventig 12.5mg tablets
+0106060B0BBABAB,Moventig 25mg tablets
+0106060C0,Naldemedine
+0106060C0AA,Naldemedine
+0106060C0AAAAAA,Naldemedine 200microgram tablets
+0106060C0BB,Rizmoic
+0106060C0BBAAAA,Rizmoic 200microgram tablets
+010607,Other drugs used in constipation
+0106070,Other drugs used in constipation
+0106070A0,Prucalopride
+0106070A0AA,Prucalopride
+0106070A0AAAAAA,Prucalopride 1mg tablets
+0106070A0AAABAB,Prucalopride 2mg tablets
+0106070A0BB,Resolor
+0106070A0BBAAAA,Resolor 1mg tablets
+0106070A0BBABAB,Resolor 2mg tablets
+0106070B0,Linaclotide
+0106070B0AA,Linaclotide
+0106070B0AAAAAA,Linaclotide 290microgram capsules
+0106070B0BB,Constella
+0106070B0BBAAAA,Constella 290microgram capsules
+0106070C0,Lubiprostone
+0106070C0AA,Lubiprostone
+0106070C0AAAAAA,Lubiprostone 24microgram capsules
+0106070C0BB,Amitiza
+0106070C0BBAAAA,Amitiza 24microgram capsules
+0107,Local preparations for anal and rectal disorders
+010701,Soothing haemorrhoidal preparations
+0107010,Soothing haemorrhoidal preparations
+010701000,Other soothing haemorrhoidal preparations
+010701000AA,Generic compound preparation BNF 0107010
+010701000AAACAC,Shark liver oil 3% / Yeast cell extract 1% ointment
+010701000BJ,Proprietary compound preparation BNF 0107010
+010701000BJBAA0,Boots Haemorrhoid Relief suppositories
+010701000BJBBA0,Haemorrhoid Relief ointment
+010701000BJBGAC,Preparation H ointment
+010701000BJBHA0,Preparation H suppositories
+0107010AA,Diltiazem hydrochloride
+0107010AAAA,Diltiazem hydrochloride (Haemorrhoids)
+0107010AAAAABAB,Diltiazem 2% gel
+0107010AAAAADAD,Diltiazem 0.2% cream
+0107010AAAAAFAF,Diltiazem 4% cream
+0107010AAAAAIAI,Diltiazem 0.4% cream
+0107010AAAAAJAJ,Diltiazem 2% cream
+0107010AAAAAKAK,Diltiazem 2% ointment
+0107010AAAAALAL,Diltiazem 0.5% ointment
+0107010AAAAAMAM,Diltiazem 5% cream
+0107010AAAAANAN,Diltiazem 1% cream
+0107010AAAAAPAP,Diltiazem 4% ointment
+0107010AAAAAQAQ,Diltiazem 0.4% ointment
+0107010B0,Acetarsol
+0107010B0AA,Acetarsol (Rectal)
+0107010B0AAAAAA,Acetarsol 250mg suppositories
+0107010B0AAABAB,Acetarsol 1g suppositories
+0107010B0AAAEAE,Acetarsol 360mg suppositories
+0107010B0AAAFAF,Acetarsol 500mg suppositories
+0107010E0,Bismuth subgallate
+0107010E0AA,Bism subgallate
+0107010E0AAABAB,Bismuth subgallate 300mg suppositories
+0107010G0,Cinchocaine hydrochloride
+0107010G0AA,Cinchocaine hydrochloride
+0107010G0AAAAAA,Cinchocaine 1.1% ointment
+0107010G0BB,Nupercainal
+0107010G0BBAAAA,Nupercainal 1.1% ointment
+0107010I0,Hamamelis
+0107010I0AA,Hamamelis (Rectal)
+0107010I0AAAIAI,Hamamelis water 50% gel
+0107010I0BB,Preparation H (Hamamelis)
+0107010I0BBAAAI,Preparation H 50% clear gel
+0107010J0,Heparinoid
+0107010J0AA,Lauromacrogol/ Heparinoid
+0107010J0AAAAAA,Lauromacrogol 400 50mg / Heparinoid 4mg suppositories
+0107010J0AAABAB,Lauromacrogol 400 5% / Heparinoid 0.2% rectal ointment
+0107010J0BB,Anacal
+0107010J0BBAAAA,Anacal suppositories
+0107010J0BBABAB,Anacal rectal ointment
+0107010N0,Lidocaine hydrochloride
+0107010N0AA,Lidocaine hydrochloride (Rectal)
+0107010N0AAADAD,Generic Hemocane cream
+0107010N0AAAEAE,Allantoin 0.5% / Lidocaine 0.5% ointment
+0107010N0AAAFAF,Allantoin 10.25mg / Lidocaine 10.25mg suppositories
+0107010N0AAAGAG,Zinc oxide 283.5mg / Lidocaine 13.2mg suppositories
+0107010N0AAAHAH,Zinc oxide 6.6% / Lidocaine 0.7% ointment
+0107010N0AAAIAI,Generic Germoloids Suppositories & Ointment Duo Pack
+0107010N0AAAJAJ,Zinc oxide 6.6% / Lidocaine 0.7% cream
+0107010N0BC,Hemocane
+0107010N0BCABAD,Hemocane cream
+0107010N0BE,Anodesyn
+0107010N0BEAAAE,Anodesyn ointment
+0107010N0BEABAF,Anodesyn suppositories
+0107010N0BF,Germoloids
+0107010N0BFAAAJ,Germoloids cream
+0107010N0BFABAH,Germoloids ointment
+0107010N0BFACAG,Germoloids suppositories
+0107010N0BFADAI,Germoloids Suppositories & Ointment Duo Pack
+0107010N0BG,Care Haemorrhoid Relief
+0107010N0BGAAAE,Care Haemorrhoid Relief ointment
+0107010N0BGABAF,Care Haemorrhoid Relief suppositories
+0107010S0,Sucralfate
+0107010S0AA,Sucralfate (Rectal)
+0107010S0AAAIAI,Sucralfate 1g/30ml enema
+0107010S0AAAJAJ,Sucralfate 4% in Emulsifying ointment
+0107010S0AAAKAK,Sucralfate 2g/20ml enema
+0107010S0AAALAL,Sucralfate 2g/50ml enema
+0107010Z0,Zinc oxide
+0107010Z0AA,Zinc oxide (Rectal)
+0107010Z0AAAEAE,Generic Anusol cream
+0107010Z0AAAFAF,Generic Anusol ointment
+0107010Z0AAAGAG,Generic Anusol suppositories
+0107010Z0BC,Anusol
+0107010Z0BCAAAE,Anusol cream
+0107010Z0BCABAF,Anusol ointment
+0107010Z0BCACAG,Anusol suppositories
+010702,Copound haemorrhoidal preparations with corticosteroid
+0107020,Copound haemorrhoidal preparations with corticosteroid
+0107020B0,Betamethasone
+0107020B0AA,Generic rectal ointment
+0107020B0AAAAAA,Generic Betnovate rectal ointment
+0107020B0BB,Betnovate (Rectal)
+0107020B0BBAAAA,Betnovate rectal ointment
+0107020F0,Fluocortolone
+0107020F0AA,Generic ointment
+0107020F0AAAAAA,Generic Ultraproct ointment
+0107020F0AAABAB,Generic Ultraproct suppositories
+0107020F0BB,Ultraproct
+0107020F0BBAAAA,Ultraproct ointment
+0107020F0BBABAB,Ultraproct suppositories
+0107020J0,Hydrocortisone
+0107020J0AA,Hydrocortisone compound preparations
+0107020J0AAAAAA,Generic Anugesic HC cream
+0107020J0AAABAB,Generic Anusol HC suppositories
+0107020J0AAACAC,Generic Anusol HC ointment
+0107020J0AAADAD,Hydrocortisone 1% / Pramocaine 1% foam enema
+0107020J0AAAEAE,Cinchocaine 0.5% / Hydrocortisone 0.5% ointment
+0107020J0AAAFAF,Cinchocaine 5mg / Hydrocortisone 5mg suppositories
+0107020J0AAAGAG,Lidocaine 5% / Hydrocortisone acetate 0.275% ointment
+0107020J0AAAIAI,Generic Anugesic-HC suppositories
+0107020J0AAAJAJ,Lidocaine 1% / Hydrocortisone 0.2% spray
+0107020J0BB,Anugesic HC
+0107020J0BBAAAA,Anugesic HC cream
+0107020J0BBABAI,Anugesic-HC suppositories
+0107020J0BC,Anusol HC
+0107020J0BCAAAB,Anusol HC suppositories
+0107020J0BCABAC,Anusol HC ointment
+0107020J0BCACAC,Anusol Plus HC ointment
+0107020J0BCADAB,Anusol Plus HC suppositories
+0107020J0BCAEAB,Anusol Soothing Relief suppositories
+0107020J0BCAFAC,Anusol Soothing Relief ointment
+0107020J0BD,Proctofoam HC
+0107020J0BDAAAD,Proctofoam HC foam enema
+0107020J0BE,Proctosedyl
+0107020J0BEAAAE,Proctosedyl ointment
+0107020J0BEABAF,Proctosedyl suppositories
+0107020J0BF,Uniroid
+0107020J0BFACAE,Uniroid HC ointment
+0107020J0BFADAF,Uniroid HC suppositories
+0107020J0BG,Xyloproct
+0107020J0BGAAAG,Xyloproct 5%/0.275% ointment
+0107020J0BH,Perinal
+0107020J0BHAAAJ,Perinal spray
+0107020J0BJ,Germoloids HC
+0107020J0BJAAAJ,Germoloids HC spray
+0107020P0,Prednisolone
+0107020P0AA,Cinchocaine/prednisolone hexonate
+0107020P0AAACAC,Cinchocaine 0.5% / Prednisolone 0.19% ointment
+0107020P0AAADAD,Cinchocaine 1mg / Prednisolone hexanoate 1.3mg suppositories
+0107020P0BC,Scheriproct
+0107020P0BCAAAC,Scheriproct ointment
+0107020P0BCABAD,Scheriproct suppositories
+010703,Rectal sclerosants
+0107030,Rectal sclerosants
+0107030P0,Phenol
+0107030P0AA,Phenol in oil
+0107030P0AAABAB,Oily phenol 5% solution for injection 2ml ampoules
+0107030P0AAADAD,Oily phenol 5% solution for injection 5ml ampoules
+0107030P0AAAFAF,Oily phenol 5% solution for injection 25ml vials
+010704,Management of anal fissures
+0107040,Management of anal fissures
+0107040A0,Glyceryl trinitrate
+0107040A0AA,Glyceryl trinitrate (Haemorrhoids)
+0107040A0AAACAC,Glyceryl trinitrate 0.3% ointment
+0107040A0AAAEAE,Glyceryl trinitrate 0.1% ointment
+0107040A0AAAIAI,Glyceryl trinitrate 0.4% rectal ointment
+0107040A0AAAJAJ,Glyceryl trinitrate 0.02% ointment
+0107040A0AAAKAK,Glyceryl trinitrate 0.05% ointment
+0107040A0AAARAR,Glyceryl trinitrate 1% ointment
+0107040A0AAAUAU,Glyceryl trinitrate 0.3% in White soft paraffin
+0107040A0AAAVAV,Glyceryl trinitrate 0.4% in White soft paraffin
+0107040A0AAAWAW,Glyceryl trinitrate 0.2% ointment
+0107040A0AAAXAX,Glyceryl trinitrate 0.2% in White soft paraffin
+0107040A0AAAYAY,Glyceryl trinitrate 0.2% cream
+0107040A0BB,Rectogesic
+0107040A0BBABAI,Rectogesic 0.4% rectal ointment
+0107040B0,Nifedipine
+0107040B0AA,Nifedipine (Anal)
+0107040B0AAAAAA,Nifedipine 2% ointment
+0108,Stoma care
+010801,Local care of stoma
+0108010,Local care of stoma
+0108010S0,"Skin protectives,fillers and cleansers"
+0108010S0BK,Triple Care
+0108010S0BKABA0,Triple Care incontinence cleanser spray
+0108010S0BQ,Secura
+0108010S0BQAAA0,Secura barrier cream
+0108010S0BQABA0,Secura Extra Protective barrier cream
+0109,Drugs affecting intestinal secretions
+010901,Drugs affecting biliary composition and flow
+0109010,Drugs affecting biliary composition and flow
+0109010G0,Chenodeoxycholic acid
+0109010G0AA,Chenodeoxycholic acid
+0109010G0AAABAB,Chenodeoxycholic acid 250mg capsules
+0109010G0AAACAC,Chenodeoxycholic acid 250mg tablets
+0109010G0AAAPAP,Chenodeoxycholic acid 200mg tablets
+0109010G0BG,Chenodiol
+0109010G0BGAAAC,Chenodiol 250mg tablets
+0109010G0BH,Xenbilox
+0109010G0BHAAAB,Xenbilox 250mg capsules
+0109010H0,Cholic acid
+0109010H0AA,Cholic acid
+0109010H0AAAEAE,Cholic acid 250mg capsules
+0109010H0AAAIAI,Cholic acid 50mg capsules
+0109010H0BB,Orphacol
+0109010H0BBAAAI,Orphacol 50mg capsules
+0109010H0BBABAE,Orphacol 250mg capsules
+0109010H0BC,Kolbam
+0109010H0BCAAAI,Kolbam 50mg capsules
+0109010H0BCABAE,Kolbam 250mg capsules
+0109010R0,Other preparations for biliary disorders
+0109010R0BB,Rowachol
+0109010R0BBABA0,Rowachol gastro-resistant capsules
+0109010U0,Ursodeoxycholic acid
+0109010U0AA,Ursodeoxycholic acid
+0109010U0AAAAAA,Ursodeoxycholic acid 150mg tablets
+0109010U0AAABAB,Ursodeoxycholic acid 250mg capsules
+0109010U0AAAJAJ,Ursodeoxycholic acid 250mg/5ml oral liquid
+0109010U0AAAKAK,Ursodeoxycholic acid 75mg/5ml oral liquid
+0109010U0AAANAN,Ursodeoxycholic acid 150mg/5ml oral liquid
+0109010U0AAAQAQ,Ursodeoxycholic acid 25mg/5ml oral liquid
+0109010U0AAARAR,Ursodeoxycholic acid 125mg/5ml oral liquid
+0109010U0AAAUAU,Ursodeoxycholic acid 200mg/5ml oral liquid
+0109010U0AAAWAW,Ursodeoxycholic acid 120mg/5ml oral liquid
+0109010U0AAAXAX,Ursodeoxycholic acid 50mg/5ml oral liquid
+0109010U0AAAYAY,Ursodeoxycholic acid 300mg tablets
+0109010U0AABCBC,Ursodeoxycholic acid 375mg/5ml oral liquid
+0109010U0AABDBD,Ursodeoxycholic acid 37.5mg/5ml oral liquid
+0109010U0AABEBE,Ursodeoxycholic acid 250mg/5ml oral suspension sugar free
+0109010U0AABFBF,Ursodeoxycholic acid 62.5mg/5ml oral liquid
+0109010U0AABGBG,Ursodeoxycholic acid 34mg/5ml oral liquid
+0109010U0AABHBH,Ursodeoxycholic acid 300mg/5ml oral liquid
+0109010U0AABIBI,Ursodeoxycholic acid 60mg/5ml oral liquid
+0109010U0AABJBJ,Ursodeoxycholic acid 100mg/5ml oral liquid
+0109010U0AABKBK,Ursodeoxycholic acid 500mg tablets
+0109010U0AABLBL,Ursodeoxycholic acid 250mg tablets
+0109010U0BB,Destolit
+0109010U0BBAAAA,Destolit 150mg tablets
+0109010U0BC,Ursofalk
+0109010U0BCAAAB,Ursofalk 250mg capsules
+0109010U0BCABBE,Ursofalk 250mg/5ml oral suspension
+0109010U0BCACBK,Ursofalk 500mg tablets
+0109010U0BD,Ursogal
+0109010U0BDAAAA,Ursogal 150mg tablets
+0109010U0BDABAB,Ursogal 250mg capsules
+0109010U0BE,Urdox
+0109010U0BEAAAY,Urdox 300mg tablets
+0109010U0BF,Cholurso
+0109010U0BFAABK,Cholurso 500mg tablets
+0109010U0BFABBL,Cholurso 250mg tablets
+0109010U0BG,Ursonorm
+0109010U0BGAAAB,Ursonorm 250mg capsules
+0109010U0BGABBK,Ursonorm 500mg tablets
+010904,Pancreatin
+0109040,Pancreatin
+010904000,Other pancreatin preparations
+010904000BB,Proprietary compound preparation BNF 0109040
+010904000BBABA0,Viokase 8 tablets
+010904000BBACA0,Viokase 16 tablets
+010904000BBADA0,Nortase capsules
+0109040N0,Pancreatin
+0109040N0AA,Pancreatin
+0109040N0AAAEAE,Generic Pancrex V oral powder sugar free
+0109040N0AAAFAF,Generic Pancrex gastro-resistant granules
+0109040N0AAAGAG,Generic Pancrex V capsules
+0109040N0AAAHAH,Generic Pancrex V 125mg capsules
+0109040N0AAAIAI,Generic Pancrex V gastro-resistant tablets
+0109040N0AAAJAJ,Generic Pancrex V Forte gastro-resistant tablets
+0109040N0AAAKAK,Generic Nutrizym GR modified-release capsules
+0109040N0AAANAN,Generic Pancrease gastro-resistant capsules
+0109040N0AAAQAQ,Generic Creon 25000 gastro-resistant capsules
+0109040N0AAARAR,Generic Creon 750mg gastro-resistant granules sachets
+0109040N0AAASAS,Generic Pancrease HL gastro-resistant capsules
+0109040N0AAATAT,Generic Nutrizym 10 gastro-resistant capsules
+0109040N0AAAUAU,Generic Creon 10000 gastro-resistant capsules
+0109040N0AAAWAW,Generic Creon 40000 gastro-resistant capsules
+0109040N0AAAYAY,Gen Creon Micro Pancreatin 60.12mg gastro-resistant granules
+0109040N0AAAZAZ,Generic Nutrizym 22 gastro-resistant capsules
+0109040N0BB,Pancrex
+0109040N0BBAAAF,Pancrex gastro-resistant granules
+0109040N0BBABAG,Pancrex V capsules
+0109040N0BBACAH,Pancrex V 125mg capsules
+0109040N0BBADAE,Pancrex V oral powder
+0109040N0BBAEAI,Pancrex V gastro-resistant tablets
+0109040N0BBAFAJ,Pancrex V Forte gastro-resistant tablets
+0109040N0BD,Creon
+0109040N0BDABAQ,Creon 25000 gastro-resistant capsules
+0109040N0BDACAR,Creon 750mg gastro-resistant granules sachets
+0109040N0BDADAU,Creon 10000 gastro-resistant capsules
+0109040N0BDAFAW,Creon 40000 gastro-resistant capsules
+0109040N0BDAGAY,Creon Micro Pancreatin 60.12mg gastro-resistant granules
+0109040N0BE,Nutrizym
+0109040N0BEABAK,Nutrizym GR modified-release capsules
+0109040N0BEACAZ,Nutrizym 22 gastro-resistant capsules
+0109040N0BEADAT,Nutrizym 10 gastro-resistant capsules
+0109040N0BF,Pancrease
+0109040N0BFAAAN,Pancrease gastro-resistant capsules
+0109040N0BFABAS,Pancrease HL gastro-resistant capsules

@@ -1,0 +1,639 @@
+code,term
+14,Immunological Products and Vaccines
+1403,Diagnostic vaccines
+140300,Diagnostic vaccines
+1403000,Diagnostic vaccines
+140300000,Other diagnostic vaccine preparations
+140300000AA,Generic compound preparation BNF 1403000
+140300000AAADAD,Tuberculin PPD (RT 23) 100 tuberculin units/ml inj 1.5ml
+140300000AAAEAE,Tuberculin PPD (RT 23) 20 tuberculin units/ml inj 1.5ml
+140300000BK,Proprietary compound preparation BNF 1403000
+140300000BKBGAD,Tuberculin PPD RT 23 SSI 100 tuberculin units/ml inj 1.5ml
+140300000BKBHAE,Tuberculin PPD RT 23 SSI 20 tuberculin units/ml inj 1.5ml
+1404,Vaccines and antisera
+140400,Vaccines and antisera
+1404000,Vaccines and antisera
+140400030,Hepatitis A
+140400030AA,Hepatitis A
+140400030AAACAC,"Hepatitis A vaccine (inactivated, adsorbed) inj 1ml pfs"
+140400030AAADAD,"Hepatitis A vaccine (inactivated, adsorbed) inj 0.5ml pfs"
+140400030AAAIAI,"Hepatitis A vacc (inactivated, adsorbed) inj 0.5ml pfs"
+140400030AAAJAJ,"Hepatitis A vacc (inactivated, adsorbed) inj 0.5ml vials"
+140400030AAAKAK,"Hepatitis A vacc (inactivated, adsorbed) inj 1ml vials"
+140400030BB,Havrix
+140400030BBACAC,Havrix Monodose vacc inj 1ml pre-filled syringes
+140400030BBADAD,Havrix Junior Monodose vacc inj 0.5ml pre-filled syringes
+140400030BBAEAK,Havrix Monodose vaccine suspension for injection 1ml vials
+140400030BBAFAJ,Havrix Junior Monodose vacc inj 0.5ml vials
+140400030BC,Avaxim
+140400030BCAAAD,Avaxim vacc inj 0.5ml pre-filled syringes
+140400030BD,VAQTA
+140400030BDAAAD,VAQTA Paediatric vacc inj 0.5ml pre-filled syringes
+140400030BDABAC,VAQTA Adult vacc inj 1ml pre-filled syringes
+140400030BDACAJ,VAQTA Paediatric vacc inj 0.5ml vials
+140400030BDADAK,VAQTA Adult vaccine suspension for injection 1ml vials
+140400030BE,Epaxal
+140400030BEAAAI,Epaxal vacc inj 0.5ml pre-filled syringes
+140400050,Varicella vaccine live
+140400050AA,Varicella Vaccine
+140400050AAABAB,Varicella vacc (live) inj 0.5ml vials
+140400050AAACAC,Varicella vacc live inj 0.5ml vials
+140400050BB,Varilrix
+140400050BBAAAB,Varilrix vacc inj 0.5ml vials
+140400050BC,Varivax
+140400050BCAAAC,Varivax vacc inj 0.5ml vials
+140400060,"Haemophilus influenzae/diptheria,tetanus,pertussis vaccine"
+140400060AA,"Haemophilius influenzae B/diphtheria,tetanus,pertussis"
+140400060AAADAD,DTaP vacc (ads) inj pfs/Hib conj vacc inj vials
+140400060BB,Act-HIB DPT
+140400060BBACAD,Act-HIB DTP vaccine injection pack
+140400060BC,Infanrix-Hib
+140400060BCAAAD,Infanrix-Hib vaccine injection pack
+140400070,Hepatitis A/hepatitis B
+140400070AA,Hepatitis A/B
+140400070AAAAAA,Hep A (inact)/Hep B (rDNA) vacc (ads) inj 1ml pfs
+140400070AAABAB,Hep A (inact)/Hep B (rDNA) vacc (ads) inj 0.5ml pfs
+140400070AAACAC,Hep A (inact)/Hep B (rDNA) vacc (ads) inj 1ml vials
+140400070BB,Twinrix
+140400070BBAAAA,Twinrix Adult vacc inj 1ml pre-filled syringes
+140400070BBABAB,Twinrix Paediatric vacc inj 0.5ml pre-filled syringes
+140400070BBACAC,Twinrix Adult vaccine suspension for Injection 1ml vials
+140400070BC,Ambirix
+140400070BCAAAA,Ambirix vacc inj 1ml pre-filled syringes
+1404000AA,Tick-borne encephalitis vaccine
+1404000AAAA,Tick-borne encephalitis vaccine
+1404000AAAAAAAA,Tick-borne encephalitis vaccine (inactivated) inj 0.25ml pfs
+1404000AAAAABAB,Tick-borne encephalitis vaccine (inactivated) inj 0.5ml pfs
+1404000AABB,FSME-Immun
+1404000AABBAAAB,FSME-Immun vacc inj 0.5ml pre-filled syringes
+1404000AABBABAA,FSME-Immun Junior vacc inj 0.25ml pre-filled syringes
+1404000AABD,TicoVac
+1404000AABDAAAB,TicoVac vacc inj 0.5ml pre-filled syringes
+1404000AABDABAA,TicoVac Junior vacc inj 0.25ml pre-filled syringes
+1404000AD,Hepatitis A/typhoid vaccine
+1404000ADAA,Hepatitis A/typhoid
+1404000ADAAAAAA,Hep A HM175 strain (ads)/Typhoid polysacch vacc inj 1ml pfs
+1404000ADAAABAB,Hep A GBM strain (ads)/Typhoid polysacch vacc inj 1ml pfs
+1404000ADBB,Hepatyrix
+1404000ADBBAAAA,Hepatyrix vacc inj 1ml pre-filled syringes
+1404000ADBC,ViATIM
+1404000ADBCAAAB,ViATIM vacc inj 1ml pre-filled syringes
+1404000AF,Haemophilus influenzae B/meningococcal C
+1404000AFAA,Haemophilius influenzae B/meningococcal C
+1404000AFAAAAAA,Hib/Meningococcal C conj vacc inj 0.5ml vials
+1404000AFBB,Menitorix
+1404000AFBBAAAA,Menitorix vacc inj 0.5ml vials
+1404000AG,Rotavirus
+1404000AGAA,Rotavirus
+1404000AGAAAAAA,Rotavirus vaccine live oral suspension 1ml vials
+1404000AGAAABAB,Rotavirus vacc live susp 1.5ml pre-filled syringes
+1404000AGAAACAC,Rotavirus vaccine live oral suspension 1.5ml tube
+1404000AGBB,Rotarix
+1404000AGBBAAAA,Rotarix vacc live pdr and solvent for susp 1ml vials
+1404000AGBBABAB,Rotarix vacc live susp 1.5ml pre-filled syringes
+1404000AGBBACAC,Rotarix vaccine live oral suspension 1.5ml tube
+1404000AH,"Human papillomavirus (Type 6,11,16,18)"
+1404000AHAA,"Human papillomavirus (Type 6,11,16,18)"
+1404000AHAAAAAA,"Hum papillomavirus (type 6, 11, 16, 18) vacc (ads) inj 0.5ml"
+1404000AHBB,Gardasil
+1404000AHBBAAAA,Gardasil vacc inj 0.5ml pre-filled syringes
+1404000AI,"Human papillomavirus (Type 16,18)"
+1404000AIAA,"Human papillomavirus (Type 16,18)"
+1404000AIAAAAAA,"Hum papillomavirus (type 16, 18) vacc (ads) inj 0.5ml pfs"
+1404000AIBB,Cervarix
+1404000AIBBAAAA,Cervarix vacc inj 0.5ml pre-filled syringes
+1404000AJ,"Influenza H1N1(Split viron, inactivated, adjuvanted)"
+1404000AJAA,"Influenza H1N1(Split viron, inactivated, adjuvanted)"
+1404000AJAAAAAA,Influenza H1N1 vaccine inj
+1404000AJBB,Pandemrix
+1404000AJBBAAAA,Pandemrix vaccine emulsion and suspension for inj
+1404000AK,"Influenza H1N1(Whole viron, vero, inactivated)"
+1404000AKAA,"Influenza H1N1(Whole viron, vero, inactivated)"
+1404000AKAAAAAA,"Influenza H1N1 vaccine (WV Vero cell derived, inact) inj"
+1404000AKBB,Celvapan
+1404000AKBBAAAA,"Celvapan (H1N1) vacc (WV, Vero cell derived,inactivated) inj"
+1404000AL,Shingles (H/Z)
+1404000ALAA,Shingles (H/Z)
+1404000ALAAAAAA,Shingles (Herpes Zoster) vacc (live) inj 0.65ml pfs
+1404000ALAAABAB,Shingles (Herpes Zoster) adjuvanted rcmb vacc inj 0.5ml
+1404000ALBB,Zostavax
+1404000ALBBAAAA,Zostavax vacc inj 0.65ml pfs
+1404000ALBC,Shingrix
+1404000ALBCAAAB,Shingrix (Herpes Zoster) adjuvanted rcmb vacc inj 0.5ml
+1404000AM,"Humpapvirus(Type 6,11,16,18,31,33,45,52,58)"
+1404000AMAA,"Human papillomavirus (Type 6,11,16,18,31,33,45,52,58)"
+1404000AMAAAAAA,Human papillomavirus vaccine (adsorbed) inj 0.5ml pfs
+1404000AMBB,Gardasil 9
+1404000AMBBAAAA,Gardasil 9 vacc inj 0.5ml pre-filled syringes
+1404000AN,Meningococcal A + C vaccine
+1404000ANAA,Meningococcal A and C vaccine
+1404000ANAAAAAA,Meningococcal polysaccharide A and C vacc inj vials
+1404000ANBB,Mengivac
+1404000ANBBAAAA,Mengivac A + C vacc inj vials
+1404000ANBC,AC Vax
+1404000ANBCAAAA,AC Vax vacc inj vials
+1404000AP,Meningococcal C vaccine
+1404000APAA,Meningococcal C vaccine
+1404000APAAAAAA,Meningococcal C conjugate vacc susp for inj 0.5ml vials
+1404000APAAABAB,Meningococcal C conjugate vacc pdr & solv inj 0.5ml vials
+1404000APAAACAC,Meningococcal C conjugate vacc inj 0.5ml pre-filled syringes
+1404000APBB,Meningitec
+1404000APBBAAAA,Meningitec vaccine suspension for injection 0.5ml vials
+1404000APBBABAC,Meningitec vacc inj 0.5ml pre-filled syringes
+1404000APBC,Menjugate
+1404000APBCAAAB,Menjugate vacc inj 0.5ml vials
+1404000APBD,NeisVac-C
+1404000APBDAAAC,NeisVac-C vacc inj 0.5ml pre-filled syringes
+1404000AQ,Meningococcal B vaccine
+1404000AQAA,Meningococcal B vaccine
+1404000AQAAAAAA,Generic Bexsero vaccine inj 0.5ml pre-filled syringes
+1404000AQBB,Bexsero
+1404000AQBBAAAA,Bexsero vacc inj 0.5ml pre-filled syringes
+1404000AQBC,Trumenba
+1404000AQBCAAA0,Trumenba vacc inj 0.5ml pre-filled syringes
+1404000AR,"Japanese encephalitis vaccine (Inactivated,adsorbed)"
+1404000ARAA,"Japanese encephalitis vaccine (Inactivated,adsorbed)"
+1404000ARAAAAAA,"Japanese encephalitis vacc (inact, adsorbed) inj 0.5ml pfs"
+1404000ARBB,Ixiaro
+1404000ARBBAAAA,Ixiaro vacc inj 0.5ml pre-filled syringes
+1404000AS,Japanese encephalitis vaccine (Imported)
+1404000ASAA,Japanese encephalitis vaccine (Imported)
+1404000ASAAAAAA,Japanese encephalitis vacc inj 10ml vials
+1404000ASAAABAB,Japanese encephalitis vacc inj 1ml vials
+1404000ASAAACAC,Japanese encephalitis vacc inj 20ml vials
+1404000ASBB,Japanese Encephalitis GCVC vaccine (Imported)
+1404000ASBBAAAB,Japanese encephalitis GCVC vacc inj 1ml vials
+1404000ASBBABAA,Japanese encephalitis GCVC vacc inj 10ml vials
+1404000ASBBACAC,Japanese encephalitis GCVC vacc inj 20ml vials
+1404000C0,Bacillus calmette-guerin (B.C.G.)
+1404000C0AA,Bacillus Calmette-Guerin (B.C.G.)
+1404000C0AAAAAA,Bacillus Calmette-Guerin vacc inj vials
+1404000C0AAAFAF,Bacillus Calmette-Guerin vacc inj ampoules
+1404000C0AAAGAG,Bacillus Calmette-Guerin vaccine inj 1ml vials
+1404000C0BC,InterVax BCG
+1404000C0BCAAAF,InterVax BCG vacc inj ampoules
+1404000C0BD,BCG AJV
+1404000C0BDAAAG,BCG Vaccine AJV inj 1ml vials
+1404000C0BE,Vaccine Other Related Products (B.C.G.)
+1404000C0BEAAA0,Diluted Sauton AJV solvent inj 1ml vials
+1404000E0,Cholera
+1404000E0AA,Cholera (Vaccine)
+1404000E0AAAJAJ,Cholera vaccine oral suspension and vehicle
+1404000E0BF,Dukoral
+1404000E0BFAAAJ,Dukoral cholera vaccine oral suspension
+1404000F0,Diphtheria
+1404000F0AA,Diphtheria
+1404000F0AAARAR,DT/Vac/Ads(Adult) inj 0.5ml pfs
+1404000F0AAAVAV,DTaP vacc (ads) inj 0.5ml pfs
+1404000F0AAAWAW,Diphtheria/Tetanus/IPV vacc (ads) inj 0.5ml pfs
+1404000F0AAAXAX,dTAP/IPV inj 0.5ml pfs
+1404000F0AAAYAY,DTaP/IPV/Hib conj vacc (ads) inj 0.5ml pfs
+1404000F0AAAZAZ,dTaP / Hep B (SA) / IP/ HbC vaccine (adsorbed) inj 0.5ml pfs
+1404000F0AABABA,DTaP/IPV/Hib conj vacc (ads) inj 0.5ml vials
+1404000F0AABBBB,DTaP/IPV vacc (ads) inj 0.5ml pfs
+1404000F0BJ,Diftavax
+1404000F0BJAAAR,Diftavax vacc inj 0.5ml pre-filled syringes
+1404000F0BK,"Infanrix (Diphtheria, tetanus, acellular pertus)"
+1404000F0BKAAAV,Infanrix vacc inj 0.5ml pre-filled syringes
+1404000F0BL,Revaxis
+1404000F0BLAAAW,Revaxis vacc inj 0.5ml pre-filled syringes
+1404000F0BM,Repevax
+1404000F0BMAAAX,Repevax vacc inj 0.5ml pre-filled syringes
+1404000F0BN,Infanrix-IPV
+1404000F0BNAABB,Infanrix-IPV vacc inj 0.5ml pre-filled syringes
+1404000F0BNABBB,Infanrix-IPV + Hib vacc inj 0.5ml pre-filled syringes
+1404000F0BP,Boostrix-IPV
+1404000F0BPAAAX,Boostrix-IPV inj 0.5ml pre-filled syringes
+1404000F0BQ,Infanrix Hexa
+1404000F0BQAAAZ,Infanrix Hexa vacc inj 0.5ml pre-filled syringes
+1404000F0BR,Pediacel
+1404000F0BRAABA,Pediacel vaccine suspension for injection 0.5ml vials
+1404000G0,Hepatitis B
+1404000G0AA,Hepatitis B
+1404000G0AAAAAA,Hepatitis B (rDNA) 10micrograms/0.5ml vacc inj vials
+1404000G0AAABAB,Hepatitis B (rDNA) 20micrograms/1ml vacc inj vials
+1404000G0AAACAC,Hepatitis B (rDNA) 20micrograms/1ml vacc inj pfs
+1404000G0AAADAD,Hepatitis B (rDNA) 10micrograms/1ml vacc inj vials
+1404000G0AAAEAE,Hepatitis B (rDNA) 10micrograms/1ml vacc inj pfs
+1404000G0AAAFAF,Hepatitis B (rDNA) 5micrograms/0.5ml vacc inj pfs
+1404000G0AAAGAG,Hepatitis B (rDNA) 40micrograms/1ml vacc inj vials
+1404000G0AAAHAH,Hepatitis B (rDNA) 5micrograms/0.5ml vacc inj vials
+1404000G0AAAIAI,Hepatitis B (rDNA) 10micrograms/0.5ml vacc inj pfs
+1404000G0AAAJAJ,Hepatitis B (rDNA) 20micrograms/0.5ml vacc inj pfs
+1404000G0BC,Engerix B
+1404000G0BCAAAB,Engerix B 20micrograms/1ml vacc inj vials
+1404000G0BCABAA,Engerix B 10micrograms/0.5ml vacc inj vials
+1404000G0BCACAC,Engerix B 20micrograms/1ml vacc inj pre-filled syringes
+1404000G0BCADAI,Engerix B 10micrograms/0.5ml vacc inj pre-filled syringes
+1404000G0BE,HBVAXPRO
+1404000G0BEAAAH,HBvaxPRO 5micrograms/0.5ml vacc inj vials
+1404000G0BEABAD,HBvaxPRO 10micrograms/1ml vacc inj vials
+1404000G0BEACAG,HBvaxPRO 40micrograms/1ml vacc inj vials
+1404000G0BEADAF,HBVAXPRO 5micrograms/0.5ml vacc inj pre-filled syringes
+1404000G0BEAEAE,HBVAXPRO 10micrograms/1ml vacc inj pre-filled syringes
+1404000G0BG,Fendrix
+1404000G0BGAAAJ,Fendrix 20micrograms/0.5ml vacc inj pre-filled syringes
+1404000H0,Influenza
+1404000H0AA,Influenza
+1404000H0AAAFAF,"Influenza vaccine (surface antigen, inact) inj 0.5ml pfs"
+1404000H0AAAGAG,"Influenza vacc (split virion, inactivated) inj 0.25ml pfs"
+1404000H0AAAHAH,Flu/Vac/Split 9microg strain inj 0.1ml pfs
+1404000H0AAAIAI,Flu/Vac/Split 15microg strain inj 0.1ml pfs
+1404000H0AAAJAJ,Influenza vacc (live attenuated) nsl susp 0.2ml unit dose
+1404000H0AAAKAK,"Influenza vaccine (split virion, inactivated) inj 0.5ml pfs"
+1404000H0AAALAL,Flu/Vac/Split High Dose inj 0.5ml pfs
+1404000H0AAAMAM,"Adjuvanted trivalent flu vacc (SA, inact) inj 0.5ml pfs"
+1404000H0BB,Fluvirin
+1404000H0BBAAAF,Fluvirin vacc inj 0.5ml pre-filled syringes
+1404000H0BC,Influvac Sub-Unit
+1404000H0BCAAAF,Influvac Sub-unit vacc inj 0.5ml pre-filled syringes
+1404000H0BCADAF,Influvac sub-unit Tetra vacc inj 0.5ml pre-filled syringes
+1404000H0BF,Fluarix
+1404000H0BFAAAK,Fluarix vacc inj 0.5ml pre-filled syringes
+1404000H0BG,Begrivac
+1404000H0BGAAAK,Begrivac vacc inj 0.5ml pre-filled syringes
+1404000H0BH,Agrippal
+1404000H0BHAAAF,Agrippal vacc inj 0.5ml pre-filled syringes
+1404000H0BI,Inflexal V
+1404000H0BIAAAF,Inflexal V vacc inj 0.5ml pre-filled syringes
+1404000H0BJ,Mastaflu
+1404000H0BJAAAF,Mastaflu vacc inj 0.5ml pre-filled syringes
+1404000H0BK,Invivac
+1404000H0BKAAAF,Invivac vacc inj 0.5ml pre-filled syringes
+1404000H0BL,Enzira
+1404000H0BLAAAK,Enzira vacc inj 0.5ml pre-filled syringes
+1404000H0BM,Viroflu
+1404000H0BMAAAF,Viroflu vacc inj 0.5ml pre-filled syringes
+1404000H0BN,Imuvac
+1404000H0BNAAAF,Imuvac vacc inj 0.5ml pre-filled syringes
+1404000H0BP,Optaflu
+1404000H0BPAAAF,Optaflu vacc inj 0.5ml pre-filled syringes
+1404000H0BQ,Intanza
+1404000H0BQAAAH,Intanza 9microgram strain vacc inj 0.1ml pre-filled syringes
+1404000H0BQABAI,Intanza 15microgram strain vacc inj 0.1ml pfs
+1404000H0BR,Fluenz
+1404000H0BRAAAJ,Fluenz vaccine nasal suspension 0.2ml unit dose
+1404000H0BRABAJ,Fluenz Tetra vaccine nasal suspension 0.2ml unit dose
+1404000H0BS,Preflucel
+1404000H0BSAAAK,Preflucel vacc inj 0.5ml pre-filled syringes
+1404000H0BT,Influvac Desu
+1404000H0BTAAAF,Influvac Desu vacc inj 0.5ml pre-filled syringes
+1404000H0BU,Fluarix Tetra
+1404000H0BUAAAK,Fluarix Tetra vacc inj 0.5ml pre-filled syringes
+1404000H0BV,FluMist Quadrivalent
+1404000H0BVAAAJ,FluMist Quadrivalent vacc nsl susp 0.2ml unit dose
+1404000H0BW,Quadrivalent
+1404000H0BWAAAK,Quadrivalent Flu/Vac/Split inj 0.5ml pfs
+1404000H0BX,Fluad
+1404000H0BXAAAM,Fluad vacc inj 0.5ml pre-filled syringes
+1404000H0BY,Influenza MYL
+1404000H0BYAAAF,Influenza Tetra MYL vacc inj 0.5ml pre-filled syringes
+1404000H0BYABAF,Influenza MYL vacc inj 0.5ml pre-filled syringes
+1404000H0BZ,Flucelvax Tetra
+1404000H0BZAAAF,Flucelvax Tetra vacc inj 0.5ml pre-filled syringes
+1404000H0CB,Trivalent
+1404000H0CBAAAL,Trivalent Flu/Vac/Split High Dose inj 0.5ml pfs
+1404000L0,Pneumococcal
+1404000L0AA,Pneumococcal
+1404000L0AAABAB,Pneumococcal polysaccharide vacc inj 0.5ml vials
+1404000L0AAACAC,Pneumococcal polysaccharide vacc inj 0.5ml pfs
+1404000L0AAAEAE,Pneumococcal polysachc conj vacc (ads) inj 0.5ml vials
+1404000L0AAAFAF,Pneumococcal polysacch conj vacc (ads) inj 0.5ml pfs
+1404000L0BB,Pneumovax
+1404000L0BBABAB,Pneumovax II vaccine solution for injection 0.5ml vials
+1404000L0BBACAC,Pneumovax II vacc inj 0.5ml pre-filled syringes
+1404000L0BBADAC,Pneumovax 23 inj 0.5ml pre-filled syringes
+1404000L0BD,Pnu-Imune
+1404000L0BDAAAB,Pnu-Imune vaccine solution for injection 0.5ml vials
+1404000L0BE,Prevenar
+1404000L0BEAAAF,Prevenar vacc inj 0.5ml pre-filled syringes
+1404000L0BEABAE,Prevenar vaccine suspension for injection 0.5ml vials
+1404000L0BEACAF,Prevenar 13 vacc inj 0.5ml pre-filled syringes
+1404000L0BF,Synflorix
+1404000L0BFAAAF,Synflorix vacc inj 0.5ml pre-filled syringes
+1404000M0,Poliomyelitis
+1404000M0AA,Polio vaccine
+1404000M0AAAFAF,Poliomyelitis vacc (inactivated) inj 0.5ml pfs
+1404000N0,Rabies
+1404000N0AA,Rabies vaccine
+1404000N0AAAAAA,Rabies vacc pdr & solv for susp inj 1ml vials
+1404000N0AAABAB,Rabies vacc pdr & solv for soln inj 1ml vials
+1404000N0AAADAD,Rabies vacc inj 0.5ml vials
+1404000N0AAAFAF,Rabies vacc inj 1ml pre-filled syringes
+1404000N0BD,Rabipur
+1404000N0BDAAAB,Rabipur vacc inj 1ml vials
+1404000N0BDABAF,Rabipur vacc inj 1ml pre-filled syringes
+1404000N0BG,Verorab
+1404000N0BGAAAD,Verorab inj 0.5ml vials
+1404000P0,Rubella
+1404000P0AA,Rubella vaccine
+1404000P0AAAEAE,Rubella vacc inj 0.5ml vials
+1404000P0BC,Ervevax
+1404000P0BCAAAE,Ervevax vacc inj 0.5ml vials
+1404000R0,Tetanus
+1404000R0AA,Tetanus vac
+1404000R0AAAGAG,Tetanus vacc (adsorbed) inj 0.5ml pre-filled syringes
+1404000R0BF,Clostet
+1404000R0BFAAAG,Clostet vacc inj 0.5ml pre-filled syringes
+1404000S0,Typhoid
+1404000S0AA,Typhoid Vaccine
+1404000S0AAACAC,"Typhoid vacc (live, oral, strain ty21a) gast res caps"
+1404000S0AAADAD,Typhoid polysaccharide 25micrograms/0.5ml vacc inj pfs
+1404000S0BD,Vivotif
+1404000S0BDAAAC,Vivotif vaccine gastro-resistant capsules
+1404000S0BE,Typhim VI
+1404000S0BEAAAD,Typhim Vi 25micrograms/0.5ml vacc inj pre-filled syringes
+1404000S0BF,Typherix
+1404000S0BFAAAD,Typherix 25micrograms/0.5ml vacc inj pre-filled syringes
+1404000U0,Yellow fever
+1404000U0AA,Yellow Fever Vac
+1404000U0AAAAAA,Yellow fever vacc (live) inj 0.5ml vials
+1404000U0BB,Arilvax
+1404000U0BBAAAA,Arilvax vacc inj 0.5ml vials
+1404000U0BC,Stamaril
+1404000U0BCAAAA,Stamaril vacc inj 0.5ml vials
+1404000W0,"Measles, mumps and rubella vaccine"
+1404000W0AA,"Measles, mumps and rubella"
+1404000W0AAABAB,"Measles, Mumps and Rubella vacc (live) inj 0.5ml vials"
+1404000W0AAADAD,"Measles, Mumps and Rubella vacc (live) susp inj 0.5ml pfs"
+1404000W0AAAEAE,"Measles, Mumps and Rubella vacc (live) soln inj 0.5ml pfs"
+1404000W0BE,M-M-R 11
+1404000W0BEAAAB,M-M-R II vacc inj 0.5ml vials
+1404000W0BH,Priorix
+1404000W0BHAAAB,Priorix vacc inj 0.5ml vials
+1404000W0BHABAE,Priorix vacc inj 0.5ml pre-filled syringes
+1404000W0BI,M-M-RVAXPRO
+1404000W0BIAAAD,M-M-RVAXPRO vacc inj 0.5ml pre-filled syringes
+1404000X0,Meningococcal A + C + W135 + Y vaccine
+1404000X0AA,"Meningococcal A, C,W135 and Y vaccine"
+1404000X0AAACAC,"Meningococcal oligosaccharide A, C, W135 and Y vacc inj"
+1404000X0AAAGAG,"Meningococcal polysacch A, C, W135 and Y vacc inj 0.5ml pfs"
+1404000X0BE,ACWY Vax
+1404000X0BEAAAC,ACWY Vax vacc inj 0.5ml vials
+1404000X0BI,Menveo
+1404000X0BIAAAC,Menveo vaccine inj 0.5ml vials
+1404000X0BJ,Nimenrix
+1404000X0BJAAAG,Nimenrix vacc inj 0.5ml pre-filled syringes
+1404000Y0,Haemophilus influenzae vaccine
+1404000Y0AA,Haemophilus influenzae B
+1404000Y0AAABAB,Haemophilus type b conjugate vacc pdr & solv inj 0.5ml vials
+1404000Y0AAACAC,Haemophilus type b conjugate vacc soln for inj 0.5ml vials
+1404000Y0BE,HibTITER
+1404000Y0BEAAAC,HibTITER vaccine solution for injection 0.5ml vials
+1404000Y0BF,Hiberix
+1404000Y0BFAAAB,Hiberix vacc inj 0.5ml vials
+1405,Immunoglobulins
+140500,Other immunoglobulins
+1405000,Other immunoglobulins
+140500000,Other immunoglobulin preparations
+140500000BN,Proprietary compound preparation BNF 1405000
+140500000BNADA0,FSME-Bulin solution for injection 2ml vials
+140500000BNAIA0,FSME-Bulin solution for injection 5ml vials
+140501,Normal immunoglobulin
+1405010,Normal immunoglobulin
+1405010A0,Normal immunoglobulin (Gamma globulin)
+1405010A0AA,Normal immunoglobulin human
+1405010A0AAAAAA,Normal immunoglobulin human 500mg/10ml inf vials
+1405010A0AAABAB,Normal immunoglobulin human 10g inj bottles
+1405010A0AAACAC,Normal immunoglobulin human 10g/200ml inf vials
+1405010A0AAAEAE,Normal immunoglobulin human 750mg/4.6875ml inj vials
+1405010A0AAAFAF,Normal immunoglobulin human 1.6g/10ml inj vials
+1405010A0AAAHAH,Normal immunoglobulin human 3g inj bottles
+1405010A0AAAIAI,Normal immunoglobulin human 6g inf bottles
+1405010A0AAAJAJ,Normal immunoglobulin human 2.5g inj bottles
+1405010A0AAAKAK,Normal immunoglobulin human 5g inj bottles
+1405010A0AAALAL,Normal immunoglobulin human 2.5g/50ml inf vials
+1405010A0AAANAN,Normal immunoglobulin human 5g/100ml inf vials
+1405010A0AAAPAP,Normal immunoglobulin human 1g inj bottles
+1405010A0AAARAR,Normal immunoglobulin human 500mg inj bottles
+1405010A0AAAZAZ,Normal immunoglobulin human 12g inf bottles
+1405010A0AABEBE,Normal immunoglobulin human 800mg/5ml inj vials
+1405010A0AABGBG,Normal immunoglobulin human 250mg/1.67ml inj vials
+1405010A0AABHBH,Normal immunoglobulin human 6g/50ml inf vials
+1405010A0AABIBI,Normal immunoglobulin human 12g/100ml inf vials
+1405010A0AABJBJ,Normal immunoglobulin human 1.5g/9.375ml inj vials
+1405010A0AABKBK,Normal immunoglobulin human 5g/50ml inf bottles
+1405010A0AABLBL,Normal immunoglobulin human 10g/100ml inf bottles
+1405010A0AABMBM,Normal immunoglobulin human 480mg/3ml inj vials
+1405010A0AABNBN,Normal immunoglobulin human 3.2g/20ml inj vials
+1405010A0AABPBP,Normal immunoglobulin human 5g/50ml inf vials
+1405010A0AABQBQ,Normal immunoglobulin human 10g/100ml inf vials
+1405010A0AABRBR,Normal immunoglobulin human 20g/200ml inf vials
+1405010A0AABSBS,Normal immunoglobulin human 2.5g/25ml inf vials
+1405010A0AABTBT,Normal immunoglobulin human 20g/400ml inf vials
+1405010A0AABUBU,Normal immunoglobulin human 1g/10ml inf vials
+1405010A0AABVBV,Normal immunoglobulin human 1.65g/10ml inj vials
+1405010A0AABWBW,Normal immunoglobulin human 3.3g/20ml inj vials
+1405010A0AABXBX,Normal immunoglobulin human 2g/20ml inf vials
+1405010A0AABYBY,Normal immunoglobulin human 20g/200ml inf bottles
+1405010A0AABZBZ,Normal immunoglobulin human 10g/200ml inf bottles
+1405010A0AACACA,Normal immunoglobulin human 2.5g/50ml inf bottles
+1405010A0AACBCB,Normal immunoglobulin human 5g/100ml inf bottles
+1405010A0AACCCC,Normal immunoglobulin human 1g/5ml inf vials
+1405010A0AACDCD,Normal immunoglobulin human 2g/10ml inf vials
+1405010A0AACECE,Normal immunoglobulin human 4g/20ml inf vials
+1405010A0AACFCF,Normal immunoglobulin human 1g/20ml inf vials
+1405010A0AACGCG,NIH 10g/100ml inf vials & Rcmb hum hyaluronid inf 5ml vials
+1405010A0AACHCH,NIH 2.5g/25ml inf vl & Rcmb hum hyaluronid inf 1.25ml vials
+1405010A0AACICI,NIH 20g/200ml inf vials & Rcmb hum hyaluronid inf 10ml vials
+1405010A0AACJCJ,NIH 30g/300ml inf vials & Rcmb hum hyaluronid inf 15ml vials
+1405010A0AACKCK,NIH 5g/50ml inf vials & Rcmb hum hyaluronid inf 2.5ml vials
+1405010A0AACLCL,Normal immunoglobulin human 1g/6ml inj vials
+1405010A0AACMCM,Normal immunoglobulin human 2g/12ml inj vials
+1405010A0AACNCN,Normal immunoglobulin human 4g/24ml inj vials
+1405010A0AACPCP,Normal immunoglobulin human 8g/48ml inj vials
+1405010A0AACQCQ,Normal immunoglobulin human 30g/300ml inf vials
+1405010A0AACRCR,Normal immunoglobulin human 8g/40ml inf vials
+1405010A0AACSCS,Normal immunoglobulin human 1g/5ml inj pre-filled syringes
+1405010A0AACTCT,Normal immunoglobulin human 2g/10ml inj pre-filled syringes
+1405010A0AACUCU,Normal immunoglobulin human 2.5g/25ml inf bottles
+1405010A0AACVCV,Normal immunoglobulin human 1g/6.25ml inj vials
+1405010A0AACWCW,Normal immunoglobulin human 2g/12.5ml inj vials
+1405010A0AACXCX,Normal immunoglobulin human 4g/25ml inj vials
+1405010A0BB,Gammabulin
+1405010A0BBACAF,Gammabulin 1.6g/10ml solution for injection vials
+1405010A0BE,Sandoglobulin
+1405010A0BEAAAH,Sandoglobulin 3g inj bottles
+1405010A0BEABAI,Sandoglobulin 6g inf bottles
+1405010A0BEACAP,Sandoglobulin 1g inj bottles
+1405010A0BEADAZ,Sandoglobulin 12g inf bottles
+1405010A0BEAEBH,Sandoglobulin NF 6g/50ml solution for infusion vials
+1405010A0BEAFBI,Sandoglobulin NF 12g/100ml solution for infusion vials
+1405010A0BK,Gammagard
+1405010A0BKAAAK,Gammagard S/D 5g inj bottles
+1405010A0BKABAJ,Gammagard S/D 2.5g inj bottles
+1405010A0BKACAB,Gammagard S/D 10g inj bottles
+1405010A0BKADAR,Gammagard S/D 500mg inj bottles
+1405010A0BL,Vigam
+1405010A0BLACAN,Vigam Liquid 5g/100ml solution for infusion vials
+1405010A0BLADAJ,Vigam-S 2.5g inj bottles
+1405010A0BLAEAK,Vigam-S 5g inj bottles
+1405010A0BLAFAC,Vigam Liquid 10g/200ml solution for infusion vials
+1405010A0BLAGAL,Vigam Liquid 2.5g/50ml solution for infusion vials
+1405010A0BM,Flebogamma
+1405010A0BMAAAL,Flebogamma 2.5g/50ml solution for infusion vials
+1405010A0BMABAN,Flebogamma 5g/100ml solution for infusion vials
+1405010A0BMACAC,Flebogamma 10g/200ml solution for infusion vials
+1405010A0BMADAA,Flebogamma 500mg/10ml solution for infusion vials
+1405010A0BN,Octagam
+1405010A0BNAAAC,Octagam 10g/200ml solution for infusion vials
+1405010A0BNABAN,Octagam 5g/100ml solution for infusion vials
+1405010A0BNACAL,Octagam 2.5g/50ml solution for infusion vials
+1405010A0BNADBK,Octagam 10% 5g/50ml solution for infusion bottles
+1405010A0BNAEBL,Octagam 10% 10g/100ml solution for infusion bottles
+1405010A0BNAFBX,Octagam 10% 2g/20ml solution for infusion vials
+1405010A0BNAGBY,Octagam 10% 20g/200ml solution for infusion bottles
+1405010A0BNAHBZ,Octagam 5% 10g/200ml solution for infusion bottles
+1405010A0BNAICA,Octagam 5% 2.5g/50ml solution for infusion bottles
+1405010A0BNAJCB,Octagam 5% 5g/100ml solution for infusion bottles
+1405010A0BP,Subcuvia
+1405010A0BPAABE,Subcuvia 800mg/5ml solution for injection vials
+1405010A0BPABAF,Subcuvia 1.6g/10ml solution for injection vials
+1405010A0BQ,Subgam
+1405010A0BQAAAE,Subgam 750mg/4.6875ml solution for injection vials
+1405010A0BQABBJ,Subgam 1.5g/9.375ml solution for injection vials
+1405010A0BQACCV,Subgam 1g/6.25ml solution for injection vials
+1405010A0BQADCW,Subgam 2g/12.5ml solution for injection vials
+1405010A0BQAECX,Subgam 4g/25ml solution for injection vials
+1405010A0BR,Liberim IM
+1405010A0BRAABG,Liberim IM 250mg/1.67ml solution for injection vials
+1405010A0BS,Vivaglobin
+1405010A0BSAAAF,Vivaglobin 1.6g/10ml solution for injection vials
+1405010A0BSABBM,Vivaglobin 480mg/3ml solution for injection vials
+1405010A0BSACBN,Vivaglobin 3.2g/20ml solution for injection vials
+1405010A0BT,Privigen
+1405010A0BTAABP,Privigen 5g/50ml solution for infusion vials
+1405010A0BTABBQ,Privigen 10g/100ml solution for infusion vials
+1405010A0BTACBR,Privigen 20g/200ml solution for infusion vials
+1405010A0BTADBS,Privigen 2.5g/25ml solution for infusion vials
+1405010A0BU,Flebogamma DIF
+1405010A0BUAAAA,Flebogamma DIF 500mg/10ml solution for infusion vials
+1405010A0BUABAL,Flebogamma DIF 2.5g/50ml solution for infusion vials
+1405010A0BUACAN,Flebogamma DIF 5g/100ml solution for infusion vials
+1405010A0BUADAC,Flebogamma DIF 10g/200ml solution for infusion vials
+1405010A0BUAEBT,Flebogamma DIF 20g/400ml solution for infusion vials
+1405010A0BUAFBQ,Flebogamma DIF 10g/100ml solution for infusion vials
+1405010A0BUAGBR,Flebogamma DIF 20g/200ml solution for infusion vials
+1405010A0BUAHBP,Flebogamma DIF 5g/50ml solution for infusion vials
+1405010A0BV,Kiovig
+1405010A0BVAABU,Kiovig 1g/10ml solution for infusion vials
+1405010A0BVABBS,Kiovig 2.5g/25ml solution for infusion vials
+1405010A0BVACBP,Kiovig 5g/50ml solution for infusion vials
+1405010A0BVADBQ,Kiovig 10g/100ml solution for infusion vials
+1405010A0BVAEBR,Kiovig 20g/200ml solution for infusion vials
+1405010A0BVAFCQ,Kiovig 30g/300ml solution for infusion vials
+1405010A0BW,Gammaplex
+1405010A0BWAAAL,Gammaplex 2.5g/50ml solution for infusion vials
+1405010A0BWABAN,Gammaplex 5g/100ml solution for infusion vials
+1405010A0BWACAC,Gammaplex 10g/200ml solution for infusion vials
+1405010A0BWADBT,Gammaplex 20g/400ml solution for infusion vials
+1405010A0BWAEBK,Gammaplex 10% 5g/50ml solution for infusion bottles
+1405010A0BWAFBL,Gammaplex 10% 10g/100ml solution for infusion bottles
+1405010A0BWAGBY,Gammaplex 10% 20g/200ml solution for infusion bottles
+1405010A0BWAHBQ,Gammaplex 10g/100ml solution for infusion vials
+1405010A0BWAIBR,Gammaplex 20g/200ml solution for infusion vials
+1405010A0BWAJBP,Gammaplex 5g/50ml solution for infusion vials
+1405010A0BX,Gammanorm
+1405010A0BXAABV,Gammanorm 1.65g/10ml solution for injection vials
+1405010A0BXABBW,Gammanorm 3.3g/20ml solution for injection vials
+1405010A0BXACCL,Gammanorm 1g/6ml solution for injection vials
+1405010A0BXADCM,Gammanorm 2g/12ml solution for injection vials
+1405010A0BXAECN,Gammanorm 4g/24ml solution for injection vials
+1405010A0BXAFCP,Gammanorm 8g/48ml solution for injection vials
+1405010A0BY,Gamunex
+1405010A0BYAABP,Gamunex 10% 5g/50ml solution for infusion vials
+1405010A0BYABBQ,Gamunex 10% 10g/100ml solution for infusion vials
+1405010A0BYACBR,Gamunex 10% 20g/200ml solution for infusion vials
+1405010A0BYADBU,Gamunex 10% 1g/10ml solution for infusion vials
+1405010A0BZ,Hizentra
+1405010A0BZAACC,Hizentra 1g/5ml solution for infusion vials
+1405010A0BZABCD,Hizentra 2g/10ml solution for infusion vials
+1405010A0BZACCE,Hizentra 4g/20ml solution for infusion vials
+1405010A0BZADCS,Hizentra 1g/5ml solution for injection pre-filled syringes
+1405010A0BZAECT,Hizentra 2g/10ml solution for injection pre-filled syringes
+1405010A0CB,Intratect
+1405010A0CBAACF,Intratect 1g/20ml solution for infusion vials
+1405010A0CBABAL,Intratect 2.5g/50ml solution for infusion vials
+1405010A0CBACAN,Intratect 5g/100ml solution for infusion vials
+1405010A0CBADAC,Intratect 10g/200ml solution for infusion vials
+1405010A0CBAEBU,Intratect 1g/10ml solution for infusion vials
+1405010A0CBAFBP,Intratect 5g/50ml solution for infusion vials
+1405010A0CBAGBQ,Intratect 10g/100ml solution for infusion vials
+1405010A0CBAHBR,Intratect 20g/200ml solution for infusion vials
+1405010A0CC,Aragam
+1405010A0CCAAAL,Aragam 2.5g/50ml solution for infusion vials
+1405010A0CCABAN,Aragam 5g/100ml solution for infusion vials
+1405010A0CCACAC,Aragam 10g/200ml solution for infusion vials
+1405010A0CCADBT,Aragam 20g/400ml solution for infusion vials
+1405010A0CD,HyQvia
+1405010A0CDAACG,HyQvia 10g/100ml solution for infusion and 5ml vials
+1405010A0CDABCH,HyQvia 2.5g/25ml solution for infusion and 1.25ml vials
+1405010A0CDACCI,HyQvia 20g/200ml solution for infusion and 10ml vials
+1405010A0CDADCJ,HyQvia 30g/300ml solution for infusion and 15ml vials
+1405010A0CDAECK,HyQvia 5g/50ml solution for infusion and 2.5ml vials
+1405010A0CE,Iqymune
+1405010A0CEAABX,Iqymune 2g/20ml solution for infusion vials
+1405010A0CEABBP,Iqymune 5g/50ml solution for infusion vials
+1405010A0CEACBQ,Iqymune 10g/100ml solution for infusion vials
+1405010A0CEADBR,Iqymune 20g/200ml solution for infusion vials
+1405010A0CF,Cuvitru
+1405010A0CFAACC,Cuvitru 1g/5ml solution for injection vials
+1405010A0CFABCD,Cuvitru 2g/10ml solution for injection vials
+1405010A0CFACCE,Cuvitru 4g/20ml solution for injection vials
+1405010A0CFADCR,Cuvitru 8g/40ml solution for injection vials
+1405010A0CG,Panzyga
+1405010A0CGAACU,Panzyga 2.5g/25ml solution for infusion bottles
+1405010A0CGABBK,Panzyga 5g/50ml solution for infusion bottles
+1405010A0CGACBL,Panzyga 10g/100ml solution for infusion bottles
+1405010A0CGADBY,Panzyga 20g/200ml solution for infusion bottles
+140502,Disease-specific immunoglobulins
+1405020,Disease-specific immunoglobulins
+1405020A0,Tetanus immunoglobulin
+1405020A0AA,Tetanus immunoglobulin
+1405020A0AAABAB,Tetanus immunoglobulin human 250unit inj vials
+1405020A0AAACAC,Tetanus immunoglobulin 250units/1ml inj pre-filled syringes
+1405020A0BC,Tetabulin
+1405020A0BCAAAC,Tetabulin 250units/1ml inj pre-filled syringes
+1405020A0BD,Liberim T
+1405020A0BDAAAB,Liberim T 250unit solution for injection vials
+1405020B0,Hepatitis B immunoglobulin
+1405020B0AA,Hepatitis B Immunoglobulin
+1405020B0AAAAAA,Hepatitis B immunoglobulin human 500unit inj vials
+1405020B0AAABAB,Hepatitis B immunoglobulin human 200unit inj vials
+1405020B0BB,Liberim HB
+1405020B0BBAAAA,Liberim HB 500unit solution for injection vials
+1405020C0,Varicella-zoster immunoglobulin
+1405020C0AA,Human anti varicella-zoster
+1405020C0AAAAAA,Varicella immunoglobulin 250mg solution for injection vials
+1405020C0BB,Liberim Z
+1405020C0BBAAAA,Liberim Z 250mg solution for injection vials
+1405020D0,Rabies immunoglobulin
+1405020D0AA,Rabies immunoglobulin
+1405020D0AAABAB,Rabies immunoglobulin human 500unit inj vials
+140503,Anti-D (Rho) immunoglobulin
+1405030,Anti-D (Rho) immunoglobulin
+1405030A0,Anti-D (Rh-) immunoglobulin
+1405030A0AA,Anti-D (RHO) immunoglobulin
+1405030A0AAABAB,"Anti-D (RHO) immunoglobulin 1,250units/1ml inj pfs"
+1405030A0AAAIAI,"Anti-D (RHO) immunoglobulin 1,500unit pdr & solv inj vials"
+1405030A0AAAJAJ,"Anti-D (RHO) immunoglobulin 1,500units/2ml inj pfs"
+1405030A0AAAMAM,Anti-D (RHO) immunoglobulin 250unit inj vials
+1405030A0AAANAN,Anti-D (RHO) immunoglobulin 500unit inj vials
+1405030A0AAAPAP,"Anti-D (RHO) immunoglobulin 2,500unit inj vials"
+1405030A0AAAQAQ,"Anti-D (RHO) immunoglobulin 5,000unit inj vials"
+1405030A0AAARAR,"Anti-D (RHO) immunoglobulin 1,500unit soln for inj vials"
+1405030A0BB,Partobulin
+1405030A0BBADAB,"Partobulin SDF 1,250units/1ml inj pre-filled syringes"
+1405030A0BC,WinRho
+1405030A0BCABAI,"WinRho SDF 1,500unit inj vials"
+1405030A0BCACAQ,"WinRho SDF 5,000unit inj vials"
+1405030A0BD,Rhophylac
+1405030A0BDAAAJ,"Rhophylac 1,500units/2ml inj pre-filled syringes"
+1405030A0BE,Liberim D
+1405030A0BEAAAN,Liberim D 500 solution for injection vials
+1405030A0BEABAM,Liberim D 250 solution for injection vials
+1405030A0BF,D-Gam
+1405030A0BFAAAM,D-Gam Anti-D immunoglobulin 250unit inj vials
+1405030A0BFABAN,D-Gam Anti-D immunoglobulin 500unit inj vials
+1405030A0BFACAP,"D-Gam Anti-D immunoglobulin 2,500unit inj vials"
+1405030A0BFADAR,"D-Gam Anti-D immunoglobulin 1,500unit inj vials"

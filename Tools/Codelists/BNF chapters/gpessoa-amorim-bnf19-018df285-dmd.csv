@@ -1,0 +1,1698 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,20419011000001106,Ethanol 100% solution for injection 5ml ampoules,190100000AAAAAA
+AMP,20499911000001106,Ethanol 100% solution for injection 5ml ampoules,190100000AAAAAA
+AMP,20372411000001107,Ethanol 100% solution for injection 5ml ampoules,190100000AAAAAA
+VMP,15648311000001102,Ethanol 100% solution for injection 2ml ampoules,190100000AAABAB
+AMP,18498811000001107,Ethanol 100% solution for injection 2ml ampoules,190100000AAABAB
+AMP,20971111000001101,Ethanol 100% solution for injection 2ml ampoules,190100000AAABAB
+AMP,15645311000001106,Ethanol 100% solution for injection 2ml ampoules,190100000AAABAB
+VMP,3409411000001101,Ethanol 90% including duty,190100000AAADAD
+AMP,1311000001105,Ethanol 90% including duty,190100000AAADAD
+AMP,12778411000001100,Ethanol 90% including duty,190100000AAADAD
+AMP,187711000001107,Ethanol 90% including duty,190100000AAADAD
+AMP,8995211000001103,Ethanol 90% including duty,190100000AAADAD
+VMP,10606511000001109,Ethanol 70% duty paid,190100000AAAIAI
+AMP,10571611000001102,Ethanol 70% duty paid,190100000AAAIAI
+VMP,5044311000001104,Aconitum napellus 30c homeopathic pillules,190203000BBAAA0
+VMP,5113711000001103,Aconitum napellus 30c homeopathic tablets,190203000BBAAA0
+VMP,5044511000001105,Aconitum napellus 6c homeopathic pillules,190203000BBAAA0
+VMP,5113811000001106,Aconitum napellus 6c homeopathic tablets,190203000BBAAA0
+VMP,5113911000001101,Actaea racemosa 30c homeopathic tablets,190203000BBAAA0
+VMP,5114011000001103,Actaea racemosa 6c homeopathic tablets,190203000BBAAA0
+VMP,17645411000001103,Agaricus muscarius 10M homeopathic granules,190203000BBAAA0
+VMP,10352011000001101,Allium cepa 30c homeopathic tablets,190203000BBAAA0
+VMP,5114111000001102,Allium cepa 6c homeopathic tablets,190203000BBAAA0
+VMP,5035311000001101,Antimony 400micrograms/100g ointment,190203000BBAAA0
+VMP,5035411000001108,Apatite 6x / Cucurbita 3x homeopathic tablets,190203000BBAAA0
+VMP,5114311000001100,Apis mellifica 30c homeopathic pillules,190203000BBAAA0
+VMP,5114411000001107,Apis mellifica 30c homeopathic tablets,190203000BBAAA0
+VMP,5251011000001108,Apis mellifica 3x / Belladonna 3x drops,190203000BBAAA0
+VMP,5114511000001106,Apis mellifica 6c homeopathic pillules,190203000BBAAA0
+VMP,5114611000001105,Apis mellifica 6c homeopathic tablets,190203000BBAAA0
+VMP,19436911000001109,Apple mistletoe 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19437011000001108,Apple mistletoe 100micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19437111000001109,Apple mistletoe 100micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19437211000001103,Apple mistletoe 100micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19437311000001106,Apple mistletoe 100micrograms/ml oral drops,190203000BBAAA0
+VMP,19437411000001104,Apple mistletoe 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19437511000001100,Apple mistletoe 100nanograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19437611000001101,Apple mistletoe 100nanograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19437711000001105,Apple mistletoe 100nanograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19437811000001102,Apple mistletoe 10mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19437911000001107,Apple mistletoe 10mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19438011000001109,Apple mistletoe 10mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19438111000001105,Apple mistletoe 10mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19438211000001104,Apple mistletoe 10mg/ml oral drops,190203000BBAAA0
+VMP,19438311000001107,Apple mistletoe 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19438411000001100,Apple mistletoe 10micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19438511000001101,Apple mistletoe 10micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19438611000001102,Apple mistletoe 10micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19438711000001106,Apple mistletoe 10micrograms/ml oral drops,190203000BBAAA0
+VMP,19438811000001103,Apple mistletoe 1mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19438911000001108,Apple mistletoe 1mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19439011000001104,Apple mistletoe 1mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19439111000001103,Apple mistletoe 1mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19439211000001109,Apple mistletoe 1mg/ml oral drops,190203000BBAAA0
+VMP,19439311000001101,Apple mistletoe 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19439411000001108,Apple mistletoe 1micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19439511000001107,Apple mistletoe 1micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19439611000001106,Apple mistletoe 1micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19439711000001102,Apple mistletoe 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19439811000001105,Apple mistletoe 20mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19439911000001100,Apple mistletoe 20mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19440011000001106,Apple mistletoe 20mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19440111000001107,Apple mistletoe 20mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19440211000001101,Apple mistletoe 20mg/ml oral drops,190203000BBAAA0
+VMP,19440311000001109,Apple mistletoe 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19440411000001102,Apple mistletoe 2mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19440511000001103,Apple mistletoe 30mg/ml oral drops,190203000BBAAA0
+VMP,19899211000001108,Apple mistletoe 5mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,5114711000001101,Argentum nitricum 30c homeopathic tablets,190203000BBAAA0
+VMP,5049211000001106,Argentum nitricum 6c homeopathic pillules,190203000BBAAA0
+VMP,5114811000001109,Argentum nitricum 6c homeopathic tablets,190203000BBAAA0
+VMP,5251111000001109,Arnica / Urtica urens lotion,190203000BBAAA0
+VMP,5037211000001101,Arnica / Urtica urens ointment,190203000BBAAA0
+VMP,5037411000001102,Arnica montana 0.9% cream,190203000BBAAA0
+VMP,5114911000001104,Arnica montana 30c homeopathic pillules,190203000BBAAA0
+VMP,5115011000001104,Arnica montana 30c homeopathic tablets,190203000BBAAA0
+VMP,8011311000001104,Arnica montana 5% ointment,190203000BBAAA0
+VMP,13647611000001100,Arnica montana 6c homeopathic pillules,190203000BBAAA0
+VMP,5115111000001103,Arnica montana 6c homeopathic tablets,190203000BBAAA0
+VMP,5037311000001109,Arnica montana 6x homeopathic tablets,190203000BBAAA0
+VMP,5045311000001100,Arsenicum album 30c homeopathic pillules,190203000BBAAA0
+VMP,5115211000001109,Arsenicum album 30c homeopathic tablets,190203000BBAAA0
+VMP,5045411000001107,Arsenicum album 6c homeopathic pillules,190203000BBAAA0
+VMP,5115311000001101,Arsenicum album 6c homeopathic tablets,190203000BBAAA0
+VMP,19440611000001104,Ash mistletoe 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19440711000001108,Ash mistletoe 20mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19440811000001100,Ash mistletoe 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19440911000001105,Ash mistletoe 2mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,5115411000001108,Belladonna 30c homeopathic pillules,190203000BBAAA0
+VMP,5115511000001107,Belladonna 30c homeopathic tablets,190203000BBAAA0
+VMP,5045511000001106,Belladonna 6c homeopathic pillules,190203000BBAAA0
+VMP,5115611000001106,Belladonna 6c homeopathic tablets,190203000BBAAA0
+VMP,5115711000001102,Bellis perennis 6c homeopathic tablets,190203000BBAAA0
+VMP,5115811000001105,Bryonia alba 30c homeopathic tablets,190203000BBAAA0
+VMP,5045611000001105,Bryonia alba 6c homeopathic pillules,190203000BBAAA0
+VMP,5115911000001100,Bryonia alba 6c homeopathic tablets,190203000BBAAA0
+VMP,5251211000001103,Bryonia dioica 6c homeopathic elixir,190203000BBAAA0
+VMP,5037511000001103,Calcarea carbonica 30c homeopathic tablets,190203000BBAAA0
+VMP,5037611000001104,Calcarea carbonica 6c homeopathic tablets,190203000BBAAA0
+VMP,5116011000001108,Calcarea fluorica 30c homeopathic tablets,190203000BBAAA0
+VMP,5116111000001109,Calcarea fluorica 6c homeopathic pillules,190203000BBAAA0
+VMP,5116211000001103,Calcarea fluorica 6c homeopathic tablets,190203000BBAAA0
+VMP,7969011000001100,Calcarea fluorica 6x homeopathic tablets,190203000BBAAA0
+VMP,5117111000001107,Calcarea phosphorica 30c homeopathic tablets,190203000BBAAA0
+VMP,5117211000001101,Calcarea phosphorica 6c homeopathic tablets,190203000BBAAA0
+VMP,7969111000001104,Calcarea phosphorica 6x homeopathic tablets,190203000BBAAA0
+VMP,7969211000001105,Calcarea sulfurica 6x homeopathic tablets,190203000BBAAA0
+VMP,5039111000001101,Calendula officinalis 0.45% / Hypericum perforatum 0.45% cream,190203000BBAAA0
+VMP,5039211000001107,Calendula officinalis 0.9% cream,190203000BBAAA0
+VMP,5251311000001106,Calendula officinalis 500ml/litre / Hypericum perforatum 500ml/litre spray,190203000BBAAA0
+VMP,5039311000001104,Calendula officinalis 9% cream,190203000BBAAA0
+VMP,7969311000001102,Calendula officinalis ointment,190203000BBAAA0
+VMP,5116311000001106,Candida albicans 6c homeopathic tablets,190203000BBAAA0
+VMP,5117511000001103,Cantharis vesicatoria 30c homeopathic pillules,190203000BBAAA0
+VMP,5117611000001104,Cantharis vesicatoria 30c homeopathic tablets,190203000BBAAA0
+VMP,5117711000001108,Cantharis vesicatoria 6c homeopathic tablets,190203000BBAAA0
+VMP,5117811000001100,Carbo vegetabilis 30c homeopathic tablets,190203000BBAAA0
+VMP,5118011000001107,Carbo vegetabilis 6c homeopathic pillules,190203000BBAAA0
+VMP,5118111000001108,Carbo vegetabilis 6c homeopathic tablets,190203000BBAAA0
+VMP,5118211000001102,Chamomilla 30c homeopathic pillules,190203000BBAAA0
+VMP,10352111000001100,Chamomilla 30c homeopathic tablets,190203000BBAAA0
+VMP,5251411000001104,Chamomilla 3x homeopathic drops,190203000BBAAA0
+VMP,5118311000001105,Chamomilla 3x homeopathic granules,190203000BBAAA0
+VMP,5045711000001101,Chamomilla 6c homeopathic granules 7g sachets sugar free,190203000BBAAA0
+VMP,5118511000001104,Cina 6c homeopathic tablets,190203000BBAAA0
+VMP,5038711000001109,Cinnabar 20x / Pyrites 3x homeopathic tablets,190203000BBAAA0
+VMP,11812811000001106,Cinnabar 20x homeopathic tablets,190203000BBAAA0
+VMP,10352211000001106,Cocculus indicus 30c homeopathic tablets,190203000BBAAA0
+VMP,5039011000001102,Cocculus indicus 6c homeopathic tablets,190203000BBAAA0
+VMP,5039511000001105,Coffea arabica 6c homeopathic tablets,190203000BBAAA0
+VMP,17631211000001104,Coffea cruda 30c homeopathic pillules,190203000BBAAA0
+VMP,17645511000001104,Colocynthis 30c homeopathic tablets,190203000BBAAA0
+VMP,5039611000001109,Colocynthis 6c homeopathic tablets,190203000BBAAA0
+VMP,7969511000001108,Copper ointment,190203000BBAAA0
+VMP,5118611000001100,Cuprum metallicum 30c homeopathic tablets,190203000BBAAA0
+VMP,5118711000001109,Cuprum metallicum 6c homeopathic tablets,190203000BBAAA0
+VMP,5119711000001100,Drosera rotundifolia 30c homeopathic pillules,190203000BBAAA0
+VMP,5040211000001104,Drosera rotundifolia 30c homeopathic tablets,190203000BBAAA0
+VMP,5040311000001107,Drosera rotundifolia 6c homeopathic tablets,190203000BBAAA0
+VMP,5252911000001101,Dulcamara / Lysimachia nummularia drops,190203000BBAAA0
+VMP,5040411000001100,Dulcamara / Lysimachia nummularia ointment,190203000BBAAA0
+VMP,5116511000001100,Euphrasia officinalis 30c homeopathic tablets,190203000BBAAA0
+VMP,5116611000001101,Euphrasia officinalis 6c homeopathic pillules,190203000BBAAA0
+VMP,5116711000001105,Euphrasia officinalis 6c homeopathic tablets,190203000BBAAA0
+VMP,5040911000001108,Ferrous sulfate 4mg / Silica 1.6mg tablets,190203000BBAAA0
+VMP,5041011000001100,Ferrous sulfate 800microgram / Silica 320microgram tablets,190203000BBAAA0
+VMP,5119811000001108,Ferrum phosphoricum 30c homeopathic tablets,190203000BBAAA0
+VMP,5119911000001103,Ferrum phosphoricum 6c homeopathic tablets,190203000BBAAA0
+VMP,7969711000001103,Ferrum phosphoricum 6x homeopathic tablets,190203000BBAAA0
+VMP,5041111000001104,Ferrum sidereum 6x homeopathic tablets,190203000BBAAA0
+VMP,5120011000001101,Feverfew 6x homeopathic tablets,190203000BBAAA0
+VMP,5041211000001105,Gelsemium sempervirens 30c homeopathic pillules,190203000BBAAA0
+VMP,10352311000001103,Gelsemium sempervirens 30c homeopathic tablets,190203000BBAAA0
+VMP,5041311000001102,Gelsemium sempervirens 6c homeopathic pillules,190203000BBAAA0
+VMP,5041411000001109,Gelsemium sempervirens 6c homeopathic tablets,190203000BBAAA0
+VMP,7970311000001104,Generic Avena sativa comp drops,190203000BBAAA0
+VMP,34155411000001106,Generic Bach Rescue Remedy oral drops sugar free,190203000BBAAA0
+VMP,34155511000001105,Generic Bach Rescue Remedy spray sugar free,190203000BBAAA0
+VMP,5041511000001108,Generic Balsamicum ointment,190203000BBAAA0
+VMP,5041711000001103,Generic Burns cream,190203000BBAAA0
+VMP,5049311000001103,Generic Conchae 5% compound tablets,190203000BBAAA0
+VMP,5252611000001107,Generic Cough drops,190203000BBAAA0
+VMP,5045811000001109,Generic Digestodoron 200mg tablets,190203000BBAAA0
+VMP,5252511000001108,Generic Digestodoron drops,190203000BBAAA0
+VMP,5045911000001104,Generic Fragador 200mg tablets,190203000BBAAA0
+VMP,5046011000001107,Generic Frost cream,190203000BBAAA0
+VMP,5046111000001108,Generic Gencydo ointment,190203000BBAAA0
+VMP,5046211000001102,Generic H+care haemorrhoid relief cream,190203000BBAAA0
+VMP,19899711000001101,Generic Iscador Qu Series 0 solution for injection ampoules,190203000BBAAA0
+VMP,19899811000001109,Generic Iscador Qu Series 1 solution for injection ampoules,190203000BBAAA0
+VMP,19899911000001104,Generic Iscador Qu Series 2 solution for injection ampoules,190203000BBAAA0
+VMP,19900011000001101,Generic Iscador Qu Series 3 solution for injection ampoules,190203000BBAAA0
+VMP,5046311000001105,Generic Laxadoron tablets,190203000BBAAA0
+VMP,5252411000001109,Generic Menodoron drops,190203000BBAAA0
+VMP,7961411000001108,Generic New Era Combination A 6x homeopathic tablets,190203000BBAAA0
+VMP,7961511000001107,Generic New Era Combination B 6x homeopathic tablets,190203000BBAAA0
+VMP,7961611000001106,Generic New Era Combination C 6x homeopathic tablets,190203000BBAAA0
+VMP,7961711000001102,Generic New Era Combination D 6x homeopathic tablets,190203000BBAAA0
+VMP,7961811000001105,Generic New Era Combination E 6x homeopathic tablets,190203000BBAAA0
+VMP,7961911000001100,Generic New Era Combination F 6x homeopathic tablets,190203000BBAAA0
+VMP,7962011000001107,Generic New Era Combination G 6x homeopathic tablets,190203000BBAAA0
+VMP,7962111000001108,Generic New Era Combination H 6x homeopathic tablets,190203000BBAAA0
+VMP,7962211000001102,Generic New Era Combination I 6x homeopathic tablets,190203000BBAAA0
+VMP,7962311000001105,Generic New Era Combination J 6x homeopathic tablets,190203000BBAAA0
+VMP,7962411000001103,Generic New Era Combination K 6x homeopathic tablets,190203000BBAAA0
+VMP,7962511000001104,Generic New Era Combination L 6x homeopathic tablets,190203000BBAAA0
+VMP,7962611000001100,Generic New Era Combination M 6x homeopathic tablets,190203000BBAAA0
+VMP,7962711000001109,Generic New Era Combination N 6x homeopathic tablets,190203000BBAAA0
+VMP,7962811000001101,Generic New Era Combination P 6x homeopathic tablets,190203000BBAAA0
+VMP,7962911000001106,Generic New Era Combination Q 6x homeopathic tablets,190203000BBAAA0
+VMP,7963011000001103,Generic New Era Combination R 6x homeopathic tablets,190203000BBAAA0
+VMP,7963111000001102,Generic New Era Combination S 6x homeopathic tablets,190203000BBAAA0
+VMP,5049411000001105,Generic Noctura homeopathic tablets,190203000BBAAA0
+VMP,5046411000001103,Generic Pollenna homeopathic tablets,190203000BBAAA0
+VMP,5252111000001104,Generic Pyrethrum liquid,190203000BBAAA0
+VMP,5252011000001100,Generic Rheumadoron 102A drops,190203000BBAAA0
+VMP,5046511000001104,Generic Rheumadoron ointment,190203000BBAAA0
+VMP,5046611000001100,Generic Travella homeopathic tablets,190203000BBAAA0
+VMP,5120511000001109,Generic Vitis compound tablets,190203000BBAAA0
+VMP,7992011000001105,Generic Weleda Massage Balm with Arnica,190203000BBAAA0
+VMP,5046711000001109,Graphites 30c homeopathic tablets,190203000BBAAA0
+VMP,5046811000001101,Graphites 6c homeopathic tablets,190203000BBAAA0
+VMP,5049511000001109,Graphites 9% homeopathic cream,190203000BBAAA0
+VMP,5121611000001103,Hamamelis 30c homeopathic tablets,190203000BBAAA0
+VMP,5121711000001107,Hamamelis 6c homeopathic tablets,190203000BBAAA0
+VMP,5047011000001105,Hepar sulfuris 30c homeopathic tablets,190203000BBAAA0
+VMP,5049611000001108,Hepar sulfuris 6c homeopathic pillules,190203000BBAAA0
+VMP,5049711000001104,Hepar sulfuris 6c homeopathic tablets,190203000BBAAA0
+VMP,10352611000001108,Hypericum officianalis 30c homeopathic tablets,190203000BBAAA0
+VMP,5123611000001104,Hypericum perforatum 30c homeopathic pillules,190203000BBAAA0
+VMP,5123711000001108,Hypericum perforatum 30c homeopathic tablets,190203000BBAAA0
+VMP,5123811000001100,Hypericum perforatum 6c homeopathic pillules,190203000BBAAA0
+VMP,5123911000001105,Hypericum perforatum 6c homeopathic tablets,190203000BBAAA0
+VMP,5124011000001108,Ignatia amara 30c homeopathic pillules,190203000BBAAA0
+VMP,5124111000001109,Ignatia amara 30c homeopathic tablets,190203000BBAAA0
+VMP,5124211000001103,Ignatia amara 6c homeopathic pillules,190203000BBAAA0
+VMP,5124311000001106,Ignatia amara 6c homeopathic tablets,190203000BBAAA0
+VMP,5124411000001104,Ipecacuanha 30c homeopathic pillules,190203000BBAAA0
+VMP,5124511000001100,Ipecacuanha 30c homeopathic tablets,190203000BBAAA0
+VMP,5124611000001101,Ipecacuanha 6c homeopathic pillules,190203000BBAAA0
+VMP,5124711000001105,Ipecacuanha 6c homeopathic tablets,190203000BBAAA0
+VMP,5124811000001102,Kalium bichromicum 30c homeopathic pillules,190203000BBAAA0
+VMP,5124911000001107,Kalium bichromicum 30c homeopathic tablets,190203000BBAAA0
+VMP,5125011000001107,Kalium bichromicum 6c homeopathic pillules,190203000BBAAA0
+VMP,5125111000001108,Kalium bichromicum 6c homeopathic tablets,190203000BBAAA0
+VMP,7970211000001107,Kalium muriaticum 6x homeopathic tablets,190203000BBAAA0
+VMP,5125211000001102,Kalium phosphoricum 30c homeopathic tablets,190203000BBAAA0
+VMP,5125311000001105,Kalium phosphoricum 6c homeopathic pillules,190203000BBAAA0
+VMP,5125411000001103,Kalium phosphoricum 6c homeopathic tablets,190203000BBAAA0
+VMP,7970411000001106,Kalium phosphoricum 6x homeopathic tablets,190203000BBAAA0
+VMP,7970511000001105,Kalium sulfuricum 6x homeopathic tablets,190203000BBAAA0
+VMP,5125511000001104,Lachesis muta 30c homeopathic pillules,190203000BBAAA0
+VMP,5125611000001100,Lachesis muta 6c homeopathic tablets,190203000BBAAA0
+VMP,5125711000001109,Ledum palustre 30c homeopathic pillules,190203000BBAAA0
+VMP,10352811000001107,Ledum palustre 30c homeopathic tablets,190203000BBAAA0
+VMP,5125811000001101,Ledum palustre 6c homeopathic tablets,190203000BBAAA0
+VMP,5125911000001106,Lycopodium clavatum 30c homeopathic pillules,190203000BBAAA0
+VMP,5126011000001103,Lycopodium clavatum 30c homeopathic tablets,190203000BBAAA0
+VMP,5126111000001102,Lycopodium clavatum 6c homeopathic pillules,190203000BBAAA0
+VMP,5126211000001108,Lycopodium clavatum 6c homeopathic tablets,190203000BBAAA0
+VMP,10352911000001102,Magnesia phosphorica 30c homeopathic tablets,190203000BBAAA0
+VMP,7970711000001100,Magnesia phosphorica 6x homeopathic tablets,190203000BBAAA0
+VMP,5126911000001104,Mercurius solubilis 30c homeopathic tablets,190203000BBAAA0
+VMP,5127011000001100,Mercurius solubilis 6c homeopathic pillules,190203000BBAAA0
+VMP,5127211000001105,Mercurius solubilis 6c homeopathic tablets,190203000BBAAA0
+VMP,5127311000001102,Mercurius vivus 30c homeopathic pillules,190203000BBAAA0
+VMP,5127711000001103,Mixed pollen 30c homeopathic tablets,190203000BBAAA0
+VMP,5127811000001106,Natrum muriaticum 30c homeopathic pillules,190203000BBAAA0
+VMP,5127911000001101,Natrum muriaticum 30c homeopathic tablets,190203000BBAAA0
+VMP,5128011000001104,Natrum muriaticum 6c homeopathic pillules,190203000BBAAA0
+VMP,5128111000001103,Natrum muriaticum 6c homeopathic tablets,190203000BBAAA0
+VMP,7965911000001103,Natrum muriaticum 6x homeopathic tablets,190203000BBAAA0
+VMP,7966011000001106,Natrum phosphoricum 6x homeopathic tablets,190203000BBAAA0
+VMP,7966111000001107,Natrum sulfuricum 6x homeopathic tablets,190203000BBAAA0
+VMP,5128211000001109,Nux vomica 30c homeopathic pillules,190203000BBAAA0
+VMP,5128311000001101,Nux vomica 30c homeopathic tablets,190203000BBAAA0
+VMP,5128411000001108,Nux vomica 6c homeopathic pillules,190203000BBAAA0
+VMP,5128511000001107,Nux vomica 6c homeopathic tablets,190203000BBAAA0
+VMP,19441111000001101,Oak mistletoe 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19441211000001107,Oak mistletoe 100micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19441311000001104,Oak mistletoe 100micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19441411000001106,Oak mistletoe 100micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19441511000001105,Oak mistletoe 100micrograms/ml oral drops,190203000BBAAA0
+VMP,19441611000001109,Oak mistletoe 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19441711000001100,Oak mistletoe 100nanograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19441811000001108,Oak mistletoe 100nanograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19441911000001103,Oak mistletoe 100nanograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19442011000001105,Oak mistletoe 10mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19442111000001106,Oak mistletoe 10mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19442211000001100,Oak mistletoe 10mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19442311000001108,Oak mistletoe 10mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19442411000001101,Oak mistletoe 10mg/ml oral drops,190203000BBAAA0
+VMP,19442511000001102,Oak mistletoe 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19442611000001103,Oak mistletoe 10micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19442711000001107,Oak mistletoe 10micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19442811000001104,Oak mistletoe 10micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19442911000001109,Oak mistletoe 10micrograms/ml oral drops,190203000BBAAA0
+VMP,19443011000001101,Oak mistletoe 1mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19443111000001100,Oak mistletoe 1mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19443211000001106,Oak mistletoe 1mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19443311000001103,Oak mistletoe 1mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19443411000001105,Oak mistletoe 1mg/ml oral drops,190203000BBAAA0
+VMP,19443511000001109,Oak mistletoe 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19443611000001108,Oak mistletoe 1micrograms/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19443711000001104,Oak mistletoe 1micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19443811000001107,Oak mistletoe 1micrograms/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19443911000001102,Oak mistletoe 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19444011000001104,Oak mistletoe 20mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19444111000001103,Oak mistletoe 20mg/1ml with Copper carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19444211000001109,Oak mistletoe 20mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19444311000001101,Oak mistletoe 20mg/1ml with Silver carbonate solution for injection ampoules,190203000BBAAA0
+VMP,19444411000001108,Oak mistletoe 20mg/ml oral drops,190203000BBAAA0
+VMP,19444511000001107,Oak mistletoe 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19444611000001106,Oak mistletoe 2mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19444711000001102,Oak mistletoe 30mg/ml oral drops,190203000BBAAA0
+VMP,19900311000001103,Oak mistletoe 5mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,17645811000001101,Oopherinum 30c homeopathic granules,190203000BBAAA0
+VMP,17645911000001106,Oopherinum 30c homeopathic liquid,190203000BBAAA0
+VMP,17631911000001108,Oopherinum 30c homeopathic pillules,190203000BBAAA0
+VMP,17646011000001103,Oopherinum 30c homeopathic tablets,190203000BBAAA0
+VMP,17646111000001102,Oopherinum 6c homeopathic granules,190203000BBAAA0
+VMP,17646211000001108,Oopherinum 6c homeopathic liquid,190203000BBAAA0
+VMP,17632011000001101,Oopherinum 6c homeopathic pillules,190203000BBAAA0
+VMP,17646311000001100,Oopherinum 6c homeopathic tablets,190203000BBAAA0
+VMP,10353011000001105,Passiflora incarnata 30c homeopathic tablets,190203000BBAAA0
+VMP,5128611000001106,Phosphorus 30c homeopathic pillules,190203000BBAAA0
+VMP,5128711000001102,Phosphorus 30c homeopathic tablets,190203000BBAAA0
+VMP,5128811000001105,Phosphorus 6c homeopathic tablets,190203000BBAAA0
+VMP,5128911000001100,Phytolacca decandra 6c homeopathic tablets,190203000BBAAA0
+VMP,19444811000001105,Pine mistletoe 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19444911000001100,Pine mistletoe 100micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19445011000001100,Pine mistletoe 100micrograms/ml oral drops,190203000BBAAA0
+VMP,19445111000001104,Pine mistletoe 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19445211000001105,Pine mistletoe 100nanograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19445311000001102,Pine mistletoe 10mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19445411000001109,Pine mistletoe 10mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19445511000001108,Pine mistletoe 10mg/ml oral drops,190203000BBAAA0
+VMP,19445611000001107,Pine mistletoe 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19445711000001103,Pine mistletoe 10micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19445811000001106,Pine mistletoe 10micrograms/ml oral drops,190203000BBAAA0
+VMP,19445911000001101,Pine mistletoe 1mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19446011000001109,Pine mistletoe 1mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19446111000001105,Pine mistletoe 1mg/ml oral drops,190203000BBAAA0
+VMP,19446211000001104,Pine mistletoe 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19446311000001107,Pine mistletoe 1micrograms/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19446411000001100,Pine mistletoe 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19446511000001101,Pine mistletoe 20mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19446611000001102,Pine mistletoe 20mg/1ml with Mercuric sulfate solution for injection ampoules,190203000BBAAA0
+VMP,19446711000001106,Pine mistletoe 20mg/ml oral drops,190203000BBAAA0
+VMP,19446811000001103,Pine mistletoe 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19446911000001108,Pine mistletoe 2mg/1ml solution for injection ampoules,190203000BBAAA0
+VMP,19447011000001107,Pine mistletoe 30mg/ml oral drops,190203000BBAAA0
+VMP,5129011000001109,Plumbum mellitum 12x homeopathic tablets,190203000BBAAA0
+VMP,5130211000001108,Pulsatilla pratensis 30c homeopathic pillules,190203000BBAAA0
+VMP,5130311000001100,Pulsatilla pratensis 30c homeopathic tablets,190203000BBAAA0
+VMP,5130411000001107,Pulsatilla pratensis 6c homeopathic pillules,190203000BBAAA0
+VMP,5130511000001106,Pulsatilla pratensis 6c homeopathic tablets,190203000BBAAA0
+VMP,5130611000001105,Rhus toxicodendron 30c homeopathic pillules,190203000BBAAA0
+VMP,5130711000001101,Rhus toxicodendron 30c homeopathic tablets,190203000BBAAA0
+VMP,5130811000001109,Rhus toxicodendron 6c homeopathic pillules,190203000BBAAA0
+VMP,5130911000001104,Rhus toxicodendron 6c homeopathic tablets,190203000BBAAA0
+VMP,5131011000001107,Rhus toxicodendron 9% homeopathic cream,190203000BBAAA0
+VMP,5131111000001108,Ruta graveolens 30c homeopathic pillules,190203000BBAAA0
+VMP,5131211000001102,Ruta graveolens 30c homeopathic tablets,190203000BBAAA0
+VMP,5131311000001105,Ruta graveolens 6c homeopathic pillules,190203000BBAAA0
+VMP,5131411000001103,Ruta graveolens 6c homeopathic tablets,190203000BBAAA0
+VMP,5131511000001104,Ruta graveolens 9% homeopathic cream,190203000BBAAA0
+VMP,5131611000001100,Sepia officinalis 30c homeopathic pillules,190203000BBAAA0
+VMP,5131711000001109,Sepia officinalis 30c homeopathic tablets,190203000BBAAA0
+VMP,5131811000001101,Sepia officinalis 6c homeopathic pillules,190203000BBAAA0
+VMP,5131911000001106,Sepia officinalis 6c homeopathic tablets,190203000BBAAA0
+VMP,9831611000001103,Silica 30c homeopathic tablets,190203000BBAAA0
+VMP,9844111000001105,Silica 6c homeopathic pillules,190203000BBAAA0
+VMP,9831711000001107,Silica 6c homeopathic tablets,190203000BBAAA0
+VMP,7966311000001109,Silica 6x homeopathic tablets,190203000BBAAA0
+VMP,5132411000001108,Sulfur 30c homeopathic pillules,190203000BBAAA0
+VMP,5132511000001107,Sulfur 30c homeopathic tablets,190203000BBAAA0
+VMP,5132611000001106,Sulfur 6c homeopathic pillules,190203000BBAAA0
+VMP,5132711000001102,Sulfur 6c homeopathic tablets,190203000BBAAA0
+VMP,5132811000001105,Symphytum officinale 6c homeopathic tablets,190203000BBAAA0
+VMP,5132911000001100,Tamus communis 9% homeopathic cream,190203000BBAAA0
+VMP,5133011000001108,Tea tree oil 4.78% homeopathic cream,190203000BBAAA0
+VMP,5133111000001109,Thuja occidentalis 30c homeopathic tablets,190203000BBAAA0
+VMP,5133211000001103,Thuja occidentalis 6c homeopathic pillules,190203000BBAAA0
+VMP,5133311000001106,Thuja occidentalis 6c homeopathic tablets,190203000BBAAA0
+VMP,5133411000001104,Urtica urens 30c homeopathic tablets,190203000BBAAA0
+VMP,5133511000001100,Urtica urens 6c homeopathic tablets,190203000BBAAA0
+AMP,19388311000001107,Abnoba Viscum A 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19388911000001108,Abnoba Viscum A 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19389511000001107,Abnoba Viscum A 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19389811000001105,Abnoba Viscum A 2mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19385111000001100,Abnoba Viscum F 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19385911000001102,Abnoba Viscum F 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19386511000001102,Abnoba Viscum F 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19386811000001104,Abnoba Viscum F 2mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19387111000001109,Abnoba Viscum M 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19387411000001104,Abnoba Viscum M 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19387711000001105,Abnoba Viscum M 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19388011000001109,Abnoba Viscum M 2mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19390111000001109,Abnoba Viscum Q 200micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19390511000001100,Abnoba Viscum Q 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19390811000001102,Abnoba Viscum Q 20micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19391111000001103,Abnoba Viscum Q 2mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,5032511000001101,Aconitum napellus 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10330711000001104,Aconitum napellus 30c homeopathic tablets,190203000BBAAA0
+AMP,5079911000001101,Aconitum napellus 30c homeopathic tablets,190203000BBAAA0
+AMP,5031711000001104,Aconitum napellus 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23270811000001100,Aconitum napellus 6c homeopathic tablets,190203000BBAAA0
+AMP,5080911000001101,Aconitum napellus 6c homeopathic tablets,190203000BBAAA0
+AMP,5082411000001105,Actaea racemosa 30c homeopathic tablets,190203000BBAAA0
+AMP,23271311000001104,Actaea racemosa 6c homeopathic tablets,190203000BBAAA0
+AMP,5081911000001108,Actaea racemosa 6c homeopathic tablets,190203000BBAAA0
+AMP,17642011000001102,Agaricus muscarius 10M homeopathic granules,190203000BBAAA0
+AMP,10331511000001102,Allium cepa 30c homeopathic tablets,190203000BBAAA0
+AMP,23271611000001109,Allium cepa 6c homeopathic tablets,190203000BBAAA0
+AMP,5083511000001102,Allium cepa 6c homeopathic tablets,190203000BBAAA0
+AMP,5023811000001108,Antimony 400micrograms/100g ointment,190203000BBAAA0
+AMP,5023411000001106,Apatite 6x compound homeopathic tablets,190203000BBAAA0
+AMP,5071011000001104,Apis mellifica 30c homeopathic pillules,190203000BBAAA0
+AMP,10331711000001107,Apis mellifica 30c homeopathic tablets,190203000BBAAA0
+AMP,5093611000001102,Apis mellifica 30c homeopathic tablets,190203000BBAAA0
+AMP,5066211000001109,Apis mellifica 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23271911000001103,Apis mellifica 6c homeopathic tablets,190203000BBAAA0
+AMP,5092411000001109,Apis mellifica 6c homeopathic tablets,190203000BBAAA0
+AMP,10333111000001107,Argentum nitricum 30c homeopathic tablets,190203000BBAAA0
+AMP,5083611000001103,Argentum nitricum 30c homeopathic tablets,190203000BBAAA0
+AMP,5047811000001104,Argentum nitricum 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23272111000001106,Argentum nitricum 6c homeopathic tablets,190203000BBAAA0
+AMP,5082911000001102,Argentum nitricum 6c homeopathic tablets,190203000BBAAA0
+AMP,8012811000001104,Arnica Bumps & Bruises skin salve ointment,190203000BBAAA0
+AMP,5068711000001103,Arnica montana 30c homeopathic pillules,190203000BBAAA0
+AMP,34868211000001104,Arnica montana 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10333411000001102,Arnica montana 30c homeopathic tablets,190203000BBAAA0
+AMP,5084611000001100,Arnica montana 30c homeopathic tablets,190203000BBAAA0
+AMP,34868411000001100,Arnica montana 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23272511000001102,Arnica montana 6c homeopathic tablets,190203000BBAAA0
+AMP,5085511000001103,Arnica montana 6c homeopathic tablets,190203000BBAAA0
+AMP,5031111000001100,Arnica montana 6x homeopathic tablets,190203000BBAAA0
+AMP,5024111000001104,Arnicare arnica cream,190203000BBAAA0
+AMP,5031411000001105,Arsenicum album 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10333611000001104,Arsenicum album 30c homeopathic tablets,190203000BBAAA0
+AMP,5084311000001105,Arsenicum album 30c homeopathic tablets,190203000BBAAA0
+AMP,5032011000001109,Arsenicum album 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23272811000001104,Arsenicum album 6c homeopathic tablets,190203000BBAAA0
+AMP,5083911000001109,Arsenicum album 6c homeopathic tablets,190203000BBAAA0
+AMP,7955911000001109,Avena sativa comp drops,190203000BBAAA0
+AMP,34102911000001100,Bach Rescue Remedy oral drops,190203000BBAAA0
+AMP,34102411000001108,Bach Rescue Remedy spray,190203000BBAAA0
+AMP,5027811000001102,Balsamicum ointment,190203000BBAAA0
+AMP,5069911000001109,Belladonna 30c homeopathic pillules,190203000BBAAA0
+AMP,10334011000001108,Belladonna 30c homeopathic tablets,190203000BBAAA0
+AMP,5088611000001105,Belladonna 30c homeopathic tablets,190203000BBAAA0
+AMP,5034011000001103,Belladonna 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23273111000001100,Belladonna 6c homeopathic tablets,190203000BBAAA0
+AMP,5090111000001103,Belladonna 6c homeopathic tablets,190203000BBAAA0
+AMP,23273411000001105,Bellis perennis 6c homeopathic tablets,190203000BBAAA0
+AMP,5111711000001104,Bellis perennis 6c homeopathic tablets,190203000BBAAA0
+AMP,5025011000001101,Bidor 1% tablets,190203000BBAAA0
+AMP,5026511000001102,Bidor 5% tablets,190203000BBAAA0
+AMP,20534411000001100,Boots Alternatives Arnica Bruise Relief cream,190203000BBAAA0
+AMP,20534611000001102,Boots Alternatives Calendula Sore Skin Relief cream,190203000BBAAA0
+AMP,7523511000001106,Boots Alternatives Teething Pain Relief homeopathic granules 7g sachets,190203000BBAAA0
+AMP,5033411000001109,Bryonia 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10350811000001106,Bryonia alba 30c homeopathic tablets,190203000BBAAA0
+AMP,5086911000001103,Bryonia alba 30c homeopathic tablets,190203000BBAAA0
+AMP,23273711000001104,Bryonia alba 6c homeopathic tablets,190203000BBAAA0
+AMP,5086211000001107,Bryonia alba 6c homeopathic tablets,190203000BBAAA0
+AMP,5029011000001104,Burns cream,190203000BBAAA0
+AMP,5019311000001109,Calcarea carbonica 30c homeopathic tablets,190203000BBAAA0
+AMP,23274011000001104,Calcarea carbonica 6c homeopathic tablets,190203000BBAAA0
+AMP,5021911000001104,Calcarea carbonica 6c homeopathic tablets,190203000BBAAA0
+AMP,5078111000001106,Calcarea fluorica 30c homeopathic tablets,190203000BBAAA0
+AMP,5062611000001105,Calcarea fluorica 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5063511000001104,Calcarea fluorica 6c homeopathic tablets,190203000BBAAA0
+AMP,5079611000001107,Calcarea phosphorica 30c homeopathic tablets,190203000BBAAA0
+AMP,5079311000001102,Calcarea phosphorica 6c homeopathic tablets,190203000BBAAA0
+AMP,7952211000001105,Calendula Cuts & Grazes skin salve ointment,190203000BBAAA0
+AMP,5020511000001104,Calendula officinalis 0.9% cream,190203000BBAAA0
+AMP,5109811000001105,Candida albicans 6c homeopathic tablets,190203000BBAAA0
+AMP,5072011000001107,Cantharis vesicatoria 30c homeopathic pillules,190203000BBAAA0
+AMP,10345411000001104,Cantharis vesicatoria 30c homeopathic tablets,190203000BBAAA0
+AMP,5087611000001106,Cantharis vesicatoria 30c homeopathic tablets,190203000BBAAA0
+AMP,23275211000001105,Cantharis vesicatoria 6c homeopathic tablets,190203000BBAAA0
+AMP,5087211000001109,Cantharis vesicatoria 6c homeopathic tablets,190203000BBAAA0
+AMP,10335811000001101,Carbo vegetabilis 30c homeopathic tablets,190203000BBAAA0
+AMP,5073511000001106,Carbo vegetabilis 30c homeopathic tablets,190203000BBAAA0
+AMP,5076711000001108,Carbo vegetabilis 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23275511000001108,Carbo vegetabilis 6c homeopathic tablets,190203000BBAAA0
+AMP,5075811000001108,Carbo vegetabilis 6c homeopathic tablets,190203000BBAAA0
+AMP,5072611000001100,Chamomilla 30c homeopathic pillules,190203000BBAAA0
+AMP,10336311000001100,Chamomilla 30c homeopathic tablets,190203000BBAAA0
+AMP,17639711000001105,Chamomilla 30c homeopathic tablets,190203000BBAAA0
+AMP,5248911000001100,Chamomilla 3x homeopathic drops,190203000BBAAA0
+AMP,5075411000001106,Chamomilla 3x homeopathic granules,190203000BBAAA0
+AMP,5065311000001106,Chilblains homeopathic cream,190203000BBAAA0
+AMP,23275811000001106,Cina 6c homeopathic tablets,190203000BBAAA0
+AMP,5087811000001105,Cina 6c homeopathic tablets,190203000BBAAA0
+AMP,5030811000001104,Cinnabar 20x / Pyrites 3x homeopathic tablets,190203000BBAAA0
+AMP,11792911000001104,Cinnabar 20x homeopathic tablets,190203000BBAAA0
+AMP,10336811000001109,Cocculus indicus 30c homeopathic tablets,190203000BBAAA0
+AMP,5028411000001100,Cocculus indicus 6c homeopathic tablets,190203000BBAAA0
+AMP,23276111000001105,Coffea arabica 6c homeopathic tablets,190203000BBAAA0
+AMP,5028111000001105,Coffea arabica 6c homeopathic tablets,190203000BBAAA0
+AMP,17604511000001105,Coffea cruda 30c homeopathic pillules,190203000BBAAA0
+AMP,5029411000001108,Coldenza 6c homeopathic tablets,190203000BBAAA0
+AMP,17639611000001101,Colocynthis 30c homeopathic tablets,190203000BBAAA0
+AMP,23276411000001100,Colocynthis 6c homeopathic tablets,190203000BBAAA0
+AMP,5019211000001101,Colocynthis 6c homeopathic tablets,190203000BBAAA0
+AMP,5246211000001108,Combudoron lotion,190203000BBAAA0
+AMP,5033511000001108,Combudoron ointment,190203000BBAAA0
+AMP,5047211000001100,Conchae 5% compound tablets,190203000BBAAA0
+AMP,7954811000001100,Copper ointment,190203000BBAAA0
+AMP,5246811000001109,Cough drops,190203000BBAAA0
+AMP,23276711000001106,Cuprum metallicum 30c homeopathic tablets,190203000BBAAA0
+AMP,5086611000001109,Cuprum metallicum 30c homeopathic tablets,190203000BBAAA0
+AMP,23277011000001107,Cuprum metallicum 6c homeopathic tablets,190203000BBAAA0
+AMP,5086111000001101,Cuprum metallicum 6c homeopathic tablets,190203000BBAAA0
+AMP,5024911000001101,Dermatodoron ointment,190203000BBAAA0
+AMP,5034711000001101,Digestodoron 200mg tablets,190203000BBAAA0
+AMP,5247111000001104,Digestodoron drops,190203000BBAAA0
+AMP,5105011000001101,Drosera rotundifolia 30c homeopathic pillules,190203000BBAAA0
+AMP,10338511000001107,Drosera rotundifolia 30c homeopathic tablets,190203000BBAAA0
+AMP,5022011000001106,Drosera rotundifolia 30c homeopathic tablets,190203000BBAAA0
+AMP,5023111000001101,Drosera rotundifolia 6c homeopathic tablets,190203000BBAAA0
+AMP,5249211000001104,Dulcamara / Lysimachia drops,190203000BBAAA0
+AMP,5245911000001106,Erysidoron 1 drops,190203000BBAAA0
+AMP,5077511000001101,Euphrasia 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10345711000001105,Euphrasia officinalis 30c homeopathic tablets,190203000BBAAA0
+AMP,5076911000001105,Euphrasia officinalis 30c homeopathic tablets,190203000BBAAA0
+AMP,23277311000001105,Euphrasia officinalis 6c homeopathic tablets,190203000BBAAA0
+AMP,5074911000001102,Euphrasia officinalis 6c homeopathic tablets,190203000BBAAA0
+AMP,10339011000001109,Ferrum phosphoricum 30c homeopathic tablets,190203000BBAAA0
+AMP,5089311000001106,Ferrum phosphoricum 30c homeopathic tablets,190203000BBAAA0
+AMP,23277611000001100,Ferrum phosphoricum 6c homeopathic tablets,190203000BBAAA0
+AMP,5090011000001104,Ferrum phosphoricum 6c homeopathic tablets,190203000BBAAA0
+AMP,5019511000001103,Ferrum sidereum 6x homeopathic tablets,190203000BBAAA0
+AMP,5078711000001107,Feverfew 6x homeopathic tablets,190203000BBAAA0
+AMP,5041611000001107,Fragador 200mg tablets,190203000BBAAA0
+AMP,5034511000001106,Frost cream,190203000BBAAA0
+AMP,5030511000001102,Gelsemium sempervirens 30c homeopathic pillules,190203000BBAAA0
+AMP,5030311000001108,Gelsemium sempervirens 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10346011000001104,Gelsemium sempervirens 30c homeopathic tablets,190203000BBAAA0
+AMP,5029911000001100,Gelsemium sempervirens 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5029611000001106,Gelsemium sempervirens 6c homeopathic tablets,190203000BBAAA0
+AMP,5038811000001101,Gencydo ointment,190203000BBAAA0
+AMP,23280411000001107,Graphite 30c homeopathic tablets,190203000BBAAA0
+AMP,5039711000001100,Graphite 30c homeopathic tablets,190203000BBAAA0
+AMP,23280711000001101,Graphites 6c homeopathic tablets,190203000BBAAA0
+AMP,5038311000001105,Graphites 6c homeopathic tablets,190203000BBAAA0
+AMP,5048211000001101,Graphites 9% homeopathic cream,190203000BBAAA0
+AMP,5037111000001107,H+care haemorrhoid relief cream,190203000BBAAA0
+AMP,5099611000001100,Hamamelis 30c homeopathic tablets,190203000BBAAA0
+AMP,23281011000001107,Hamamelis 6c homeopathic tablets,190203000BBAAA0
+AMP,5089811000001102,Hamamelis 6c homeopathic tablets,190203000BBAAA0
+AMP,5025511000001109,Healing 9% cream,190203000BBAAA0
+AMP,10346311000001101,Hepar sulfuris 30c homeopathic tablets,190203000BBAAA0
+AMP,5044911000001103,Hepar sulfuris 30c homeopathic tablets,190203000BBAAA0
+AMP,5047511000001102,Hepar sulfuris 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23281311000001105,Hepar sulfuris 6c homeopathic tablets,190203000BBAAA0
+AMP,5048411000001102,Hepar sulfuris 6c homeopathic tablets,190203000BBAAA0
+AMP,5022511000001103,Hypercal cream,190203000BBAAA0
+AMP,5249611000001102,Hypercal spray,190203000BBAAA0
+AMP,10339311000001107,Hypericum officianalis 30c homeopathic tablets,190203000BBAAA0
+AMP,5100111000001108,Hypericum perforatum 30c homeopathic pillules,190203000BBAAA0
+AMP,5076411000001102,Hypericum perforatum 30c homeopathic tablets,190203000BBAAA0
+AMP,5072111000001108,Hypericum perforatum 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23281611000001100,Hypericum perforatum 6c homeopathic tablets,190203000BBAAA0
+AMP,5056011000001109,Hypericum perforatum 6c homeopathic tablets,190203000BBAAA0
+AMP,5056611000001102,Ignatia 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5068911000001101,Ignatia amara 30c homeopathic pillules,190203000BBAAA0
+AMP,5054111000001103,Ignatia amara 30c homeopathic tablets,190203000BBAAA0
+AMP,23281911000001106,Ignatia amara 6c homeopathic tablets,190203000BBAAA0
+AMP,5051511000001105,Ignatia amara 6c homeopathic tablets,190203000BBAAA0
+AMP,5105311000001103,Ipecacuanha 30c homeopathic pillules,190203000BBAAA0
+AMP,23282211000001109,Ipecacuanha 30c homeopathic tablets,190203000BBAAA0
+AMP,5098811000001108,Ipecacuanha 30c homeopathic tablets,190203000BBAAA0
+AMP,5051911000001103,Ipecacuanha 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,23282511000001107,Ipecacuanha 6c homeopathic tablets,190203000BBAAA0
+AMP,5098311000001104,Ipecacuanha 6c homeopathic tablets,190203000BBAAA0
+AMP,19391511000001107,Iscador M 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23282811000001105,Iscador M 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19377611000001105,Iscador M 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19392011000001107,Iscador M 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19392511000001104,Iscador M 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23283111000001109,Iscador M 10mg/ml oral drops,190203000BBAAA0
+AMP,19377911000001104,Iscador M 10mg/ml oral drops,190203000BBAAA0
+AMP,19393011000001103,Iscador M 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23283411000001104,Iscador M 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19378211000001107,Iscador M 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19393511000001106,Iscador M 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23283711000001105,Iscador M 1mg/ml oral drops,190203000BBAAA0
+AMP,19378511000001105,Iscador M 1mg/ml oral drops,190203000BBAAA0
+AMP,19394011000001101,Iscador M 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19394511000001109,Iscador M 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23284011000001105,Iscador M 20mg/ml oral drops,190203000BBAAA0
+AMP,19378811000001108,Iscador M 20mg/ml oral drops,190203000BBAAA0
+AMP,23284311000001108,Iscador M 30mg/ml oral drops,190203000BBAAA0
+AMP,19379111000001108,Iscador M 30mg/ml oral drops,190203000BBAAA0
+AMP,19890511000001103,Iscador M 5mg/1ml Special solution for injection ampoules,190203000BBAAA0
+AMP,19422011000001108,Iscador M c Arg 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19422511000001100,Iscador M c Arg 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19423011000001104,Iscador M c Arg 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19423511000001107,Iscador M c Arg 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19424011000001102,Iscador M c Arg 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19424511000001105,Iscador M c Arg 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19425011000001103,Iscador M c Arg 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19403411000001104,Iscador M c Cu 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19403911000001107,Iscador M c Cu 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19404411000001101,Iscador M c Cu 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19404911000001109,Iscador M c Cu 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19405411000001100,Iscador M c Cu 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19405911000001108,Iscador M c Cu 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19406411000001109,Iscador M c Cu 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19425511000001106,Iscador M c Hg 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19426211000001102,Iscador M c Hg 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19426711000001109,Iscador M c Hg 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19427011000001105,Iscador M c Hg 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19427511000001102,Iscador M c Hg 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19428011000001106,Iscador M c Hg 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19428911000001105,Iscador M c Hg 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19396311000001109,Iscador P 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23290611000001109,Iscador P 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19380611000001100,Iscador P 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19396811000001100,Iscador P 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19397311000001107,Iscador P 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23293511000001104,Iscador P 10mg/ml oral drops,190203000BBAAA0
+AMP,19380911000001106,Iscador P 10mg/ml oral drops,190203000BBAAA0
+AMP,19397811000001103,Iscador P 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23295411000001104,Iscador P 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19381311000001100,Iscador P 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19398311000001108,Iscador P 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23295911000001107,Iscador P 1mg/ml oral drops,190203000BBAAA0
+AMP,19381811000001109,Iscador P 1mg/ml oral drops,190203000BBAAA0
+AMP,19398911000001109,Iscador P 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19399211000001105,Iscador P 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23296411000001108,Iscador P 20mg/ml oral drops,190203000BBAAA0
+AMP,19382111000001107,Iscador P 20mg/ml oral drops,190203000BBAAA0
+AMP,23296811000001105,Iscador P 30mg/ml oral drops,190203000BBAAA0
+AMP,19382411000001102,Iscador P 30mg/ml oral drops,190203000BBAAA0
+AMP,19418111000001102,Iscador P c Hg 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19418611000001105,Iscador P c Hg 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19419511000001100,Iscador P c Hg 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19420011000001109,Iscador P c Hg 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19420511000001101,Iscador P c Hg 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19421011000001100,Iscador P c Hg 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19421511000001108,Iscador P c Hg 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19399711000001103,Iscador Qu 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23297111000001100,Iscador Qu 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19383011000001102,Iscador Qu 100micrograms/ml oral drops,190203000BBAAA0
+AMP,19400211000001108,Iscador Qu 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19400811000001109,Iscador Qu 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23297411000001105,Iscador Qu 10mg/ml oral drops,190203000BBAAA0
+AMP,19383311000001104,Iscador Qu 10mg/ml oral drops,190203000BBAAA0
+AMP,19401411000001103,Iscador Qu 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23297711000001104,Iscador Qu 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19383611000001109,Iscador Qu 10micrograms/ml oral drops,190203000BBAAA0
+AMP,19401911000001106,Iscador Qu 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23298011000001100,Iscador Qu 1mg/ml oral drops,190203000BBAAA0
+AMP,19383911000001103,Iscador Qu 1mg/ml oral drops,190203000BBAAA0
+AMP,19402411000001108,Iscador Qu 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19402911000001100,Iscador Qu 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,23298511000001108,Iscador Qu 20mg/ml oral drops,190203000BBAAA0
+AMP,19384111000001104,Iscador Qu 20mg/ml oral drops,190203000BBAAA0
+AMP,23298911000001101,Iscador Qu 30mg/ml oral drops,190203000BBAAA0
+AMP,19384511000001108,Iscador Qu 30mg/ml oral drops,190203000BBAAA0
+AMP,19891211000001107,Iscador Qu 5mg/1ml Special solution for injection ampoules,190203000BBAAA0
+AMP,19892111000001106,Iscador Qu Series 0 solution for injection ampoules,190203000BBAAA0
+AMP,19892811000001104,Iscador Qu Series 1 solution for injection ampoules,190203000BBAAA0
+AMP,19893711000001104,Iscador Qu Series 2 solution for injection ampoules,190203000BBAAA0
+AMP,19894411000001108,Iscador Qu Series 3 solution for injection ampoules,190203000BBAAA0
+AMP,19414411000001103,Iscador Qu c Arg 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19414911000001106,Iscador Qu c Arg 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19415411000001102,Iscador Qu c Arg 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19415911000001105,Iscador Qu c Arg 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19416411000001106,Iscador Qu c Arg 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19416911000001103,Iscador Qu c Arg 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19417411000001108,Iscador Qu c Arg 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19406911000001101,Iscador Qu c Cu 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19407411000001106,Iscador Qu c Cu 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19407911000001103,Iscador Qu c Cu 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19408411000001105,Iscador Qu c Cu 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19408911000001102,Iscador Qu c Cu 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19409411000001102,Iscador Qu c Cu 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19409911000001105,Iscador Qu c Cu 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19410811000001106,Iscador Qu c Hg 100micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19411311000001107,Iscador Qu c Hg 100nanograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19411811000001103,Iscador Qu c Hg 10mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19412311000001103,Iscador Qu c Hg 10micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19412811000001107,Iscador Qu c Hg 1mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19413311000001108,Iscador Qu c Hg 1micrograms/1ml solution for injection ampoules,190203000BBAAA0
+AMP,19413811000001104,Iscador Qu c Hg 20mg/1ml solution for injection ampoules,190203000BBAAA0
+AMP,5105611000001108,Kalium bichromicum 30c homeopathic pillules,190203000BBAAA0
+AMP,10339511000001101,Kalium bichromicum 30c homeopathic tablets,190203000BBAAA0
+AMP,5092311000001102,Kalium bichromicum 30c homeopathic tablets,190203000BBAAA0
+AMP,5054511000001107,Kalium bichromicum 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5090811000001105,Kalium bichromicum 6c homeopathic tablets,190203000BBAAA0
+AMP,5057911000001106,Kalium phosphoricum 30c homeopathic tablets,190203000BBAAA0
+AMP,5059211000001108,Kalium phosphoricum 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5060511000001105,Kalium phosphoricum 6c homeopathic tablets,190203000BBAAA0
+AMP,5105911000001102,Lachesis muta 30c homeopathic pillules,190203000BBAAA0
+AMP,5091911000001107,Lachesis muta 6c homeopathic tablets,190203000BBAAA0
+AMP,5037011000001106,Laxadoron tablets,190203000BBAAA0
+AMP,5076811000001100,Ledum palustre 30c homeopathic pillules,190203000BBAAA0
+AMP,10339911000001108,Ledum palustre 30c homeopathic tablets,190203000BBAAA0
+AMP,5090911000001100,Ledum palustre 6c homeopathic tablets,190203000BBAAA0
+AMP,5062911000001104,Lycopodium 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5106211000001100,Lycopodium clavatum 30c homeopathic pillules,190203000BBAAA0
+AMP,5060411000001106,Lycopodium clavatum 30c homeopathic tablets,190203000BBAAA0
+AMP,5061611000001104,Lycopodium clavatum 6c homeopathic tablets,190203000BBAAA0
+AMP,10340211000001107,Magnesium phosphoricum 30c homeopathic tablets,190203000BBAAA0
+AMP,23333911000001108,Menodoron drops,190203000BBAAA0
+AMP,5247411000001109,Menodoron drops,190203000BBAAA0
+AMP,10340511000001105,Mercurius solubilis 30c homeopathic tablets,190203000BBAAA0
+AMP,5095611000001103,Mercurius solubilis 30c homeopathic tablets,190203000BBAAA0
+AMP,5053411000001105,Mercurius solubilis 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5093911000001108,Mercurius solubilis 6c homeopathic tablets,190203000BBAAA0
+AMP,5077811000001103,Mercurius vivus 30c homeopathic pillules,190203000BBAAA0
+AMP,10340811000001108,Mixed pollen 30c homeopathic tablets,190203000BBAAA0
+AMP,5094711000001108,Mixed pollen 30c homeopathic tablets,190203000BBAAA0
+AMP,5055311000001102,Natrum muriaticum 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10341111000001107,Natrum muriaticum 30c homeopathic tablets,190203000BBAAA0
+AMP,5052211000001100,Natrum muriaticum 30c homeopathic tablets,190203000BBAAA0
+AMP,5056111000001105,Natrum muriaticum 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5053111000001100,Natrum muriaticum 6c homeopathic tablets,190203000BBAAA0
+AMP,7918911000001108,New Era Calc. Fluor. 6x homeopathic tablets,190203000BBAAA0
+AMP,7919611000001106,New Era Calc. Phos. 6x homeopathic tablets,190203000BBAAA0
+AMP,7920211000001108,New Era Calc. Sulf. 6x homeopathic tablets,190203000BBAAA0
+AMP,7930811000001106,New Era Combination A 6x homeopathic tablets,190203000BBAAA0
+AMP,7931411000001100,New Era Combination B 6x homeopathic tablets,190203000BBAAA0
+AMP,7931911000001108,New Era Combination C 6x homeopathic tablets,190203000BBAAA0
+AMP,7932311000001103,New Era Combination D 6x homeopathic tablets,190203000BBAAA0
+AMP,7933211000001100,New Era Combination E 6x homeopathic tablets,190203000BBAAA0
+AMP,7934311000001105,New Era Combination F 6x homeopathic tablets,190203000BBAAA0
+AMP,7934611000001100,New Era Combination G 6x homeopathic tablets,190203000BBAAA0
+AMP,7934911000001106,New Era Combination H 6x homeopathic tablets,190203000BBAAA0
+AMP,7935211000001101,New Era Combination I 6x homeopathic tablets,190203000BBAAA0
+AMP,7935611000001104,New Era Combination J 6x homeopathic tablets,190203000BBAAA0
+AMP,7936211000001107,New Era Combination K 6x homeopathic tablets,190203000BBAAA0
+AMP,7936711000001100,New Era Combination L 6x homeopathic tablets,190203000BBAAA0
+AMP,7937111000001103,New Era Combination M 6x homeopathic tablets,190203000BBAAA0
+AMP,7937511000001107,New Era Combination N 6x homeopathic tablets,190203000BBAAA0
+AMP,7938211000001108,New Era Combination P 6x homeopathic tablets,190203000BBAAA0
+AMP,7938711000001101,New Era Combination Q 6x homeopathic tablets,190203000BBAAA0
+AMP,7939411000001104,New Era Combination R 6x homeopathic tablets,190203000BBAAA0
+AMP,7939811000001102,New Era Combination S 6x homeopathic tablets,190203000BBAAA0
+AMP,7921411000001103,New Era Ferr. Phos. 6x homeopathic tablets,190203000BBAAA0
+AMP,7922311000001101,New Era Kali. Mur. 6x homeopathic tablets,190203000BBAAA0
+AMP,7923011000001108,New Era Kali. Phos. 6x homeopathic tablets,190203000BBAAA0
+AMP,7923911000001107,New Era Kali. Sulf. 6x homeopathic tablets,190203000BBAAA0
+AMP,7924511000001102,New Era Mag. Phos. 6x homeopathic tablets,190203000BBAAA0
+AMP,7925611000001102,New Era Nat. Mur. 6x homeopathic tablets,190203000BBAAA0
+AMP,7925911000001108,New Era Nat. Phos. 6x homeopathic tablets,190203000BBAAA0
+AMP,7926211000001105,New Era Nat. Sulf. 6x homeopathic tablets,190203000BBAAA0
+AMP,7926511000001108,New Era Silica 6x homeopathic tablets,190203000BBAAA0
+AMP,5035911000001100,Noctura homeopathic tablets,190203000BBAAA0
+AMP,5070911000001107,Nux vomica 30c homeopathic pillules,190203000BBAAA0
+AMP,5061711000001108,Nux vomica 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10341411000001102,Nux vomica 30c homeopathic tablets,190203000BBAAA0
+AMP,5097111000001102,Nux vomica 30c homeopathic tablets,190203000BBAAA0
+AMP,5071411000001108,Nux vomica 6c homeopathic pillules,190203000BBAAA0
+AMP,5063811000001101,Nux vomica 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5095311000001108,Nux vomica 6c homeopathic tablets,190203000BBAAA0
+AMP,17641911000001109,Oopherinum 30c homeopathic granules,190203000BBAAA0
+AMP,17643511000001103,Oopherinum 30c homeopathic liquid,190203000BBAAA0
+AMP,17604411000001106,Oopherinum 30c homeopathic pillules,190203000BBAAA0
+AMP,17639511000001100,Oopherinum 30c homeopathic tablets,190203000BBAAA0
+AMP,17641811000001104,Oopherinum 6c homeopathic granules,190203000BBAAA0
+AMP,17643411000001102,Oopherinum 6c homeopathic liquid,190203000BBAAA0
+AMP,17604311000001104,Oopherinum 6c homeopathic pillules,190203000BBAAA0
+AMP,17639411000001104,Oopherinum 6c homeopathic tablets,190203000BBAAA0
+AMP,10341711000001108,Passiflora incarnata 30c homeopathic tablets,190203000BBAAA0
+AMP,5106811000001104,Phosphorus 30c homeopathic pillules,190203000BBAAA0
+AMP,10342011000001103,Phosphorus 30c homeopathic tablets,190203000BBAAA0
+AMP,5058811000001102,Phosphorus 30c homeopathic tablets,190203000BBAAA0
+AMP,5057111000001108,Phosphorus 6c homeopathic tablets,190203000BBAAA0
+AMP,5094611000001104,Phytolacca decandra 6c homeopathic tablets,190203000BBAAA0
+AMP,5036211000001103,Pollenna homeopathic tablets,190203000BBAAA0
+AMP,21382111000001103,Pulsatilla nigricans 30c homeopathic tablets,190203000BBAAA0
+AMP,5080311000001102,Pulsatilla pratensis 30c homeopathic pillules,190203000BBAAA0
+AMP,5101211000001108,Pulsatilla pratensis 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5096311000001103,Pulsatilla pratensis 30c homeopathic tablets,190203000BBAAA0
+AMP,5060611000001109,Pulsatilla pratensis 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5064911000001108,Pulsatilla pratensis 6c homeopathic tablets,190203000BBAAA0
+AMP,5248611000001106,Pyrethrum liquid,190203000BBAAA0
+AMP,5247711000001103,Rheumadoron 102A drops,190203000BBAAA0
+AMP,5036711000001105,Rheumadoron ointment,190203000BBAAA0
+AMP,5067711000001104,Rheumatica 6c homeopathic tablets,190203000BBAAA0
+AMP,5074411000001105,Rhus toxicodendron 30c homeopathic pillules,190203000BBAAA0
+AMP,5075511000001105,Rhus toxicodendron 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10342611000001105,Rhus toxicodendron 30c homeopathic tablets,190203000BBAAA0
+AMP,5072711000001109,Rhus toxicodendron 30c homeopathic tablets,190203000BBAAA0
+AMP,5065911000001107,Rhus toxicodendron 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5064711000001106,Rhus toxicodendron 6c homeopathic tablets,190203000BBAAA0
+AMP,5064311000001107,Rhus toxicodendron 9% homeopathic cream,190203000BBAAA0
+AMP,5069011000001105,Ruta graveolens 30c homeopathic pillules,190203000BBAAA0
+AMP,10342911000001104,Ruta graveolens 30c homeopathic tablets,190203000BBAAA0
+AMP,5095111000001106,Ruta graveolens 30c homeopathic tablets,190203000BBAAA0
+AMP,5059511000001106,Ruta graveolens 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5094011000001106,Ruta graveolens 6c homeopathic tablets,190203000BBAAA0
+AMP,5101011000001103,Scleron 12x homeopathic tablets,190203000BBAAA0
+AMP,5107111000001109,Sepia officinalis 30c homeopathic pillules,190203000BBAAA0
+AMP,5063211000001102,Sepia officinalis 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10346611000001106,Sepia officinalis 30c homeopathic tablets,190203000BBAAA0
+AMP,5099411000001103,Sepia officinalis 30c homeopathic tablets,190203000BBAAA0
+AMP,5062211000001108,Sepia officinalis 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5096011000001101,Sepia officinalis 6c homeopathic tablets,190203000BBAAA0
+AMP,10343411000001103,Silica 30c homeopathic tablets,190203000BBAAA0
+AMP,9829511000001104,Silica 30c homeopathic tablets,190203000BBAAA0
+AMP,34869411000001108,Silica 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,9827011000001103,Silica 6c homeopathic tablets,190203000BBAAA0
+AMP,5250011000001104,Sootha homeopathic cough syrup,190203000BBAAA0
+AMP,5059911000001104,Strains 9% homeopathic cream,190203000BBAAA0
+AMP,5065611000001101,Sulfur 30c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,10346911000001100,Sulfur 30c homeopathic tablets,190203000BBAAA0
+AMP,5097811000001109,Sulfur 30c homeopathic tablets,190203000BBAAA0
+AMP,5064211000001104,Sulfur 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5096911000001102,Sulfur 6c homeopathic tablets,190203000BBAAA0
+AMP,5080711000001103,Symphytum officinale 6c homeopathic tablets,190203000BBAAA0
+AMP,5066811000001105,Tea tree oil 4.78% homeopathic cream,190203000BBAAA0
+AMP,5044211000001107,Teetha homeopathic granules 7g sachets sugar free,190203000BBAAA0
+AMP,5084911000001106,Thuja occidentalis 30c homeopathic tablets,190203000BBAAA0
+AMP,5078411000001101,Thuja occidentalis 6c homeopathic pillules Clikpak,190203000BBAAA0
+AMP,5076111000001107,Thuja occidentalis 6c homeopathic tablets,190203000BBAAA0
+AMP,5043011000001104,Travella homeopathic tablets,190203000BBAAA0
+AMP,5091611000001101,Urtica urens 30c homeopathic tablets,190203000BBAAA0
+AMP,5088211000001108,Urtica urens 6c homeopathic tablets,190203000BBAAA0
+AMP,5079011000001100,Vitis compound tablets,190203000BBAAA0
+AMP,7994111000001103,Weleda Massage Balm with Arnica,190203000BBAAA0
+AMP,7559211000001109,Weleda foot balm,190203000BBAAA0
+VMP,19821311000001105,Generic Germolene New Skin liquid,190205000BBBBA0
+AMP,19808411000001102,Germolene New Skin liquid,190205000BBBBA0
+VMP,8064111000001104,Sodium fluoride 0.32% / Triclosan 0.3% dental paste sugar free,190205500AAAKAK
+VMP,4282611000001106,Generic Eucerin ATOControl Bath & Shower oil,190205500BBEJA0
+AMP,4275811000001106,Eucerin ATOControl Bath & Shower oil,190205500BBEJA0
+AMP,7547511000001103,RoC skin toner for dry skin,190205500BBFUA0
+AMP,7547211000001101,Infaderm bubble bath,190205500BBGTA0
+AMP,7539611000001105,Infaderm body lotion,190205500BBGUA0
+AMP,7548811000001101,Veil cleansing cream,190205500BBHIA0
+AMP,8744911000001108,Dermacolor Creme Effectiv,190205500BBHVA0
+AMP,8745111000001109,Dermacolor Creme Effectiv 2CC,190205500BBHWA0
+AMP,8789911000001104,Dermacolor cleansing milk,190205500BBHXA0
+AMP,8744711000001106,Dermacolor cleansing cream,190205500BBHYA0
+AMP,7537611000001100,Ambre Solaire aftersun skin soother lotion,190205500BBJCA0
+AMP,7537411000001103,E45 Sun Aftersun lotion,190205500BBNVA0
+AMP,7670111000001102,RoC gentle exfoliating cream,190205500BBPGA0
+AMP,10323811000001103,Leppin A Plus 4 Vitamin skin cream,190205500BBQVA0
+AMP,7560311000001100,Neutrogena Norwegian Formula Moisturisation foot cream,190205500BBRVA0
+AMP,7519711000001109,Aloe Pura Aloe Vera gel,190205500BBSCA0
+VMP,8011211000001107,Arnica montana 1% cream,190205500BBSUA0
+AMP,8013911000001102,HealthAid Arnica High Potency cream,190205500BBSUA0
+AMP,7546411000001104,Vagisil feminine wash,190205500BBTRA0
+AMP,20945011000001101,Clinisan emollient wash cream,190205500BBTVA0
+VMP,17844011000001101,Almond oil 5% / Lanolin anhydrous 1% cream,190205500BBUYA0
+AMP,17841111000001103,Boots Cradle Cap cream from Birth,190205500BBUYA0
+AMP,7552711000001108,Infaderm shampoo,190205500BBXEA0
+AMP,7536211000001104,Nutralia shampoo,190205500BBXHA0
+VMP,4282811000001105,Generic Exorex Hair and Body shampoo,190205500BBYHA0
+AMP,4276311000001107,Exorex Hair and Body shampoo,190205500BBYHA0
+AMP,11521411000001109,Neutrogena T/Gel shampoo for greasy hair,190205500BBYIA0
+VMP,8175211000001108,Generic Sensodyne Gel toothpaste sugar free,190205500BCAHA0
+AMP,8168011000001101,Sensodyne Gel toothpaste,190205500BCAHA0
+AMP,8065011000001101,Colgate Total Original Care toothpaste,190205500BCATAK
+AMP,11521111000001104,Neutrogena T/Gel shampoo for dry hair,190205500BCCPA0
+VMP,4282511000001107,Generic Eucerin Dry Skin Relief bath therapy oil,190205500BCDSA0
+AMP,4278811000001102,Eucerin Dry Skin Relief bath therapy oil,190205500BCDSA0
+VMP,17156411000001106,Generic Teangi Tea Tree and Witch Hazel cream,190205500BCETA0
+AMP,17145411000001104,Teangi Tea Tree & Witch Hazel cream,190205500BCETA0
+VMP,4283111000001109,Generic Oilatum scalp treatment shampoo,190205500BCEUA0
+AMP,4274811000001105,Oilatum scalp treatment shampoo,190205500BCEUA0
+AMP,7993111000001100,German Chamomile flower cream,190205500BCEWA0
+AMP,7545211000001109,Allergenics Baby wash,190205500BCEZA0
+AMP,7540611000001103,RoC cleansing milk for dry skin,190205500BCFCA0
+AMP,7545011000001104,Allergenics Wash shower gel,190205500BCFIA0
+AMP,7536911000001108,Allergenics Hair shampoo,190205500BCFJA0
+VMP,4282411000001108,Generic E45 emollient shower cream,190205500BCFWA0
+AMP,4275411000001109,E45 emollient shower cream,190205500BCFWA0
+VMP,16109411000001105,Generic GlucOsamine gel,190205500BCFYA0
+AMP,16103711000001102,GlucOsamine gel,190205500BCFYA0
+VMP,13844411000001102,Generic UltraDEX toothpaste sugar free,190205500BCHDA0
+AMP,13836911000001101,UltraDEX toothpaste,190205500BCHDA0
+VMP,4282711000001102,Generic Exorex scalp moisture lotion,190205500BCHIA0
+AMP,4279211000001108,Exorex scalp moisture lotion,190205500BCHIA0
+AMP,13950511000001101,E45 Junior hand & body wash,190205500BCIXA0
+AMP,13951211000001105,E45 Junior shower mousse,190205500BCIYA0
+AMP,13950811000001103,E45 Junior moisturising cream,190205500BCIZA0
+AMP,13951011000001100,E45 Junior moisturising mousse,190205500BCJAA0
+AMP,12421011000001107,Bio-Oil liquid,190205500BCKHA0
+AMP,14225611000001105,Oilatum Natural Repair face cream,190205500BCLWA0
+VMP,8175111000001102,Generic E45 Junior foaming bath milk,190205500BCLXA0
+AMP,8174311000001104,E45 Junior foaming bath milk,190205500BCLXA0
+AMP,8519111000001100,Dermablend hydrating complex creme,190205500BCLYA0
+AMP,9859511000001100,E45 Dry Scalp shampoo,190205500BCLZA0
+AMP,9860411000001100,PediTech Foot Odour Control pumpspray,190205500BCMAA0
+AMP,9890711000001109,E45 Foot & Heel cream,190205500BCMBA0
+AMP,10343611000001100,DermaSalve body cream,190205500BCMCA0
+AMP,10343911000001106,DermaSalve foot & heel cream,190205500BCMDA0
+AMP,10344311000001107,DermaSalve hand cream,190205500BCMEA0
+VMP,12089811000001103,Generic Oilatum scalp intensive treatment shampoo,190205500BCMFA0
+AMP,12063711000001105,Oilatum scalp intensive treatment shampoo,190205500BCMFA0
+AMP,12422211000001109,DermaSalve face cream,190205500BCMGA0
+AMP,12422511000001107,DermaSalve baby & infant cream,190205500BCMHA0
+AMP,13399611000001105,Senset Skin Cleansing Foam,190205500BCMIA0
+VMP,13821611000001103,Generic Octenisan Antimicrobial wash,190205500BCMKA0
+AMP,13820111000001100,Octenisan Antimicrobial wash,190205500BCMKA0
+AMP,14225411000001107,Oilatum Natural Repair cream,190205500BCMLA0
+AMP,14752911000001100,Neutrogena Norwegian Formula Intense Repair foot cream,190205500BCMMA0
+AMP,16530811000001103,Selsun Blue Anti-dandruff Deep Cleansing 1% shampoo,190205500BCMNA0
+AMP,16531011000001100,Selsun Blue Anti-dandruff Dual Action 1% shampoo,190205500BCMPA0
+AMP,16531211000001105,Selsun Blue Anti-dandruff Replenishing 1% shampoo,190205500BCMQA0
+AMP,16703111000001107,Deb Antimicrobial body wash,190205500BCMRA0
+AMP,8790411000001103,Covermark removing cream,190205500BCMSA0
+AMP,8744011000001109,Dermacolor cleansing lotion,190205500BCMTA0
+VMP,17483511000001105,Generic Bio-Glucosamine + MSM cream,190205500BCMUA0
+AMP,17444411000001101,Bio-Glucosamine + MSM cream,190205500BCMUA0
+VMP,18349411000001104,Generic Aveeno body wash,190205500BCMVA0
+AMP,18348811000001109,Aveeno body wash,190205500BCMVA0
+AMP,18652211000001101,Veil toning lotion and skin freshener,190205500BCMWA0
+AMP,18656111000001106,Deep Skin Cleanser,190205500BCMXA0
+AMP,18656311000001108,Unique Deep Skin Moisturiser,190205500BCMYA0
+AMP,18656511000001102,Skin Moisturiser,190205500BCMZA0
+VMP,19448311000001106,Didecyldimethylammonium chloride 1% liquid,190205500BCNAA0
+AMP,19385511000001109,Stellisept med 1% skin cleanser,190205500BCNAA0
+VMP,19448211000001103,Didecyldimethylammonium chloride 1% foam,190205500BCNBA0
+AMP,19386211000001100,Stellisept med 1% foam,190205500BCNBA0
+AMP,19699811000001100,Neutrogena T/Gel shampoo for sensitive scalp,190205500BCNDA0
+VMP,18159311000001100,Generic Propolis cream,190205500BCNEA0
+AMP,18159411000001107,Propolis cream,190205500BCNEA0
+VMP,20122211000001102,Generic Digestisan oral drops sugar free,190205500BCNFA0
+AMP,20117211000001108,Digestisan oral drops,190205500BCNFA0
+AMP,20135811000001106,Moisturiser Plus,190205500BCNGA0
+VMP,21114311000001104,Generic Hizorb Nonwoven wipes,190205500BCNIA0
+AMP,21050611000001103,Hizorb Nonwoven wipes,190205500BCNIA0
+VMP,21114111000001101,Generic Hizorb Airlaid wipes,190205500BCNJA0
+AMP,21051711000001104,Hizorb Airlaid wipes,190205500BCNJA0
+VMP,21114211000001107,Generic Hizorb Economy wipes,190205500BCNKA0
+AMP,21052311000001107,Hizorb Economy wipes,190205500BCNKA0
+AMP,21552011000001106,Cuticura Original Anti Bacterial hand gel,190205500BCNLA0
+AMP,21700611000001105,Colgate TOTAL Pro Gum Health Tartar Control toothpaste,190205500BCNMAK
+AMP,21700811000001109,Colgate TOTAL Pro Gum Health toothpaste,190205500BCNNAK
+AMP,22370611000001100,Soleve Sunburn Relief cutaneous emulsion,190205500BCNPA0
+AMP,24374911000001105,Neutrogena T/Gel 2 in 1 shampoo & conditioner,190205500BCNQA0
+VMP,27622811000001109,Generic Avene XeraCalm A.D Lipid-Replenishing Cleansing oil,190205500BCNRA0
+AMP,27484511000001107,Avene XeraCalm A.D Lipid-Replenishing Cleansing oil,190205500BCNRA0
+VMP,27623011000001107,Generic Avene XeraCalm A.D Lipid-Replenishing balm,190205500BCNSA0
+AMP,27486911000001108,Avene XeraCalm A.D Lipid-Replenishing balm,190205500BCNSA0
+VMP,27623111000001108,Generic Avene XeraCalm A.D Lipid-Replenishing cream,190205500BCNTA0
+AMP,27486211000001104,Avene XeraCalm A.D Lipid-Replenishing cream,190205500BCNTA0
+AMP,28784511000001105,oraNurse 1450ppm fluoride unflavoured toothpaste original,190205500BCNUA0
+AMP,28784711000001100,oraNurse 1000ppm fluoride unflavoured toothpaste 0-3 years,190205500BCNVA0
+AMP,28784911000001103,oraNurse 1450ppm fluoride unflavoured toothpaste 4+ years,190205500BCNWA0
+AMP,28937311000001105,Scar oil,190205500BCNXA0
+VMP,29095511000001108,Generic Skin Salvation scalp oil,190205500BCNYA0
+AMP,29014111000001104,Skin Salvation scalp oil,190205500BCNYA0
+VMP,29888811000001100,Generic Perspi-Guard Maximum Strength Anti-perspirant spray,190205500BCNZA0
+AMP,29864411000001109,Perspi-Guard Maximum Strength Anti-perspirant spray,190205500BCNZA0
+VMP,30806711000001106,Generic Tena 3 in 1 wash cream,190205500BCPAA0
+AMP,30804611000001106,Tena 3 in 1 wash cream,190205500BCPAA0
+VMP,30806611000001102,Generic Octenisan nasal gel,190205500BCPBA0
+AMP,30805111000001104,Octenisan nasal gel,190205500BCPBA0
+VMP,30920111000001105,Generic PharmaClinix Scar Repairex Smooth cream,190205500BCPCA0
+AMP,30915311000001109,PharmaClinix Scar Repairex Smooth cream,190205500BCPCA0
+VMP,30952611000001100,Generic Aveeno Skin Relief Soothing shampoo,190205500BCPDA0
+AMP,30934211000001105,Aveeno Skin Relief Soothing shampoo,190205500BCPDA0
+VMP,31002311000001102,Generic PharmaClinix Acnex Clear cream,190205500BCPEA0
+AMP,30995911000001106,PharmaClinix Acnex Clear cream,190205500BCPEA0
+VMP,31002411000001109,Generic PharmaClinix Lightenex Bright cream,190205500BCPFA0
+AMP,30995411000001103,PharmaClinix Lightenex Bright cream,190205500BCPFA0
+VMP,32816811000001106,Generic Octenisan Antimicrobial wash mitts,190205500BCPGA0
+AMP,32813011000001108,Octenisan Antimicrobial wash mitts,190205500BCPGA0
+VMP,32816711000001103,Generic Octenisan wash cap,190205500BCPHA0
+AMP,32813311000001106,Octenisan wash cap,190205500BCPHA0
+VMP,32977011000001101,Generic SilDerm Stretch Mark Repair cream,190205500BCPIA0
+AMP,32972911000001104,SilDerm Stretch Mark Repair cream,190205500BCPIA0
+VMP,32976911000001100,Generic SilDerm Stretch Mark Prevention Oil spray,190205500BCPJA0
+AMP,32972211000001108,SilDerm Stretch Mark Prevention Oil spray,190205500BCPJA0
+VMP,32977111000001100,Generic SilDerm Triple Action Anti-Cellulite cream,190205500BCPKA0
+AMP,32973411000001103,SilDerm Triple Action Anti-Cellulite cream,190205500BCPKA0
+VMP,33150011000001105,Generic E45 Derma Protect Fast Acting 24H moisturiser spray,190205500BCPLA0
+AMP,33143211000001108,E45 Derma Protect Fast Acting 24H moisturiser spray,190205500BCPLA0
+VMP,33208811000001107,Generic Octenisan cleansing solution 30ml sachets,190205500BCPMA0
+AMP,33182611000001107,Octenisan cleansing solution 30ml sachets,190205500BCPMA0
+AMP,33552911000001101,Delph aftersun lotion,190205500BCPNA0
+AMP,33553311000001107,Delph aftersun gel,190205500BCPPA0
+VMP,33838411000001108,Generic Sanderson's Throat Specific mixture,190205500BCPQA0
+AMP,33768611000001102,Sanderson's Throat Specific mixture,190205500BCPQA0
+VMP,34156611000001104,Generic Aveeno Bath & Shower oil,190205500BCPRA0
+AMP,34156011000001106,Aveeno Daily moisturising body cleansing oil,190205500BCPRA0
+VMP,34465311000001107,Generic Elave facial cleanser,190205500BCPSA0
+AMP,34462811000001105,Elave facial cleanser,190205500BCPSA0
+VMP,34465411000001100,Generic Elave hand wash,190205500BCPTA0
+AMP,34463711000001105,Elave hand wash,190205500BCPTA0
+VMP,34465211000001104,Generic Elave conditioner,190205500BCPUA0
+AMP,34464311000001108,Elave conditioner,190205500BCPUA0
+VMP,34465511000001101,Generic Elave shower gel,190205500BCPVA0
+AMP,34464711000001107,Elave shower gel,190205500BCPVA0
+VMP,34683211000001103,Generic Balmonds Natural Shampoo & Body Wash,190205500BCPWA0
+AMP,34672311000001108,Balmonds Natural Shampoo & Body Wash,190205500BCPWA0
+VMP,34683111000001109,Generic Purepotions Hair & Scalp natural conditioner,190205500BCPXA0
+AMP,34672811000001104,Purepotions Hair & Scalp natural conditioner,190205500BCPXA0
+AMP,34892911000001108,Clinisan emollient skin cleansing foam,190205500BCPYA0
+VMP,34938411000001102,Generic Skin Salvation omega rich cleansing oil,190205500BCQAA0
+AMP,34921411000001106,Skin Salvation omega rich cleansing oil,190205500BCQAA0
+VMP,35061311000001106,Generic MooGoo Natural Milk wash,190205500BCQBA0
+AMP,35042811000001104,MooGoo Natural Milk wash,190205500BCQBA0
+VMP,35319011000001107,Generic Cuderm gel wash,190205500BCQCA0
+AMP,35244611000001103,Cuderm gel wash,190205500BCQCA0
+VMP,35299011000001100,Generic A-Derma Exomega cleansing oil,190205500BCQDA0
+AMP,35278611000001109,A-Derma Exomega cleansing oil,190205500BCQDA0
+VMP,35299211000001105,Generic A-Derma soothing foaming gel,190205500BCQEA0
+AMP,35278911000001103,A-Derma soothing foaming gel,190205500BCQEA0
+VMP,35654411000001101,Generic Eucerin Acute 5% lip balm,190205500BCQFA0
+AMP,35648111000001102,Eucerin Acute 5% lip balm,190205500BCQFA0
+VMP,36107811000001102,Generic Octenicare Repair Creme,190205500BCQGA0
+AMP,35844311000001102,Octenicare Repair Creme,190205500BCQGA0
+VMP,38895811000001106,Acetylcysteine 2g/10ml solution for infusion ampoules,1902070A0AAAAAA
+AMP,11251911000001107,Acetylcysteine 2g/10ml solution for infusion ampoules,1902070A0AAAAAA
+AMP,9857511000001107,Acetylcysteine 2g/10ml solution for infusion ampoules,1902070A0AAAAAA
+AMP,9378111000001102,Acetylcysteine 2g/10ml solution for infusion ampoules,1902070A0AAAAAA
+AMP,3935811000001109,Parvolex 2g/10ml concentrate for solution for infusion ampoules,1902070A0BBAAAA
+VMP,36098211000001107,Dicobalt edetate 300mg/20ml solution for injection ampoules,1902070C0AAAAAA
+AMP,9222611000001101,Dicobalt edetate 300mg/20ml solution for injection ampoules,1902070C0AAAAAA
+AMP,4674711000001100,Dicobalt edetate 300mg/20ml solution for injection ampoules,1902070C0AAAAAA
+AMP,4674511000001105,Dicobalt edetate 300mg/20ml solution for injection ampoules,1902070C0AAAAAA
+VMP,36069411000001101,Dimercaprol 100mg/2ml solution for injection ampoules,1902070D0AAAAAA
+AMP,4755411000001101,Dimercaprol 100mg/2ml solution for injection ampoules,1902070D0AAAAAA
+AMP,11618511000001103,Dimercaprol 100mg/2ml solution for injection ampoules,1902070D0AAAAAA
+AMP,4755611000001103,Dimercaprol 100mg/2ml solution for injection ampoules,1902070D0AAAAAA
+VMP,7968811000001104,Activated charcoal biscuits,1902070E0AAAAAA
+VMP,3818011000001108,Activated charcoal 300mg tablets,1902070E0AAABAB
+VMP,8087311000001108,Activated charcoal 81.3% granules sugar free,1902070E0AAAGAG
+VMP,10633711000001101,Activated charcoal 200mg capsules,1902070E0AAAHAH
+VMP,350079007,Activated charcoal 5g effervescent granules sachets,1902070E0AAAIAI
+VMP,4671711000001103,Activated charcoal 1.04g/5ml oral suspension,1902070E0AAAJAJ
+VMP,4349111000001109,Activated charcoal 200mg/ml oral suspension sugar free,1902070E0AAALAL
+VMP,22437011000001103,Activated charcoal 300mg capsules,1902070E0AAAMAM
+AMP,7912211000001101,J.L. Bragg's Medicinal Charcoal biscuits,1902070E0BBAAAA
+AMP,3815311000001102,J.L. Bragg's Medicinal Charcoal tablets,1902070E0BBABAB
+AMP,22429911000001109,J.L. Bragg's Charcoal capsules,1902070E0BBACAM
+AMP,8086511000001104,Carbomix 81.3% granules,1902070E0BEAAAG
+AMP,10633511000001106,Norit 200mg capsules,1902070E0BFAAAH
+AMP,4863911000001101,Medicoal 5g effervescent granules sachets,1902070E0BIAAAI
+AMP,4669811000001100,Actidose-Aqua Advance 1.04g/5ml oral suspension,1902070E0BJAAAJ
+AMP,4345811000001100,Charcodote 200mg/ml oral suspension,1902070E0BLAAAL
+VMP,323351005,L-Methionine 250mg tablets,1902070M0AAAAAA
+AMP,4042311000001102,Methionine 250mg tablets,1902070M0AAAAAA
+AMP,5919111000001104,Methionine 250mg tablets,1902070M0AAAAAA
+AMP,4042611000001107,Methionine 250mg tablets,1902070M0AAAAAA
+AMP,4042911000001101,Methionine 250mg tablets,1902070M0AAAAAA
+VMP,4062511000001102,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,4472111000001107,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,35088911000001101,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,10678611000001101,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,4472811000001100,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,36077311000001107,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,4472511000001103,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,9781611000001107,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+AMP,14792311000001107,Naloxone 400micrograms/1ml solution for injection ampoules,1902070Q0AAAAAA
+VMP,36029011000001104,Naloxone 400micrograms/1ml solution for injection pre-filled syringes,1902070Q0AAADAD
+VMP,4482311000001102,Naloxone 2mg/2ml solution for injection pre-filled syringes,1902070Q0AAAFAF
+AMP,4474111000001104,Naloxone 2mg/2ml solution for injection pre-filled syringes,1902070Q0AAAFAF
+AMP,4474311000001102,Naloxone 2mg/2ml solution for injection pre-filled syringes,1902070Q0AAAFAF
+VMP,9820111000001103,Naloxone 2mg/5ml solution for injection pre-filled syringes,1902070Q0AAAGAG
+VMP,36029211000001109,Naloxone 800micrograms/2ml solution for injection pre-filled syringes,1902070Q0AAAHAH
+VMP,35750411000001102,Naloxone 1.8mg/0.1ml nasal spray unit dose,1902070Q0AAAIAI
+AMP,4056511000001107,Narcan 400micrograms/1ml solution for injection ampoules,1902070Q0BBAAAA
+AMP,4471411000001107,Naloxone 400micrograms/1ml solution for injection Minijet pre-filled syringes,1902070Q0BCAAAD
+AMP,4583511000001109,Naloxone 800micrograms/2ml solution for injection Minijet pre-filled syringes,1902070Q0BCABAH
+AMP,9774511000001100,Naloxone 2mg/5ml solution for injection Minijet pre-filled syringes,1902070Q0BCACAG
+AMP,22343711000001101,Prenoxad 2mg/2ml solution for injection pre-filled syringes,1902070Q0BDAAAF
+AMP,35744011000001102,Nyxoid 1.8mg/0.1ml nasal spray 0.1ml unit dose,1902070Q0BEAAAI
+VMP,14614511000001102,Acetone liquid,190400000AAAAAA
+AMP,5120411000001105,Acetone liquid,190400000AAAAAA
+AMP,5129611000001102,Acetone liquid,190400000AAAAAA
+AMP,5129111000001105,Acetone liquid,190400000AAAAAA
+AMP,5129411000001100,Acetone liquid,190400000AAAAAA
+VMP,5173711000001107,Copper sulfate pentahydrate powder,190400000AAABAB
+AMP,5154711000001106,Copper sulfate pentahydrate powder,190400000AAABAB
+AMP,5155311000001106,Copper sulfate pentahydrate powder,190400000AAABAB
+AMP,5154911000001108,Copper sulfate pentahydrate powder,190400000AAABAB
+VMP,5114211000001108,Alum powder,190400000AAACAC
+AMP,7941111000001106,Alum powder,190400000AAACAC
+AMP,5113511000001108,Alum powder,190400000AAACAC
+AMP,5113111000001104,Alum powder,190400000AAACAC
+VMP,5133911000001107,Acacia spray dried powder,190400000AAADAD
+AMP,5121511000001102,Acacia spray dried powder,190400000AAADAD
+VMP,4317211000001102,Menthol crystals,190400000AAAIAI
+AMP,4304011000001101,Menthol crystals,190400000AAAIAI
+AMP,4306411000001102,Menthol crystals,190400000AAAIAI
+AMP,32475211000001101,Menthol crystals,190400000AAAIAI
+AMP,4304411000001105,Menthol crystals,190400000AAAIAI
+AMP,4305511000001105,Menthol crystals,190400000AAAIAI
+VMP,5191611000001107,Methylcellulose powder,190400000AAAKAK
+AMP,5187211000001104,Methylcellulose 20 powder,190400000AAAKAK
+AMP,5186911000001105,Methylcellulose 20 powder,190400000AAAKAK
+VMP,5340711000001105,Phenol crystals,190400000AAAPAP
+AMP,5309011000001108,Phenol crystals,190400000AAAPAP
+AMP,5309311000001106,Phenol crystals,190400000AAAPAP
+VMP,4336511000001109,Liquid paraffin light liquid,190400000AAARAR
+AMP,4320511000001105,Liquid paraffin light liquid,190400000AAARAR
+AMP,4321111000001107,Liquid paraffin light liquid,190400000AAARAR
+AMP,4320711000001100,Liquid paraffin light liquid,190400000AAARAR
+VMP,5211111000001102,Podophyllum resin powder,190400000AAASAS
+AMP,5194011000001102,Podophyllum resin powder,190400000AAASAS
+AMP,5194611000001109,Podophyllum resin powder,190400000AAASAS
+AMP,5194211000001107,Podophyllum resin powder,190400000AAASAS
+VMP,4245411000001105,Peppermint emulsion concentrated,190400000AAAUAU
+AMP,4243211000001107,Peppermint emulsion concentrated,190400000AAAUAU
+AMP,4243911000001103,Peppermint emulsion concentrated,190400000AAAUAU
+VMP,4317911000001106,Propylene glycol liquid,190400000AAAWAW
+AMP,4303711000001101,Propylene glycol liquid,190400000AAAWAW
+AMP,4305811000001108,Propylene glycol liquid,190400000AAAWAW
+AMP,4304311000001103,Propylene glycol liquid,190400000AAAWAW
+VMP,5242011000001102,Tragacanth compound powder,190400000AABBBB
+AMP,5220211000001108,Tragacanth compound powder,190400000AABBBB
+VMP,5146211000001106,Tragacanth powder,190400000AABCBC
+AMP,5137611000001109,Tragacanth powder,190400000AABCBC
+AMP,5138711000001104,Tragacanth powder,190400000AABCBC
+VMP,5173911000001109,Dithranol powder,190400000AACACA
+AMP,5155811000001102,Dithranol powder,190400000AACACA
+AMP,5156211000001109,Dithranol powder,190400000AACACA
+VMP,5174611000001100,Ichthammol liquid,190400000AACBCB
+AMP,5159211000001100,Ichthammol liquid,190400000AACBCB
+AMP,5159811000001104,Ichthammol liquid,190400000AACBCB
+AMP,5159411000001101,Ichthammol liquid,190400000AACBCB
+VMP,4318111000001109,Salicylic acid powder,190400000AACCCC
+AMP,4307711000001106,Salicylic acid powder,190400000AACCCC
+AMP,4308411000001101,Salicylic acid powder,190400000AACCCC
+AMP,4308011000001105,Salicylic acid powder,190400000AACCCC
+VMP,5212511000001103,Sulfur precipitated powder,190400000AACGCG
+AMP,5212911000001105,Sulfur precipitated powder,190400000AACGCG
+AMP,5209811000001107,Sulfur precipitated powder,190400000AACGCG
+VMP,5212611000001104,Sulfur sublimed powder,190400000AADJDJ
+AMP,5203911000001100,Sulfur sublimed powder,190400000AADJDJ
+AMP,5204511000001105,Sulfur sublimed powder,190400000AADJDJ
+AMP,5204111000001101,Sulfur sublimed powder,190400000AADJDJ
+VMP,18518911000001109,Cholesterol powder,190400000AAEDED
+AMP,18512411000001103,Cholesterol powder,190400000AAEDED
+VMP,5211911000001104,Potassium nitrate powder,190400000AAFTFT
+AMP,5193911000001100,Potassium nitrate powder,190400000AAFTFT
+AMP,5193511000001107,Potassium nitrate powder,190400000AAFTFT
+VMP,17651311000001106,Ammonia solution dilute,190400000AAGGGG
+AMP,17647811000001106,Ammonia solution dilute,190400000AAGGGG
+VMP,17651411000001104,Ammonia solution strong,190400000AAGJGJ
+AMP,17647711000001103,Ammonia solution strong,190400000AAGJGJ
+VMP,5134011000001105,Ammonium bicarbonate powder,190400000AAHBHB
+AMP,5120311000001103,Ammonium bicarbonate powder,190400000AAHBHB
+AMP,5117911000001105,Ammonium bicarbonate powder,190400000AAHBHB
+VMP,5145611000001103,Ammonium chloride powder,190400000AAHEHE
+AMP,5136111000001104,Ammonium chloride powder,190400000AAHEHE
+AMP,5137811000001108,Ammonium chloride powder,190400000AAHEHE
+AMP,5136611000001107,Ammonium chloride powder,190400000AAHEHE
+VMP,8715711000001100,Benzocaine powder,190400000AAHNHN
+AMP,8679911000001103,Benzocaine powder,190400000AAHNHN
+VMP,5144411000001102,Bismuth subcarbonate powder,190400000AAHSHS
+AMP,5139811000001100,Bismuth subcarbonate powder,190400000AAHSHS
+AMP,5140311000001101,Bismuth subcarbonate powder,190400000AAHSHS
+AMP,5140011000001104,Bismuth subcarbonate powder,190400000AAHSHS
+AMP,7381811000001101,Bismuth subcarbonate powder,190400000AAHSHS
+VMP,10063711000001101,Bismuth subnitrate powder,190400000AAHUHU
+AMP,10062511000001104,Bismuth subnitrate powder,190400000AAHUHU
+VMP,10560911000001105,Caffeine citrate powder,190400000AAHXHX
+AMP,10544111000001107,Caffeine citrate powder,190400000AAHXHX
+VMP,5172611000001108,Calamine powder,190400000AAHZHZ
+AMP,5157711000001104,Calamine powder,190400000AAHZHZ
+AMP,5157311000001103,Calamine powder,190400000AAHZHZ
+VMP,5172711000001104,Calcium carbonate powder,190400000AAIAIA
+AMP,5148411000001106,Calcium carbonate powder,190400000AAIAIA
+VMP,5172811000001107,Camphor racemic powder,190400000AAIKIK
+AMP,5160911000001105,Camphor racemic powder,190400000AAIKIK
+AMP,5160611000001104,Camphor racemic powder,190400000AAIKIK
+VMP,10561211000001107,Cetrimide powder,190400000AAITIT
+AMP,10545611000001103,Cetrimide powder,190400000AAITIT
+VMP,5173311000001108,Chalk powder,190400000AAIUIU
+AMP,5149511000001104,Chalk powder,190400000AAIUIU
+AMP,5150511000001105,Chalk powder,190400000AAIUIU
+AMP,5150011000001102,Chalk powder,190400000AAIUIU
+VMP,4316811000001103,Chloral hydrate crystals,190400000AAIVIV
+AMP,4293611000001100,Chloral hydrate crystals,190400000AAIVIV
+AMP,4295411000001104,Chloral hydrate crystals,190400000AAIVIV
+AMP,4294611000001102,Chloral hydrate crystals,190400000AAIVIV
+VMP,10562911000001109,Crystal violet powder BP 1980,190400000AAJKJK
+AMP,10551311000001109,Crystal violet powder BP 1980,190400000AAJKJK
+VMP,13383911000001101,Dexamfetamine powder,190400000AAJNJN
+AMP,13379011000001105,Dexamfetamine powder,190400000AAJNJN
+VMP,10606611000001108,Ferrous sulfate heptahydrate powder,190400000AAKAKA
+AMP,10572011000001101,Ferrous sulfate heptahydrate powder,190400000AAKAKA
+VMP,4317011000001107,Hydrocortisone powder,190400000AAKQKQ
+AMP,4309811000001106,Hydrocortisone powder,190400000AAKQKQ
+AMP,4310611000001104,Hydrocortisone powder,190400000AAKQKQ
+AMP,4310111000001107,Hydrocortisone powder,190400000AAKQKQ
+AMP,4310311000001109,Hydrocortisone powder,190400000AAKQKQ
+VMP,5174711000001109,Iodine crystals,190400000AALDLD
+AMP,5162011000001105,Iodine crystals,190400000AALDLD
+VMP,10606911000001102,Iodoform powder BPC 1954,190400000AALELE
+AMP,10572811000001107,Iodoform powder BPC 1954,190400000AALELE
+VMP,5174911000001106,Kaolin light powder,190400000AALKLK
+AMP,5164811000001105,Kaolin light powder,190400000AALKLK
+AMP,5166211000001104,Kaolin light powder,190400000AALKLK
+AMP,5165411000001109,Kaolin light powder,190400000AALKLK
+VMP,5191511000001108,Magnesium carbonate light powder,190400000AAMAMA
+AMP,5180111000001109,Magnesium carbonate light powder,190400000AAMAMA
+AMP,5180811000001102,Magnesium carbonate light powder,190400000AAMAMA
+AMP,5180411000001104,Magnesium carbonate light powder,190400000AAMAMA
+VMP,5191411000001109,Magnesium carbonate heavy powder,190400000AAMBMB
+AMP,5178911000001104,Magnesium carbonate heavy powder,190400000AAMBMB
+AMP,5178611000001105,Magnesium carbonate heavy powder,190400000AAMBMB
+VMP,4317711000001109,Phenobarbital sodium powder,190400000AAMKMK
+AMP,4302011000001107,Phenobarbital sodium powder,190400000AAMKMK
+VMP,5211511000001106,Potassium bromide powder,190400000AAMUMU
+AMP,5195111000001102,Potassium bromide powder,190400000AAMUMU
+AMP,5194911000001103,Potassium bromide powder,190400000AAMUMU
+VMP,4317811000001101,Potassium chloride powder,190400000AAMVMV
+AMP,4292411000001107,Potassium chloride powder,190400000AAMVMV
+AMP,4292611000001105,Potassium chloride powder,190400000AAMVMV
+VMP,5211611000001105,Potassium chlorate powder,190400000AAMWMW
+AMP,5192411000001104,Potassium chlorate powder,190400000AAMWMW
+AMP,5192911000001107,Potassium chlorate powder,190400000AAMWMW
+VMP,5211711000001101,Potassium citrate powder,190400000AAMXMX
+AMP,5199111000001100,Potassium citrate powder,190400000AAMXMX
+AMP,5198311000001109,Potassium citrate powder,190400000AAMXMX
+VMP,5213311000001104,Sodium salicylate powder,190400000AAMZMZ
+AMP,5207611000001103,Sodium salicylate powder,190400000AAMZMZ
+VMP,5211811000001109,Potassium iodide powder,190400000AANBNB
+AMP,5198611000001104,Potassium iodide powder,190400000AANBNB
+AMP,5200111000001105,Potassium iodide powder,190400000AANBNB
+AMP,5199311000001103,Potassium iodide powder,190400000AANBNB
+VMP,14614011000001105,Potassium permanganate powder,190400000AANCNC
+AMP,4312311000001108,Potassium permanganate powder,190400000AANCNC
+AMP,4313211000001106,Potassium permanganate powder,190400000AANCNC
+AMP,4312611000001103,Potassium permanganate powder,190400000AANCNC
+AMP,4313011000001101,Potassium permanganate powder,190400000AANCNC
+VMP,5240711000001104,Proflavine hemisulfate powder,190400000AANLNL
+AMP,10964911000001107,Proflavine hemisulfate powder,190400000AANLNL
+AMP,5232511000001109,Proflavine hemisulfate powder,190400000AANLNL
+VMP,10608111000001101,Silver nitrate powder,190400000AAPBPB
+AMP,10577711000001102,Silver nitrate powder,190400000AAPBPB
+VMP,5241211000001100,Sodium dihydrogen phosphate dihydrate powder,190400000AAPCPC
+AMP,5219611000001106,Sodium dihydrogen phosphate dihydrate powder,190400000AAPCPC
+AMP,5219911000001100,Sodium dihydrogen phosphate dihydrate powder,190400000AAPCPC
+VMP,4245711000001104,Sodium chloride powder,190400000AAPFPF
+AMP,5058311000001106,Sodium chloride powder,190400000AAPFPF
+AMP,4240611000001100,Sodium chloride powder,190400000AAPFPF
+AMP,26856411000001102,Sodium chloride powder,190400000AAPFPF
+AMP,4240111000001108,Sodium chloride powder,190400000AAPFPF
+VMP,5241111000001106,Sodium citrate powder,190400000AAPGPG
+AMP,5218811000001103,Sodium citrate powder,190400000AAPGPG
+AMP,5218011000001109,Sodium citrate powder,190400000AAPGPG
+VMP,3505311000001103,Starch maize powder,190400000AAPZPZ
+AMP,229811000001101,Starch maize powder,190400000AAPZPZ
+AMP,508911000001103,Starch maize powder,190400000AAPZPZ
+AMP,618411000001103,Starch maize powder,190400000AAPZPZ
+AMP,677211000001109,Starch maize powder,190400000AAPZPZ
+VMP,18000011000001107,Urea powder,190400000AAQZQZ
+AMP,17997211000001101,Urea powder,190400000AAQZQZ
+VMP,5210711000001109,Magnesium sulfate dried powder,190400000AARGRG
+AMP,5182411000001103,Magnesium sulfate dried powder,190400000AARGRG
+VMP,36040711000001106,Magnesium trisilicate powder,190400000AARHRH
+AMP,4311611000001109,Magnesium trisilicate powder,190400000AARHRH
+VMP,5213411000001106,Zinc oxide powder,190400000AASDSD
+AMP,5210511000001104,Zinc oxide powder,190400000AASDSD
+AMP,5210011000001107,Zinc oxide powder,190400000AASDSD
+VMP,5242311000001104,Zinc sulfate powder,190400000AASGSG
+AMP,5216811000001104,Zinc sulfate powder,190400000AASGSG
+VMP,5175111000001107,Lactose powder,190400000AATETE
+AMP,5167311000001105,Lactose powder,190400000AATETE
+AMP,5169011000001103,Lactose powder,190400000AATETE
+AMP,5168611000001101,Lactose powder,190400000AATETE
+AMP,22386211000001106,Lactose powder,190400000AATETE
+VMP,4217811000001106,Glycerol liquid,190400000AATUTU
+AMP,24585711000001101,Glycerin liquid,190400000AATUTU
+AMP,9743811000001104,Glycerin liquid,190400000AATUTU
+AMP,4215611000001100,Glycerol liquid,190400000AATUTU
+AMP,5300011000001100,Glycerol liquid,190400000AATUTU
+AMP,4216511000001106,Glycerol liquid,190400000AATUTU
+AMP,8996511000001107,Glycerol liquid,190400000AATUTU
+AMP,4217011000001100,Glycerol liquid,190400000AATUTU
+VMP,8174911000001103,Calcium sulfate powder,190400000AAUDUD
+AMP,8169111000001107,Calcium sulfate powder,190400000AAUDUD
+AMP,8169311000001109,Calcium sulfate powder,190400000AAUDUD
+VMP,8037011000001103,Ammonia solution strong 3.5% liquid,190400000AAUIUI
+VMP,17870811000001101,Magnesium oxide heavy 100mg capsules,190400000AAUJUJ
+AMP,17869311000001107,Magnesium oxide heavy 100mg capsules,190400000AAUJUJ
+AMP,18043311000001107,Boots Bite and Sting Relief 3.5% liquid,190400000BBBQUI
+AMP,8037511000001106,After Bite Classic 3.5% liquid,190400000BBBRUI
+VMP,5145511000001102,Ammonia solution aromatic,190500000AAAAAA
+AMP,5141011000001108,Ammonia solution aromatic,190500000AAAAAA
+AMP,5141511000001100,Ammonia solution aromatic,190500000AAAAAA
+AMP,5141211000001103,Ammonia solution aromatic,190500000AAAAAA
+VMP,8967211000001109,Ammonium sulfate 500mg capsules,190500000AAACAC
+AMP,8902911000001101,Ammonium sulfate 500mg capsules,190500000AAACAC
+VMP,15160111000001106,Ammonium sulfate 500mg tablets,190500000AABKBK
+AMP,15152511000001105,Ammonium sulfate 500mg tablets,190500000AABKBK
+VMP,38727111000001104,Deoxycholic acid 20mg/2ml solution for injection vials,190500000AABLBL
+AMP,7834111000001102,Vernagel 8g powder sachets,190500000BBACA0
+AMP,8145411000001108,Stud 100 Desensitizing Spray for Men,190500000BBCUA0
+AMP,7833411000001109,Vernagel powder,190500000BBCZA0
+VMP,13573011000001109,Generic NicoBloc liquid,190500000BBDHA0
+AMP,13569011000001102,NicoBloc liquid,190500000BBDHA0
+AMP,13400111000001100,Vernagel 6g powder sachets,190500000BBDLA0
+VMP,19272011000001108,Generic MacuShield capsules,190500000BBDPA0
+AMP,19270811000001103,MacuShield capsules,190500000BBDPA0
+VMP,20065811000001107,Generic Prontoderm Pack 1,190500000BBDRA0
+VMP,20065911000001102,Generic Prontoderm Pack 2,190500000BBDSA0
+AMP,20414911000001109,SafetyGel absorbent powder,190500000BBDTA0
+AMP,20415311000001107,SafetyGel 800ml absorbent powder sachets,190500000BBDUA0
+AMP,20473711000001101,SafetyGel absorbent tablets large,190500000BBDVA0
+AMP,20474111000001100,SafetyGel absorbent tablets small,190500000BBDWA0
+AMP,8074511000001100,Premjact 9.6% desensitising spray for men,190500000BBDXA0
+VMP,30799411000001107,Generic MacuShield Gold capsules,190500000BBDYA0
+AMP,30775611000001101,MacuShield Gold capsules,190500000BBDYA0
+AMP,38245211000001109,SafetyGel 1.2litre absorbent powder sachets,190500000BBDZA0
+AMP,38380411000001103,Belkyra 20mg/2ml solution for injection vials,190500000BBEABL
+VMP,20352711000001103,Acetic acid 3% solution,190600000AAA2A2
+AMP,20348111000001103,Acetic acid 3% solution,190600000AAA2A2
+VMP,28414911000001107,Acetic acid 1% solution,190600000AAA5A5
+AMP,28401911000001107,Acetic acid 1% solution,190600000AAA5A5
+VMP,32391311000001109,Acetic acid 0.5% solution,190600000AAA9A9
+AMP,32247011000001104,Acetic acid 0.5% solution,190600000AAA9A9
+VMP,20446711000001109,Acetic acid 5% liquid,190600000AAAGAG
+AMP,20447611000001103,Acetic acid 5% liquid,190600000AAAGAG
+VMP,5191111000001104,Citric acid monohydrate powder,190600000AAANAN
+AMP,5182811000001101,Citric acid monohydrate powder,190600000AAANAN
+AMP,20007711000001106,Citric acid monohydrate powder,190600000AAANAN
+AMP,5183011000001103,Citric acid monohydrate powder,190600000AAANAN
+AMP,5183511000001106,Citric acid monohydrate powder,190600000AAANAN
+VMP,5239411000001104,Hydrochloric acid dilute liquid,190600000AAAQAQ
+AMP,5231311000001107,Hydrochloric acid dilute liquid,190600000AAAQAQ
+AMP,5231811000001103,Hydrochloric acid dilute liquid,190600000AAAQAQ
+AMP,5231511000001101,Hydrochloric acid dilute liquid,190600000AAAQAQ
+VMP,5175011000001106,Lactic acid liquid,190600000AAATAT
+AMP,5170111000001104,Lactic acid liquid,190600000AAATAT
+VMP,5212411000001102,Stearic acid crystals,190600000AAAYAY
+AMP,5203211000001109,Stearic acid crystals,190600000AAAYAY
+VMP,5241811000001104,Tartaric acid powder,190600000AAAZAZ
+AMP,5225911000001108,Tartaric acid powder,190600000AAAZAZ
+AMP,5227111000001101,Tartaric acid powder,190600000AAAZAZ
+AMP,5226411000001109,Tartaric acid powder,190600000AAAZAZ
+AMP,5226911000001101,Tartaric acid powder,190600000AAAZAZ
+VMP,5191911000001101,Oleic acid liquid,190600000AABBBB
+AMP,5190011000001109,Oleic acid liquid,190600000AABBBB
+AMP,5190211000001104,Oleic acid liquid,190600000AABBBB
+VMP,5212711000001108,Sulfuric acid dilute liquid,190600000AABDBD
+AMP,5206511000001104,Sulfuric acid dilute liquid,190600000AABDBD
+AMP,5206811000001101,Sulfuric acid dilute liquid,190600000AABDBD
+VMP,4244911000001101,Acetic acid 33% liquid,190600000AABLBL
+AMP,4236511000001103,Acetic acid 33% liquid,190600000AABLBL
+AMP,4237411000001100,Acetic acid 33% liquid,190600000AABLBL
+AMP,4236911000001105,Acetic acid 33% liquid,190600000AABLBL
+AMP,36875211000001108,Acetic acid 33% liquid,190600000AABLBL
+AMP,4237211000001104,Acetic acid 33% liquid,190600000AABLBL
+VMP,5172411000001105,Anise water concentrated,190601000AAAAAA
+AMP,5162111000001106,Anise water concentrated,190601000AAAAAA
+AMP,5163811000001107,Anise water concentrated,190601000AAAAAA
+AMP,5163011000001101,Anise water concentrated,190601000AAAAAA
+AMP,8970911000001105,Anise water concentrated,190601000AAAAAA
+VMP,5172911000001102,Camphor water concentrated,190601000AAADAD
+AMP,5158711000001103,Camphor water concentrated,190601000AAADAD
+AMP,5158111000001104,Camphor water concentrated,190601000AAADAD
+VMP,5190911000001108,Chloroform water concentrated,190601000AAAGAG
+AMP,5190711000001106,Chloroform water concentrated,190601000AAAGAG
+AMP,5190511000001101,Chloroform water concentrated,190601000AAAGAG
+VMP,17562811000001109,Chloroform water double-strength,190601000AAAHAH
+AMP,17530611000001103,Chloroform water double-strength,190601000AAAHAH
+VMP,5173811000001104,Dill water concentrated,190601000AAAJAJ
+AMP,5148211000001107,Dill water concentrated,190601000AAAJAJ
+VMP,5211411000001107,Peppermint water concentrated,190601000AAAKAK
+AMP,5201011000001100,Peppermint water concentrated,190601000AAAKAK
+AMP,5201611000001107,Peppermint water concentrated,190601000AAAKAK
+AMP,5201311000001102,Peppermint water concentrated,190601000AAAKAK
+AMP,8999211000001100,Peppermint water concentrated,190601000AAAKAK
+VMP,11750811000001103,Peppermint water BP 1973,190601000AAALAL
+AMP,16733211000001105,Peppermint water BP 1973,190601000AAALAL
+AMP,33658211000001103,Peppermint water BP 1973,190601000AAALAL
+AMP,24654711000001101,Peppermint water BP 1973,190601000AAALAL
+AMP,18168411000001109,Peppermint water BP 1973,190601000AAALAL
+AMP,11743011000001102,Peppermint water BP 1973,190601000AAALAL
+VMP,9097011000001109,Rose water concentrate liquid,190601000AAARAR
+AMP,18509211000001107,Rose water concentrate liquid,190601000AAARAR
+AMP,20010911000001105,Rose water concentrate liquid,190601000AAARAR
+AMP,30279311000001100,Rose water concentrate liquid,190601000AAARAR
+AMP,9095411000001106,Rose water concentrate liquid,190601000AAARAR
+VMP,9097111000001105,Rose water triple liquid,190601000AAAUAU
+AMP,18509611000001109,Rose water triple liquid,190601000AAAUAU
+AMP,20011111000001101,Rose water triple liquid,190601000AAAUAU
+AMP,30279511000001106,Rose water triple liquid,190601000AAAUAU
+AMP,9093611000001105,Rose water triple liquid,190601000AAAUAU
+VMP,17562711000001101,Chloroform water,190601000AABEBE
+AMP,17530911000001109,Chloroform water,190601000AABEBE
+VMP,10607011000001103,Ipecacuanha liquid extract,190603000AAAIAI
+AMP,13920711000001107,Ipecacuanha liquid extract,190603000AAAIAI
+AMP,10577411000001108,Ipecacuanha liquid extract,190603000AAAIAI
+VMP,5191311000001102,Liquorice liquid extract,190603000AAALAL
+AMP,5177411000001108,Liquorice liquid extract,190603000AAALAL
+AMP,5179111000001109,Liquorice liquid extract,190603000AAALAL
+AMP,5178011000001103,Liquorice liquid extract,190603000AAALAL
+AMP,8997811000001107,Liquorice liquid extract,190603000AAALAL
+AMP,10281111000001105,HealthAid Agnus Castus liquid,190603000BBCSA0
+VMP,5144211000001101,Anise oil liquid,190605000AAABAB
+AMP,5136711000001103,Anise oil liquid,190605000AAABAB
+VMP,5191211000001105,Linseed oil liquid,190605000AAADAD
+AMP,5176311000001104,Linseed oil liquid,190605000AAADAD
+AMP,5176911000001103,Linseed oil liquid,190605000AAADAD
+AMP,5176511000001105,Linseed oil liquid,190605000AAADAD
+VMP,5144611000001104,Cade oil liquid,190605000AAAEAE
+AMP,5143511000001101,Cade oil liquid,190605000AAAEAE
+AMP,5143911000001108,Cade oil liquid,190605000AAAEAE
+AMP,5143711000001106,Cade oil liquid,190605000AAAEAE
+VMP,5173511000001102,Clove oil liquid,190605000AAAHAH
+AMP,5153411000001103,Clove oil liquid,190605000AAAHAH
+AMP,5154111000001105,Clove oil liquid,190605000AAAHAH
+AMP,5153811000001101,Clove oil liquid,190605000AAAHAH
+VMP,10561411000001106,Citronella oil liquid,190605000AAALAL
+AMP,10548911000001103,Citronella oil liquid,190605000AAALAL
+AMP,10550511000001105,Citronella oil liquid,190605000AAALAL
+AMP,10549411000001103,Citronella oil liquid,190605000AAALAL
+AMP,10550111000001101,Citronella oil liquid,190605000AAALAL
+VMP,14613911000001107,Coconut oil,190605000AAAQAQ
+AMP,4293511000001104,Coconut oil,190605000AAAQAQ
+AMP,4295611000001101,Coconut oil,190605000AAAQAQ
+AMP,4294211000001104,Coconut oil,190605000AAAQAQ
+AMP,4294811000001103,Coconut oil,190605000AAAQAQ
+VMP,5174111000001108,Eucalyptus oil liquid,190605000AAAVAV
+AMP,5167511000001104,Eucalyptus oil liquid,190605000AAAVAV
+AMP,5169311000001100,Eucalyptus oil liquid,190605000AAAVAV
+AMP,5167811000001101,Eucalyptus oil liquid,190605000AAAVAV
+AMP,8995711000001105,Eucalyptus oil liquid,190605000AAAVAV
+AMP,5168411000001104,Eucalyptus oil liquid,190605000AAAVAV
+VMP,9096711000001108,Lavender oil liquid,190605000AAAXAX
+AMP,18500211000001100,Lavender oil liquid,190605000AAAXAX
+AMP,20008411000001101,Lavender oil liquid,190605000AAAXAX
+AMP,30279011000001103,Lavender oil liquid,190605000AAAXAX
+AMP,9091211000001109,Lavender oil liquid,190605000AAAXAX
+AMP,17708911000001101,Lavender oil liquid,190605000AAAXAX
+VMP,5213011000001102,Turpentine oil liquid,190605000AABLBL
+AMP,5206111000001108,Turpentine oil liquid,190605000AABLBL
+AMP,5205611000001105,Turpentine oil liquid,190605000AABLBL
+VMP,14609111000001105,Olive oil liquid,190605000AACACA
+AMP,150611000001105,Olive oil liquid,190605000AACACA
+AMP,811711000001106,Olive oil liquid,190605000AACACA
+AMP,17442311000001101,Olive oil liquid,190605000AACACA
+AMP,11511000001102,Olive oil liquid,190605000AACACA
+VMP,35897111000001100,Almond oil liquid,190605000AACBCB
+AMP,3724011000001107,Almond oil liquid,190605000AACBCB
+AMP,3729811000001102,Almond oil liquid,190605000AACBCB
+AMP,33645911000001104,Almond oil liquid,190605000AACBCB
+AMP,3726511000001105,Almond oil liquid,190605000AACBCB
+AMP,22651211000001100,Almond oil liquid,190605000AACBCB
+AMP,8971011000001102,Almond oil liquid,190605000AACBCB
+AMP,3727911000001100,Almond oil liquid,190605000AACBCB
+VMP,24854711000001108,Cade oil 12% / Salicylic acid 4% in Emulsifying ointment,190605000AACDCD
+AMP,24826611000001107,Cade oil 12% / Salicylic acid 4% in Emulsifying ointment,190605000AACDCD
+VMP,32391611000001104,Cade oil 12.5% in Emulsifying ointment,190605000AACECE
+AMP,32284311000001104,Cade oil 12.5% in Emulsifying ointment,190605000AACECE
+AMP,7415311000001101,HealthAid Lavender oil,190605000BBFUA0
+AMP,288811000001102,Samaritan olive oil,190605000BBGSCA
+AMP,7461311000001104,Botanics Lavender pure essential oil,190605000BBNRA0
+AMP,7463111000001100,Botanics Tea Tree pure essential oil,190605000BBNTA0
+VMP,10727111000001103,Generic Sudafed Non-Drowsy inhalant oil,190605000BBNUA0
+AMP,10723011000001105,Sudafed Non-Drowsy inhalant oil,190605000BBNUA0
+AMP,23440611000001101,Enive olive oil,190605000BBNVCA
+AMP,33641111000001104,Bell's olive oil,190605000BBNWCA
+VMP,5173011000001105,Capsicum tincture,190606000AAAEAE
+AMP,5151011000001106,Capsicum tincture,190606000AAAEAE
+AMP,5151511000001103,Capsicum tincture,190606000AAAEAE
+AMP,5151211000001101,Capsicum tincture,190606000AAAEAE
+AMP,8994611000001102,Capsicum tincture,190606000AAAEAE
+VMP,5238811000001109,Chloroform and Morphine tincture,190606000AAAFAF
+AMP,5230211000001105,Chloroform and Morphine tincture,190606000AAAFAF
+AMP,5230811000001106,Chloroform and Morphine tincture,190606000AAAFAF
+AMP,5230511000001108,Chloroform and Morphine tincture,190606000AAAFAF
+VMP,5173111000001106,Cardamom compound tincture,190606000AAAGAG
+AMP,5151811000001100,Cardamom compound tincture,190606000AAAGAG
+VMP,5173211000001100,Cardamom tincture aromatic,190606000AAAHAH
+AMP,5161211000001107,Cardamom tincture aromatic,190606000AAAHAH
+VMP,5174511000001104,Ginger tincture strong,190606000AAALAL
+AMP,5158611000001107,Ginger tincture strong,190606000AAALAL
+AMP,5160211000001101,Ginger tincture strong,190606000AAALAL
+AMP,5159011000001105,Ginger tincture strong,190606000AAALAL
+VMP,5191811000001106,Myrrh tincture,190606000AAANAN
+AMP,5186711000001108,Myrrh tincture,190606000AAANAN
+VMP,5174811000001101,Ipecacuanha tincture,190606000AAASAS
+AMP,5163111000001100,Ipecacuanha tincture,190606000AAASAS
+AMP,5163711000001104,Ipecacuanha tincture,190606000AAASAS
+AMP,5163411000001105,Ipecacuanha tincture,190606000AAASAS
+AMP,8996911000001100,Ipecacuanha tincture,190606000AAASAS
+VMP,9096611000001104,Lavender compound tincture,190606000AAAUAU
+AMP,9094911000001102,Lavender compound tincture,190606000AAAUAU
+VMP,5211011000001103,Orange tincture BP 2001,190606000AAAWAW
+AMP,5192611000001101,Orange tincture BP 2001,190606000AAAWAW
+AMP,7409411000001108,Lemon Balm herb tincture,190606000BCSGA0
+AMP,7407211000001103,German Chamomile flowers tincture,190606000BCSHA0
+AMP,7409611000001106,Lime flower tincture,190606000BCSIA0
+AMP,7404711000001103,Black Cohosh root tincture,190606000BCSPA0
+AMP,7406411000001101,Dandelion root tincture,190606000BCSRA0
+AMP,7412811000001103,Stinging Nettle herb tincture,190606000BCSTA0
+AMP,7406211000001100,Dandelion leaf tincture,190606000BCSUA0
+AMP,7406011000001105,Damiana leaf tincture,190606000BCSWA0
+VMP,7904011000001102,St. John's wort liquid,190606000BCSZA0
+AMP,7893311000001107,St. John's wort herb tincture,190606000BCSZA0
+AMP,7407811000001102,Greek Sage herb tincture,190606000BCTBA0
+AMP,7408511000001101,Hawthorn berry and flower tops tincture,190606000BCTCA0
+AMP,7414211000001108,Yellow Dock root tincture,190606000BCTJA0
+AMP,7410811000001104,Motherwort herb tincture,190606000BCTKA0
+AMP,7412411000001100,Rosemary herb tincture,190606000BCTLA0
+AMP,7404611000001107,Chaste tree berry tincture,190606000BCTMA0
+AMP,7408411000001100,Horsetail herb tincture,190606000BCTTA0
+AMP,7414711000001101,Yarrow flowering tops tincture,190606000BCTUA0
+AMP,7403811000001108,Agrimony herb tincture,190606000BCTVA0
+AMP,7405611000001108,Comfrey root tincture,190606000BCTZA0
+AMP,7405811000001107,Cramp bark tincture,190606000BCUAA0
+AMP,7413011000001100,Thyme herb tincture,190606000BCUBA0
+AMP,7410211000001100,Marshmallow root tincture,190606000BCUCA0
+AMP,7406611000001103,Dang Gui root tincture,190606000BCUDA0
+AMP,7406811000001104,Elecampane root tincture,190606000BCUEA0
+AMP,7414411000001107,Yellow Jasmine root tincture,190606000BCUJA0
+AMP,7410011000001105,Marigold petals tincture,190606000BCUUA0
+AMP,7409811000001105,Liquorice root tincture,190606000BCUZA0
+AMP,7405211000001106,Coltsfoot flowers tincture,190606000BCVEA0
+AMP,7411611000001108,Red Clover flower tincture,190606000BCVFA0
+AMP,7407411000001104,Gentian root tincture,190606000BCVGA0
+AMP,7412611000001102,Schisandra fruit tincture,190606000BCVJA0
+AMP,7405011000001101,Clivers herb tincture,190606000BCVKA0
+AMP,7413211000001105,Sweet Violet herb tincture,190606000BCVNA0
+AMP,7408811000001103,Hyssop flowering tops tincture,190606000BCVPA0
+AMP,7411011000001101,Oregon Grape root tincture,190606000BCVRA0
+AMP,7412211000001104,Saw Palmetto berries tincture,190606000BCVSA0
+AMP,7407611000001101,Ginger root tincture,190606000BCVUA0
+AMP,7410411000001101,Meadowsweet herb tincture,190606000BCVWA0
+AMP,7411211000001106,Ginseng root tincture,190606000BCVZA0
+AMP,7411411000001105,Prickly Ash bark tincture,190606000BCWAA0
+AMP,7404211000001105,Bearberry leaf tincture,190606000BCWBA0
+AMP,7413411000001109,Valerian root tincture,190606000BCWEA0
+AMP,7405411000001105,Comfrey leaf tincture,190606000BCWFA0
+AMP,7409111000001103,Lady's Mantle herb tincture,190606000BCWGA0
+AMP,7413811000001106,Wood Betony herb tincture,190606000BCWHA0
+AMP,7403911000001103,Angelica root tincture,190606000BCWIA0
+AMP,7410611000001103,Mistletoe leaves tincture,190606000BCWKA0
+AMP,7408011000001109,Golden Rod herb tincture,190606000BCWLA0
+AMP,7413611000001107,Wild Indigo root tincture,190606000BCWMA0
+AMP,7404411000001109,Bayberry root bark tincture,190606000BCWNA0
+AMP,7411811000001107,Ribwort leaf tincture,190606000BCWPA0
+AMP,7412011000001109,Sarsaparilla root tincture,190606000BCWQA0
+AMP,7408211000001104,Ground Ivy herb tincture,190606000BCWRA0
+AMP,7409011000001104,Juniper berries tincture,190606000BCWWA0
+AMP,7414011000001103,White Deadnettle herb tincture,190606000BCWXA0
+AMP,7407011000001108,Eyebright herb tincture,190606000BCXAA0
+AMP,19815211000001106,Valeriana tincture,190606000BCXFA0
+VMP,5239311000001106,Ginger syrup,190607000AAAGAG
+AMP,8177911000001109,Ginger syrup,190607000AAAGAG
+AMP,24551811000001101,Ginger syrup,190607000AAAGAG
+VMP,5210911000001106,Orange syrup,190607000AAANAN
+AMP,5192111000001109,Orange syrup,190607000AAANAN
+VMP,5212011000001106,Raspberry syrup,190607000AAATAT
+AMP,5205111000001102,Raspberry syrup,190607000AAATAT
+VMP,36150711000001100,Xanthan gum,190700000AAAZAZ
+AMP,349511000001109,Xanthan gum,190700000AAAZAZ
+VMP,35386811000001109,Generic Multi-thick powder,190700000AABABA
+VMP,35385011000001107,Generic Nutilis Clear powder,190700000AABABA
+VMP,35385111000001108,Generic Nutilis powder,190700000AABABA
+VMP,35355711000001104,Generic Resource ThickenUp powder,190700000AABABA
+VMP,35386911000001104,Generic Thick & Easy powder,190700000AABABA
+VMP,35387011000001100,Generic Thicken Aid powder,190700000AABABA
+VMP,35386711000001101,Generic Thixo-D Original powder,190700000AABABA
+VMP,36062211000001108,Generic Methadose diluent oral solution sugar free,190700000AABJBJ
+VMP,38003011000001100,Generic Osmosip Clear & Thick Instant Thickener powder,190700000AABPBP
+AMP,15622211000001105,Thixo-D Cal-Free powder,190700000BBAGAZ
+VMP,3419411000001103,Generic Vitaquick powder,190700000BBBKA0
+AMP,567511000001107,Vitaquick powder,190700000BBBKA0
+AMP,35382311000001104,Thixo-D Original powder,190700000BBBLBA
+AMP,35382811000001108,Thick & Easy Original powder,190700000BBBMBA
+AMP,4943311000001103,Methadose diluent oral solution sugar free,190700000BBBPBJ
+AMP,35396011000001102,Nutilis powder,190700000BBBQBA
+AMP,35382911000001103,Thick & Easy Original powder 9g sachets,190700000BBBTBA
+AMP,35325111000001101,Resource ThickenUp powder,190700000BBBUBA
+AMP,607811000001102,Ener-G xanthan gum,190700000BBBVAZ
+AMP,344911000001103,Innovative Solutions Pure xanthan gum,190700000BBBWAZ
+AMP,13738011000001104,Allergycare gluten free xanthum gum,190700000BBBYAZ
+VMP,11027611000001101,Generic SLO Drink 1 oral powder,190700000BBCFA0
+AMP,15983111000001104,SLO Drink 1 oral powder hot chocolate,190700000BBCFA0
+AMP,11023711000001100,SLO Drink 1 oral powder lemon,190700000BBCFA0
+AMP,11024111000001104,SLO Drink 1 oral powder peach,190700000BBCFA0
+AMP,15983011000001100,SLO Drink 1 oral powder white coffee,190700000BBCFA0
+AMP,21982111000001105,SLO Drink 1 oral powder white tea,190700000BBCFA0
+AMP,11023511000001105,SLO Drink Stage 1: IDDSI 2 Mildly Thick oral powder blackcurrant,190700000BBCFA0
+AMP,11023911000001103,SLO Drink Stage 1: IDDSI 2 Mildly Thick oral powder orange,190700000BBCFA0
+VMP,11027711000001105,Generic SLO Drink 2 oral powder,190700000BBCGA0
+AMP,15983311000001102,SLO Drink 2 oral powder hot chocolate,190700000BBCGA0
+AMP,11024611000001107,SLO Drink 2 oral powder lemon,190700000BBCGA0
+AMP,11025011000001101,SLO Drink 2 oral powder peach,190700000BBCGA0
+AMP,15983211000001105,SLO Drink 2 oral powder white coffee,190700000BBCGA0
+AMP,21982311000001107,SLO Drink 2 oral powder white tea,190700000BBCGA0
+AMP,11024411000001109,SLO Drink Stage 2: IDDSI 3 Moderately Thick oral powder blackcurrant,190700000BBCGA0
+AMP,11024811000001106,SLO Drink Stage 2: IDDSI 3 Moderately Thick oral powder orange,190700000BBCGA0
+VMP,11027811000001102,Generic SLO Drink 3 oral powder,190700000BBCHA0
+AMP,11025311000001103,SLO Drink 3 oral powder blackcurrant,190700000BBCHA0
+AMP,11025511000001109,SLO Drink 3 oral powder lemon,190700000BBCHA0
+AMP,11025711000001104,SLO Drink 3 oral powder orange,190700000BBCHA0
+AMP,11025911000001102,SLO Drink 3 oral powder peach,190700000BBCHA0
+AMP,35325311000001104,Resource ThickenUp powder 4.5g sachets,190700000BBCIBA
+AMP,35325911000001103,Resource ThickenUp Clear powder,190700000BBCJA0
+AMP,35380811000001107,Nutilis powder 12g sachets,190700000BBCKBA
+AMP,35383411000001102,Multi-thick powder,190700000BBCLBA
+AMP,35383811000001100,Thicken Aid powder,190700000BBCMBA
+AMP,35384011000001108,Thicken Aid powder 9g sachets,190700000BBCNBA
+AMP,35379111000001100,Nutilis Clear powder,190700000BBCPBA
+VMP,10826411000001108,Generic Ora-Plus oral suspension,190700000BBCQA0
+AMP,10826611000001106,Ora-Plus oral suspension,190700000BBCQA0
+VMP,29184211000001104,Generic Thick & Easy Clear powder,190700000BBCRA0
+AMP,29093911000001102,Thick & Easy Clear powder,190700000BBCRA0
+AMP,31279111000001109,Barkat gluten free xanthan gum,190700000BBCSAZ
+AMP,32762811000001106,Swalloweze Clear Instant Food & Fluid Thickener powder,190700000BBCTA0
+VMP,32877111000001105,Generic Thick & Easy Clear powder 1.4g sachets,190700000BBCUA0
+AMP,32874111000001100,Thick & Easy Clear powder 1.4g sachets,190700000BBCUA0
+AMP,35326211000001101,Resource ThickenUp Clear powder 1.2g sachets,190700000BBCVA0
+AMP,35379811000001107,Nutilis Clear powder 3g sachets,190700000BBCWBA
+AMP,35516411000001108,Nutilis Clear powder 1.25g sachets,190700000BBCXBA
+VMP,35854211000001107,Generic Aymes Acusist Clear Instant Thickener powder,190700000BBCYA0
+AMP,35815011000001107,Aymes Acusist Clear Instant Thickener powder,190700000BBCYA0
+AMP,36445411000001102,Swalloweze Clear Instant Food & Fluid Thickener powder 1.6g sachets,190700000BBCZA0
+AMP,37984311000001102,Osmosip Clear & Thick Instant Thickener powder,190700000BBDABP
+VMP,5175211000001101,Lemon spirit,190800000AAA3A3
+AMP,5171611000001102,Lemon spirit,190800000AAA3A3
+AMP,5172111000001100,Lemon spirit,190800000AAA3A3
+AMP,5171911000001108,Lemon spirit,190800000AAA3A3
+AMP,8997211000001106,Lemon spirit,190800000AAA3A3
+VMP,18161011000001106,Eosin 1% solution,190800000AAAPAP
+AMP,18159811000001109,Eosin 1% solution,190800000AAAPAP
+VMP,5212111000001107,Saccharin sodium powder,190800000AABBBB
+AMP,5195511000001106,Saccharin sodium powder,190800000AABBBB
+AMP,5195711000001101,Saccharin sodium powder,190800000AABBBB
+VMP,5172311000001103,Amaranth solution,190800000AABMBM
+AMP,5156811000001105,Amaranth solution,190800000AABMBM
+VMP,17662811000001101,Eosin 2% solution,190800000AABTBT
+AMP,17656311000001103,Eosin 2% solution,190800000AABTBT
+VMP,10075311000001106,Borax powder,190900000AAAHAH
+AMP,10068711000001107,Borax powder,190900000AAAHAH
+VMP,5144511000001103,Boric acid powder,190900000AAAJAJ
+AMP,5142711000001103,Boric acid powder,190900000AAAJAJ
+AMP,5142311000001102,Boric acid powder,190900000AAAJAJ
+VMP,10561311000001104,Chlorocresol powder,190900000AAALAL
+AMP,10546911000001102,Chlorocresol powder,190900000AAALAL
+VMP,5173411000001101,Chloroform spirit,190900000AAANAN
+AMP,5152511000001106,Chloroform spirit,190900000AAANAN
+AMP,5153011000001107,Chloroform spirit,190900000AAANAN
+AMP,5152711000001101,Chloroform spirit,190900000AAANAN
+AMP,8995111000001109,Chloroform spirit,190900000AAANAN
+VMP,4318211000001103,Sodium benzoate powder,190900000AAASAS
+AMP,4313811000001107,Sodium benzoate powder,190900000AAASAS
+AMP,23609411000001101,Sodium benzoate powder,190900000AAASAS
+VMP,5212211000001101,Sodium metabisulfite powder,190900000AAAWAW
+AMP,5196711000001109,Sodium metabisulfite powder,190900000AAAWAW
+AMP,5198711000001108,Sodium metabisulfite powder,190900000AAAWAW
+VMP,5241911000001109,Thymol crystals,190900000AAAXAX
+AMP,5229511000001103,Thymol crystals,190900000AAAXAX
+VMP,11819411000001103,Isopropyl alcohol 70% spray,190900000AABYBY
+AMP,11789611000001104,Isopropyl alcohol 70% spray,190900000AABYBY
+VMP,3556611000001106,Thick & Easy thickened juice,191300000BMCAA0
+AMP,208911000001106,Thick & Easy thickened juice apple,191300000BMCAA0
+AMP,2909011000001104,Thick & Easy thickened juice blackcurrant,191300000BMCAA0
+AMP,227711000001101,Thick & Easy thickened juice cranberry,191300000BMCAA0
+AMP,2909711000001102,Thick & Easy thickened juice kiwi strawberry,191300000BMCAA0
+AMP,490611000001104,Thick & Easy thickened juice orange,191300000BMCAA0
+VMP,3555011000001108,Resource Thickened Squash syrup,191300000BMCDA0
+AMP,654611000001102,Resource Thickened Squash syrup lemon,191300000BMCDA0
+AMP,681511000001107,Resource Thickened Squash syrup orange,191300000BMCDA0
+VMP,3554911000001108,Resource Thickened Squash custard,191300000BMCEA0
+AMP,755511000001107,Resource Thickened Squash custard lemon,191300000BMCEA0
+AMP,601711000001101,Resource Thickened Squash custard orange,191300000BMCEA0
+VMP,3554811000001103,Generic Resource Thickened Drink syrup,191300000BMCHA0
+AMP,470511000001105,Resource Thickened Drink syrup apple,191300000BMCHA0
+AMP,34111000001100,Resource Thickened Drink syrup orange,191300000BMCHA0
+VMP,15611611000001106,Generic Resource Thickened Drink custard gluten free,191300000BMCIA0
+AMP,15605711000001102,Resource Thickened Drink custard apple,191300000BMCIA0
+AMP,15605911000001100,Resource Thickened Drink custard orange,191300000BMCIA0
+VMP,3394311000001102,Clinutren thickened drink liquid,191300000BMCMA0
+AMP,138911000001103,Clinutren thickened drink liquid orange,191300000BMCMA0
+AMP,224611000001104,Clinutren thickened drink liquid peppermint,191300000BMCMA0
+AMP,473211000001102,Clinutren thickened drink liquid tea,191300000BMCMA0
+VMP,32461211000001107,Generic Baby Drink oral powder 2g sachets sugar free,191300000BMCRA0
+AMP,32434511000001102,Baby Drink oral powder 2g sachets sugar free,191300000BMCRA0
+AMP,32489111000001104,Hydrafruit pre-thickened fruit water with sweetener 125ml red fruits,191300000BMCSA0
+AMP,32488911000001109,Hydrafruit pre-thickened fruit water with sweetener 125ml orange,191300000BMCTA0
+VMP,32498911000001105,Generic Hydrafast pre-thickened fruit water 90ml pouches,191300000BMCUA0
+AMP,32487311000001107,Hydrafast pre-thickened fruit water 90ml pouches,191300000BMCUA0
+AMP,32487811000001103,Hydrafruit pre-thickened fruit water with sugar 125ml apricot,191300000BMCVA0
+AMP,32488011000001105,Hydrafruit pre-thickened fruit water with sugar 125ml lemon,191300000BMCWA0
+AMP,32488211000001100,Hydrafruit pre-thickened fruit water with sugar 125ml pineapple,191300000BMCXA0
+AMP,32488711000001107,Hydrafruit pre-thickened fruit water with sweetener 125ml apricot,191300000BMCYA0
+VMP,34032411000001105,Generic Lucozade Energy Original oral solution,191300000BMCZA0
+AMP,34028611000001108,Lucozade Energy Original oral solution,191300000BMCZA0
+VMP,11146611000001108,Water for gastroenteral feeds 1litre bags,1914010A0AAASAS
+AMP,11141911000001107,Nutrison water for gastroenteral feeds 1litre bags,1914010A0BLAAAS
+VMP,14614311000001108,Purified water,191402000AAAAAA
+AMP,4696211000001107,Purified water,191402000AAAAAA
+AMP,4699511000001100,Purified water,191402000AAAAAA
+AMP,4697811000001105,Purified water,191402000AAAAAA
+AMP,4698211000001108,Purified water,191402000AAAAAA
+AMP,9000411000001102,Purified water,191402000AAAAAA
+AMP,4697411000001108,Purified water,191402000AAAAAA
+AMP,4698411000001107,Purified water,191402000AAAAAA
+AMP,14638411000001103,Helium 79% / Oxygen 21% cylinders size F,191500000BDAVA0
+AMP,14635811000001105,Carbon dioxide cylinders size E,191500000BDAWA0
+AMP,14636211000001103,Carbon dioxide cylinders size VF,191500000BDAXA0
+AMP,14639311000001104,Helium 79% / Oxygen 21% cylinders size HX,191500000BDAYA0
+AMP,14636411000001104,Carbon dioxide cylinders size C,191500000BDAZA0
+AMP,14648611000001104,Equanox cylinders size AF4,191500000BDBBA0
+AMP,14651111000001101,Equanox cylinders size AD,191500000BDBCA0
+AMP,14652011000001105,Equanox cylinders size G,191500000BDBDA0
+AMP,14652611000001103,Equanox cylinders size D,191500000BDBEA0
+AMP,14638711000001109,Helium 79% / Oxygen 21% cylinders,191500000BDBFA0
+AMP,14647611000001103,Equanox cylinders size F,191500000BDBKA0
+AMP,14636611000001101,Medical Carbon Dioxide cylinders size C,191500000BDBNA0
+AMP,14636011000001108,Medical Carbon Dioxide cylinders size E,191500000BDBPA0
+AMP,14640811000001103,Medical Nitrous Oxide cylinders size D,191500000BDBQA0
+AMP,14638911000001106,Medical Nitrous Oxide cylinders size E,191500000BDBRA0
+AMP,14639511000001105,Medical Nitrous Oxide cylinders size F,191500000BDBSA0
+AMP,14640411000001100,Medical Nitrous Oxide cylinders size G,191500000BDBTA0

@@ -1,0 +1,707 @@
+dmd_type,dmd_id,dmd_name,bnf_code
+VMP,7623211000001104,Etomidate 20mg/10ml solution for injection ampoules,1501010C0AAAAAA
+AMP,7623411000001100,Hypnomidate 20mg/10ml solution for injection ampoules,1501010C0BBAAAA
+VMP,36036811000001102,Ketamine 200mg/20ml solution for injection vials,1501010F0AAAAAA
+VMP,36036911000001107,Ketamine 500mg/10ml solution for injection vials,1501010F0AAABAB
+AMP,34551211000001101,Ketamine 500mg/10ml solution for injection vials,1501010F0AAABAB
+AMP,30781811000001107,Ketamine 500mg/10ml solution for injection vials,1501010F0AAABAB
+VMP,36036711000001105,Ketamine 1g/10ml solution for injection vials,1501010F0AAADAD
+VMP,10637611000001102,Ketamine 50mg/5ml solution for injection ampoules,1501010F0AAAEAE
+AMP,15872811000001101,Ketamine 50mg/5ml solution for injection ampoules,1501010F0AAAEAE
+VMP,11424411000001100,Ketamine 100mg/2ml solution for injection ampoules,1501010F0AAAFAF
+AMP,15871911000001100,Ketamine 100mg/2ml solution for injection ampoules,1501010F0AAAFAF
+VMP,10790111000001109,Ketamine 25mg/5ml solution for injection ampoules,1501010F0AAAGAG
+AMP,15872211000001102,Ketamine 25mg/5ml solution for injection ampoules,1501010F0AAAGAG
+VMP,10790511000001100,Ketamine 50mg/2ml solution for injection ampoules,1501010F0AAAHAH
+AMP,15872511000001104,Ketamine 50mg/2ml solution for injection ampoules,1501010F0AAAHAH
+AMP,3990611000001105,Ketalar 500mg/10ml solution for injection vials,1501010F0BBAAAB
+AMP,3988711000001100,Ketalar 200mg/20ml solution for injection vials,1501010F0BBACAA
+AMP,3987211000001108,Ketalar 1g/10ml solution for injection vials,1501010F0BBADAD
+AMP,10637811000001103,Ketamin 10 Curamed 50mg/5ml solution for injection ampoules,1501010F0BCAAAE
+AMP,11424611000001102,Ketamin 100mg/2ml solution for injection ampoules,1501010F0BCABAF
+VMP,35932011000001104,Propofol 200mg/20ml emulsion for injection ampoules,1501010L0AAAAAA
+AMP,4355211000001104,Propofol 200mg/20ml emulsion for injection ampoules,1501010L0AAAAAA
+VMP,35932211000001109,Propofol 500mg/50ml emulsion for infusion vials,1501010L0AAABAB
+AMP,38733011000001108,Propofol 500mg/50ml emulsion for infusion vials,1501010L0AAABAB
+AMP,34549311000001105,Propofol 500mg/50ml emulsion for infusion vials,1501010L0AAABAB
+AMP,4356211000001105,Propofol 500mg/50ml emulsion for infusion vials,1501010L0AAABAB
+VMP,35931711000001109,Propofol 1g/100ml emulsion for infusion vials,1501010L0AAACAC
+AMP,38732611000001106,Propofol 1g/100ml emulsion for infusion vials,1501010L0AAACAC
+AMP,34550411000001106,Propofol 1g/100ml emulsion for infusion vials,1501010L0AAACAC
+AMP,4356711000001103,Propofol 1g/100ml emulsion for infusion vials,1501010L0AAACAC
+VMP,35931911000001106,Propofol 1g/50ml emulsion for infusion vials,1501010L0AAADAD
+AMP,38733211000001103,Propofol 1g/50ml emulsion for infusion vials,1501010L0AAADAD
+AMP,34550611000001109,Propofol 1g/50ml emulsion for infusion vials,1501010L0AAADAD
+AMP,4725111000001105,Propofol 1g/50ml emulsion for infusion vials,1501010L0AAADAD
+VMP,34557311000001103,Propofol 200mg/20ml emulsion for injection vials,1501010L0AAAEAE
+AMP,38732811000001105,Propofol 200mg/20ml emulsion for injection vials,1501010L0AAAEAE
+AMP,34549611000001100,Propofol 200mg/20ml emulsion for injection vials,1501010L0AAAEAE
+VMP,35932111000001103,Propofol 500mg/50ml emulsion for infusion pre-filled syringes,1501010L0AAAFAF
+VMP,35931811000001101,Propofol 1g/50ml emulsion for infusion pre-filled syringes,1501010L0AAAGAG
+VMP,34236011000001108,Propofol 500mg/50ml emulsion for infusion ampoules,1501010L0AAAHAH
+AMP,4354911000001109,Diprivan 1% emulsion for injection 20ml ampoules,1501010L0BBAAAA
+AMP,4724911000001109,Diprivan 2% emulsion for infusion 50ml vials,1501010L0BBABAD
+AMP,4355811000001103,Diprivan 1% emulsion for infusion 50ml vials,1501010L0BBACAB
+AMP,4357011000001102,Diprivan 1% emulsion for infusion 100ml vials,1501010L0BBADAC
+AMP,4781611000001108,Diprivan 1% emulsion for infusion 50ml pre-filled syringes,1501010L0BBAEAF
+AMP,4763811000001109,Diprivan 2% emulsion for infusion 50ml pre-filled syringes,1501010L0BBAFAG
+AMP,34208911000001100,Propofol-Lipuro 1% emulsion for infusion 50ml ampoules,1501010L0BCAAAH
+AMP,34343111000001108,Propofol-Lipuro 1% emulsion for infusion 50ml vials,1501010L0BCABAB
+AMP,36444711000001109,Propofol-Lipuro 2% emulsion for infusion 50ml vials,1501010L0BCACAD
+AMP,36083711000001107,Propofol-Lipuro 1% emulsion for infusion 100ml vials,1501010L0BCADAC
+AMP,36079711000001103,Propofol-Lipuro 1% emulsion for injection 20ml ampoules,1501010L0BCAEAA
+AMP,36533311000001104,Propoven 1% emulsion for infusion 100ml vials,1501010L0BDAAAC
+AMP,36533511000001105,Propoven 1% emulsion for infusion 50ml vials,1501010L0BDABAB
+AMP,36533711000001100,Propoven 2% emulsion for infusion 50ml vials,1501010L0BDACAD
+AMP,36612711000001105,Propoven 1% emulsion for injection 20ml ampoules,1501010L0BDADAA
+VMP,333834003,Thiopental 500mg powder for solution for injection vials,1501010P0AAAGAG
+AMP,6866711000001101,Thiopental 500mg powder for solution for injection vials,1501010P0AAAGAG
+AMP,37367711000001104,Thiopental 500mg powder for solution for injection vials,1501010P0AAAGAG
+AMP,11618711000001108,Thiopental 500mg powder for solution for injection vials,1501010P0AAAGAG
+AMP,38546311000001104,Thiopental 500mg powder for solution for injection vials,1501010P0AAAGAG
+VMP,333988009,Remifentanil 1mg powder for solution for injection vials,1501010Q0AAAAAA
+AMP,19241511000001109,Remifentanil 1mg powder for concentrate for solution for injection vials,1501010Q0AAAAAA
+AMP,22122011000001102,Remifentanil 1mg powder for concentrate for solution for injection vials,1501010Q0AAAAAA
+AMP,19685211000001100,Remifentanil 1mg powder for concentrate for solution for injection vials,1501010Q0AAAAAA
+AMP,19180211000001108,Remifentanil 1mg powder for concentrate for solution for injection vials,1501010Q0AAAAAA
+AMP,19660711000001104,Remifentanil 1mg powder for concentrate for solution for injection vials,1501010Q0AAAAAA
+VMP,333989001,Remifentanil 2mg powder for solution for injection vials,1501010Q0AAABAB
+AMP,19241711000001104,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+AMP,22122211000001107,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+AMP,19685411000001101,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+AMP,24014411000001105,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+AMP,19180411000001107,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+AMP,19659711000001100,Remifentanil 2mg powder for concentrate for solution for injection vials,1501010Q0AAABAB
+VMP,333990005,Remifentanil 5mg powder for solution for injection vials,1501010Q0AAACAC
+AMP,19473811000001106,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,22122411000001106,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,28095211000001107,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,36084811000001101,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,19685611000001103,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,19180611000001105,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,19660411000001105,Remifentanil 5mg powder for concentrate for solution for injection vials,1501010Q0AAACAC
+AMP,7312111000001101,Ultiva 1mg powder for solution for injection vials,1501010Q0BBAAAA
+AMP,7312411000001106,Ultiva 2mg powder for solution for injection vials,1501010Q0BBABAB
+AMP,7312711000001100,Ultiva 5mg powder for solution for injection vials,1501010Q0BBACAC
+VMP,30103811000001100,Esketamine 25mg/5ml solution for injection ampoules,1501010R0AAAAAA
+VMP,30103911000001105,Esketamine 50mg/2ml solution for injection ampoules,1501010R0AAABAB
+VMP,14680511000001108,Nitrous oxide 50% / Oxygen 50%,1501020R0AAAHAH
+AMP,14640611000001102,Nitrous oxide cylinders size D,1501020R0BBAAA0
+AMP,14640011000001109,Nitrous oxide cylinders size G,1501020R0BBABA0
+AMP,14639211000001107,Nitrous oxide cylinders size F,1501020R0BBACA0
+AMP,14638311000001105,Nitrous oxide cylinders size E,1501020R0BBADA0
+AMP,14652211000001100,Entonox cylinders size D,1501020R0BCAAAH
+AMP,14646311000001105,Entonox cylinders size F,1501020R0BCABA0
+AMP,14651711000001100,Entonox cylinders size G,1501020R0BCACA0
+AMP,14649011000001101,Entonox cylinders size HX,1501020R0BCAEA0
+AMP,14654611000001106,Entonox cylinders size ZD,1501020R0BCAFA0
+AMP,14650611000001104,Entonox cylinders size ZX,1501020R0BCAGA0
+AMP,20282811000001106,Entonox cylinders size EA,1501020R0BCAHA0
+AMP,20283011000001109,Entonox cylinders size ED,1501020R0BCAIA0
+AMP,20283211000001104,Entonox cylinders size EX,1501020R0BCAJA0
+VMP,333892001,Sevoflurane volatile liquid,1501020V0AAAAAA
+AMP,4976211000001103,Sevoflurane volatile liquid,1501020V0AAAAAA
+AMP,33669711000001107,Sevoflurane volatile liquid,1501020V0AAAAAA
+VMP,35904911000001101,Atropine 1mg/10ml solution for injection pre-filled syringes,1501030D0AAA2A2
+VMP,35905211000001106,Atropine 3mg/10ml solution for injection ampoules,1501030D0AAAAAA
+AMP,7979811000001104,Atropine 3mg/10ml solution for injection ampoules,1501030D0AAAAAA
+VMP,35905511000001109,Atropine 400micrograms/1ml solution for injection ampoules,1501030D0AAAIAI
+AMP,7861111000001107,Atropine 400micrograms/1ml solution for injection ampoules,1501030D0AAAIAI
+AMP,7861911000001105,Atropine 400micrograms/1ml solution for injection ampoules,1501030D0AAAIAI
+AMP,7861711000001108,Atropine 400micrograms/1ml solution for injection ampoules,1501030D0AAAIAI
+VMP,35905711000001104,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,3945911000001103,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,10674211000001109,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,3946411000001102,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,3946111000001107,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,18083211000001108,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,32873011000001103,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+AMP,5082111000001100,Atropine 600micrograms/1ml solution for injection ampoules,1501030D0AAAPAP
+VMP,35905011000001101,Atropine 1mg/1ml solution for injection ampoules,1501030D0AAARAR
+AMP,7857911000001106,Atropine 1mg/1ml solution for injection ampoules,1501030D0AAARAR
+AMP,7858511000001100,Atropine 1mg/1ml solution for injection ampoules,1501030D0AAARAR
+AMP,7858311000001106,Atropine 1mg/1ml solution for injection ampoules,1501030D0AAARAR
+VMP,35904811000001106,Atropine 1.25mg/1ml solution for injection ampoules,1501030D0AAASAS
+AMP,4581511000001105,Atropine 1.25mg/1ml solution for injection ampoules,1501030D0AAASAS
+AMP,4581911000001103,Atropine 1.25mg/1ml solution for injection ampoules,1501030D0AAASAS
+AMP,4581711000001100,Atropine 1.25mg/1ml solution for injection ampoules,1501030D0AAASAS
+VMP,35905611000001108,Atropine 500micrograms/5ml solution for injection pre-filled syringes,1501030D0AAAUAU
+AMP,30986911000001100,Atropine 500micrograms/5ml solution for injection pre-filled syringes,1501030D0AAAUAU
+AMP,32530511000001103,Atropine 500micrograms/5ml solution for injection pre-filled syringes,1501030D0AAAUAU
+VMP,35905411000001105,Atropine 3mg/30ml solution for injection pre-filled syringes,1501030D0AABBBB
+VMP,35905311000001103,Atropine 3mg/10ml solution for injection pre-filled syringes,1501030D0AABDBD
+AMP,4565411000001107,Atropine 3mg/10ml solution for injection pre-filled syringes,1501030D0AABDBD
+AMP,24612111000001102,Atropine 3mg/10ml solution for injection pre-filled syringes,1501030D0AABDBD
+AMP,4565811000001109,Atropine 3mg/10ml solution for injection pre-filled syringes,1501030D0AABDBD
+AMP,4565611000001105,Atropine 3mg/10ml solution for injection pre-filled syringes,1501030D0AABDBD
+VMP,35905111000001100,Atropine 1mg/5ml solution for injection pre-filled syringes,1501030D0AABHBH
+AMP,7869111000001106,Atropine 1mg/5ml solution for injection pre-filled syringes,1501030D0AABHBH
+AMP,24611811000001100,Atropine 1mg/5ml solution for injection pre-filled syringes,1501030D0AABHBH
+AMP,7869311000001108,Atropine 1mg/5ml solution for injection pre-filled syringes,1501030D0AABHBH
+VMP,35905811000001107,Atropine 600micrograms/1ml solution for injection pre-filled syringes,1501030D0AABJBJ
+AMP,7873911000001104,Atropine 600micrograms/1ml solution for injection pre-filled syringes,1501030D0AABJBJ
+AMP,7874111000001100,Atropine 600micrograms/1ml solution for injection pre-filled syringes,1501030D0AABJBJ
+AMP,4584111000001103,Atropine 1mg/10ml solution for injection Minijet pre-filled syringes,1501030D0BBABA2
+AMP,4583811000001107,Atropine 500micrograms/5ml solution for injection Minijet pre-filled syringes,1501030D0BBACAU
+AMP,4584411000001108,Atropine 3mg/30ml solution for injection Minijet pre-filled syringes,1501030D0BBADBB
+VMP,38896111000001105,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,14729811000001104,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,28991411000001100,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,13845011000001105,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,20506811000001103,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,37605211000001106,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+AMP,11487811000001104,Glycopyrronium bromide 200micrograms/1ml solution for injection ampoules,1501030G0AAAAAA
+VMP,38895711000001103,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,14730811000001105,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,28991211000001104,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,13845211000001100,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,20507011000001107,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,37388311000001100,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,11488111000001107,Glycopyrronium bromide 600micrograms/3ml solution for injection ampoules,1501030G0AAABAB
+AMP,3823111000001108,Robinul 200micrograms/1ml solution for injection ampoules,1501030G0BBAAAA
+AMP,4000811000001101,Robinul 600micrograms/3ml solution for injection ampoules,1501030G0BBABAB
+VMP,36044311000001104,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,3790211000001103,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,3791811000001105,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,37390211000001109,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,3791211000001109,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,32456211000001109,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,3790611000001101,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+AMP,9470711000001108,Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1501030H0AAAAAA
+VMP,36044411000001106,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,3857611000001109,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,3858811000001107,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,37390711000001102,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,29210111000001102,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,23216511000001106,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,3858211000001106,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,23938211000001104,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+AMP,9470911000001105,Hyoscine hydrobromide 600micrograms/1ml solution for injection ampoules,1501030H0AAABAB
+VMP,36124911000001107,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,3383311000001103,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,27858211000001101,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,19711411000001105,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,10679811000001109,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,3385311000001102,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,32480111000001109,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,31994411000001107,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,29745511000001101,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,29746211000001105,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,3384011000001104,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+AMP,5104211000001105,Midazolam 10mg/2ml solution for injection ampoules,1501041T0AAAAAA
+VMP,36125011000001107,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,3879511000001101,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,27953111000001108,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,19711211000001106,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,10679511000001106,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,3880111000001105,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,20227811000001101,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,3879711000001106,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+AMP,5104011000001100,Midazolam 10mg/5ml solution for injection ampoules,1501041T0AAABAB
+VMP,4508111000001108,Midazolam 50mg/50ml solution for infusion vials,1501041T0AAACAC
+AMP,4485911000001109,Midazolam 50mg/50ml solution for infusion vials,1501041T0AAACAC
+AMP,15248511000001106,Midazolam 50mg/50ml solution for infusion vials,1501041T0AAACAC
+AMP,4486111000001100,Midazolam 50mg/50ml solution for infusion vials,1501041T0AAACAC
+AMP,28797911000001105,Midazolam 50mg/50ml solution for infusion vials,1501041T0AAACAC
+VMP,36125411000001103,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,4486511000001109,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,20275411000001105,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,10679011000001103,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,4486811000001107,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,23430611000001102,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,23939211000001109,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+AMP,5104411000001109,Midazolam 50mg/10ml solution for injection ampoules,1501041T0AAANAN
+VMP,7977911000001102,Midazolam 100mg/50ml solution for infusion vials,1501041T0AAARAR
+AMP,10267211000001106,Midazolam 100mg/50ml solution for infusion vials,1501041T0AAARAR
+AMP,10267411000001105,Midazolam 100mg/50ml solution for infusion vials,1501041T0AAARAR
+AMP,7978111000001104,Midazolam 100mg/50ml solution for infusion vials,1501041T0AAARAR
+AMP,28797311000001109,Midazolam 100mg/50ml solution for infusion vials,1501041T0AAARAR
+VMP,36125511000001104,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,4752011000001100,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,20275911000001102,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,10681911000001106,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,12059111000001103,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,23430811000001103,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,23958211000001100,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+AMP,11055311000001102,Midazolam 5mg/5ml solution for injection ampoules,1501041T0AAASAS
+VMP,36125211000001102,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,4752311000001102,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,10681711000001109,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,12058611000001102,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,23430411000001100,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,23939011000001104,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+AMP,11055111000001104,Midazolam 2mg/2ml solution for injection ampoules,1501041T0AAATAT
+VMP,22154711000001106,Midazolam 5mg/2ml solution for injection ampoules,1501041T0AAAUAU
+AMP,22083811000001104,Midazolam 5mg/2ml solution for injection ampoules,1501041T0AAAUAU
+AMP,3880411000001100,Hypnovel 10mg/5ml solution for injection ampoules,1501041T0BBAAAB
+AMP,3385011000001100,Hypnovel 10mg/2ml solution for injection ampoules,1501041T0BBABAA
+VMP,36037511000001103,Ketorolac 30mg/1ml solution for injection ampoules,1501042E0AAAAAA
+AMP,19572711000001100,Ketorolac 30mg/1ml solution for injection ampoules,1501042E0AAAAAA
+AMP,38735511000001101,Ketorolac 30mg/1ml solution for injection ampoules,1501042E0AAAAAA
+AMP,13648811000001102,Ketorolac 30mg/1ml solution for injection ampoules,1501042E0AAAAAA
+AMP,33899511000001107,Ketorolac 30mg/1ml solution for injection ampoules,1501042E0AAAAAA
+VMP,36037411000001102,Ketorolac 10mg/1ml solution for injection ampoules,1501042E0AAABAB
+VMP,333981003,Ketorolac 10mg tablets,1501042E0AAACAC
+AMP,4061511000001105,Toradol 30mg/1ml solution for injection ampoules,1501042E0BBAAAA
+AMP,4060911000001105,Toradol 10mg/1ml solution for injection ampoules,1501042E0BBABAB
+AMP,4061811000001108,Toradol 10mg tablets,1501042E0BBACAC
+VMP,4748011000001104,Parecoxib 40mg powder and solvent for solution for injection vials,1501042H0AAAAAA
+VMP,4777411000001105,Parecoxib 40mg powder for solution for injection vials,1501042H0AAABAB
+AMP,4734811000001101,Dynastat 40mg powder and solvent for solution for injection vials,1501042H0BBAAAA
+AMP,4777511000001109,Dynastat 40mg powder for solution for injection vials,1501042H0BBABAB
+VMP,35896411000001108,Alfentanil 1mg/2ml solution for injection ampoules,1501043A0AAABAB
+AMP,16729711000001102,Alfentanil 1mg/2ml solution for injection ampoules,1501043A0AAABAB
+AMP,13930311000001106,Alfentanil 1mg/2ml solution for injection ampoules,1501043A0AAABAB
+AMP,13803811000001108,Alfentanil 1mg/2ml solution for injection ampoules,1501043A0AAABAB
+AMP,14961811000001101,Alfentanil 1mg/2ml solution for injection ampoules,1501043A0AAABAB
+VMP,35896611000001106,Alfentanil 5mg/10ml solution for injection ampoules,1501043A0AAACAC
+AMP,18751711000001105,Alfentanil 5mg/10ml solution for injection ampoules,1501043A0AAACAC
+AMP,13930511000001100,Alfentanil 5mg/10ml solution for injection ampoules,1501043A0AAACAC
+AMP,13804011000001100,Alfentanil 5mg/10ml solution for injection ampoules,1501043A0AAACAC
+AMP,14961011000001107,Alfentanil 5mg/10ml solution for injection ampoules,1501043A0AAACAC
+VMP,35896711000001102,Alfentanil 5mg/1ml solution for injection ampoules,1501043A0AAADAD
+AMP,16441311000001109,Alfentanil 5mg/1ml solution for injection ampoules,1501043A0AAADAD
+AMP,14962111000001103,Alfentanil 5mg/1ml solution for injection ampoules,1501043A0AAADAD
+VMP,14937511000001104,Alfentanil 0.1% nasal spray,1501043A0AAAEAE
+AMP,14937011000001107,Alfentanil 0.1% nasal spray,1501043A0AAAEAE
+VMP,35896511000001107,Alfentanil 500micrograms/1ml solution for injection ampoules,1501043A0AAAFAF
+AMP,21150011000001101,Alfentanil 500micrograms/1ml solution for injection ampoules,1501043A0AAAFAF
+VMP,34682211000001109,Alfentanil 25mg/50ml solution for injection vials,1501043A0AAAHAH
+AMP,34539711000001108,Alfentanil 25mg/50ml solution for injection vials,1501043A0AAAHAH
+AMP,4400611000001107,Rapifen 1mg/2ml solution for injection ampoules,1501043A0BBAAAB
+AMP,4401111000001105,Rapifen 5mg/10ml solution for injection ampoules,1501043A0BBABAC
+AMP,4410411000001106,Rapifen Intensive Care 5mg/1ml solution for injection ampoules,1501043A0BBADAD
+VMP,36119811000001108,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,3982611000001107,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,15627411000001107,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,10683611000001101,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,10351011000001109,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,3983011000001109,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+AMP,28792911000001108,Fentanyl 100micrograms/2ml solution for injection ampoules,1501043F0AAAAAA
+VMP,36120111000001100,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,4521711000001105,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,15628411000001106,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,10683811000001102,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,10351211000001104,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,4523111000001105,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,28793111000001104,Fentanyl 500micrograms/10ml solution for injection ampoules,1501043F0AAABAB
+AMP,3982811000001106,Sublimaze 100micrograms/2ml solution for injection ampoules,1501043F0BBAAAA
+AMP,4522311000001102,Sublimaze 500micrograms/10ml solution for injection ampoules,1501043F0BBABAB
+VMP,35904411000001109,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,4418411000001109,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,38061311000001102,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,18165311000001106,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,35830811000001102,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,9305311000001103,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,4419411000001101,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+AMP,5081411000001100,Atracurium besilate 25mg/2.5ml solution for injection ampoules,1501050F0AAAAAA
+VMP,35904511000001108,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,4417711000001104,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,38061511000001108,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,35831011000001104,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,9305511000001109,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,4418711000001103,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+AMP,5081611000001102,Atracurium besilate 50mg/5ml solution for injection ampoules,1501050F0AAABAB
+VMP,18171811000001105,Atracurium besilate 250mg/25ml solution for injection ampoules,1501050F0AAACAC
+AMP,18755611000001103,Atracurium besilate 250mg/25ml solution for injection ampoules,1501050F0AAACAC
+AMP,18167611000001108,Atracurium besilate 250mg/25ml solution for injection ampoules,1501050F0AAACAC
+VMP,35904311000001102,Atracurium besilate 250mg/25ml solution for injection vials,1501050F0AAADAD
+AMP,4417211000001106,Atracurium besilate 250mg/25ml solution for injection vials,1501050F0AAADAD
+AMP,4417011000001101,Atracurium besilate 250mg/25ml solution for injection vials,1501050F0AAADAD
+AMP,4419011000001105,Tracrium 25mg/2.5ml solution for injection ampoules,1501050F0BBAAAA
+AMP,4417911000001102,Tracrium 50mg/5ml solution for injection ampoules,1501050F0BBABAB
+AMP,4417411000001105,Tracrium 250mg/25ml solution for injection vials,1501050F0BBADAD
+VMP,36036411000001104,Mivacurium chloride 10mg/5ml solution for injection ampoules,1501050K0AAAAAA
+VMP,36036511000001100,Mivacurium chloride 20mg/10ml solution for injection ampoules,1501050K0AAABAB
+AMP,4621111000001103,Mivacron 10mg/5ml solution for injection ampoules,1501050K0BBAAAA
+AMP,4620411000001104,Mivacron 20mg/10ml solution for injection ampoules,1501050K0BBABAB
+VMP,36024811000001106,Pancuronium bromide 4mg/2ml solution for injection ampoules,1501050L0AAAAAA
+AMP,4768211000001100,Pancuronium bromide 4mg/2ml solution for injection ampoules,1501050L0AAAAAA
+AMP,4768811000001104,Pancuronium bromide 4mg/2ml solution for injection ampoules,1501050L0AAAAAA
+AMP,10681311000001105,Pancuronium bromide 4mg/2ml solution for injection ampoules,1501050L0AAAAAA
+AMP,4768511000001102,Pancuronium bromide 4mg/2ml solution for injection ampoules,1501050L0AAAAAA
+AMP,4769011000001100,Pavulon 4mg/2ml solution for injection ampoules,1501050L0BBAAAA
+VMP,35914511000001106,Suxamethonium chloride 100mg/2ml solution for injection ampoules,1501050P0AAAAAA
+AMP,4341811000001103,Suxamethonium chloride 100mg/2ml solution for injection ampoules,1501050P0AAAAAA
+AMP,10680211000001108,Suxamethonium chloride 100mg/2ml solution for injection ampoules,1501050P0AAAAAA
+AMP,12883511000001104,Suxamethonium chloride 100mg/2ml solution for injection ampoules,1501050P0AAAAAA
+VMP,7642711000001101,Suxamethonium chloride 100mg/2ml solution for injection pre-filled syringes,1501050P0AAACAC
+AMP,18510211000001103,Suxamethonium chloride 100mg/2ml solution for injection pre-filled syringes,1501050P0AAACAC
+AMP,7642911000001104,Suxamethonium chloride 100mg/2ml solution for injection pre-filled syringes,1501050P0AAACAC
+AMP,23716311000001108,Suxamethonium chloride 100mg/2ml solution for injection pre-filled syringes,1501050P0AAACAC
+AMP,4342111000001100,Anectine 100mg/2ml solution for injection ampoules,1501050P0BBAAAA
+VMP,36149011000001107,Vecuronium bromide 10mg powder and solvent for solution for injection vials,1501050V0AAAAAA
+VMP,36812211000001105,Vecuronium bromide 10mg powder for solution for injection vials,1501050V0AAABAB
+AMP,36797311000001103,Vecuronium bromide 10mg powder for solution for injection vials,1501050V0AAABAB
+AMP,38010411000001104,Vecuronium bromide 10mg powder for solution for injection vials,1501050V0AAABAB
+AMP,4742411000001106,Norcuron 10mg powder and solvent for solution for injection vials,1501050V0BBAAAA
+VMP,36142311000001102,Cisatracurium besilate 5mg/2.5ml solution for injection ampoules,1501050W0AAAAAA
+VMP,36142011000001100,Cisatracurium besilate 10mg/5ml solution for injection ampoules,1501050W0AAABAB
+AMP,37913411000001108,Cisatracurium besilate 10mg/5ml solution for injection ampoules,1501050W0AAABAB
+VMP,36142211000001105,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+AMP,29933211000001109,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+AMP,37913211000001109,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+AMP,36785311000001107,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+AMP,36885411000001103,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+AMP,33589811000001108,Cisatracurium besilate 20mg/10ml solution for injection ampoules,1501050W0AAACAC
+VMP,34194411000001104,Cisatracurium besilate 150mg/30ml solution for injection vials,1501050W0AAADAD
+AMP,25869811000001103,Cisatracurium besilate 150mg/30ml solution for injection vials,1501050W0AAADAD
+AMP,34737611000001108,Cisatracurium besilate 150mg/30ml solution for injection vials,1501050W0AAADAD
+AMP,33590311000001109,Cisatracurium besilate 150mg/30ml solution for injection vials,1501050W0AAADAD
+AMP,21340811000001101,Cisatracurium besilate 150mg/30ml solution for injection vials,1501050W0AAADAD
+VMP,21994211000001109,Cisatracurium besilate 20mg/10ml solution for injection vials,1501050W0AAAEAE
+AMP,28041111000001108,Cisatracurium besilate 20mg/10ml solution for injection vials,1501050W0AAAEAE
+AMP,34740211000001108,Cisatracurium besilate 20mg/10ml solution for injection vials,1501050W0AAAEAE
+AMP,21991011000001102,Cisatracurium besilate 20mg/10ml solution for injection vials,1501050W0AAAEAE
+VMP,21994111000001103,Cisatracurium besilate 10mg/5ml solution for injection vials,1501050W0AAAFAF
+AMP,21991411000001106,Cisatracurium besilate 10mg/5ml solution for injection vials,1501050W0AAAFAF
+VMP,21994311000001101,Cisatracurium besilate 5mg/2.5ml solution for injection vials,1501050W0AAAGAG
+AMP,21992011000001105,Cisatracurium besilate 5mg/2.5ml solution for injection vials,1501050W0AAAGAG
+AMP,4851111000001106,Nimbex 5mg/2.5ml solution for injection ampoules,1501050W0BBAAAA
+AMP,4851711000001107,Nimbex 10mg/5ml solution for injection ampoules,1501050W0BBABAB
+AMP,4852111000001101,Nimbex 20mg/10ml solution for injection ampoules,1501050W0BBACAC
+AMP,4852611000001109,Nimbex Forte 150mg/30ml solution for injection vials,1501050W0BBADAD
+VMP,35935011000001109,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+AMP,32502411000001107,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+AMP,34755611000001100,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+AMP,36530711000001109,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+AMP,32712811000001107,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+AMP,17370111000001106,Rocuronium bromide 100mg/10ml solution for injection vials,1501050X0AAABAB
+VMP,35935111000001105,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+AMP,28966011000001100,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+AMP,34755811000001101,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+AMP,36530511000001104,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+AMP,32712511000001109,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+AMP,17369911000001106,Rocuronium bromide 50mg/5ml solution for injection vials,1501050X0AAACAC
+VMP,33570811000001108,Rocuronium bromide 50mg/5ml solution for injection ampoules,1501050X0AAAEAE
+AMP,36793511000001104,Rocuronium bromide 50mg/5ml solution for injection ampoules,1501050X0AAAEAE
+AMP,33570611000001109,Rocuronium bromide 50mg/5ml solution for injection ampoules,1501050X0AAAEAE
+VMP,37455011000001105,Rocuronium bromide 100mg/10ml solution for injection ampoules,1501050X0AAAFAF
+AMP,36793311000001105,Rocuronium bromide 100mg/10ml solution for injection ampoules,1501050X0AAAFAF
+AMP,4799111000001102,Esmeron 50mg/5ml solution for injection vials,1501050X0BBAAAC
+AMP,4799411000001107,Esmeron 100mg/10ml solution for injection vials,1501050X0BBABAB
+VMP,36030711000001107,Neostigmine 2.5mg/1ml / Glycopyrronium bromide 500micrograms/1ml solution for injection ampoules,1501060N0AAAAAA
+AMP,14739611000001100,Neostigmine 2.5mg/1ml / Glycopyrronium bromide 500micrograms/1ml solution for injection ampoules,1501060N0AAAAAA
+AMP,15357211000001100,Neostigmine 2.5mg/1ml / Glycopyrronium bromide 500micrograms/1ml solution for injection ampoules,1501060N0AAAAAA
+AMP,20507411000001103,Neostigmine 2.5mg/1ml / Glycopyrronium bromide 500micrograms/1ml solution for injection ampoules,1501060N0AAAAAA
+AMP,11488711000001108,Neostigmine 2.5mg/1ml / Glycopyrronium bromide 500micrograms/1ml solution for injection ampoules,1501060N0AAAAAA
+AMP,4565111000001102,Robinul-Neostigmine solution for injection 1ml ampoules,1501060N0BBAAAA
+VMP,36067711000001104,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,20191611000001102,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,21539711000001101,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,35832711000001109,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,22971811000001101,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,9179711000001102,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,14793511000001108,Flumazenil 500micrograms/5ml solution for injection ampoules,1501070F0AAAAAA
+AMP,4341111000001105,Anexate 500micrograms/5ml solution for injection ampoules,1501070F0BBAAAA
+VMP,36029111000001103,Naloxone 40micrograms/2ml solution for injection ampoules,1501070G0AAAAAA
+AMP,17232811000001105,Naloxone 40micrograms/2ml solution for injection ampoules,1501070G0AAAAAA
+AMP,4473811000001108,Narcan Neonatal 40micrograms/2ml solution for injection ampoules,1501070G0BBAAAA
+VMP,334108003,Dantrolene 20mg powder for solution for injection vials,1501080B0AAAAAA
+AMP,4353811000001102,Dantrium Intravenous 20mg powder for solution for injection vials,1501080B0BBAAAA
+VMP,331617003,Tetracaine 4% gel,1502010A0AAAAAA
+VMP,8973111000001100,Tetracaine 4% gel with Vapour-permeable adhesive film dressing 6cm x 7cm,1502010A0AAABAB
+AMP,3718311000001109,Ametop 4% gel,1502010A0BBAAAA
+AMP,8968711000001101,Ametop 4% gel dispensing pack,1502010A0BBABAB
+VMP,22153711000001109,Chloroprocaine 50mg/5ml solution for injection ampoules,1502010AAAAAAAA
+VMP,38359111000001105,Chloroprocaine 400mg/20ml solution for injection vials,1502010AAAAABAB
+AMP,22020111000001108,Ampres 50mg/5ml solution for injection ampoules,1502010AABBAAAA
+AMP,38347611000001109,Ampres 400mg/20ml solution for injection vials,1502010AABBABAB
+VMP,5251811000001102,"Mepivacaine 44mg/2.2ml / Adrenaline (base) 22micrograms/2.2ml (1 in 100,000) solution for injection cartridges",1502010ABAAAAAA
+VMP,5251911000001107,Mepivacaine 66mg/2.2ml solution for injection cartridges,1502010ABAAABAB
+AMP,5244611000001101,Scandonest special 2% solution for injection 2.2ml cartridges,1502010ABBBAAAA
+AMP,5244511000001100,Scandonest plain 3% solution for injection 2.2ml cartridges,1502010ABBBABAB
+VMP,35913111000001104,Bupivacaine 25mg/10ml (0.25%) solution for injection ampoules,1502010C0AAABAB
+AMP,4189311000001106,Bupivacaine 25mg/10ml (0.25%) solution for injection ampoules,1502010C0AAABAB
+AMP,10676211000001104,Bupivacaine 25mg/10ml (0.25%) solution for injection ampoules,1502010C0AAABAB
+VMP,35913511000001108,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules,1502010C0AAADAD
+AMP,4184011000001107,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules,1502010C0AAADAD
+AMP,30786211000001103,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules,1502010C0AAADAD
+AMP,10676711000001106,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules,1502010C0AAADAD
+VMP,8286311000001103,Bupivacaine 75mg/10ml (0.75%) solution for injection ampoules,1502010C0AAAEAE
+VMP,4616011000001101,"Bupivacaine 25mg/10ml (0.25%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAIAI
+AMP,4599611000001106,"Bupivacaine 25mg/10ml (0.25%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAIAI
+AMP,10678411000001104,"Bupivacaine 25mg/10ml (0.25%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAIAI
+VMP,4616111000001100,"Bupivacaine 50mg/10ml (0.5%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAJAJ
+AMP,4607711000001104,"Bupivacaine 50mg/10ml (0.5%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAJAJ
+AMP,10678811000001102,"Bupivacaine 50mg/10ml (0.5%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0AAAJAJ
+VMP,4481411000001104,Bupivacaine 20mg/4ml (0.5%) / Glucose 320mg/4ml solution for injection ampoules,1502010C0AAAKAK
+VMP,35913411000001109,Bupivacaine 312.5mg/250ml (0.125%) infusion bags,1502010C0AAALAL
+AMP,18756211000001106,Bupivacaine 312.5mg/250ml (0.125%) infusion bags,1502010C0AAALAL
+AMP,7843911000001100,Bupivacaine 312.5mg/250ml (0.125%) infusion bags,1502010C0AAALAL
+VMP,7811511000001104,Bupivacaine 100mg/100ml (0.1%) infusion bags,1502010C0AAAXAX
+AMP,7811911000001106,Bupivacaine 100mg/100ml (0.1%) infusion bags,1502010C0AAAXAX
+VMP,7812311000001101,Bupivacaine 250mg/250ml (0.1%) infusion bags,1502010C0AAAYAY
+AMP,18499011000001106,Bupivacaine 250mg/250ml (0.1%) infusion bags,1502010C0AAAYAY
+AMP,7812711000001102,Bupivacaine 250mg/250ml (0.1%) infusion bags,1502010C0AAAYAY
+AMP,4600111000001101,"Marcain 0.25% with Adrenaline 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0BBAFAI
+AMP,4608211000001105,"Marcain 0.5% with Adrenaline 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010C0BBAGAJ
+AMP,4475211000001106,Marcain Heavy 0.5% solution for injection 4ml ampoules,1502010C0BBAHAK
+AMP,4190111000001103,Marcain 0.25% solution for injection 10ml Polyamp Steripack ampoules,1502010C0BBAIAB
+AMP,4185711000001108,Marcain 0.5% solution for injection 10ml Polyamp Steripack ampoules,1502010C0BBAJAD
+AMP,4184711000001109,Bupivacaine 0.5% solution for injection 10ml Sure-Amp ampoules,1502010C0BCAAAD
+AMP,4189711000001105,Bupivacaine 0.25% solution for injection 10ml Sure-Amp ampoules,1502010C0BCABAB
+AMP,8177311000001108,Bupivacaine 0.75% solution for injection 10ml Sure-Amp ampoules,1502010C0BCACAE
+VMP,22503911000001107,Cocaine 10% nasal drops,1502010F0AAAXAX
+AMP,22504511000001102,Cocaine 10% nasal drops,1502010F0AAAXAX
+VMP,14055311000001105,Cocaine 5% mouthwash,1502010G0AAAAAA
+AMP,14022111000001100,Cocaine 5% mouthwash,1502010G0AAAAAA
+VMP,9765411000001105,Cocaine powder,1502010G0AAABAB
+AMP,10061911000001100,Cocaine powder,1502010G0AAABAB
+AMP,9763811000001108,Cocaine powder,1502010G0AAABAB
+AMP,9763611000001109,Cocaine powder,1502010G0AAABAB
+AMP,15079411000001108,Cocaine powder,1502010G0AAABAB
+VMP,13146711000001105,Cocaine 2% mouthwash,1502010G0AAADAD
+AMP,13136011000001109,Cocaine 2% mouthwash,1502010G0AAADAD
+VMP,19973711000001101,Cocaine 10% mouthwash,1502010G0AAAIAI
+AMP,19954511000001107,Cocaine 10% mouthwash,1502010G0AAAIAI
+VMP,11549911000001104,Cocaine 10% spray,1502010G0AAARAR
+AMP,11546311000001107,Cocaine 10% spray,1502010G0AAARAR
+AMP,11546511000001101,Cocaine 10% spray,1502010G0AAARAR
+AMP,11546711000001106,Cocaine 10% spray,1502010G0AAARAR
+VMP,18683311000001109,Cocaine 5% nasal spray,1502010G0AAASAS
+AMP,18673711000001102,Cocaine 5% nasal spray,1502010G0AAASAS
+VMP,21147911000001103,Cocaine 25% oromucosal paste,1502010G0AAATAT
+AMP,21131611000001104,Cocaine 25% oromucosal paste,1502010G0AAATAT
+VMP,14616011000001100,Cocaine 4% topical solution,1502010G0AAAUAU
+AMP,11500311000001100,Cocaine 4% topical solution,1502010G0AAAUAU
+AMP,34801811000001105,Cocaine 4% topical solution,1502010G0AAAUAU
+VMP,334246001,Lidocaine 10% spray sugar free,1502010I0AAACAC
+VMP,334245002,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,3842511000001109,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,23261111000001105,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,3843211000001100,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,24027611000001105,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,24625111000001104,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,23940711000001108,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,28393411000001108,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,25878011000001109,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,23430011000001109,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,24570411000001105,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,23938611000001102,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,28128311000001106,Lidocaine 5% ointment,1502010I0AAAEAE
+AMP,4208111000001101,Lidocaine 5% ointment,1502010I0AAAEAE
+VMP,16090411000001105,Lidocaine 1% ointment,1502010I0AAAHAH
+AMP,16083511000001104,Lidocaine 1% ointment,1502010I0AAAHAH
+VMP,9742811000001107,Lidocaine 25mg/g / Prilocaine 25mg/g periodontal gel 1.7g cartridges sugar free,1502010I0AAAIAI
+VMP,9904511000001101,Lidocaine 25mg/g / Prilocaine 25mg/g periodontal gel 1.7g cartridges with applicator sugar free,1502010I0AAAJAJ
+VMP,14203911000001107,Lidocaine 4% cream,1502010I0AAAKAK
+VMP,36459511000001103,Lidocaine 0.5% ointment,1502010I0AAAMAM
+AMP,36455411000001100,Lidocaine 0.5% ointment,1502010I0AAAMAM
+AMP,4118111000001100,Xylocaine 10mg/dose spray,1502010I0BCABAC
+AMP,9731211000001103,Oraqix 25mg/25mg/g periodontal gel 1.7g cartridges,1502010I0BFAAAI
+AMP,9903211000001102,Oraqix 25mg/25mg/g periodontal gel 1.7g cartridges with dispenser,1502010I0BFABAJ
+AMP,14189111000001108,LMX 4 cream,1502010I0BGAAAK
+AMP,17076111000001105,LMX 4 cream with Tegaderm dressing 10cm x 6cm,1502010I0BGABAK
+VMP,3602511000001108,"Lidocaine 400mg/20ml (2%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0AAA3A3
+VMP,3876211000001108,"Lidocaine 100mg/20ml (0.5%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0AAA7A7
+VMP,3602411000001109,Lidocaine 200mg/20ml (1%) solution for injection vials,1502010J0AAADAD
+AMP,3596411000001103,Lidocaine 200mg/20ml (1%) solution for injection vials,1502010J0AAADAD
+AMP,3596711000001109,Lidocaine 200mg/20ml (1%) solution for injection vials,1502010J0AAADAD
+AMP,5098111000001101,Lidocaine 200mg/20ml (1%) solution for injection vials,1502010J0AAADAD
+VMP,36039711000001100,Lidocaine 400mg/20ml (2%) solution for injection vials,1502010J0AAAHAH
+AMP,3594811000001108,Lidocaine 400mg/20ml (2%) solution for injection vials,1502010J0AAAHAH
+AMP,10060311000001106,Lidocaine 400mg/20ml (2%) solution for injection vials,1502010J0AAAHAH
+AMP,5098511000001105,Lidocaine 400mg/20ml (2%) solution for injection vials,1502010J0AAAHAH
+VMP,14612311000001101,Lidocaine 4% solution,1502010J0AAAKAK
+AMP,4744911000001107,Lidocaine 4% solution,1502010J0AAAKAK
+AMP,4013911000001101,Lidocaine 4% solution,1502010J0AAAKAK
+AMP,23563011000001104,Lidocaine 4% solution,1502010J0AAAKAK
+AMP,4223511000001108,Lidocaine 4% solution,1502010J0AAAKAK
+VMP,3602611000001107,"Lidocaine 200mg/20ml (1%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0AAAYAY
+VMP,36040011000001109,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,3599311000001103,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,10682811000001105,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,3599911000001102,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,3599711000001104,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,34537911000001103,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+AMP,5092911000001101,Lidocaine 50mg/5ml (1%) solution for injection ampoules,1502010J0AABDBD
+VMP,36039811000001108,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,3600411000001108,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,10680811000001109,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,3601211000001103,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,3601011000001108,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,34538211000001106,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,18139111000001101,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+AMP,5096511000001109,Lidocaine 40mg/2ml (2%) solution for injection ampoules,1502010J0AABEBE
+VMP,4080711000001105,Lidocaine 1% and Chlorhexidine gel,1502010J0AABKBK
+AMP,4080311000001106,Lidocaine 1% and Chlorhexidine gel,1502010J0AABKBK
+AMP,4080511000001100,Lidocaine 1% and Chlorhexidine gel,1502010J0AABKBK
+AMP,4775411000001104,Lidocaine 1% and Chlorhexidine gel,1502010J0AABKBK
+VMP,334240007,Lidocaine 1% gel,1502010J0AABMBM
+AMP,3763811000001106,Lidocaine 1% gel,1502010J0AABMBM
+AMP,3764211000001108,Lidocaine 1% gel,1502010J0AABMBM
+AMP,3764011000001103,Lidocaine 1% gel,1502010J0AABMBM
+AMP,14158311000001105,Lidocaine 1% gel,1502010J0AABMBM
+AMP,4774711000001106,Lidocaine 1% gel,1502010J0AABMBM
+VMP,7289111000001100,Lidocaine 2% and Chlorhexidine gel,1502010J0AABQBQ
+AMP,4776011000001104,Lidocaine 2% and Chlorhexidine gel,1502010J0AABQBQ
+AMP,5426811000001105,Lidocaine 2% and Chlorhexidine gel,1502010J0AABQBQ
+AMP,4776411000001108,Lidocaine 2% and Chlorhexidine gel,1502010J0AABQBQ
+AMP,4776211000001109,Lidocaine 2% and Chlorhexidine gel,1502010J0AABQBQ
+VMP,36039411000001106,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,3595311000001100,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,10683011000001108,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,3595811000001109,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,3595511000001106,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,34537711000001100,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,18138711000001109,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+AMP,5092711000001103,Lidocaine 20mg/2ml (1%) solution for injection ampoules,1502010J0AABUBU
+VMP,28808211000001102,Lidocaine 5% gel,1502010J0AABVBV
+AMP,28787011000001105,Lidocaine 5% gel,1502010J0AABVBV
+VMP,3776011000001101,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,3767911000001105,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,10682611000001106,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,3768711000001109,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,3768511000001104,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,22465411000001105,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+AMP,5093111000001105,Lidocaine 100mg/10ml (1%) solution for injection ampoules,1502010J0AABWBW
+VMP,331615006,Lidocaine 2.5% / Prilocaine 2.5% cream,1502010J0AABYBY
+VMP,3601911000001107,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,3597711000001107,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,10680611000001105,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,3598311000001109,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,3598111000001107,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,34538411000001105,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+AMP,5097211000001108,Lidocaine 100mg/5ml (2%) solution for injection ampoules,1502010J0AACBCB
+VMP,4899111000001104,Lidocaine 200mg/10ml (2%) solution for injection ampoules,1502010J0AACECE
+AMP,4881711000001101,Lidocaine 200mg/10ml (2%) solution for injection ampoules,1502010J0AACECE
+VMP,36039911000001103,Lidocaine 50mg/10ml (0.5%) solution for injection ampoules,1502010J0AACFCF
+AMP,4010311000001108,Lidocaine 50mg/10ml (0.5%) solution for injection ampoules,1502010J0AACFCF
+AMP,10684011000001105,Lidocaine 50mg/10ml (0.5%) solution for injection ampoules,1502010J0AACFCF
+AMP,4010511000001102,Lidocaine 50mg/10ml (0.5%) solution for injection ampoules,1502010J0AACFCF
+VMP,36039311000001104,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+AMP,3769711000001100,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+AMP,10682411000001108,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+AMP,3770111000001103,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+AMP,3769911000001103,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+AMP,5093411000001100,Lidocaine 200mg/20ml (1%) solution for injection ampoules,1502010J0AACJCJ
+VMP,4210211000001106,"Lidocaine 44mg/2.2ml (2%) / Adrenaline (base) 27.5micrograms/2.2ml (1 in 80,000) solution for injection cartridges",1502010J0AACQCQ
+VMP,36039611000001109,Lidocaine 400mg/20ml (2%) solution for injection ampoules,1502010J0AACUCU
+AMP,3770611000001106,Lidocaine 400mg/20ml (2%) solution for injection ampoules,1502010J0AACUCU
+AMP,10680411000001107,Lidocaine 400mg/20ml (2%) solution for injection ampoules,1502010J0AACUCU
+AMP,3770811000001105,Lidocaine 400mg/20ml (2%) solution for injection ampoules,1502010J0AACUCU
+AMP,5097511000001106,Lidocaine 400mg/20ml (2%) solution for injection ampoules,1502010J0AACUCU
+VMP,334219006,Lidocaine 5% / Phenylephrine 0.5% nasal spray,1502010J0AADTDT
+AMP,4960911000001100,Lidocaine 5% / Phenylephrine 0.5% nasal spray,1502010J0AADTDT
+AMP,5253211000001104,Lidocaine 5% / Phenylephrine 0.5% nasal spray,1502010J0AADTDT
+AMP,26852611000001100,Lidocaine 5% / Phenylephrine 0.5% nasal spray,1502010J0AADTDT
+AMP,4961111000001109,Lidocaine 5% / Phenylephrine 0.5% nasal spray,1502010J0AADTDT
+VMP,36039211000001107,Lidocaine 160mg/4ml (4%) oromucosal solution pre-filled syringes,1502010J0AAEAEA
+VMP,36039111000001101,Lidocaine 100mg/5ml (2%) solution for injection pre-filled syringes,1502010J0AAEBEB
+AMP,4586311000001107,Lidocaine 100mg/5ml (2%) solution for injection pre-filled syringes,1502010J0AAEBEB
+AMP,4586811000001103,Lidocaine 100mg/5ml (2%) solution for injection pre-filled syringes,1502010J0AAEBEB
+AMP,4586511000001101,Lidocaine 100mg/5ml (2%) solution for injection pre-filled syringes,1502010J0AAEBEB
+VMP,11819511000001104,Lidocaine hydrochloride 0.6% / Cetylpyridinium chloride 0.02% oromucosal gel sugar free,1502010J0AAEKEK
+VMP,376491004,Lidocaine 5% medicated plasters,1502010J0AAELEL
+VMP,20455411000001109,Lidocaine 1% / Hydrocortisone 0.1% mouthwash,1502010J0AAEMEM
+AMP,20437211000001101,Lidocaine 1% / Hydrocortisone 0.1% mouthwash,1502010J0AAEMEM
+VMP,35086311000001101,"Lidocaine 36mg/1.8ml (2%) / Adrenaline (base) 22.5micrograms/1.8ml (1 in 80,000) solution for injection cartridges",1502010J0AAENEN
+VMP,334243009,Lidocaine 2% gel,1502010J0AAEPEP
+AMP,3764611000001105,Lidocaine 2% gel,1502010J0AAEPEP
+AMP,3765311000001101,Lidocaine 2% gel,1502010J0AAEPEP
+AMP,3765011000001104,Lidocaine 2% gel,1502010J0AAEPEP
+AMP,17417311000001108,Lidocaine 2% gel,1502010J0AAEPEP
+AMP,4774911000001108,Lidocaine 2% gel,1502010J0AAEPEP
+VMP,4706511000001104,Lidocaine hydrochloride 0.5% / Cetylpyridinium chloride 0.025% oromucosal gel sugar free,1502010J0AAEQEQ
+VMP,24548011000001103,"Lidocaine 100mg/10ml (1%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010J0AAERER
+AMP,24548311000001100,"Lidocaine 100mg/10ml (1%) / Adrenaline (base) 50micrograms/10ml (1 in 200,000) solution for injection ampoules",1502010J0AAERER
+VMP,35148711000001102,Lidocaine 10mg / Cetrimide 100microgram oromucosal spray sugar free,1502010J0AAESES
+VMP,35148811000001105,Lidocaine 5% / Cetrimide 0.15% oromucosal gel sugar free,1502010J0AAETET
+AMP,3595911000001104,"Xylocaine 2% with Adrenaline 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0BBA1A3
+AMP,3867011000001108,"Xylocaine 0.5% with Adrenaline 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0BBA3A7
+AMP,4014111000001102,Xylocaine Topical 4% solution,1502010J0BBAMAK
+AMP,3594611000001109,"Xylocaine 1% with Adrenaline 100micrograms/20ml (1 in 200,000) solution for injection vials",1502010J0BBAXAY
+AMP,4207411000001107,"Xylocaine 2% with Adrenaline 1 in 80,000 injection 2.2ml cartridges",1502010J0BBBKCQ
+AMP,4207011000001103,"Lignostab-A 2% 1 in 80,000 injection 2.2ml cartridges",1502010J0BCAECQ
+AMP,8552411000001106,Instillagel gel,1502010J0BDAABQ
+AMP,2936311000001102,Emla 5% cream,1502010J0BEAABY
+AMP,4207211000001108,Xylotox 2% E80 Dental injection 2.2ml cartridges,1502010J0BJAACQ
+AMP,4573811000001102,Lidocaine 4% oromucosal solution Laryngojet pre-filled syringes,1502010J0BKAAEA
+AMP,3600611000001106,Lidocaine 40mg/2ml (2%) solution for injection Sure-Amp ampoules,1502010J0BLAABE
+AMP,3597911000001109,Lidocaine 100mg/5ml (2%) solution for injection Sure-Amp ampoules,1502010J0BLABCB
+AMP,3596611000001100,Lidocaine 20mg/2ml (1%) solution for injection Sure-Amp ampoules,1502010J0BLACBU
+AMP,3599511000001109,Lidocaine 50mg/5ml (1%) solution for injection Sure-Amp ampoules,1502010J0BLADBD
+AMP,3768111000001108,Lidocaine 100mg/10ml (1%) solution for injection Sure-Amp ampoules,1502010J0BLAEBW
+AMP,4881511000001106,Lidocaine 200mg/10ml (2%) solution for injection Mini-Plasco ampoules,1502010J0BNAACE
+AMP,35863311000001108,Lidocaine 50mg/5ml (1%) solution for injection Mini-Plasco ampoules,1502010J0BNABBD
+AMP,35863911000001109,Lidocaine 100mg/5ml (2%) solution for injection Mini-Plasco ampoules,1502010J0BNACCB
+AMP,3600811000001105,Lidocaine 40mg/2ml (2%) solution for injection Mini-Plasco ampoules,1502010J0BNADBE
+AMP,35863611000001103,Lidocaine 200mg/20ml (1%) solution for injection Mini-Plasco ampoules,1502010J0BNAECJ
+AMP,3768311000001105,Lidocaine 100mg/10ml (1%) solution for injection Mini-Plasco ampoules,1502010J0BNAFBW
+AMP,35864311000001105,Lidocaine 400mg/20ml (2%) solution for injection Mini-Plasco ampoules,1502010J0BNAHCU
+AMP,36463611000001109,Lidocaine 100mg/5ml (2%) solution for injection Mini-Plasco ampoules,1502010J0BNAICB
+AMP,36463411000001106,Lidocaine 100mg/10ml (1%) solution for injection Mini-Plasco ampoules,1502010J0BNAJBW
+AMP,36463211000001107,Lidocaine 50mg/5ml (1%) solution for injection Mini-Plasco ampoules,1502010J0BNAKBD
+AMP,5251511000001100,Rexocaine 2% injection 2.2ml cartridges,1502010J0BQAACQ
+AMP,11793211000001102,Children's 3 Months Plus teething gel sugar free,1502010J0BRAAEK
+AMP,11052611000001103,Versatis 700mg medicated plasters,1502010J0BSAAEL
+AMP,21313511000001103,Lignospan Special 20mg/ml / 12.5micrograms/ml solution for injection 2.2ml cartridges,1502010J0BTAACQ
+AMP,35061911000001107,Lignospan Special 20mg/ml / 12.5micrograms/ml solution for injection 1.8ml cartridges,1502010J0BTABEN
+AMP,23364211000001105,Denela 5% cream,1502010J0BUAABY
+AMP,23663811000001102,Bonjela Junior gel,1502010J0BVAAEQ
+AMP,34178211000001102,Ralvo 700mg medicated plasters,1502010J0BWAAEL
+AMP,34881811000001106,Nulbia 5% cream,1502010J0BXAABY
+AMP,35130011000001100,Xylonor 150mg/g / 1.5mg/g oromucosal spray,1502010J0BYAAES
+AMP,35131511000001101,Xylonor 50mg/g / 1.5mg/g gel,1502010J0BYABET
+AMP,4656611000001103,Woodward's teething gel,1502010J0BZAAEQ
+VMP,35935411000001100,Ropivacaine 20mg/10ml solution for injection ampoules,1502010R0AAAAAA
+AMP,21701911000001106,Ropivacaine 20mg/10ml solution for injection ampoules,1502010R0AAAAAA
+AMP,36761011000001109,Ropivacaine 20mg/10ml solution for injection ampoules,1502010R0AAAAAA
+AMP,37671311000001107,Ropivacaine 20mg/10ml solution for injection ampoules,1502010R0AAAAAA
+VMP,35935611000001102,Ropivacaine 75mg/10ml solution for injection ampoules,1502010R0AAABAB
+AMP,21701711000001109,Ropivacaine 75mg/10ml solution for injection ampoules,1502010R0AAABAB
+AMP,36569711000001109,Ropivacaine 75mg/10ml solution for injection ampoules,1502010R0AAABAB
+AMP,37671911000001108,Ropivacaine 75mg/10ml solution for injection ampoules,1502010R0AAABAB
+VMP,35935511000001101,Ropivacaine 400mg/200ml infusion bags,1502010R0AAADAD
+AMP,21669811000001107,Ropivacaine 400mg/200ml infusion bags,1502010R0AAADAD
+AMP,36614611000001109,Ropivacaine 400mg/200ml infusion bags,1502010R0AAADAD
+AMP,37670711000001103,Ropivacaine 400mg/200ml infusion bags,1502010R0AAADAD
+AMP,18112011000001104,Ropivacaine 400mg/200ml infusion bags,1502010R0AAADAD
+VMP,35935211000001104,Ropivacaine 100mg/10ml solution for injection ampoules,1502010R0AAAEAE
+AMP,21701511000001104,Ropivacaine 100mg/10ml solution for injection ampoules,1502010R0AAAEAE
+AMP,36570211000001100,Ropivacaine 100mg/10ml solution for injection ampoules,1502010R0AAAEAE
+AMP,37672411000001105,Ropivacaine 100mg/10ml solution for injection ampoules,1502010R0AAAEAE
+VMP,35935311000001107,Ropivacaine 200mg/100ml infusion bags,1502010R0AAAFAF
+AMP,4510911000001107,Naropin 20mg/10ml solution for injection ampoules,1502010R0BBAAAA
+AMP,4510611000001101,Naropin 75mg/10ml solution for injection ampoules,1502010R0BBABAB
+AMP,4695211000001101,Naropin 400mg/200ml infusion Polybags,1502010R0BBACAD
+AMP,4513711000001101,Naropin 100mg/10ml solution for injection ampoules,1502010R0BBADAE
+AMP,4695611000001104,Naropin 200mg/100ml infusion Polybags,1502010R0BBAEAF
+VMP,4748111000001103,Prilocaine 200mg/20ml solution for injection vials,1502010S0AAACAC
+VMP,5650811000001107,Prilocaine 500mg/50ml solution for injection vials,1502010S0AAADAD
+VMP,11416011000001109,Prilocaine 54mg/1.8ml / Felypressin 0.054units/1.8ml solution for injection self aspirating cartridges,1502010S0AAAIAI
+VMP,24610311000001104,Prilocaine 66mg/2.2ml / Felypressin 0.066units/2.2ml solution for injection self aspirating cartridges,1502010S0AAAJAJ
+AMP,4734611000001100,Citanest 1% solution for injection 20ml vials,1502010S0BBACAC
+AMP,5638011000001100,Citanest 1% solution for injection 50ml vials,1502010S0BBADAD
+AMP,11398111000001100,Citanest 3% with Octapressin Dental 0.054units/1.8ml solution for injection self aspirating cartridges,1502010S0BBAHAI
+AMP,24608311000001100,Citanest 3% with Octapressin Dental 0.066units/2.2ml solution for injection self aspirating cartridges,1502010S0BBAJAJ
+VMP,4957611000001102,Procaine hydrochloride 40mg/2ml solution for injection ampoules,1502010U0AAAAAA
+AMP,4949311000001100,Procaine hydrochloride 40mg/2ml solution for injection ampoules,1502010U0AAAAAA
+AMP,4950511000001100,Procaine hydrochloride 40mg/2ml solution for injection ampoules,1502010U0AAAAAA
+AMP,4950111000001109,Procaine hydrochloride 40mg/2ml solution for injection ampoules,1502010U0AAAAAA
+VMP,36038611000001100,Levobupivacaine 25mg/10ml solution for injection ampoules,1502010V0AAAAAA
+AMP,36569111000001108,Levobupivacaine 25mg/10ml solution for injection ampoules,1502010V0AAAAAA
+VMP,36038711000001109,Levobupivacaine 50mg/10ml solution for injection ampoules,1502010V0AAABAB
+AMP,36614411000001106,Levobupivacaine 50mg/10ml solution for injection ampoules,1502010V0AAABAB
+VMP,36038811000001101,Levobupivacaine 75mg/10ml solution for injection ampoules,1502010V0AAACAC
+AMP,36568711000001100,Levobupivacaine 75mg/10ml solution for injection ampoules,1502010V0AAACAC
+AMP,4681611000001103,Chirocaine 25mg/10ml solution for injection ampoules,1502010V0BBAAAA
+AMP,4682511000001105,Chirocaine 50mg/10ml solution for injection ampoules,1502010V0BBABAB
+AMP,4682811000001108,Chirocaine 75mg/10ml solution for injection ampoules,1502010V0BBACAC
+VMP,36151111000001107,Ziconotide 100micrograms/1ml solution for infusion vials,1502010X0AAAAAA
+VMP,36151311000001109,Ziconotide 500micrograms/5ml solution for infusion vials,1502010X0AAABAB
+AMP,10605611000001103,Prialt 100micrograms/1ml solution for infusion vials,1502010X0BBAAAA
+AMP,10605911000001109,Prialt 500micrograms/5ml solution for infusion vials,1502010X0BBABAB
+VMP,13210811000001108,Lidocaine 70mg / Tetracaine 70mg medicated plasters,1502010Y0AAAAAA
+VMP,425136005,Lidocaine 70mg / Tetracaine 70mg cream,1502010Y0AAABAB
+AMP,13205811000001100,Rapydan 70mg/70mg medicated plasters,1502010Y0BBAAAA
+AMP,21711811000001103,Pliaglis 70mg/g / 70mg/g cream,1502010Y0BCAAAB
+VMP,17071111000001101,Bupivacaine 100mg/100ml (0.1%) / Fentanyl 200micrograms/100ml infusion bags,1502010Z0AAAAAA
+AMP,17062911000001102,Bupivacaine 100mg/100ml (0.1%) / Fentanyl 200micrograms/100ml infusion bags,1502010Z0AAAAAA
+VMP,17071211000001107,Bupivacaine 250mg/250ml (0.1%) / Fentanyl 500micrograms/250ml infusion bags,1502010Z0AAABAB
+AMP,17063011000001105,Bupivacaine 250mg/250ml (0.1%) / Fentanyl 500micrograms/250ml infusion bags,1502010Z0AAABAB
+VMP,17071311000001104,Bupivacaine 500mg/500ml (0.1%) / Fentanyl 1mg/500ml infusion bags,1502010Z0AAACAC
+AMP,17063111000001106,Bupivacaine 500mg/500ml (0.1%) / Fentanyl 1mg/500ml infusion bags,1502010Z0AAACAC
+AMP,19826111000001104,Bufyl 1mg/ml and 2micrograms/ml 250ml infusion bags,1502010Z0BBAAAB
+AMP,19826311000001102,Bufyl 1mg/ml and 2micrograms/ml 500ml infusion bags,1502010Z0BBABAC

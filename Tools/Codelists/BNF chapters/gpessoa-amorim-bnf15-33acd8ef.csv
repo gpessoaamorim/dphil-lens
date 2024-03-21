@@ -1,0 +1,489 @@
+code,term
+15,Anaesthesia
+1501,General anaesthesia
+150101,Intravenous anaesthetics
+1501010,Intravenous anaesthetics
+1501010C0,Etomidate
+1501010C0AA,Etomidate
+1501010C0AAAAAA,Etomidate 20mg/10ml solution for injection ampoules
+1501010C0BB,Hypnomidate
+1501010C0BBAAAA,Hypnomidate 20mg/10ml solution for injection ampoules
+1501010F0,Ketamine
+1501010F0AA,Ketamine (Anaesthesia)
+1501010F0AAAAAA,Ketamine 200mg/20ml solution for injection vials
+1501010F0AAABAB,Ketamine 500mg/10ml solution for injection vials
+1501010F0AAADAD,Ketamine 1g/10ml solution for injection vials
+1501010F0AAAEAE,Ketamine 50mg/5ml solution for injection ampoules
+1501010F0AAAFAF,Ketamine 100mg/2ml solution for injection ampoules
+1501010F0AAAGAG,Ketamine 25mg/5ml solution for injection ampoules
+1501010F0AAAHAH,Ketamine 50mg/2ml solution for injection ampoules
+1501010F0BB,Ketalar
+1501010F0BBAAAB,Ketalar 500mg/10ml solution for injection vials
+1501010F0BBACAA,Ketalar 200mg/20ml solution for injection vials
+1501010F0BBADAD,Ketalar 1g/10ml solution for injection vials
+1501010F0BC,Ketamin
+1501010F0BCAAAE,Ketamin 10 Curamed 50mg/5ml solution for injection ampoules
+1501010F0BCABAF,Ketamin 100mg/2ml solution for injection ampoules
+1501010L0,Propofol
+1501010L0AA,Propofol
+1501010L0AAAAAA,Propofol 200mg/20ml emulsion for injection ampoules
+1501010L0AAABAB,Propofol 500mg/50ml emulsion for infusion vials
+1501010L0AAACAC,Propofol 1g/100ml emulsion for infusion vials
+1501010L0AAADAD,Propofol 1g/50ml emulsion for infusion vials
+1501010L0AAAEAE,Propofol 200mg/20ml emulsion for injection vials
+1501010L0AAAFAF,Propofol 500mg/50ml inf pre-filled syringes
+1501010L0AAAGAG,Propofol 1g/50ml emulsion for infusion pre-filled syringes
+1501010L0AAAHAH,Propofol 500mg/50ml emulsion for infusion ampoules
+1501010L0BB,Diprivan
+1501010L0BBAAAA,Diprivan 1% emulsion for injection 20ml ampoules
+1501010L0BBABAD,Diprivan 2% emulsion for infusion 50ml vials
+1501010L0BBACAB,Diprivan 1% emulsion for infusion 50ml vials
+1501010L0BBADAC,Diprivan 1% emulsion for infusion 100ml vials
+1501010L0BBAEAF,Diprivan 1% emulsion for infusion 50ml pre-filled syringes
+1501010L0BBAFAG,Diprivan 2% emulsion for infusion 50ml pre-filled syringes
+1501010L0BC,Propofol-Lipuro
+1501010L0BCAAAH,Propofol-Lipuro 1% emulsion for infusion 50ml ampoules
+1501010L0BCABAB,Propofol-Lipuro 1% emulsion for infusion 50ml vials
+1501010L0BCACAD,Propofol-Lipuro 2% emulsion for infusion 50ml vials
+1501010L0BCADAC,Propofol-Lipuro 1% emulsion for infusion 100ml vials
+1501010L0BCAEAA,Propofol-Lipuro 1% emulsion for injection 20ml ampoules
+1501010L0BD,Propoven
+1501010L0BDAAAC,Propoven 1% emulsion for infusion 100ml vials
+1501010L0BDABAB,Propoven 1% emulsion for infusion 50ml vials
+1501010L0BDACAD,Propoven 2% emulsion for infusion 50ml vials
+1501010L0BDADAA,Propoven 1% emulsion for injection 20ml ampoules
+1501010P0,Thiopental sodium
+1501010P0AA,Thiopental sodium
+1501010P0AAAGAG,Thiopental 500mg powder for solution for injection vials
+1501010Q0,Remifentanil hydrochloride
+1501010Q0AA,Remifentanil hydrochloride
+1501010Q0AAAAAA,Remifentanil 1mg powder for solution for injection vials
+1501010Q0AAABAB,Remifentanil 2mg powder for solution for injection vials
+1501010Q0AAACAC,Remifentanil 5mg powder for solution for injection vials
+1501010Q0BB,Ultiva
+1501010Q0BBAAAA,Ultiva 1mg powder for solution for injection vials
+1501010Q0BBABAB,Ultiva 2mg powder for solution for injection vials
+1501010Q0BBACAC,Ultiva 5mg powder for solution for injection vials
+1501010R0,Esketamine hydrochloride
+1501010R0AA,Esketamine hydrochloride
+1501010R0AAAAAA,Esketamine hydrochloride 25mg/5ml inj ampoules
+1501010R0AAABAB,Esketamine hydrochloride 50mg/2ml inj ampoules
+1501010R0BB,Ketanest S
+1501010R0BBAAAA,Ketanest S 25mg/5ml solution for injection ampoules
+1501010R0BBABAB,Ketanest S 50mg/2ml solution for injection ampoules
+1501010R0BC,Vesierra
+1501010R0BCAAAB,Vesierra 50mg/2ml solution for injection ampoules
+150102,Inhalational anaesthetics
+1501020,Inhalational anaesthetics
+1501020R0,Nitrous oxide
+1501020R0AA,Nitrous oxide/oxygen
+1501020R0AAAHAH,Nitrous oxide 50% / Oxygen 50%
+1501020R0BB,Nitrous oxide
+1501020R0BBAAA0,Nitrous oxide cylinders size D
+1501020R0BBABA0,Nitrous oxide cylinders size G
+1501020R0BBACA0,Nitrous oxide cylinders size F
+1501020R0BBADA0,Nitrous oxide cylinders size E
+1501020R0BC,Entonox
+1501020R0BCAAAH,Entonox cylinders size D
+1501020R0BCABA0,Entonox cylinders size F
+1501020R0BCACA0,Entonox cylinders size G
+1501020R0BCAEA0,Entonox cylinders size HX
+1501020R0BCAFA0,Entonox cylinders size ZD
+1501020R0BCAGA0,Entonox cylinders size ZX
+1501020R0BCAHA0,Entonox cylinders size EA
+1501020R0BCAIA0,Entonox cylinders size ED
+1501020R0BCAJA0,Entonox cylinders size EX
+1501020V0,Sevoflurane
+1501020V0AA,Sevoflurane
+1501020V0AAAAAA,Sevoflurane volatile liquid
+150103,Antimuscarinic drugs
+1501030,Antimuscarinic drugs
+1501030D0,Atropine sulfate
+1501030D0AA,Atropine sulfate (Parenteral)
+1501030D0AAA2A2,Atropine 1mg/10ml solution for injection pre-filled syringes
+1501030D0AAAAAA,Atropine 3mg/10ml solution for injection ampoules
+1501030D0AAAIAI,Atropine 400micrograms/1ml solution for injection ampoules
+1501030D0AAAPAP,Atropine 600micrograms/1ml solution for injection ampoules
+1501030D0AAARAR,Atropine 1mg/1ml solution for injection ampoules
+1501030D0AAASAS,Atropine 1.25mg/1ml solution for injection ampoules
+1501030D0AAAUAU,Atropine 500micrograms/5ml inj pre-filled syringes
+1501030D0AABBBB,Atropine 3mg/30ml solution for injection pre-filled syringes
+1501030D0AABDBD,Atropine 3mg/10ml solution for injection pre-filled syringes
+1501030D0AABHBH,Atropine 1mg/5ml solution for injection pre-filled syringes
+1501030D0AABJBJ,Atropine 600micrograms/1ml inj pre-filled syringes
+1501030D0BB,Minjet atropine sulfate
+1501030D0BBABA2,Atropine 1mg/10ml inj Minijet pre-filled syringes
+1501030D0BBACAU,Atropine 500micrograms/5ml inj Minijet pre-filled syringes
+1501030D0BBADBB,Atropine 3mg/30ml inj Minijet pre-filled syringes
+1501030G0,Glycopyrronium bromide
+1501030G0AA,Glycopyrronium brom (Pre-med)
+1501030G0AAAAAA,Glycopyrronium bromide 200micrograms/1ml inj ampoules
+1501030G0AAABAB,Glycopyrronium bromide 600micrograms/3ml inj ampoules
+1501030G0BB,Robinul (Parenteral)
+1501030G0BBAAAA,Robinul 200micrograms/1ml solution for injection ampoules
+1501030G0BBABAB,Robinul 600micrograms/3ml solution for injection ampoules
+1501030H0,Hyoscine hydrobromide
+1501030H0AA,Hyoscine hydrob (parent)
+1501030H0AAAAAA,Hyoscine hydrobromide 400micrograms/1ml inj ampoules
+1501030H0AAABAB,Hyoscine hydrobromide 600micrograms/1ml inj ampoules
+150104,Sedative and analgesic peri-operative drgs
+1501041,Benzodiazepines
+1501041T0,Midazolam hydrochloride
+1501041T0AA,Midazolam hydrochloride
+1501041T0AAAAAA,Midazolam 10mg/2ml solution for injection ampoules
+1501041T0AAABAB,Midazolam 10mg/5ml solution for injection ampoules
+1501041T0AAACAC,Midazolam 50mg/50ml solution for infusion vials
+1501041T0AAANAN,Midazolam 50mg/10ml solution for injection ampoules
+1501041T0AAARAR,Midazolam 100mg/50ml solution for infusion vials
+1501041T0AAASAS,Midazolam 5mg/5ml solution for injection ampoules
+1501041T0AAATAT,Midazolam 2mg/2ml solution for injection ampoules
+1501041T0AAAUAU,Midazolam 5mg/2ml solution for injection ampoules
+1501041T0BB,Hypnovel
+1501041T0BBAAAB,Hypnovel 10mg/5ml solution for injection ampoules
+1501041T0BBABAA,Hypnovel 10mg/2ml solution for injection ampoules
+1501042,Non-opioid analgesics
+1501042E0,Ketorolac trometamol
+1501042E0AA,Ketorolac trometamol (Systemic)
+1501042E0AAAAAA,Ketorolac 30mg/1ml solution for injection ampoules
+1501042E0AAABAB,Ketorolac 10mg/1ml solution for injection ampoules
+1501042E0AAACAC,Ketorolac 10mg tablets
+1501042E0BB,Toradol
+1501042E0BBAAAA,Toradol 30mg/1ml solution for injection ampoules
+1501042E0BBABAB,Toradol 10mg/1ml solution for injection ampoules
+1501042E0BBACAC,Toradol 10mg tablets
+1501042H0,Parecoxib sodium
+1501042H0AA,Parecoxib sodium
+1501042H0AAAAAA,Parecoxib 40mg inj vials
+1501042H0AAABAB,Parecoxib 40mg powder for solution for injection vials
+1501042H0BB,Dynastat
+1501042H0BBAAAA,Dynastat 40mg inj vials
+1501042H0BBABAB,Dynastat 40mg powder for solution for injection vials
+1501043,Opioid analgesics
+1501043A0,Alfentanil hydrochloride
+1501043A0AA,Alfentanil hydrochloride
+1501043A0AAABAB,Alfentanil 1mg/2ml solution for injection ampoules
+1501043A0AAACAC,Alfentanil 5mg/10ml solution for injection ampoules
+1501043A0AAADAD,Alfentanil 5mg/1ml solution for injection ampoules
+1501043A0AAAEAE,Alfentanil 0.1% nasal spray
+1501043A0AAAFAF,Alfentanil 500micrograms/1ml solution for injection ampoules
+1501043A0AAAHAH,Alfentanil 25mg/50ml solution for injection vials
+1501043A0BB,Rapifen
+1501043A0BBAAAB,Rapifen 1mg/2ml solution for injection ampoules
+1501043A0BBABAC,Rapifen 5mg/10ml solution for injection ampoules
+1501043A0BBADAD,Rapifen Intensive Care 5mg/1ml inj ampoules
+1501043F0,Fentanyl citrate
+1501043F0AA,Fentanyl citrate
+1501043F0AAAAAA,Fentanyl 100micrograms/2ml solution for injection ampoules
+1501043F0AAABAB,Fentanyl 500micrograms/10ml solution for injection ampoules
+1501043F0BB,Sublimaze
+1501043F0BBAAAA,Sublimaze 100micrograms/2ml solution for injection ampoules
+1501043F0BBABAB,Sublimaze 500micrograms/10ml solution for injection ampoules
+150105,Neuromuscular blocking drugs
+1501050,Neuromuscular blocking drugs
+1501050F0,Atracurium besilate
+1501050F0AA,Atracurium besilate
+1501050F0AAAAAA,Atracurium besilate 25mg/2.5ml inj ampoules
+1501050F0AAABAB,Atracurium besilate 50mg/5ml solution for injection ampoules
+1501050F0AAACAC,Atracurium besilate 250mg/25ml inj ampoules
+1501050F0AAADAD,Atracurium besilate 250mg/25ml solution for injection vials
+1501050F0BB,Tracrium
+1501050F0BBAAAA,Tracrium 25mg/2.5ml solution for injection ampoules
+1501050F0BBABAB,Tracrium 50mg/5ml solution for injection ampoules
+1501050F0BBADAD,Tracrium 250mg/25ml solution for injection vials
+1501050K0,Mivacurium chloride
+1501050K0AA,Mivacurium chloride
+1501050K0AAAAAA,Mivacurium chloride 10mg/5ml solution for injection ampoules
+1501050K0AAABAB,Mivacurium chloride 20mg/10ml inj ampoules
+1501050K0BB,Mivacron
+1501050K0BBAAAA,Mivacron 10mg/5ml solution for injection ampoules
+1501050K0BBABAB,Mivacron 20mg/10ml solution for injection ampoules
+1501050L0,Pancuronium bromide
+1501050L0AA,Pancuronium brom
+1501050L0AAAAAA,Pancuronium bromide 4mg/2ml solution for injection ampoules
+1501050L0BB,Pavulon
+1501050L0BBAAAA,Pavulon 4mg/2ml solution for injection ampoules
+1501050P0,Suxamethonium chloride
+1501050P0AA,Suxamethonium chloride
+1501050P0AAAAAA,Suxamethonium chloride 100mg/2ml inj ampoules
+1501050P0AAACAC,Suxamethonium chloride 100mg/2ml inj pre-filled syringes
+1501050P0BB,Anectine
+1501050P0BBAAAA,Anectine 100mg/2ml solution for injection ampoules
+1501050V0,Vecuronium bromide
+1501050V0AA,Vecuronium bromide
+1501050V0AAAAAA,Vecuronium bromide poder and solvent 10mg inj vials
+1501050V0AAABAB,Vecuronium bromide 10mg powder for soln inj vials
+1501050V0BB,Norcuron
+1501050V0BBAAAA,Norcuron 10mg inj vials
+1501050W0,Cisatracurium
+1501050W0AA,Cisatracurium
+1501050W0AAAAAA,Cisatracurium besilate 5mg/2.5ml inj ampoules
+1501050W0AAABAB,Cisatracurium besilate 10mg/5ml inj ampoules
+1501050W0AAACAC,Cisatracurium besilate 20mg/10ml inj ampoules
+1501050W0AAADAD,Cisatracurium besilate 150mg/30ml inj vials
+1501050W0AAAEAE,Cisatracurium besilate 20mg/10ml inj vials
+1501050W0AAAFAF,Cisatracurium besilate 10mg/5ml solution for injection vials
+1501050W0AAAGAG,Cisatracurium besilate 5mg/2.5ml inj vials
+1501050W0BB,Nimbex
+1501050W0BBAAAA,Nimbex 5mg/2.5ml solution for injection ampoules
+1501050W0BBABAB,Nimbex 10mg/5ml solution for injection ampoules
+1501050W0BBACAC,Nimbex 20mg/10ml solution for injection ampoules
+1501050W0BBADAD,Nimbex Forte 150mg/30ml solution for injection vials
+1501050X0,Rocuronium bromide
+1501050X0AA,Rocuronium bromide
+1501050X0AAABAB,Rocuronium bromide 100mg/10ml solution for injection vials
+1501050X0AAACAC,Rocuronium bromide 50mg/5ml solution for injection vials
+1501050X0AAAEAE,Rocuronium bromide 50mg/5ml solution for injection ampoules
+1501050X0AAAFAF,Rocuronium bromide 100mg/10ml inj ampoules
+1501050X0BB,Esmeron
+1501050X0BBAAAC,Esmeron 50mg/5ml solution for injection vials
+1501050X0BBABAB,Esmeron 100mg/10ml solution for injection vials
+150106,Anticholinesterases used in anaesthesia
+1501060,Anticholinesterases used in anaesthesia
+1501060N0,Neostigmine metilsulfate
+1501060N0AA,Neostigmine/ glycopyrronium bromide
+1501060N0AAAAAA,Neostigmine 2.5mg/Glycopyrronium brom 500microg/1ml inj amp
+1501060N0BB,Robinul-Neostig
+1501060N0BBAAAA,Robinul-Neostigmine solution for injection 1ml ampoules
+150107,Antagonists for respiratory depression
+1501070,Antagonists for respiratory depression
+1501070F0,Flumazenil
+1501070F0AA,Flumazenil
+1501070F0AAAAAA,Flumazenil 500micrograms/5ml solution for injection ampoules
+1501070F0BB,Anexate
+1501070F0BBAAAA,Anexate 500micrograms/5ml solution for injection ampoules
+1501070G0,Naloxone hydrochloride
+1501070G0AA,Naloxone hydrochloride (Anaesthesia)
+1501070G0AAAAAA,Naloxone 40micrograms/2ml solution for injection ampoules
+1501070G0BB,Narcan Neonatal
+1501070G0BBAAAA,Narcan Neonatal 40micrograms/2ml inj ampoules
+150108,Drugs for malignant hyperthermia
+1501080,Drugs for malignant hyperthermia
+1501080B0,Dantrolene sodium
+1501080B0AA,Dantrolene sodium (Parenteral)
+1501080B0AAAAAA,Dantrolene 20mg powder for solution for injection vials
+1501080B0BB,Dantrium (Parenteral)
+1501080B0BBAAAA,Dantrium Intravenous 20mg inj vials
+1502,Local anaesthesia
+150201,Local anaesthetics
+1502010,Local anaesthetics
+1502010A0,Tetracaine
+1502010A0AA,Tetracaine
+1502010A0AAAAAA,Tetracaine 4% gel
+1502010A0AAABAB,Tetracaine 4% gel+Vapour-permeable adh film dressing 6cmx7cm
+1502010A0BB,Ametop
+1502010A0BBAAAA,Ametop 4% gel
+1502010A0BBABAB,Ametop 4% gel dispensing pack
+1502010AA,Chloroprocaine hydrochloride
+1502010AAAA,Chloroprocaine hydrochloride
+1502010AAAAAAAA,Chloroprocaine 50mg/5ml solution for injection ampoules
+1502010AAAAABAB,Chloroprocaine 400mg/20ml solution for injection vials
+1502010AABB,Ampres
+1502010AABBAAAA,Ampres 50mg/5ml solution for injection ampoules
+1502010AABBABAB,Ampres 400mg/20ml solution for injection vials
+1502010AB,Mepivacaine hydrochloride
+1502010ABAA,Mepivacaine hydrochloride
+1502010ABAAAAAA,Mepivacaine 44mg/Adrenaline (base) 22microg/2.2ml inj cart
+1502010ABAAABAB,Mepivacaine 66mg/2.2ml solution for injection cartridges
+1502010ABBB,Scandonest
+1502010ABBBAAAA,Scandonest special 2% inj 2.2ml cartridges
+1502010ABBBABAB,Scandonest plain 3% solution for injection 2.2ml cartridges
+1502010C0,Bupivacaine hydrochloride
+1502010C0AA,Bupivac hydrochloride
+1502010C0AAABAB,Bupivacaine 25mg/10ml (0.25%) inj ampoules
+1502010C0AAADAD,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules
+1502010C0AAAEAE,Bupivacaine 75mg/10ml (0.75%) inj ampoules
+1502010C0AAAIAI,Bupivacaine 25mg/Adrenaline (base) 50microg/10ml inj amp
+1502010C0AAAJAJ,Bupivacaine 50mg/Adrenaline (base) 50microg/10ml inj amp
+1502010C0AAAKAK,Bupivacaine 20mg/4ml (0.5%) / Glucose 320mg/4ml inj ampoules
+1502010C0AAALAL,Bupivacaine 312.5mg/250ml (0.125%) infusion bags
+1502010C0AAAXAX,Bupivacaine 100mg/100ml (0.1%) infusion bags
+1502010C0AAAYAY,Bupivacaine 250mg/250ml (0.1%) infusion bags
+1502010C0BB,Marcain
+1502010C0BBAFAI,Marcain 0.25% with Adrenaline 50microg/10ml inj amp
+1502010C0BBAGAJ,Marcain 0.5% with Adrenaline 50microg/10ml inj amp
+1502010C0BBAHAK,Marcain Heavy 0.5% solution for injection 4ml ampoules
+1502010C0BBAIAB,Marcain 0.25% inj 10ml Polyamp Steripack ampoules
+1502010C0BBAJAD,Marcain 0.5% inj 10ml Polyamp Steripack ampoules
+1502010C0BC,Sure-Amp Bupivacaine hydrochloride
+1502010C0BCAAAD,Bupivacaine 0.5% inj 10ml Sure-Amp ampoules
+1502010C0BCABAB,Bupivacaine 0.25% inj 10ml Sure-Amp ampoules
+1502010C0BCACAE,Bupivacaine 0.75% inj 10ml Sure-Amp ampoules
+1502010F0,Cocaine hydrochloride
+1502010F0AA,Cocaine hydrochloride (Anaesthetic)
+1502010F0AAAXAX,Cocaine 10% nasal drops
+1502010G0,Cocaine
+1502010G0AA,Cocaine
+1502010G0AAAAAA,Cocaine 5% mouthwash
+1502010G0AAABAB,Cocaine powder
+1502010G0AAADAD,Cocaine 2% mouthwash
+1502010G0AAAIAI,Cocaine 10% mouthwash
+1502010G0AAARAR,Cocaine 10% spray
+1502010G0AAASAS,Cocaine 5% nasal spray
+1502010G0AAATAT,Cocaine 25% oromucosal paste
+1502010G0AAAUAU,Cocaine 4% topical solution
+1502010I0,Lidocaine
+1502010I0AA,Lidocaine (Local Anaesthesia)
+1502010I0AAACAC,Lidocaine 10% spray sugar free
+1502010I0AAAEAE,Lidocaine 5% ointment
+1502010I0AAAHAH,Lidocaine 1% ointment
+1502010I0AAAIAI,Lidocaine 25mg/Prilocaine 25mg/g periodontal gel 1.7g SF
+1502010I0AAAJAJ,Lidocaine 25mg/Prilocaine 25mg/g gel 1.7g with applicator SF
+1502010I0AAAKAK,Lidocaine 4% cream
+1502010I0AAAMAM,Lidocaine 0.5% ointment
+1502010I0BC,Xylocaine (Ointment/Spray)
+1502010I0BCABAC,Xylocaine 10mg/dose spray
+1502010I0BF,Oraqix
+1502010I0BFAAAI,Oraqix 25mg/25mg/g periodontal gel 1.7g cartridges
+1502010I0BFABAJ,Oraqix 25mg/25mg/g periodontal gel 1.7g cart with dispenser
+1502010I0BG,LMX
+1502010I0BGAAAK,LMX 4 cream
+1502010I0BGABAK,LMX 4 cream with Tegaderm dressing 10cm x 6cm
+1502010J0,Lidocaine hydrochloride
+1502010J0AA,Lidocaine hydrochloride (Local Anaesthesia)
+1502010J0AAA3A3,Lidocaine 400mg/Adrenaline (base) 100microg/20ml inj vials
+1502010J0AAA7A7,Lidocaine 100mg/Adrenaline (base) 100microg/20ml inj vials
+1502010J0AAADAD,Lidocaine 200mg/20ml (1%) solution for injection vials
+1502010J0AAAHAH,Lidocaine 400mg/20ml (2%) solution for injection vials
+1502010J0AAAKAK,Lidocaine 4% solution
+1502010J0AAAYAY,Lidocaine 200mg/Adrenaline (base) 100microg/20ml inj vials
+1502010J0AABDBD,Lidocaine 50mg/5ml (1%) solution for injection ampoules
+1502010J0AABEBE,Lidocaine 40mg/2ml (2%) solution for injection ampoules
+1502010J0AABKBK,Lidocaine 1% and Chlorhexidine gel
+1502010J0AABMBM,Lidocaine 1% gel
+1502010J0AABQBQ,Lidocaine 2% and Chlorhexidine gel
+1502010J0AABUBU,Lidocaine 20mg/2ml (1%) solution for injection ampoules
+1502010J0AABVBV,Lidocaine 5% gel
+1502010J0AABWBW,Lidocaine 100mg/10ml (1%) solution for injection ampoules
+1502010J0AABYBY,Lidocaine 2.5% / Prilocaine 2.5% cream
+1502010J0AACBCB,Lidocaine 100mg/5ml (2%) solution for injection ampoules
+1502010J0AACECE,Lidocaine 200mg/10ml (2%) solution for injection ampoules
+1502010J0AACFCF,Lidocaine 50mg/10ml (0.5%) solution for injection ampoules
+1502010J0AACJCJ,Lidocaine 200mg/20ml (1%) solution for injection ampoules
+1502010J0AACQCQ,Lidocaine 44mg/Adrenaline (base) 27.5microg/2.2ml inj cart
+1502010J0AACUCU,Lidocaine 400mg/20ml (2%) solution for injection ampoules
+1502010J0AADTDT,Lidocaine 5% / Phenylephrine 0.5% nasal spray
+1502010J0AAEAEA,Lidocaine 160mg/4ml (4%) oromucosal soln pre-filled syringes
+1502010J0AAEBEB,Lidocaine 100mg/5ml (2%) inj pre-filled syringes
+1502010J0AAEKEK,Lidocaine hydrochlor 0.6%/Cetylpyr chlor 0.02% gel SF
+1502010J0AAELEL,Lidocaine 5% medicated plasters
+1502010J0AAEMEM,Lidocaine 1% / Hydrocortisone 0.1% mouthwash
+1502010J0AAENEN,Lidocaine 36mg/Adrenaline (base) 22.5microg/1.8ml inj cart
+1502010J0AAEPEP,Lidocaine 2% gel
+1502010J0AAEQEQ,Lidocaine hydrochlor 0.5%/Cetylpyr chlor 0.025% gel SF
+1502010J0AAERER,Lidocaine 100mg/Adrenaline (base) 50microg/10ml inj amps
+1502010J0AAESES,Lidocaine 10mg / Cetrimide 100microgram oromucosal spy SF
+1502010J0AAETET,Lidocaine 5% / Cetrimide 0.15% oromucosal gel sugar free
+1502010J0BB,Xylocaine (Gel/Injection/Solution)
+1502010J0BBA1A3,Xylocaine 2% with Adrenaline 100microg/20ml inj vials
+1502010J0BBA3A7,Xylocaine 0.5% with Adrenaline 100microg/20ml inj vials
+1502010J0BBAMAK,Xylocaine Topical 4% solution
+1502010J0BBAXAY,Xylocaine 1% with Adrenaline 100microg/20ml inj vials
+1502010J0BBBKCQ,"Xylocaine 2% with Adrenaline 1 in 80,000 inj 2.2ml cart"
+1502010J0BC,Lignostab-A
+1502010J0BCAECQ,"Lignostab-A 2% 1 in 80,000 injection 2.2ml cartridges"
+1502010J0BD,Instillagel
+1502010J0BDAABQ,Instillagel gel
+1502010J0BE,Emla
+1502010J0BEAABY,Emla 5% cream
+1502010J0BJ,Xylotox E80
+1502010J0BJAACQ,Xylotox 2% E80 Dental injection 2.2ml cartridges
+1502010J0BK,Laryngojet
+1502010J0BKAAEA,Lidocaine 4% oromucosal soln Laryngojet pre-filled syringes
+1502010J0BL,Sure-Amp Lidocaine hydrochloride
+1502010J0BLAABE,Lidocaine 40mg/2ml (2%) inj Sure-Amp ampoules
+1502010J0BLABCB,Lidocaine 100mg/5ml (2%) inj Sure-Amp ampoules
+1502010J0BLACBU,Lidocaine 20mg/2ml (1%) inj Sure-Amp ampoules
+1502010J0BLADBD,Lidocaine 50mg/5ml (1%) inj Sure-Amp ampoules
+1502010J0BLAEBW,Lidocaine 100mg/10ml (1%) inj Sure-Amp ampoules
+1502010J0BN,Mini-Plasco lidocaine hydrochloride
+1502010J0BNAACE,Lidocaine 200mg/10ml (2%) inj Mini-Plasco ampoules
+1502010J0BNABBD,Lidocaine 50mg/5ml (1%) inj Mini-Plasco ampoules (B.Braun)
+1502010J0BNACCB,Lidocaine 100mg/5ml (2%) inj Mini-Plasco ampoules (B.Braun)
+1502010J0BNADBE,Lidocaine 40mg/2ml (2%) inj Mini-Plasco ampoules
+1502010J0BNAECJ,Lidocaine 200mg/20ml (1%) inj Mini-Plasco ampoules
+1502010J0BNAFBW,Lidocaine 100mg/10ml (1%) inj Mini-Plasco ampoules (B.Braun)
+1502010J0BNAHCU,Lidocaine 400mg/20ml (2%) inj Mini-Plasco ampoules
+1502010J0BNAICB,Lidocaine 100mg/5ml (2%) inj Mini-Plasco ampoules (Hameln)
+1502010J0BNAJBW,Lidocaine 100mg/10ml (1%) inj Mini-Plasco ampoules (Hameln)
+1502010J0BNAKBD,Lidocaine 50mg/5ml (1%) inj Mini-Plasco ampoules (Hameln)
+1502010J0BQ,Rexocaine
+1502010J0BQAACQ,Rexocaine 2% injection 2.2ml cartridges
+1502010J0BR,Boots (Lidocaine hydrochloride)
+1502010J0BRAAEK,Children's 3 Months Plus teething gel sugar free
+1502010J0BS,Versatis (Lidocaine hydrochloride)
+1502010J0BSAAEL,Versatis 700mg medicated plasters
+1502010J0BT,Lignospan Special
+1502010J0BTAACQ,Lignospan Special 20mg/ml / 12.5micrograms/ml inj 2.2ml cart
+1502010J0BTABEN,Lignospan Special 20mg/ml / 12.5micrograms/ml inj 1.8ml cart
+1502010J0BU,Denela
+1502010J0BUAABY,Denela 5% cream
+1502010J0BV,Bonjela
+1502010J0BVAAEQ,Bonjela Junior gel
+1502010J0BW,Ralvo (Lidocaine hydrochloride)
+1502010J0BWAAEL,Ralvo 700mg medicated plasters
+1502010J0BX,Nulbia
+1502010J0BXAABY,Nulbia 5% cream
+1502010J0BY,Xylonor (Lidocaine hydrochloride)
+1502010J0BYAAES,Xylonor 150mg/g / 1.5mg/g oromucosal spray
+1502010J0BYABET,Xylonor 50mg/g / 1.5mg/g gel
+1502010J0BZ,Woodward (Lidocaine hydrochloride)
+1502010J0BZAAEQ,Woodward's teething gel
+1502010R0,Ropivacaine hydrochloride
+1502010R0AA,Ropivacaine hydrochloride
+1502010R0AAAAAA,Ropivacaine 20mg/10ml solution for injection ampoules
+1502010R0AAABAB,Ropivacaine 75mg/10ml solution for injection ampoules
+1502010R0AAADAD,Ropivacaine 400mg/200ml infusion bags
+1502010R0AAAEAE,Ropivacaine 100mg/10ml solution for injection ampoules
+1502010R0AAAFAF,Ropivacaine 200mg/100ml infusion bags
+1502010R0BB,Naropin
+1502010R0BBAAAA,Naropin 20mg/10ml solution for injection ampoules
+1502010R0BBABAB,Naropin 75mg/10ml solution for injection ampoules
+1502010R0BBACAD,Naropin 400mg/200ml infusion Polybags
+1502010R0BBADAE,Naropin 100mg/10ml solution for injection ampoules
+1502010R0BBAEAF,Naropin 200mg/100ml infusion Polybags
+1502010S0,Prilocaine hydrochloride
+1502010S0AA,Prilocaine hydrochloride
+1502010S0AAACAC,Prilocaine 200mg/20ml solution for injection vials
+1502010S0AAADAD,Prilocaine 500mg/50ml solution for injection vials
+1502010S0AAAIAI,Prilocaine 54mg/Felypressin 0.054units/1.8ml inj
+1502010S0AAAJAJ,Prilocaine 66mg/Felypressin 0.066units/2.2ml inj
+1502010S0BB,Citanest
+1502010S0BBACAC,Citanest 1% solution for injection 20ml vials
+1502010S0BBADAD,Citanest 1% solution for injection 50ml vials
+1502010S0BBAHAI,Citanest 3% with Octapressin Dental 0.054units/1.8ml inj
+1502010S0BBAJAJ,Citanest 3% with Octapressin Dental 0.066units/2.2ml inj
+1502010U0,Procaine hydrochloride
+1502010U0AA,Procaine hydrochloride
+1502010U0AAAAAA,Procaine hydrochloride 40mg/2ml inj ampoules
+1502010V0,Levobupivacaine hydrochloride
+1502010V0AA,Levobupivac hydrochloride
+1502010V0AAAAAA,Levobupivacaine 25mg/10ml solution for injection ampoules
+1502010V0AAABAB,Levobupivacaine 50mg/10ml solution for injection ampoules
+1502010V0AAACAC,Levobupivacaine 75mg/10ml solution for injection ampoules
+1502010V0BB,Chirocaine
+1502010V0BBAAAA,Chirocaine 25mg/10ml solution for injection ampoules
+1502010V0BBABAB,Chirocaine 50mg/10ml solution for injection ampoules
+1502010V0BBACAC,Chirocaine 75mg/10ml solution for injection ampoules
+1502010X0,Ziconotide acetate
+1502010X0AA,Ziconotide acetate
+1502010X0AAAAAA,Ziconotide 100micrograms/1ml solution for infusion vials
+1502010X0AAABAB,Ziconotide 500micrograms/5ml solution for infusion vials
+1502010X0BB,Prialt
+1502010X0BBAAAA,Prialt 100micrograms/1ml solution for infusion vials
+1502010X0BBABAB,Prialt 500micrograms/5ml solution for infusion vials
+1502010Y0,Lidocaine and tetracaine
+1502010Y0AA,Lidocaine/tetracaine
+1502010Y0AAAAAA,Lidocaine 70mg / Tetracaine 70mg medicated plasters
+1502010Y0AAABAB,Lidocaine 70mg / Tetracaine 70mg cream
+1502010Y0BB,Rapydan
+1502010Y0BBAAAA,Rapydan 70mg/70mg medicated plasters
+1502010Y0BC,Pliaglis
+1502010Y0BCAAAB,Pliaglis 70mg/g / 70mg/g cream
+1502010Z0,Bupivacaine hydrochloride and fentanyl citrate
+1502010Z0AA,Bupivac hydrochloride and fentanyl citrate
+1502010Z0AAAAAA,Bupivacaine 100mg (0.1%) / Fentanyl 200microg/100ml inf bags
+1502010Z0AAABAB,Bupivacaine 250mg (0.1%) / Fentanyl 500microg/250ml inf bags
+1502010Z0AAACAC,Bupivacaine 500mg/500ml (0.1%) / Fentanyl 1mg/500ml inf bags
+1502010Z0BB,Bufyl
+1502010Z0BBAAAB,Bufyl 1mg/ml and 2micrograms/ml 250ml infusion bags
+1502010Z0BBABAC,Bufyl 1mg/ml and 2micrograms/ml 500ml infusion bags

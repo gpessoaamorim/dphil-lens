@@ -1,0 +1,2431 @@
+code,term
+05,Infections
+0501,Antibacterial drugs
+050101,Penicillins
+0501011,Benzylpenicillin and phenoxymethylpenicillin
+0501011J0,Benzylpenicillin sodium (Penicillin G)
+0501011J0AA,Benzylpenicillin sodium (Penicillin G)
+0501011J0AAABAB,Benzylpenicillin 600mg inj vials
+0501011J0AAAFAF,Benzylpenicillin 1.2g inj vials
+0501011J0BB,Crystapen
+0501011J0BBABAB,Crystapen 600mg powder for solution for injection vials
+0501011J0BBAFAF,Crystapen 1.2g powder for solution for injection vials
+0501011P0,Phenoxymethylpenicillin (Penicillin V)
+0501011P0AA,Phenoxymethylpenicillin (Penicillin V)
+0501011P0AAADAD,Phenoxymethylpenicillin 125mg/5ml oral solution
+0501011P0AAAFAF,Phenoxymethylpenicillin 250mg/5ml oral solution
+0501011P0AAAJAJ,Phenoxymethylpenicillin 250mg tablets
+0501011P0AAARAR,Phenoxymethylpenicillin 125mg/5ml oral solution sugar free
+0501011P0AAASAS,Phenoxymethylpenicillin 250mg/5ml oral solution sugar free
+0501011P0AAATAT,Phenoxymethylpenicillin 0.3% eye drops
+0501011P0BN,Tenkicin
+0501011P0BNADAJ,Tenkicin 250mg tablets
+0501012,Penicillinase-resistant penicillins
+0501012G0,Flucloxacillin sodium
+0501012G0AA,Flucloxacillin sodium
+0501012G0AAAAAA,Flucloxacillin 250mg capsules
+0501012G0AAABAB,Flucloxacillin 500mg capsules
+0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials
+0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials
+0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials
+0501012G0AAAFAF,Flucloxacillin 125mg/5ml oral solution
+0501012G0AAAGAG,Flucloxacillin 250mg/5ml oral solution
+0501012G0AAAPAP,Flucloxacillin 125mg/5ml oral solution sugar free
+0501012G0AAAQAQ,Flucloxacillin 250mg/5ml oral solution sugar free
+0501012G0AAARAR,Flucloxacillin 2g powder for solution for injection vials
+0501012G0BB,Floxapen (Capsule/Injection)
+0501012G0BBAAAA,Floxapen 250mg capsules
+0501012G0BBABAB,Floxapen 500mg capsules
+0501012G0BBAEAC,Floxapen 250mg powder for solution for injection vials
+0501012G0BBAFAD,Floxapen 500mg powder for solution for injection vials
+0501012G0BBAGAE,Floxapen 1g powder for solution for injection vials
+0501012G0BC,Ladropen
+0501012G0BCAAAA,Ladropen 250mg capsules
+0501012G0BCABAB,Ladropen 500mg capsules
+0501012G0BG,Fluclomix
+0501012G0BGACAA,Fluclomix 250 capsules
+0501012G0BGADAB,Fluclomix 500 capsules
+0501012H0,Flucloxacillin magnesium
+0501012H0AA,Flucloxacillin magesium
+0501012H0AAAAAA,Flucloxacillin 125mg/5ml oral suspension
+0501012H0AAABAB,Flucloxacillin 250mg/5ml oral suspension
+0501012H0BB,Floxapen (Liquid/Powder)
+0501012H0BBAAAA,Floxapen 125mg/5ml syrup
+0501012H0BBABAB,Floxapen 250mg/5ml syrup
+0501012U0,Temocillin sodium
+0501012U0AA,Temocillin sodium
+0501012U0AAABAB,Temocillin 1g powder for solution for injection vials
+0501012U0BC,Negaban
+0501012U0BCAAAB,Negaban 1g powder for solution for injection vials
+0501013,Broad-spectrum penicillins
+0501013B0,Amoxicillin
+0501013B0AA,Amoxicillin
+0501013B0AAAAAA,Amoxicillin 250mg capsules
+0501013B0AAABAB,Amoxicillin 500mg capsules
+0501013B0AAAHAH,Amoxicillin 3g oral powder sachets sugar free
+0501013B0AAAIAI,Amoxicillin 125mg/1.25ml oral suspension paediatric
+0501013B0AAAJAJ,Amoxicillin 125mg/5ml oral suspension
+0501013B0AAAKAK,Amoxicillin 250mg/5ml oral suspension
+0501013B0AAASAS,Amoxicillin 125mg/5ml oral suspension sugar free
+0501013B0AAATAT,Amoxicillin 250mg/5ml oral suspension sugar free
+0501013B0AAAUAU,Amoxicillin 1g dispersible tablets sugar free
+0501013B0BC,Amoxil (Systemic)
+0501013B0BCAAAA,Amoxil 250mg capsules
+0501013B0BCABAB,Amoxil 500mg capsules
+0501013B0BCAEAS,Amoxil 125mg/5ml syrup sucrose free
+0501013B0BCAFAT,Amoxil 250mg/5ml syrup sucrose free
+0501013B0BCAGAI,Amoxil 125mg/1.25ml paediatric oral suspension
+0501013B0BCAIAH,Amoxil 3g oral powder sachets sucrose free
+0501013B0BD,Almodan
+0501013B0BDABAJ,Almodan 125mg/5ml syrup
+0501013B0BF,Amix
+0501013B0BFAEAA,Amix 250 capsules
+0501013B0BFAFAB,Amix 500 capsules
+0501013B0BFAGAS,Amix 125 oral suspension
+0501013B0BFAIAT,Amix 250 oral suspension
+0501013B0BG,Amoram
+0501013B0BGAAAA,Amoram 250mg capsules
+0501013B0BGABAB,Amoram 500mg capsules
+0501013B0BGACAS,Amoram 125mg/5ml oral suspension
+0501013B0BGADAT,Amoram 250mg/5ml oral suspension
+0501013B0BH,Galenamox
+0501013B0BHAAAA,Galenamox 250mg capsules
+0501013B0BHABAB,Galenamox 500mg capsules
+0501013B0BHACAS,Galenamox 125mg/5ml oral suspension
+0501013B0BHADAT,Galenamox 250mg/5ml oral suspension
+0501013B0BN,Respillin
+0501013B0BNACAA,Respillin 250mg capsules
+0501013B0BNADAB,Respillin 500mg capsules
+0501013B0BR,Amoxident
+0501013B0BRAAAA,Amoxident 250 capsules
+0501013B0BRABAB,Amoxident 500 capsules
+0501013C0,Amoxicillin sodium
+0501013C0AA,Amoxicillin sodium
+0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials
+0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials
+0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials
+0501013C0BC,Amoxil (Parenteral)
+0501013C0BCAAAC,Amoxil 250mg powder for solution for injection vials
+0501013C0BCABAD,Amoxil 500mg powder for solution for injection vials
+0501013C0BCACAE,Amoxil 1g powder for solution for injection vials
+0501013E0,Ampicillin
+0501013E0AA,Ampicillin
+0501013E0AAAAAA,Ampicillin 250mg capsules
+0501013E0AAABAB,Ampicillin 500mg capsules
+0501013E0AAADAD,Ampicillin 500mg powder for solution for injection vials
+0501013E0AAAEAE,Ampicillin 125mg/5ml oral suspension
+0501013E0AAAFAF,Ampicillin 250mg/5ml oral suspension
+0501013E0BE,Penbritin
+0501013E0BEAAAA,Penbritin 250mg capsules
+0501013E0BEABAB,Penbritin 500mg capsules
+0501013E0BEADAE,Penbritin 125mg/5ml syrup
+0501013E0BEAEAF,Penbritin Forte 250mg/5ml syrup
+0501013E0BEAHAD,Penbritin 500mg powder for solution for injection vials
+0501013K0,Co-amoxiclav (Amoxicillin/clavulanic acid)
+0501013K0AA,Co-amoxiclav
+0501013K0AAAAAA,Co-amoxiclav 250mg/125mg tablets
+0501013K0AAABAB,Co-amoxiclav 250mg/125mg dispersible tablets sugar free
+0501013K0AAADAD,Co-amoxiclav 125mg/31mg/5ml oral suspension sugar free
+0501013K0AAAEAE,Co-amoxiclav 500mg/100mg inj vials
+0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg inj vials
+0501013K0AAAGAG,Co-amoxiclav 250mg/62mg/5ml oral suspension sugar free
+0501013K0AAAHAH,Co-amoxiclav 125mg/31mg/5ml oral suspension
+0501013K0AAAIAI,Co-amoxiclav 250mg/62mg/5ml oral suspension
+0501013K0AAAJAJ,Co-amoxiclav 500mg/125mg tablets
+0501013K0AAAKAK,Co-amoxiclav 400mg/57mg/5ml oral suspension sugar free
+0501013K0AAANAN,Co-amoxiclav 875mg/125mg tablets
+0501013K0BB,Augmentin
+0501013K0BBAAAA,Augmentin 375mg tablets
+0501013K0BBABAB,Augmentin 375mg dispersible tablets
+0501013K0BBACAE,Augmentin Intravenous 600mg inj vials
+0501013K0BBAHAF,Augmentin Intravenous 1.2g inj vials
+0501013K0BBAJAD,Augmentin 125/31 SF oral suspension
+0501013K0BBAKAG,Augmentin 250/62 SF oral suspension
+0501013K0BBALAJ,Augmentin 625mg tablets
+0501013K0BBAMAK,Augmentin-Duo 400/57 oral suspension
+0501013K0BC,Amiclav
+0501013K0BCAAAA,Amiclav 250mg/125mg tablets
+0501013K0BD,Ranclav
+0501013K0BDAAAA,Ranclav 375mg tablets
+0501013K0BDABAJ,Ranclav 625mg tablets
+0501013K0BDACAG,Ranclav 250mg/62mg/5ml SF oral suspension
+0501013K0BDADAD,Ranclav 125mg/31mg/5ml SF oral suspension
+0501013L0,Co-fluampicil(Flucloxacillin/ampicillin)
+0501013L0AA,Co-fluampicil
+0501013L0AAAAAA,Co-fluampicil 250mg/250mg capsules
+0501013L0AAABAB,Co-fluampicil 250mg/250mg inj vials
+0501013L0AAADAD,Co-fluampicil 125mg/125mg/5ml oral suspension
+0501013L0BB,Magnapen
+0501013L0BBAAAA,Magnapen 250mg/250mg capsules
+0501013L0BBABAB,Magnapen 500mg powder for solution for injection vials
+0501013L0BBADAD,Magnapen syrup
+0501014,Antipseudomonal penicillins
+0501014N0,Ticarcillin with clavulanic acid
+0501014N0AA,Ticarcillin /clavulanic acid
+0501014N0AAACAC,Ticarcillin 3g / Clavulanic acid 200mg inf vials
+0501014N0BB,Timentin
+0501014N0BBACAC,Timentin 3.2g powder for solution for infusion vials
+0501014S0,Piperacillin sodium/tazobactam sodium
+0501014S0AA,Piperacillin/tazobactam
+0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg inf vials
+0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg inf vials
+0501014S0AAACAC,Piperacillin 4g / Tazobactam 500mg inj vials
+0501014S0BB,Tazocin
+0501014S0BBAAAA,Tazocin 2g/0.25g powder for solution for infusion vials
+0501014S0BBABAB,Tazocin 4g/0.5g powder for solution for infusion vials
+0501014S0BBACAC,Tazocin 4.5g inj intravenous infusion pack
+0501015,Mecillinams
+0501015P0,Pivmecillinam hydrochloride
+0501015P0AA,Pivmecillinam hydrochloride
+0501015P0AAABAB,Pivmecillinam 200mg tablets
+0501015P0AAACAC,Pivmecillinam 200mg/5ml oral suspension
+0501015P0BB,Selexid
+0501015P0BBABAB,Selexid 200mg tablets
+050102,Cephalosporins and other beta-lactams
+0501020,Cephalosporins and other beta-lactams
+050102020,Cefpirome sulfate
+050102020AA,Cefpirome sulfate
+050102020AAAAAA,Cefpirome 1g powder for solution for injection vials
+050102020AAABAB,Cefpirome 2g powder for solution for injection vials
+050102020BB,Cefrom
+050102020BBAAAA,Cefrom 1g powder for solution for injection vials
+050102020BBABAB,Cefrom 2g powder for solution for injection vials
+0501020AA,Cefprozil
+0501020AAAA,Cefprozil
+0501020AAAAAAAA,Cefprozil 250mg tablets
+0501020AAAAABAB,Cefprozil 500mg tablets
+0501020AAAAACAC,Cefprozil 250mg/5ml oral suspension
+0501020AABB,Cefzil
+0501020AABBAAAA,Cefzil 250mg tablets
+0501020AABBABAB,Cefzil 500mg tablets
+0501020AABBACAC,Cefzil 250mg/5ml oral suspension
+0501020AD,Cefepime
+0501020ADAA,Cefepime
+0501020ADAAAAAA,Cefepime 1g powder for solution for injection vials
+0501020ADAAABAB,Cefepime 2g powder for solution for injection vials
+0501020ADBB,Renapime
+0501020ADBBAAAA,Renapime 1g powder for solution for injection vials
+0501020ADBBABAB,Renapime 2g powder for solution for injection vials
+0501020T0,Cefamandole
+0501020T0AA,Cefamandole
+0501020T0AAABAB,Cefamandole 1g powder for solution for injection vials
+0501020T0BB,Kefadol
+0501020T0BBABAB,Kefadol 1g powder for solution for injection vials
+0501020V0,Cefazolin sodium
+0501020V0AA,Cefazolin sodium (Parenteral)
+0501020V0AAAAAA,Cefazolin 500mg powder for solution for injection vials
+0501020V0AAABAB,Cefazolin 1g powder for solution for injection vials
+0501020V0AAADAD,Cefazolin 2g powder for solution for injection vials
+0501020V0BB,Kefzol
+0501020V0BBAAAA,Kefzol 500mg powder for solution for injection vials
+0501020V0BBABAB,Kefzol 1g powder for solution for injection vials
+0501021,Cephalosporins
+0501021A0,Cefaclor
+0501021A0AA,Cefaclor
+0501021A0AAAAAA,Cefaclor 250mg capsules
+0501021A0AAABAB,Cefaclor 125mg/5ml oral suspension
+0501021A0AAACAC,Cefaclor 250mg/5ml oral suspension
+0501021A0AAAEAE,Cefaclor 500mg capsules
+0501021A0AAAGAG,Cefaclor 375mg modified-release tablets
+0501021A0AAAJAJ,Cefaclor 125mg/5ml oral suspension sugar free
+0501021A0AAAKAK,Cefaclor 250mg/5ml oral suspension sugar free
+0501021A0BB,Distaclor
+0501021A0BBABAB,Distaclor 125mg/5ml oral suspension
+0501021A0BBACAC,Distaclor 250mg/5ml oral suspension
+0501021A0BBADAE,Distaclor 500mg capsules
+0501021A0BBAEAG,Distaclor MR 375mg tablets
+0501021A0BD,Keftid
+0501021A0BDAAAA,Keftid 250mg capsules
+0501021A0BDABAE,Keftid 500mg capsules
+0501021A0BDACAJ,Keftid 125mg/5ml oral suspension
+0501021A0BDADAK,Keftid 250mg/5ml oral suspension
+0501021A0BE,Bacticlor
+0501021A0BEAAAG,Bacticlor MR 375mg tablets
+0501021B0,Cefadroxil
+0501021B0AA,Cefadroxil
+0501021B0AAAAAA,Cefadroxil 500mg capsules
+0501021B0AAABAB,Cefadroxil 125mg/5ml oral suspension
+0501021B0AAACAC,Cefadroxil 250mg/5ml oral suspension
+0501021B0AAADAD,Cefadroxil 500mg/5ml oral suspension
+0501021B0BB,Baxan
+0501021B0BBAAAA,Baxan 500mg capsules
+0501021B0BBABAB,Baxan 125mg/5ml oral suspension
+0501021B0BBACAC,Baxan 250mg/5ml oral suspension
+0501021B0BBADAD,Baxan 500mg/5ml oral suspension
+0501021C0,Cefixime
+0501021C0AA,Cefixime
+0501021C0AAAAAA,Cefixime 200mg tablets
+0501021C0AAABAB,Cefixime 100mg/5ml oral suspension
+0501021C0AAACAC,Cefixime 400mg tablets
+0501021C0BB,Suprax
+0501021C0BBAAAA,Suprax 200mg tablets
+0501021C0BBABAB,Suprax Paediatric 100mg/5ml oral suspension
+0501021D0,Cefotaxime sodium
+0501021D0AA,Cefotaxime sodium
+0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials
+0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials
+0501021D0AAACAC,Cefotaxime 2g powder for solution for injection vials
+0501021D0BB,Claforan
+0501021D0BBAAAA,Claforan 500mg powder for solution for injection vials
+0501021D0BBABAB,Claforan 1g powder for solution for injection vials
+0501021D0BBACAC,Claforan 2g powder for solution for injection vials
+0501021E0,Cefoxitin sodium
+0501021E0AA,Cefoxitin sodium
+0501021E0AAADAD,Cefoxitin 1g powder for solution for injection vials
+0501021E0AAAEAE,Cefoxitin 2g powder for solution for injection vials
+0501021E0BB,Mefoxin
+0501021E0BBAAAD,Mefoxin 1g powder for solution for injection vials
+0501021E0BBABAE,Mefoxin 2g powder for solution for injection vials
+0501021E0BC,Renoxitin
+0501021E0BCAAAD,Renoxitin 1g powder for solution for injection vials
+0501021E0BCABAE,Renoxitin 2g powder for solution for injection vials
+0501021F0,Cefpodoxime
+0501021F0AA,Cefpodoxime
+0501021F0AAAAAA,Cefpodoxime 100mg tablets
+0501021F0AAABAB,Cefpodoxime 40mg/5ml oral suspension
+0501021F0BB,Orelox
+0501021F0BBAAAA,Orelox 100mg tablets
+0501021F0BBABAB,Orelox 40mg/5ml oral suspension paediatric
+0501021G0,Ceftriaxone sodium
+0501021G0AA,Ceftriaxone sodium
+0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials
+0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials
+0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials
+0501021G0BB,Rocephin
+0501021G0BBAAAB,Rocephin 250mg powder for solution for injection vials
+0501021G0BBABAC,Rocephin 1g powder for solution for injection vials
+0501021G0BBACAD,Rocephin 2g powder for solution for injection vials
+0501021H0,Ceftazidime pentahydrate
+0501021H0AA,Ceftazidime pentahydrate
+0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials
+0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials
+0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials
+0501021H0AAADAD,Ceftazidime 250mg powder for solution for injection vials
+0501021H0AAAHAH,Ceftazidime 3g powder for solution for injection vials
+0501021H0BB,Fortum
+0501021H0BBAAAD,Fortum 250mg powder for solution for injection vials
+0501021H0BBABAA,Fortum 500mg powder for solution for injection vials
+0501021H0BBACAB,Fortum 1g powder for solution for injection vials
+0501021H0BBADAC,Fortum 2g powder for solution for injection vials
+0501021H0BBAGAH,Fortum 3g powder for solution for injection vials
+0501021H0BBAHAC,Fortum Monovial 2g powder for solution for injection vials
+0501021H0BC,Kefadim
+0501021H0BCAAAA,Kefadim 500mg powder for solution for injection vials
+0501021H0BCABAB,Kefadim 1g powder for solution for injection vials
+0501021H0BCACAC,Kefadim 2g powder for solution for injection vials
+0501021J0,Cefuroxime sodium
+0501021J0AA,Cefuroxime sod (Parent)
+0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials
+0501021J0AAABAB,Cefuroxime 750mg powder for injection vials
+0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials
+0501021J0BB,Zinacef
+0501021J0BBAAAA,Zinacef 250mg powder for injection vials
+0501021J0BBABAB,Zinacef 750mg powder for injection vials
+0501021J0BBACAC,Zinacef 1.5g powder for injection vials
+0501021J0BC,Britacef
+0501021J0BCAAAA,Britacef 250mg powder for injection vials
+0501021J0BCABAB,Britacef 750mg powder for injection vials
+0501021J0BCACAC,Britacef 1.5g powder for injection vials
+0501021K0,Cefuroxime axetil
+0501021K0AA,Cefuroxime axetil
+0501021K0AAAAAA,Cefuroxime 125mg tablets
+0501021K0AAABAB,Cefuroxime 250mg tablets
+0501021K0AAACAC,Cefuroxime 125mg/5ml oral suspension
+0501021K0AAADAD,Cefuroxime 125mg granules sachets
+0501021K0BB,Zinnat
+0501021K0BBAAAA,Zinnat 125mg tablets
+0501021K0BBABAB,Zinnat 250mg tablets
+0501021K0BBACAC,Zinnat 125mg/5ml oral suspension
+0501021K0BBADAD,Zinnat Suspension 125mg granules sachets
+0501021L0,Cefalexin
+0501021L0AA,Cefalexin
+0501021L0AAAAAA,Cefalexin 250mg capsules
+0501021L0AAABAB,Cefalexin 500mg capsules
+0501021L0AAACAC,Cefalexin 125mg/5ml oral suspension
+0501021L0AAADAD,Cefalexin 250mg/5ml oral suspension
+0501021L0AAAEAE,Cefalexin 500mg/5ml oral suspension
+0501021L0AAAGAG,Cefalexin 250mg tablets
+0501021L0AAAHAH,Cefalexin 500mg tablets
+0501021L0AAANAN,Cefalexin 125mg/5ml oral suspension sugar free
+0501021L0AAAPAP,Cefalexin 250mg/5ml oral suspension sugar free
+0501021L0BB,Ceporex
+0501021L0BBAAAA,Ceporex 250mg capsules
+0501021L0BBABAB,Ceporex 500mg capsules
+0501021L0BBACAG,Ceporex 250mg tablets
+0501021L0BBADAH,Ceporex 500mg tablets
+0501021L0BBAHAC,Ceporex 125mg/5ml syrup
+0501021L0BBAIAD,Ceporex 250mg/5ml syrup
+0501021L0BBAJAE,Ceporex 500mg/5ml syrup
+0501021L0BC,Keflex
+0501021L0BCAAAA,Keflex 250mg capsules
+0501021L0BCABAB,Keflex 500mg capsules
+0501021L0BCACAG,Keflex 250mg tablets
+0501021L0BCADAH,Keflex 500mg tablets
+0501021L0BCAEAC,Keflex 125mg/5ml oral suspension
+0501021L0BCAFAD,Keflex 250mg/5ml oral suspension
+0501021M0,Cefradine
+0501021M0AA,Cefradine
+0501021M0AAAAAA,Cefradine 250mg capsules
+0501021M0AAABAB,Cefradine 500mg capsules
+0501021M0AAACAC,Cefradine 500mg powder for solution for injection vials
+0501021M0AAADAD,Cefradine 1g powder for solution for injection vials
+0501021M0AAAFAF,Cefradine 250mg/5ml oral solution
+0501021M0BB,Velosef
+0501021M0BBAAAA,Velosef 250mg capsules
+0501021M0BBABAB,Velosef 500mg capsules
+0501021M0BBACAF,Velosef 250mg/5ml syrup
+0501021M0BBADAC,Velosef 500mg powder for solution for injection vials
+0501021M0BBAEAD,Velosef 1g powder for solution for injection vials
+0501021M0BC,Nicef
+0501021M0BCAAAA,Nicef 250mg capsules
+0501021M0BCABAB,Nicef 500mg capsules
+0501022,Carbapenems
+0501022A0,Meropenem
+0501022A0AA,Meropenem
+0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials
+0501022A0AAABAB,Meropenem 1g powder for solution for injection vials
+0501022A0BB,Meronem
+0501022A0BBAAAA,Meronem 500mg powder for solution for injection vials
+0501022A0BBABAB,Meronem 1g powder for solution for injection vials
+0501022B0,Ertapenem sodium
+0501022B0AA,Ertapenem sodium
+0501022B0AAAAAA,Ertapenem 1g powder for solution for infusion vials
+0501022B0BB,Invanz
+0501022B0BBAAAA,Invanz 1g powder for solution for infusion vials
+0501022C0,Doripenem
+0501022C0AA,Doripenem
+0501022C0AAAAAA,Doripenem 500mg powder for solution for infusion vials
+0501022C0BB,Doribax
+0501022C0BBAAAA,Doribax 500mg powder for solution for infusion vials
+0501022D0,Imipenem with cilastatin
+0501022D0AA,Imipenem/cilastatin sodium
+0501022D0AAAAAA,Imipenem 500mg / Cilastatin 500mg inf vials
+0501022D0AAACAC,Imipenem 500mg / Cilastatin 500mg inj vials
+0501022D0BB,Primaxin
+0501022D0BBABAA,Primaxin IV 500mg powder for solution for infusion vials
+0501022D0BBACAC,Primaxin IM 500mg powder for suspension for injection vials
+0501022D0BBADAA,Primaxin IV 500mg powder for solution for infusion monovials
+0501023,Other beta-lactam antibiotics
+0501023A0,Aztreonam
+0501023A0AA,Aztreonam
+0501023A0AAAAAA,Aztreonam 2g powder for solution for injection vials
+0501023A0AAABAB,Aztreonam 1g powder for solution for injection vials
+0501023A0AAACAC,Aztreonam 500mg powder for solution for injection vials
+0501023A0AAAFAF,Aztreonam 75mg neb soln vials with device
+0501023A0BB,Azactam
+0501023A0BBAAAA,Azactam 2g powder for solution for injection vials
+0501023A0BBABAB,Azactam 1g powder for solution for injection vials
+0501023A0BBACAC,Azactam 500mg powder for solution for injection vials
+0501023A0BC,Cayston
+0501023A0BCAAAF,Cayston 75mg neb soln vials with Altera Nebuliser Handset
+050103,Tetracyclines
+0501030,Tetracyclines
+0501030F0,Demeclocycline hydrochloride
+0501030F0AA,Demeclocycline hydrochloride
+0501030F0AAAAAA,Demeclocycline 150mg capsules
+0501030F0AAAFAF,Demeclocycline 300mg/5ml oral liquid
+0501030F0AAAGAG,Demeclocycline 150mg/5ml oral liquid
+0501030F0AAAHAH,Demeclocycline 75mg/5ml oral liquid
+0501030F0AAAIAI,Demeclocycline 150mg tablets
+0501030F0BB,Ledermycin
+0501030F0BBAAAA,Ledermycin 150mg capsules
+0501030I0,Doxycycline hyclate
+0501030I0AA,Doxycycline hyclate (Antibacterial)
+0501030I0AAAAAA,Doxycycline 50mg capsules
+0501030I0AAABAB,Doxycycline 100mg capsules
+0501030I0AAAEAE,Doxycycline 100mg dispersible tablets sugar free
+0501030I0AAAHAH,Doxycycline 50mg/5ml oral liquid
+0501030I0AAAKAK,Doxycycline 100mg/5ml oral suspension
+0501030I0AAALAL,Doxycycline 100mg tablets
+0501030I0BC,Doxylar
+0501030I0BCAAAB,Doxylar 100mg capsules
+0501030I0BCABAA,Doxylar 50mg capsules
+0501030I0BE,Vibramycin
+0501030I0BEAAAA,Vibramycin 50 capsules
+0501030I0BEABAB,Vibramycin 100mg capsules
+0501030I0BEADAE,Vibramycin-D 100mg dispersible tablets
+0501030I0BEAEAA,Vibramycin Acne Pack 50mg capsules
+0501030I0BH,Demix
+0501030I0BHAAAB,Demix 100 capsules
+0501030I0BHABAA,Demix 50 capsules
+0501030I0BL,Vibrox
+0501030I0BLAAAB,Vibrox 100mg capsules
+0501030L0,Lymecycline
+0501030L0AA,Lymecycline
+0501030L0AAABAB,Lymecycline 408mg capsules
+0501030L0BB,Tetralysal
+0501030L0BBABAB,Tetralysal 300 capsules
+0501030P0,Minocycline hydrochloride
+0501030P0AA,Minocycline hydrochloride (Systemic)
+0501030P0AAAAAA,Minocycline 50mg tablets
+0501030P0AAABAB,Minocycline 100mg tablets
+0501030P0AAACAC,Minocycline 100mg modified-release capsules
+0501030P0AAADAD,Minocycline 50mg capsules
+0501030P0AAAEAE,Minocycline 100mg capsules
+0501030P0AAAFAF,Minocycline 50mg/5ml oral liquid
+0501030P0BB,Minocin
+0501030P0BBAAAA,Minocin 50mg tablets
+0501030P0BBABAB,Minocin 100mg tablets
+0501030P0BBACAC,Minocin MR 100mg capsules
+0501030P0BC,Blemix
+0501030P0BCAAAA,Blemix 50mg tablets
+0501030P0BCABAB,Blemix 100mg tablets
+0501030P0BD,Aknemin
+0501030P0BDAAAD,Aknemin 50 capsules
+0501030P0BDABAE,Aknemin 100mg capsules
+0501030P0BG,Sebomin
+0501030P0BGAAAC,Sebomin MR 100mg capsules
+0501030P0BH,Acnamino
+0501030P0BHAAAC,Acnamino MR 100mg capsules (Dexcel-Pharma)
+0501030P0BHABAC,Acnamino MR 100mg capsules (Almus)
+0501030P0BI,Sebren
+0501030P0BIAAAC,Sebren MR 100mg capsules
+0501030T0,Oxytetracycline
+0501030T0AA,Oxytetracycline (Systemic)
+0501030T0AAAJAJ,Oxytetracycline 250mg tablets
+0501030T0AAAPAP,Oxytetracycline 125mg/5ml oral suspension
+0501030T0AAAQAQ,Oxytetracycline 250mg/5ml oral suspension
+0501030T0AAARAR,Oxytetracycline 500mg/5ml oral suspension
+0501030T0AAATAT,Oxytetracycline 100mg/5ml oral suspension
+0501030T0BF,Oxymycin
+0501030T0BFAAAJ,Oxymycin 250mg tablets
+0501030T0BG,Terramycin (Systemic)
+0501030T0BGABAJ,Terramycin 250mg tablets
+0501030T0BI,Oxytetramix-250
+0501030T0BIAAAJ,Oxytetramix 250 tablets
+0501030V0,Tetracycline
+0501030V0AA,Tetracycline (Systemic)
+0501030V0AAAAAA,Tetracycline 250mg capsules
+0501030V0AAAFAF,Tetracycline 250mg tablets
+0501030V0AAARAR,Tetracycline 125mg/5ml oral solution
+0501030V0BB,Achromycin (Systemic)
+0501030V0BBAAAA,Achromycin 250mg capsules
+0501030X0,Tetracycline combined preparations
+0501030X0AA,Generic tablet
+0501030X0AAAAAA,Generic Deteclo 300mg tablets
+0501030X0BB,Deteclo
+0501030X0BBAAAA,Deteclo 300mg tablets
+0501030Y0,Tigecycline
+0501030Y0AA,Tigecycline
+0501030Y0AAAAAA,Tigecycline 50mg powder for solution for infusion vials
+0501030Y0BB,Tygacil
+0501030Y0BBAAAA,Tygacil 50mg powder for solution for infusion vials
+0501030Z0,Doxycycline monohydrate
+0501030Z0AA,Doxycycline
+0501030Z0AAAAAA,Doxycycline 40mg modified-release capsules
+0501030Z0BB,Efracea
+0501030Z0BBAAAA,Efracea 40mg modified-release capsules
+050104,Aminoglycosides
+0501040,Aminoglycosides
+0501040C0,Amikacin
+0501040C0AA,Amikacin (Parenteral)
+0501040C0AAAAAA,Amikacin 500mg/2ml solution for injection vials
+0501040C0AAADAD,Amikacin 100mg/2ml solution for injection vials
+0501040C0BB,Amikin
+0501040C0BBAAAA,Amikin 500mg/2ml solution for injection vials
+0501040C0BBACAD,Amikin 100mg/2ml solution for injection vials
+0501040H0,Gentamicin sulfate
+0501040H0AA,Gentamicin sulfate (Systemic)
+0501040H0AAAAAA,Gentamicin 80mg/2ml solution for injection ampoules
+0501040H0AAAEAE,Gentamicin 20mg/2ml solution for injection vials
+0501040H0AAAHAH,Gentamicin 5mg/1ml solution for injection ampoules
+0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials
+0501040H0AAAQAQ,Gentamicin 40mg/1ml solution for injection ampoules
+0501040H0AAAWAW,Gentamicin 50mg/5ml oral solution
+0501040H0AAAXAX,Gentamicin 62.5mg/5ml oral solution
+0501040H0AAAYAY,Gentamicin 75mg/5ml oral solution
+0501040H0AAAZAZ,Gentamicin 30mg/5ml oral suspension
+0501040H0AABABA,Gentamicin 35mg/5ml oral suspension
+0501040H0AABBBB,Gentamicin 20mg/2ml solution for injection ampoules
+0501040H0AABCBC,Gentamicin 80mg/80ml infusion bags
+0501040H0AABDBD,Gentamicin 240mg/80ml infusion bags
+0501040H0AABEBE,Gentamicin 360mg/120ml infusion bags
+0501040H0AABFBF,Gentamicin 45mg/5ml oral solution
+0501040H0BB,Cidomycin (Systemic)
+0501040H0BBAAAA,Cidomycin 80mg/2ml solution for injection ampoules
+0501040H0BBACAE,Cidomycin Paediatric 20mg/2ml solution for injection vials
+0501040H0BBADAH,Cidomycin Intrathecal 5mg/1ml inj ampoules
+0501040H0BBAFAM,Cidomycin Adult Injectable 80mg/2ml inj vials
+0501040H0BC,Genticin (Systemic)
+0501040H0BCAAAA,Genticin Injectable 80mg/2ml solution for injection ampoules
+0501040H0BG,Gentamicin sulfate (Winthrop)
+0501040H0BGAAAE,Gentamicin Paediatric 20mg/2ml solution for injection vials
+0501040H0BH,Gentamicin intrathecal
+0501040H0BHAAAH,Gentamicin Intrathecal 5mg/1ml inj ampoules
+0501040N0,Neomycin sulfate
+0501040N0AA,Neomycin sulfate (Systemic)
+0501040N0AAADAD,Neomycin 500mg tablets
+0501040N0AAAIAI,Neomycin 500mg/5ml oral solution
+0501040N0AAAJAJ,Neomycin 100mg/5ml oral solution
+0501040N0BC,Nivemycin (Systemic)
+0501040N0BCAAAD,Nivemycin 500mg tablets
+0501040R0,Netilmicin sulfate
+0501040R0AA,Netilmicin sulfate
+0501040R0AAAAAA,Netilmicin 15mg/1.5ml solution for injection ampoules
+0501040R0AAABAB,Netilmicin 50mg/1ml solution for injection ampoules
+0501040R0AAACAC,Netilmicin 100mg/1ml solution for injection ampoules
+0501040R0AAAEAE,Netilmicin 150mg/1.5ml solution for injection ampoules
+0501040R0AAAFAF,Netilmicin 200mg/2ml solution for injection ampoules
+0501040R0BB,Netillin
+0501040R0BBABAB,Netillin 50mg/1ml solution for injection ampoules
+0501040R0BBACAC,Netillin 100mg/1ml solution for injection ampoules
+0501040R0BBAEAE,Netillin 150mg/1.5ml solution for injection ampoules
+0501040R0BBAFAF,Netillin 200mg/2ml solution for injection ampoules
+0501040R0BBAGAA,Netillin 15mg/1.5ml solution for injection ampoules
+0501040U0,Tobramycin
+0501040U0AA,Tobramycin (Systemic)
+0501040U0AAAAAA,Tobramycin 20mg/2ml solution for injection vials
+0501040U0AAABAB,Tobramycin 40mg/1ml solution for injection vials
+0501040U0AAACAC,Tobramycin 80mg/2ml solution for injection vials
+0501040U0AAAEAE,Tobramycin 40mg/1ml solution for injection ampoules
+0501040U0AAAFAF,Tobramycin 80mg/2ml solution for infusion ampoules
+0501040U0AAAGAG,Tobramycin 300mg/5ml nebuliser liquid ampoules
+0501040U0AAAHAH,Tobramycin 40mg/5ml oral solution
+0501040U0AAAIAI,Tobramycin 240mg/6ml solution for injection vials
+0501040U0AAAKAK,Tobramycin 300mg/4ml nebuliser liquid ampoules
+0501040U0AAALAL,Tobramycin 28mg inhalation powder capsules with device
+0501040U0AAAMAM,Tobramycin 20mg/5ml oral solution
+0501040U0AAANAN,Tobramycin 170mg/1.7ml nebuliser liquid ampoules
+0501040U0BB,Nebcin
+0501040U0BBAAAA,Nebcin 20mg/2ml solution for injection vials
+0501040U0BBACAC,Nebcin 80mg/2ml solution for injection vials
+0501040U0BC,Tobi
+0501040U0BCAAAG,Tobi 300mg/5ml nebuliser solution 5ml ampoules
+0501040U0BCABAL,Tobi Podhaler 28mg inhalation powder capsules with device
+0501040U0BD,Bramitob
+0501040U0BDAAAK,Bramitob 300mg/4ml nebuliser solution 4ml ampoules
+0501040U0BF,Tymbrineb
+0501040U0BFAAAG,Tymbrineb 300mg/5ml nebuliser solution 5ml ampoules
+0501040U0BG,Vantobra
+0501040U0BGAAAN,Vantobra 170mg/1.7ml nebuliser solution 1.7ml ampoules
+0501040U0BH,Munuza
+0501040U0BHAAAG,Munuza 300mg/5ml nebuliser solution 5ml ampoules
+050105,Macrolides
+0501050,Macrolides
+0501050A0,Azithromycin
+0501050A0AA,Azithromycin
+0501050A0AAAAAA,Azithromycin 250mg capsules
+0501050A0AAABAB,Azithromycin 200mg/5ml oral suspension
+0501050A0AAADAD,Azithromycin 500mg tablets
+0501050A0AAAGAG,Azithromycin 250mg tablets
+0501050A0AAAHAH,Azithromycin 200mg/5ml oral suspension sugar free
+0501050A0BB,Zithromax
+0501050A0BBAAAA,Zithromax 250mg capsules
+0501050A0BBABAB,Zithromax 200mg/5ml oral suspension
+0501050A0BBADAD,Zithromax 500mg tablets
+0501050A0BC,Clamelle
+0501050A0BCAAAD,Clamelle 500mg tablets
+0501050B0,Clarithromycin
+0501050B0AA,Clarithromycin
+0501050B0AAAAAA,Clarithromycin 250mg tablets
+0501050B0AAABAB,Clarithromycin 125mg/5ml oral suspension
+0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials
+0501050B0AAADAD,Clarithromycin 500mg tablets
+0501050B0AAAEAE,Clarithromycin 500mg modified-release tablets
+0501050B0AAAFAF,Clarithromycin 250mg granules sachets
+0501050B0AAAGAG,Clarithromycin 125mg granules sachets
+0501050B0AAAHAH,Clarithromycin 250mg/5ml oral suspension
+0501050B0AAAKAK,Clarithromycin 125mg granules straws
+0501050B0AAALAL,Clarithromycin 187.5mg granules straws
+0501050B0AAAMAM,Clarithromycin 250mg granules straws
+0501050B0BB,Klaricid
+0501050B0BBAAAA,Klaricid 250mg tablets
+0501050B0BBABAB,Klaricid Paediatric 125mg/5ml oral suspension
+0501050B0BBACAC,Klaricid IV 500mg powder for solution for infusion vials
+0501050B0BBADAD,Klaricid 500 tablets
+0501050B0BBAEAE,Klaricid XL 500mg tablets
+0501050B0BBAFAF,Klaricid Adult 250mg granules sachets
+0501050B0BBAGAG,Klaricid Paediatric 125mg granules sachets
+0501050B0BBAHAH,Klaricid Paediatric 250mg/5ml oral suspension
+0501050B0BD,Clarosip
+0501050B0BDAAAK,Clarosip 125mg granules for oral suspension straws
+0501050B0BDABAL,Clarosip 187.5mg granules for oral suspension straws
+0501050B0BDACAM,Clarosip 250mg granules for oral suspension straws
+0501050B0BE,Clarie
+0501050B0BEAAAE,Clarie XL 500mg tablets
+0501050B0BF,Mycifor
+0501050B0BFAAAE,Mycifor XL 500mg tablets
+0501050B0BG,Febzin
+0501050B0BGAAAE,Febzin XL 500mg tablets
+0501050B0BH,Xetinin
+0501050B0BHAAAE,Xetinin XL 500mg tablets
+0501050C0,Erythromycin
+0501050C0AA,Erythromycin (Systemic)
+0501050C0AAABAB,Erythromycin 250mg gastro-resistant tablets
+0501050C0AAAKAK,Erythromycin 250mg gastro-resistant capsules
+0501050C0BC,Erymax
+0501050C0BCAAAK,Erymax 250mg gastro-resistant capsules
+0501050C0BI,Rommix (Tablet)
+0501050C0BIAAAB,Rommix 250 EC tablets
+0501050C0BK,Tiloryth
+0501050C0BKAAAK,Tiloryth 250mg gastro-resistant capsules
+0501050C0BL,Kerymax
+0501050C0BLAAAK,Kerymax 250mg gastro-resistant capsules
+0501050H0,Erythromycin ethylsuccinate
+0501050H0AA,Erythromycin ethylsuccinate
+0501050H0AAAAAA,Erythromycin ethyl succinate 125mg/5ml oral suspension
+0501050H0AAABAB,Erythromycin ethyl succinate 250mg/5ml oral suspension
+0501050H0AAACAC,Erythromycin ethyl succinate 500mg/5ml oral suspension
+0501050H0AAAEAE,Erythromycin ethyl succinate 500mg tablets
+0501050H0AAALAL,Erythromycin ethyl succinate 125mg/5ml susp sugar free
+0501050H0AAAMAM,Erythromycin ethyl succinate 250mg/5ml susp sugar free
+0501050H0AAANAN,Erythromycin ethyl succinate 500mg/5ml susp sugar free
+0501050H0BD,Erythroped
+0501050H0BDAIAE,Erythroped A 500mg tablets
+0501050H0BDAMAM,Erythroped SF 250mg/5ml oral suspension
+0501050H0BDANAL,Erythroped PI SF 125mg/5ml oral suspension
+0501050H0BDAPAN,Erythroped Forte SF 500mg/5ml oral suspension
+0501050K0,Erythromycin lactobionate
+0501050K0AA,Erythromycin lactobionate (Parent)
+0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials
+0501050K0BB,Erythrocin (Parenteral)
+0501050K0BBAAAA,Erythrocin IV lactobionate 1g inf vials
+0501050N0,Erythromycin stearate
+0501050N0AA,Erythromycin stearate
+0501050N0AAAAAA,Erythromycin stearate 250mg tablets
+0501050N0AAABAB,Erythromycin stearate 500mg tablets
+0501050N0BB,Erythrocin (Systemic)
+0501050N0BBAAAA,Erythrocin 250 tablets
+0501050N0BBABAB,Erythrocin 500 tablets
+0501050N0BC,Erythrolar (Tablet)
+0501050N0BCAAAA,Erythrolar 250mg tablets
+0501050N0BCABAB,Erythrolar 500mg tablets
+0501050T0,Telithromycin
+0501050T0AA,Telithromycin
+0501050T0AAAAAA,Telithromycin 400mg tablets
+0501050T0BB,Ketek
+0501050T0BBAAAA,Ketek 400mg tablets
+050106,Clindamycin and lincomycin
+0501060,Clindamycin and lincomycin
+0501060D0,Clindamycin hydrochloride
+0501060D0AA,Clindamycin hydrochloride (Systemic)
+0501060D0AAAAAA,Clindamycin 75mg capsules
+0501060D0AAABAB,Clindamycin 150mg capsules
+0501060D0AAAEAE,Clindamycin 75mg/5ml oral solution
+0501060D0AAAFAF,Clindamycin 20mg/5ml oral solution
+0501060D0AAAGAG,Clindamycin 300mg/5ml oral solution
+0501060D0AAAHAH,Clindamycin 150mg/5ml oral solution
+0501060D0AAAIAI,Clindamycin 400mg/5ml oral solution
+0501060D0AAAJAJ,Clindamycin 120mg/5ml oral solution
+0501060D0AAALAL,Clindamycin 60mg/5ml oral solution
+0501060D0AAAMAM,Clindamycin 300mg capsules
+0501060D0AAANAN,Clindamycin 75mg/5ml oral suspension
+0501060D0AAAPAP,Clindamycin 450mg/5ml oral solution
+0501060D0AAAQAQ,Clindamycin 150mg/5ml oral suspension
+0501060D0AAARAR,Clindamycin 200mg/5ml oral suspension
+0501060D0AAASAS,Clindamycin 50mg/5ml oral suspension
+0501060D0AAATAT,Clindamycin 100mg/5ml oral suspension
+0501060D0BB,Dalacin C
+0501060D0BBAAAA,Dalacin C 75mg capsules
+0501060D0BBABAB,Dalacin C 150mg capsules
+0501060E0,Clindamycin phosphate
+0501060E0AA,Clindamycin phosphate (Parenteral)
+0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules
+0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules
+0501060E0BB,Dalacin C Phosphate
+0501060E0BBAAAA,Dalacin C Phosphate 300mg/2ml inj ampoules
+0501060E0BBABAB,Dalacin C Phosphate 600mg/4ml inj ampoules
+050107,Some other antibacterials
+0501070,Some other antibacterials
+0501070AA,Taurolidine
+0501070AAAA,Taurolidine
+0501070AAAAAAAA,Taurolidine 2% nebuliser liquid
+0501070AAAAABAB,Taurolidine intraperitoneal solution bottles
+0501070AABB,Taurolin
+0501070AABBAAAB,Taurolin 100mg/5ml intraperitoneal solution bottles
+0501070AB,Nitazoxanide
+0501070ABAA,Nitazoxanide
+0501070ABAAAAAA,Nitazoxanide 500mg tablets
+0501070ABAAABAB,Nitazoxanide 100mg/5ml oral suspension
+0501070AC,Fidaxomicin
+0501070ACAA,Fidaxomicin
+0501070ACAAAAAA,Fidaxomicin 200mg tablets
+0501070ACBB,Dificlir
+0501070ACBBAAAA,Dificlir 200mg tablets
+0501070AD,Tedizolid
+0501070ADAA,Tedizolid
+0501070ADAAAAAA,Tedizolid 200mg powder for solution for infusion vials
+0501070ADAAABAB,Tedizolid 200mg tablets
+0501070ADBB,Sivextro
+0501070ADBBAAAA,Sivextro 200mg pdr for concentrate for inf vials
+0501070ADBBABAB,Sivextro 200mg tablets
+0501070AE,Fosfomycin trometamol
+0501070AEAA,Fosfomycin trometamol
+0501070AEAAADAD,Fosfomycin 3g granules sachets
+0501070AEBB,Monuril
+0501070AEBBACAD,Monuril 3g granules sachets (Lexon)
+0501070AEBBADAD,Monuril 3g granules sachets
+0501070AEBC,Monurol
+0501070AEBCAAAD,Monurol 3g granules sachets
+0501070AF,Dalbavancin hydrochloride
+0501070AFAA,Dalbavancin hydrochloride
+0501070AFAAAAAA,Dalbavancin 500mg powder for solution for infusion vials
+0501070AFBB,Xydalba
+0501070AFBBAAAA,Xydalba 500mg pdr for concentrate for inf vials
+0501070F0,Chloramphenicol
+0501070F0AA,Chloramphenicol (Systemic)
+0501070F0AAAAAA,Chloramphenicol 250mg capsules
+0501070F0AAACAC,Chloramphenicol 1g powder for solution for injection vials
+0501070F0BC,Kemicetine
+0501070F0BCAAAC,Kemicetine 1g powder for solution for injection vials
+0501070H0,Colistin sulfate
+0501070H0AA,Colistin sulfate (Systemic)
+0501070H0AAADAD,"Colistin 250,000units/5ml oral solution"
+0501070H0AAAEAE,Colistin 1.5million unit tablets
+0501070H0BB,Colomycin (Oral)
+0501070H0BBAAAE,Colomycin 1.5million unit tablets
+0501070H0BBABAD,"Colomycin 250,000units/5ml syrup"
+0501070I0,Colistimethate sodium
+0501070I0AA,Colistimeth sodium (Systemic)
+0501070I0AAAAAA,"Colistimethate 500,000unit inj vials"
+0501070I0AAABAB,Colistimethate 1million unit inj vials
+0501070I0AAADAD,Colistimethate 1million unit pdr for neb soln ud vials
+0501070I0AAAEAE,Colistimethate 2million unit inj vials
+0501070I0AAAGAG,"Colistimethate 1,662,500unit inhalation powder capsules"
+0501070I0AAAHAH,Colistimethate 2million unit pdr for neb soln ud vials
+0501070I0BB,Colomycin (Parenteral)
+0501070I0BBAAAA,"Colomycin 500,000unit inj vials"
+0501070I0BBABAB,Colomycin 1million unit inj vials
+0501070I0BBACAE,Colomycin 2million unit inj vials
+0501070I0BC,Promixin
+0501070I0BCAAAD,Promixin 1million unit pdr for neb soln unit dose vials
+0501070I0BCABAB,Promixin 1million unit inj vials
+0501070I0BD,Colobreathe
+0501070I0BDAAAG,"Colobreathe 1,662,500unit inhalation powder capsules"
+0501070I0BE,ColiFin
+0501070I0BEAAAD,ColiFin 1 MIU powder for nebuliser solution unit dose vials
+0501070I0BEABAH,ColiFin 2 MIU powder for nebuliser solution unit dose vials
+0501070M0,Fusidic acid
+0501070M0AA,Fusidic acid (Systemic)
+0501070M0AAAAAA,Fusidic acid 250mg/5ml oral suspension
+0501070M0BB,Fucidin (Liquid)
+0501070M0BBAAAA,Fucidin 250mg/5ml oral suspension
+0501070N0,Sodium fusidate
+0501070N0AA,Sodium fusidate (Systemic)
+0501070N0AAABAB,Sodium fusidate 500mg inf vials
+0501070N0AAADAD,Sodium fusidate 250mg tablets
+0501070N0BB,Fucidin (Injection/Powder/Tablet)
+0501070N0BBAAAD,Fucidin 250mg tablets
+0501070N0BBACAB,Fucidin 500mg inf vials
+0501070T0,Teicoplanin
+0501070T0AA,Teicoplanin (Systemic)
+0501070T0AAAAAA,Teicoplanin 400mg inj vials
+0501070T0AAABAB,Teicoplanin 200mg inj vials
+0501070T0BB,Targocid
+0501070T0BBAAAA,Targocid 400mg inj vials
+0501070T0BBABAB,Targocid 200mg inj vials
+0501070U0,Vancomycin hydrochloride
+0501070U0AA,Vancomycin hydrochloride (Systemic)
+0501070U0AAAAAA,Vancomycin 125mg capsules
+0501070U0AAABAB,Vancomycin 250mg capsules
+0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials
+0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials
+0501070U0AAAHAH,Vancomycin 50mg/5ml oral solution
+0501070U0AAAKAK,Vancomycin 250mg/5ml oral liquid
+0501070U0AAALAL,Vancomycin 125mg/5ml oral liquid
+0501070U0AAAMAM,Vancomycin 62.5mg/5ml oral solution
+0501070U0BB,Vancocin
+0501070U0BBAAAA,Vancocin Matrigel 125mg capsules
+0501070U0BBABAB,Vancocin Matrigel 250mg capsules
+0501070U0BBADAC,Vancocin 500mg powder for solution for infusion vials
+0501070U0BBAEAF,Vancocin 1g powder for solution for infusion vials
+0501070V0,Quinupristin/dalfopristin
+0501070V0AA,Quinupristin/dalfopristin
+0501070V0AAAAAA,Quinupristin 150mg / Dalfopristin 350mg inf vials
+0501070V0BB,Synercid
+0501070V0BBAAAA,Synercid powder for solution for infusion vials
+0501070W0,Linezolid
+0501070W0AA,Linezolid
+0501070W0AAAAAA,Linezolid 600mg tablets
+0501070W0AAABAB,Linezolid 100mg/5ml oral suspension
+0501070W0AAACAC,Linezolid 600mg/300ml infusion bags
+0501070W0AAADAD,Linezolid 600mg/300ml solution for infusion bottles
+0501070W0BB,Zyvox
+0501070W0BBAAAA,Zyvox 600mg tablets
+0501070W0BBACAB,Zyvox 100mg/5ml granules for oral suspension
+0501070W0BBADAC,Zyvox 600mg/300ml infusion bags
+0501070X0,Rifaximin
+0501070X0AA,Rifaximin
+0501070X0AAAAAA,Rifaximin 200mg tablets
+0501070X0AAABAB,Rifaximin 550mg tablets
+0501070X0AAACAC,Rifaximin 100mg/5ml oral suspension
+0501070X0BB,Normix
+0501070X0BBAAAA,Normix 200mg tablets
+0501070X0BBABAC,Normix 100mg/5ml granules for oral suspension
+0501070X0BC,Xifaxanta
+0501070X0BCAAAA,Xifaxanta 200mg tablets
+0501070X0BD,Xifaxan
+0501070X0BDAAAB,Xifaxan 550mg tablets
+0501070X0BE,Targaxan
+0501070X0BEAAAB,Targaxan 550mg tablets
+0501070Y0,Daptomycin
+0501070Y0AA,Daptomycin
+0501070Y0AAAAAA,Daptomycin 350mg powder for solution for infusion vials
+0501070Y0AAABAB,Daptomycin 500mg powder for solution for infusion vials
+0501070Y0BB,Cubicin
+0501070Y0BBAAAA,Cubicin 350mg pdr for concentrate for inf vials
+0501070Y0BBABAB,Cubicin 500mg pdr for concentrate for inf vials
+0501070Z0,Pristinamycin
+0501070Z0AA,Pristinamycin
+0501070Z0AAAAAA,Pristinamycin 500mg tablets
+0501070Z0BB,Pyostacine
+0501070Z0BBAAAA,Pyostacine 500mg tablets
+050108,Sulfonamides and trimethoprim
+0501080,Sulfonamides and trimethoprim
+0501080D0,Co-trimoxazole(Trimethoprim/sulfamethoxazole)
+0501080D0AA,Co-trimoxazole
+0501080D0AAABAB,Co-trimoxazole 80mg/400mg/5ml solution for infusion ampoules
+0501080D0AAACAC,Co-trimoxazole 40mg/200mg/5ml oral suspension sugar free
+0501080D0AAAEAE,Co-trimoxazole 80mg/400mg/5ml oral suspension
+0501080D0AAAHAH,Co-trimoxazole 80mg/400mg tablets
+0501080D0AAAJAJ,Co-trimoxazole 160mg/800mg tablets
+0501080D0AAATAT,Co-trimoxazole 160mg/800mg/10ml inf ampoules
+0501080D0BG,Septrin
+0501080D0BGAAAH,Septrin tablets
+0501080D0BGACAJ,Septrin Forte 160mg/800mg tablets
+0501080D0BGAEAE,Septrin Adult 80mg/400mg/5ml oral suspension
+0501080D0BGAFAC,Septrin Paediatric 40mg/200mg/5ml oral suspension
+0501080D0BGAHAB,Septrin for Infusion 80mg/400mg/5ml inf ampoules
+0501080J0,Sulfadiazine
+0501080J0AA,Sulfadiazine
+0501080J0AAABAB,Sulfadiazine 500mg tablets
+0501080J0AAAFAF,Sulfadiazine 150mg/5ml oral suspension
+0501080J0AAAGAG,Sulfadiazine 500mg/5ml oral suspension
+0501080J0AAAHAH,Sulfadiazine 250mg/5ml oral suspension
+0501080T0,Sulfamethoxypyridazine
+0501080T0AA,Sulfamethoxypyridazine
+0501080T0AAAAAA,Sulfamethoxypyridazine 500mg tablets
+0501080T0BB,Lederkyn
+0501080T0BBAAAA,Lederkyn 500mg tablets
+0501080V0,Sulfapyridine
+0501080V0AA,Sulfapyridine
+0501080V0AAADAD,Sulfapyridine 250mg capsules
+0501080V0BD,Concord 693
+0501080V0BDABAD,Concord 693 250mg capsules
+0501080W0,Trimethoprim
+0501080W0AA,Trimethoprim
+0501080W0AAAAAA,Trimethoprim 100mg/5ml solution for injection ampoules
+0501080W0AAADAD,Trimethoprim 100mg tablets
+0501080W0AAAEAE,Trimethoprim 200mg tablets
+0501080W0AAAIAI,Trimethoprim 50mg/5ml oral suspension sugar free
+0501080W0AAAMAM,Trimethoprim 200mg/5ml oral liquid
+0501080W0AAANAN,Trimethoprim 20mg/5ml oral liquid
+0501080W0AAAPAP,Trimethoprim 240mg/5ml oral liquid
+0501080W0AAAQAQ,Trimethoprim 7mg/5ml oral liquid
+0501080W0BC,Monotrim
+0501080W0BCAAAD,Monotrim 100mg tablets
+0501080W0BCABAE,Monotrim 200mg tablets
+0501080W0BCACAI,Monotrim 50mg/5ml oral suspension
+0501080W0BCADAA,Monotrim 100mg/5ml solution for injection ampoules
+0501080W0BG,Trimopan
+0501080W0BGAAAD,Trimopan 100mg tablets
+0501080W0BGABAE,Trimopan 200mg tablets
+0501080W0BH,Trimogal
+0501080W0BHAAAD,Trimogal 100mg tablets
+0501080W0BHABAE,Trimogal 200mg tablets
+050109,Antituberculosis drugs
+0501090,Antituberculosis drugs
+0501090A0,Aminosalicylic acid
+0501090A0AA,Aminosalicylic acid
+0501090A0AAAAAA,Aminosalicylic acid gast res gran 4g sachets sugar free
+0501090A0BB,Paser
+0501090A0BBAAAA,Paser gastro-resistant granules 4g sachets
+0501090A0BC,Granupas
+0501090A0BCAAAA,Granupas gastro-resistant granules 4g sachets
+0501090C0,Capreomycin
+0501090C0AA,Capreomycin
+0501090C0AAAAAA,Capreomycin 1g powder for solution for injection vials
+0501090C0BB,Capastat
+0501090C0BBAAAA,Capastat 1g powder for solution for injection vials
+0501090E0,Cycloserine
+0501090E0AA,Cycloserine
+0501090E0AAABAB,Cycloserine 250mg capsules
+0501090H0,Ethambutol hydrochloride
+0501090H0AA,Ethambutol hydrochloride
+0501090H0AAABAB,Ethambutol 100mg tablets
+0501090H0AAACAC,Ethambutol 400mg tablets
+0501090H0AAARAR,Ethambutol 500mg/5ml oral liquid
+0501090H0AAASAS,Ethambutol 400mg/5ml oral liquid
+0501090H0AAATAT,Ethambutol 375mg/5ml oral solution
+0501090H0AAAVAV,Ethambutol 200mg/5ml oral liquid
+0501090H0AAAWAW,Ethambutol 25mg/5ml oral solution
+0501090H0AAAXAX,Ethambutol 600mg/5ml oral liquid
+0501090H0AAAYAY,Ethambutol 350mg/5ml oral solution
+0501090H0AAAZAZ,Ethambutol 300mg/5ml oral liquid
+0501090H0AABABA,Ethambutol 250mg/5ml oral liquid
+0501090H0AABBBB,Ethambutol 450mg/5ml oral solution
+0501090H0AABCBC,Ethambutol 150mg/5ml oral solution
+0501090H0AABDBD,Ethambutol 100mg/5ml oral solution
+0501090H0AABEBE,Ethambutol 700mg/5ml oral solution
+0501090H0AABFBF,Ethambutol 125mg/5ml oral solution
+0501090H0AABGBG,Ethambutol 50mg/5ml oral solution
+0501090H0AABHBH,Ethambutol 150mg/5ml oral suspension
+0501090H0AABIBI,Ethambutol 700mg/5ml oral suspension
+0501090I0,Ethionamide
+0501090I0AA,Ethionamide
+0501090I0AAAAAA,Ethionamide 250mg tablets
+0501090K0,Isoniazid
+0501090K0AA,Isoniazid (Systemic)
+0501090K0AAADAD,Isoniazid 50mg/2ml solution for injection ampoules
+0501090K0AAAHAH,Isoniazid 50mg tablets
+0501090K0AAAIAI,Isoniazid 100mg tablets
+0501090K0AABIBI,Isoniazid 50mg/5ml oral suspension
+0501090K0AABJBJ,Isoniazid 100mg/5ml oral liquid
+0501090K0AABKBK,Isoniazid 130mg/5ml oral solution
+0501090K0AABLBL,Isoniazid 150mg/5ml oral liquid
+0501090K0AABMBM,Isoniazid 200mg/5ml oral liquid
+0501090K0AABNBN,Isoniazid 17.5mg/5ml oral solution
+0501090K0AABPBP,Isoniazid 135mg/5ml oral solution
+0501090K0AABQBQ,Isoniazid 110mg/5ml oral solution
+0501090K0AABRBR,Isoniazid 87.5mg/5ml oral solution
+0501090K0AABSBS,Isoniazid 220mg/5ml oral solution
+0501090K0AABTBT,Isoniazid 300mg/5ml oral solution
+0501090K0AABUBU,Isoniazid 180mg/5ml oral solution
+0501090K0AABVBV,Isoniazid 75mg/5ml oral liquid
+0501090K0AABWBW,Isoniazid 250mg/5ml oral solution
+0501090K0AABXBX,Isoniazid 60mg/5ml oral solution
+0501090K0AABYBY,Isoniazid 500mg/5ml oral solution
+0501090K0AABZBZ,Isoniazid 120mg/5ml oral solution
+0501090K0AACACA,Isoniazid 270mg/5ml oral solution
+0501090K0AACBCB,Isoniazid 140mg/5ml oral solution
+0501090K0AACCCC,Isoniazid 80mg/5ml oral solution
+0501090K0AACDCD,Isoniazid 25mg/5ml oral solution
+0501090K0AACECE,Isoniazid 125mg/5ml oral solution
+0501090K0AACFCF,Isoniazid 260mg/5ml oral solution
+0501090K0AACGCG,Isoniazid 175mg/5ml oral solution
+0501090K0AACJCJ,Isoniazid 400mg/5ml oral solution
+0501090K0AACKCK,Isoniazid 170mg/5ml oral solution
+0501090K0AACLCL,Isoniazid 27mg/5ml oral solution
+0501090K0AACMCM,Isoniazid 375mg/5ml oral solution
+0501090K0AACPCP,Isoniazid 40mg/5ml oral solution
+0501090K0AACQCQ,Isoniazid 30mg/5ml oral solution
+0501090K0AACRCR,Isoniazid 30.5mg/5ml oral solution
+0501090K0AACSCS,Isoniazid 119mg/5ml oral solution
+0501090K0AACTCT,Isoniazid 85mg/5ml oral solution
+0501090K0AACUCU,Isoniazid 50mg/5ml oral solution
+0501090N0,Pyrazinamide
+0501090N0AA,Pyrazinamide
+0501090N0AAA7A7,Pyrazinamide 175mg/5ml oral liquid
+0501090N0AAA8A8,Pyrazinamide 750mg/5ml oral liquid
+0501090N0AAA9A9,Pyrazinamide 50mg/5ml oral liquid
+0501090N0AABABA,Pyrazinamide 150mg/5ml oral liquid
+0501090N0AABBBB,Pyrazinamide 500mg/5ml oral liquid
+0501090N0AABCBC,Pyrazinamide 1g/5ml oral liquid
+0501090N0AABDBD,Pyrazinamide 375mg/5ml oral liquid
+0501090N0AABEBE,Pyrazinamide 350mg/5ml oral liquid
+0501090N0AABFBF,Pyrazinamide 200mg/5ml oral liquid
+0501090N0AABGBG,Pyrazinamide 450mg/5ml oral liquid
+0501090N0AABHBH,Pyrazinamide 125mg/5ml oral liquid
+0501090N0AABIBI,Pyrazinamide 100mg/5ml oral liquid
+0501090N0AABJBJ,Pyrazinamide 300mg/5ml oral liquid
+0501090N0AABKBK,Pyrazinamide 250mg/5ml oral liquid
+0501090N0AABLBL,Pyrazinamide 75mg/5ml oral liquid
+0501090N0AABMBM,Pyrazinamide 1.5g/5ml oral liquid
+0501090N0AABPBP,Pyrazinamide 600mg/5ml oral liquid
+0501090N0AABQBQ,Pyrazinamide 675mg/5ml oral liquid
+0501090N0AABRBR,Pyrazinamide 425mg/5ml oral liquid
+0501090N0AABSBS,Pyrazinamide 625mg/5ml oral liquid
+0501090N0AABTBT,Pyrazinamide 400mg/5ml oral liquid
+0501090N0AABUBU,Pyrazinamide 275mg/5ml oral liquid
+0501090N0AABVBV,Pyrazinamide 490mg/5ml oral liquid
+0501090N0AABWBW,Pyrazinamide 850mg/5ml oral liquid
+0501090N0AABZBZ,Pyrazinamide 420mg/5ml oral liquid
+0501090N0AACACA,Pyrazinamide 650mg/5ml oral liquid
+0501090N0AACBCB,Pyrazinamide 430mg/5ml oral liquid
+0501090N0AACCCC,Pyrazinamide 700mg/5ml oral liquid
+0501090N0AACDCD,Pyrazinamide 312.5mg/5ml oral liquid
+0501090N0AACECE,Pyrazinamide 1.4g/5ml oral liquid
+0501090N0AACFCF,Pyrazinamide 105mg/5ml oral liquid
+0501090N0AACGCG,Pyrazinamide 91mg/5ml oral liquid
+0501090N0AACHCH,Pyrazinamide 1.25g/5ml oral liquid
+0501090N0AACJCJ,Pyrazinamide 500mg tablets
+0501090N0BB,Zinamide
+0501090N0BBABCJ,Zinamide 500mg tablets
+0501090Q0,Rifabutin
+0501090Q0AA,Rifabutin
+0501090Q0AAABAB,Rifabutin 150mg capsules
+0501090Q0AAAGAG,Rifabutin 60mg/5ml oral liquid
+0501090Q0AAAJAJ,Rifabutin 50mg/5ml oral liquid
+0501090Q0AAALAL,Rifabutin 75mg/5ml oral liquid
+0501090Q0AAAUAU,Rifabutin 150mg/5ml oral liquid
+0501090Q0AAAVAV,Rifabutin 90mg/5ml oral liquid
+0501090Q0AAAZAZ,Rifabutin 100mg/5ml oral liquid
+0501090Q0BB,Mycobutin
+0501090Q0BBAAAB,Mycobutin 150mg capsules
+0501090R0,Rifampicin
+0501090R0AA,Rifampicin
+0501090R0AAAAAA,Rifampicin 150mg capsules
+0501090R0AAABAB,Rifampicin 300mg capsules
+0501090R0AAADAD,Rifampicin 600mg inf vials
+0501090R0AAAFAF,Rifampicin 100mg/5ml oral suspension
+0501090R0AAAKAK,Rifampicin 150mg/5ml oral liquid
+0501090R0AAAMAM,Rifampicin 120mg/5ml oral liquid
+0501090R0AAANAN,Rifampicin 200mg/5ml oral liquid
+0501090R0AAAPAP,Rifampicin 300mg/5ml oral liquid
+0501090R0AAAQAQ,Rifampicin 30.5mg/5ml oral liquid
+0501090R0AAARAR,Rifampicin 480mg/5ml oral liquid
+0501090R0AAAUAU,Rifampicin 210mg/5ml oral liquid
+0501090R0BB,Rifadin
+0501090R0BBAAAA,Rifadin 150mg capsules
+0501090R0BBABAB,Rifadin 300mg capsules
+0501090R0BBACAF,Rifadin 100mg/5ml syrup
+0501090R0BBAEAD,Rifadin 600mg inf vials
+0501090R0BC,Rimactane
+0501090R0BCAAAA,Rimactane 150mg capsules
+0501090R0BCABAB,Rimactane 300mg capsules
+0501090R0BCACAF,Rimactane 100mg/5ml syrup
+0501090S0,Rifampicin combined preparations
+0501090S0AA,Rifampicin/isoniazid
+0501090S0AAAAAA,Rifampicin 150mg / Isoniazid 100mg tablets
+0501090S0AAABAB,Rifampicin 300mg / Isoniazid 150mg tablets
+0501090S0AAACAC,Generic Rifater tablets
+0501090S0BB,Rifinah
+0501090S0BBAAAA,Rifinah 150mg/100mg tablets
+0501090S0BBABAB,Rifinah 300mg/150mg tablets
+0501090S0BC,Rimactazid
+0501090S0BCAAAA,Rimactazid 150 tablets
+0501090S0BCABAB,Rimactazid 300 tablets
+0501090S0BD,Rifater
+0501090S0BDAAAC,Rifater tablets
+0501090S0BE,Voractiv
+0501090S0BEAAA0,Voractiv tablets
+0501090U0,Streptomycin
+0501090U0AA,Streptomycin sulf
+0501090U0AAAAAA,Streptomycin 1g powder for solution for injection vials
+0501090V0,Bedaquiline
+0501090V0AA,Bedaquiline
+0501090V0AAAAAA,Bedaquiline 100mg tablets
+0501090V0BB,Sirturo
+0501090V0BBAAAA,Sirturo 100mg tablets
+0501090W0,Delamanid
+0501090W0AA,Delamanid
+0501090W0AAAAAA,Delamanid 50mg tablets
+0501090W0BB,Deltyba
+0501090W0BBAAAA,Deltyba 50mg tablets
+050110,Antileprotic drugs
+0501100,Antileprotic drugs
+0501100C0,Clofazimine
+0501100C0AA,Clofazimine
+0501100C0AAAAAA,Clofazimine 100mg capsules
+0501100C0AAACAC,Clofazimine 50mg capsules
+0501100C0BB,Lamprene
+0501100C0BBAAAA,Lamprene 100mg capsules
+0501100C0BBACAC,Lamprene 50mg capsules
+0501100H0,Dapsone
+0501100H0AA,Dapsone
+0501100H0AAAFAF,Dapsone 50mg tablets
+0501100H0AAAHAH,Dapsone 100mg tablets
+0501100H0AAAKAK,Dapsone 5mg/5ml oral liquid
+0501100H0AAALAL,Dapsone 50mg/5ml oral suspension
+0501100H0AAAMAM,Dapsone 40mg/5ml oral suspension
+0501100H0AAANAN,Dapsone 75mg/5ml oral suspension
+0501100H0AAAPAP,Dapsone 20mg/5ml oral suspension
+0501100J0,Thalidomide (Antileprotic)
+0501100J0AA,Thalidomide (Antileprotic)
+0501100J0AAAAAA,Thalidomide 100mg tablets
+0501100J0AAAHAH,Thalidomide 50mg/5ml oral liquid
+0501100J0AAAIAI,Thalidomide 50mg tablets
+0501100J0AAAJAJ,Thalidomide 25mg tablets
+0501100J0BC,Talidex
+0501100J0BCAAAJ,Talidex 25mg tablets
+050111,"Metronidazole, tinidazole and ornidazole"
+0501110,"Metronidazole, tinidazole and ornidazole"
+0501110C0,Metronidazole
+0501110C0AA,Metronidazole (Systemic)
+0501110C0AAA8A8,"Metronidazole 400mg tab and Nystatin 100,000unit pess"
+0501110C0AAADAD,Metronidazole 100mg/20ml solution for infusion ampoules
+0501110C0AAAEAE,Metronidazole 200mg/5ml oral suspension
+0501110C0AAAGAG,Metronidazole 500mg suppositories
+0501110C0AAAHAH,Metronidazole 1g suppositories
+0501110C0AAAIAI,Metronidazole 200mg tablets
+0501110C0AAAJAJ,Metronidazole 400mg tablets
+0501110C0AAAKAK,Metronidazole 500mg/100ml solution for infusion bottles
+0501110C0AABABA,Metronidazole 500mg/100ml infusion 100ml bags
+0501110C0AABHBH,Metronidazole 500mg tablets
+0501110C0AABJBJ,Metronidazole 200mg suppositories
+0501110C0AABLBL,Metronidazole 100mg/5ml oral liquid
+0501110C0AABQBQ,Metronidazole 200mg/5ml oral solution
+0501110C0AABRBR,Metronidazole 50mg/5ml oral liquid
+0501110C0AABSBS,Metronidazole 500mg/5ml oral suspension
+0501110C0AABTBT,Metronidazole 100mg/5ml oral suspension
+0501110C0AABUBU,Metronidazole 50mg/5ml oral suspension
+0501110C0BC,Flagyl
+0501110C0BCAAAI,Flagyl 200mg tablets
+0501110C0BCABAJ,Flagyl 400mg tablets
+0501110C0BCADAG,Flagyl 500mg suppositories
+0501110C0BCAEAH,Flagyl 1g suppositories
+0501110C0BCAIAE,Flagyl-S 200mg/5ml oral suspension
+0501110C0BCALA8,Flagyl Compak
+0501110C0BCAMBA,Flagyl 500mg/100ml infusion 100ml bags
+0501110C0BF,Metrolyl
+0501110C0BFADAG,Metrolyl 500mg suppositories
+0501110C0BFAEAH,Metrolyl 1g suppositories
+0501110C0BK,Norzol
+0501110C0BKAAAE,Norzol 200mg/5ml oral suspension
+0501110C0BQ,Metrozol
+0501110C0BQAABA,Metrozol 500mg/100ml infusion 100ml bags
+0501110G0,Tinidazole
+0501110G0AA,Tinidazole
+0501110G0AAABAB,Tinidazole 500mg tablets
+0501110G0BB,Fasigyn
+0501110G0BBAAAB,Fasigyn 500mg tablets
+050112,Quinolones
+0501120,Quinolones
+0501120L0,Ciprofloxacin
+0501120L0AA,Ciprofloxacin (Systemic)
+0501120L0AAAAAA,Ciprofloxacin 250mg tablets
+0501120L0AAABAB,Ciprofloxacin 100mg/50ml solution for infusion bottles
+0501120L0AAADAD,Ciprofloxacin 200mg/100ml solution for infusion bottles
+0501120L0AAAFAF,Ciprofloxacin 500mg tablets
+0501120L0AAAGAG,Ciprofloxacin 100mg tablets
+0501120L0AAAJAJ,Ciprofloxacin 750mg tablets
+0501120L0AAANAN,Ciprofloxacin 40mg/5ml oral suspension
+0501120L0AAAPAP,Ciprofloxacin 100mg/5ml oral suspension
+0501120L0AAAQAQ,Ciprofloxacin 500mg/5ml oral suspension
+0501120L0AAATAT,Ciprofloxacin 125mg/5ml oral suspension
+0501120L0AAAUAU,Ciprofloxacin 50mg/5ml oral suspension
+0501120L0AAAVAV,Ciprofloxacin 75mg/5ml oral suspension
+0501120L0AAAWAW,Ciprofloxacin 60mg/5ml oral suspension
+0501120L0AAAXAX,Ciprofloxacin 170mg/5ml oral suspension
+0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles
+0501120L0AABBBB,Ciprofloxacin 375mg/5ml oral suspension
+0501120L0AABCBC,Ciprofloxacin 175mg/5ml oral suspension
+0501120L0AABDBD,Ciprofloxacin 80mg/5ml oral suspension
+0501120L0AABEBE,Ciprofloxacin 200mg/100ml infusion bags
+0501120L0AABFBF,Ciprofloxacin 400mg/200ml infusion bags
+0501120L0AABGBG,Ciprofloxacin 250mg/5ml oral suspension
+0501120L0AABHBH,Ciprofloxacin 45mg/5ml oral suspension
+0501120L0AABIBI,Ciprofloxacin 150mg/5ml oral suspension
+0501120L0AABJBJ,Ciprofloxacin 165mg/5ml oral suspension
+0501120L0AABKBK,Ciprofloxacin 20mg/5ml oral suspension
+0501120L0AABQBQ,Ciprofloxacin 100mg/50ml solution for infusion vials
+0501120L0AABRBR,Ciprofloxacin 200mg/100ml solution for infusion vials
+0501120L0AABSBS,Ciprofloxacin 400mg/200ml solution for infusion vials
+0501120L0BB,Ciproxin
+0501120L0BBAAAA,Ciproxin 250mg tablets
+0501120L0BBABAF,Ciproxin 500mg tablets
+0501120L0BBACAG,Ciproxin 100mg tablets
+0501120L0BBADAJ,Ciproxin 750mg tablets
+0501120L0BBAEAB,Ciproxin Infusion 100mg/50ml solution for infusion bottles
+0501120L0BBAFAD,Ciproxin Infusion 200mg/100ml solution for infusion bottles
+0501120L0BBAGAY,Ciproxin Infusion 400mg/200ml solution for infusion bottles
+0501120L0BBAHBE,Ciproxin I.V. Flexibag 200mg/100ml infusion
+0501120L0BBAIBF,Ciproxin I.V. Flexibag 400mg/200ml infusion
+0501120L0BBAJBG,Ciproxin 250mg/5ml oral suspension
+0501120N0,Nalidixic acid
+0501120N0AA,Nalidixic acid
+0501120N0AAAAAA,Nalidixic acid 300mg/5ml oral suspension
+0501120N0AAABAB,Nalidixic acid 500mg tablets
+0501120N0AAACAC,Generic Mictral granules 7g sachets
+0501120N0AAAFAF,Nalidixic acid 300mg/5ml oral suspension sugar free
+0501120N0BB,Negram
+0501120N0BBAAAB,Negram 500mg tablets
+0501120N0BBABAF,Negram 300mg/5ml oral suspension
+0501120N0BC,Uriben
+0501120N0BCAAAA,Uriben 300mg/5ml oral suspension
+0501120N0BD,Mictral
+0501120N0BDAAAC,Mictral granules 7g sachets
+0501120P0,Ofloxacin
+0501120P0AA,Ofloxacin (Systemic)
+0501120P0AAAAAA,Ofloxacin 200mg tablets
+0501120P0AAABAB,Ofloxacin 400mg tablets
+0501120P0AAACAC,Ofloxacin 200mg/100ml solution for infusion bottles
+0501120P0AAADAD,Ofloxacin 100mg/5ml oral liquid
+0501120P0AAAEAE,Ofloxacin 250mg/5ml oral liquid
+0501120P0BB,Tarivid
+0501120P0BBAAAA,Tarivid 200mg tablets
+0501120P0BBACAB,Tarivid 400mg tablets
+0501120P0BBADAC,Tarivid 200mg/100ml solution for infusion bottles
+0501120Q0,Norfloxacin
+0501120Q0AA,Norfloxacin (Systemic)
+0501120Q0AAAAAA,Norfloxacin 400mg tablets
+0501120Q0BB,Utinor
+0501120Q0BBAAAA,Utinor 400mg tablets
+0501120X0,Levofloxacin
+0501120X0AA,Levofloxacin
+0501120X0AAAAAA,Levofloxacin 500mg tablets
+0501120X0AAABAB,Levofloxacin 250mg tablets
+0501120X0AAACAC,Levofloxacin 500mg/100ml solution for infusion vials
+0501120X0AAADAD,Levofloxacin 500mg/100ml infusion bags
+0501120X0AAAEAE,Levofloxacin 500mg/100ml solution for infusion bottles
+0501120X0AAAFAF,Levofloxacin 100mg/ml nebuliser liquid ampoules
+0501120X0BB,Tavanic
+0501120X0BBAAAA,Tavanic 500mg tablets
+0501120X0BBABAB,Tavanic 250mg tablets
+0501120X0BBACAC,Tavanic 500mg/100ml solution for infusion vials
+0501120X0BC,Evoxil
+0501120X0BCAAAB,Evoxil 250mg tablets
+0501120X0BCABAC,Evoxil 500mg/100ml solution for infusion vials
+0501120X0BCACAA,Evoxil 500mg tablets
+0501120X0BD,Quinsair
+0501120X0BDAAAF,Quinsair 240mg nebuliser solution ampoules
+0501120Y0,Moxifloxacin
+0501120Y0AA,Moxifloxacin
+0501120Y0AAAAAA,Moxifloxacin 400mg tablets
+0501120Y0AAABAB,Moxifloxacin 400mg/250ml solution for infusion bottles
+0501120Y0AAACAC,Moxifloxacin 400mg/250ml infusion bags
+0501120Y0AAADAD,Moxifloxacin 400mg/5ml oral solution
+0501120Y0BB,Avelox
+0501120Y0BBAAAA,Avelox 400mg tablets
+0501120Y0BBABAB,Avelox 400mg/250ml solution for infusion bottles
+0501120Y0BBACAC,Avelox I.V. 400mg/250ml infusion bags
+050113,Urinary-tract infections
+0501130,Urinary-tract infections
+0501130H0,Methenamine hippurate
+0501130H0AA,Methenamine hippurate
+0501130H0AAAAAA,Methenamine hippurate 1g tablets
+0501130H0BB,Hiprex
+0501130H0BBAAAA,Hiprex 1g tablets
+0501130R0,Nitrofurantoin
+0501130R0AA,Nitrofurantoin
+0501130R0AAAAAA,Nitrofurantoin 50mg capsules
+0501130R0AAABAB,Nitrofurantoin 100mg capsules
+0501130R0AAACAC,Nitrofurantoin 25mg/5ml oral suspension sugar free
+0501130R0AAADAD,Nitrofurantoin 50mg tablets
+0501130R0AAAEAE,Nitrofurantoin 100mg tablets
+0501130R0AAAGAG,Nitrofurantoin 100mg modified-release capsules
+0501130R0AAAJAJ,Nitrofurantoin 100mg/5ml oral liquid
+0501130R0AAALAL,Nitrofurantoin 15mg/5ml oral liquid
+0501130R0AAAMAM,Nitrofurantoin 25mg/5ml oral liquid
+0501130R0AAANAN,Nitrofurantoin 50mg/5ml oral liquid
+0501130R0AAAPAP,Nitrofurantoin 40mg/5ml oral liquid
+0501130R0AAAQAQ,Nitrofurantoin 18mg/5ml oral liquid
+0501130R0AAARAR,Nitrofurantoin 5mg/5ml oral liquid
+0501130R0AAASAS,Nitrofurantoin 13mg/5ml oral liquid
+0501130R0AAATAT,Nitrofurantoin 10mg/5ml oral liquid
+0501130R0AAAUAU,Nitrofurantoin 12mg/5ml oral liquid
+0501130R0AAAVAV,Nitrofurantoin 20mg/5ml oral liquid
+0501130R0AAAWAW,Nitrofurantoin 6.5mg/5ml oral liquid
+0501130R0AAAXAX,Nitrofurantoin 7.5mg/5ml oral liquid
+0501130R0AAAZAZ,Nitrofurantoin 30mg/5ml oral liquid
+0501130R0AABABA,Nitrofurantoin 9mg/5ml oral liquid
+0501130R0AABBBB,Nitrofurantoin 7mg/5ml oral liquid
+0501130R0AABCBC,Nitrofurantoin 2mg/5ml oral liquid
+0501130R0AABDBD,Nitrofurantoin 2.5mg/5ml oral liquid
+0501130R0AABEBE,Nitrofurantoin 12.5mg/5ml oral liquid
+0501130R0AABGBG,Nitrofurantoin 22mg/5ml oral liquid
+0501130R0AABIBI,Nitrofurantoin 17mg/5ml oral liquid
+0501130R0AABJBJ,Nitrofurantoin 16mg/5ml oral liquid
+0501130R0AABKBK,Nitrofurantoin 75mg/5ml oral liquid
+0501130R0AABLBL,Nitrofurantoin 8mg/5ml oral liquid
+0501130R0AABNBN,Nitrofurantoin 5.5mg/5ml oral liquid
+0501130R0AABPBP,Nitrofurantoin 35mg/5ml oral liquid
+0501130R0AABQBQ,Nitrofurantoin 18.75mg/5ml oral liquid
+0501130R0AABRBR,Nitrofurantoin 6mg/5ml oral liquid
+0501130R0AABSBS,Nitrofurantoin 125mg/5ml oral liquid
+0501130R0AABTBT,Nitrofurantoin 9.5mg/5ml oral liquid
+0501130R0AABUBU,Nitrofurantoin 32.5mg/5ml oral liquid
+0501130R0AABVBV,Nitrofurantoin 4mg/5ml oral liquid
+0501130R0AABWBW,Nitrofurantoin 14mg/5ml oral liquid
+0501130R0AABXBX,Nitrofurantoin 45mg/5ml oral liquid
+0501130R0AABYBY,Nitrofurantoin 24mg/5ml oral liquid
+0501130R0AACDCD,Nitrofurantoin 1mg/5ml oral liquid
+0501130R0AACECE,Nitrofurantoin 13.5mg/5ml oral liquid
+0501130R0AACGCG,Nitrofurantoin 11mg/5ml oral liquid
+0501130R0AACICI,Nitrofurantoin 17.5mg/5ml oral liquid
+0501130R0AACJCJ,Nitrofurantoin 7.8mg/5ml oral liquid
+0501130R0BB,Furadantin
+0501130R0BBAAAD,Furadantin 50mg tablets
+0501130R0BBABAE,Furadantin 100mg tablets
+0501130R0BBACAC,Furadantin 25mg/5ml oral suspension
+0501130R0BC,Macrodantin
+0501130R0BCAAAA,Macrodantin 50mg capsules
+0501130R0BCABAB,Macrodantin 100mg capsules
+0501130R0BD,Urantoin
+0501130R0BDAAAD,Urantoin 50mg tablets
+0501130R0BDABAE,Urantoin 100mg tablets
+0501130R0BG,Macrobid
+0501130R0BGAAAG,Macrobid 100mg modified-release capsules
+0501130R0BH,Genfura
+0501130R0BHAAAE,Genfura 100mg tablets
+0501130R0BHABAD,Genfura 50mg tablets
+0501130S0,Fosfomycin calcium
+0501130S0AA,Fosfomycin calcium
+0501130S0AAAAAA,Fosfomycin 500mg capsules
+0501130S0BB,Fosfocina
+0501130S0BBAAAA,Fosfocina 500mg capsules
+0502,Antifungal drugs
+050201,Triazole antifungals
+0502010,Triazole antifungals
+0502010A0,Posaconazole
+0502010A0AA,Posaconazole
+0502010A0AAAAAA,Posaconazole 40mg/ml oral suspension
+0502010A0AAABAB,Posaconazole 100mg gastro-resistant tablets
+0502010A0AAACAC,Posaconazole 300mg/16.7ml solution for infusion vials
+0502010A0BB,Noxafil
+0502010A0BBAAAA,Noxafil 40mg/ml oral suspension
+0502010A0BBABAB,Noxafil 100mg gastro-resistant tablets
+0502010A0BBACAC,Noxafil 300mg/16.7ml concentrate for inf vials
+0502010B0,Fluconazole
+0502010B0AA,Fluconazole
+0502010B0AAAAAA,Fluconazole 50mg capsules
+0502010B0AAABAB,Fluconazole 150mg capsules
+0502010B0AAACAC,Fluconazole 200mg capsules
+0502010B0AAADAD,Fluconazole 50mg/25ml solution for infusion vials
+0502010B0AAAEAE,Fluconazole 200mg/100ml solution for infusion vials
+0502010B0AAAGAG,Fluconazole 50mg/5ml oral suspension
+0502010B0AAAHAH,Fluconazole 200mg/5ml oral suspension
+0502010B0AAAKAK,Fluconazole 200mg/100ml infusion bags
+0502010B0AAALAL,Fluconazole 200mg/100ml solution for infusion bottles
+0502010B0AAAMAM,Fluconazole 100mg/50ml solution for infusion bottles
+0502010B0AAANAN,Fluconazole 400mg/200ml infusion bags
+0502010B0AAAPAP,Fluconazole 100mg/50ml solution for infusion vials
+0502010B0BB,Diflucan
+0502010B0BBAAAA,Diflucan 50mg capsules
+0502010B0BBABAB,Diflucan 150mg capsules
+0502010B0BBACAC,Diflucan 200mg capsules
+0502010B0BBADAD,Diflucan 50mg/25ml solution for infusion vials
+0502010B0BBAEAE,Diflucan 200mg/100ml solution for infusion vials
+0502010B0BBAGAG,Diflucan 50mg/5ml oral suspension
+0502010B0BBAHAH,Diflucan 200mg/5ml oral suspension
+0502010B0BBAIAB,Diflucan One 150mg capsules
+0502010B0BC,Galpharm (Fluconazole)
+0502010B0BCAAAB,Galpharm Single Dose Thrush Treatment 150mg capsules
+0502010B0BD,Canesten (Fluconazole)
+0502010B0BDAAAB,Canesten Thrush Oral 150mg capsules
+0502010B0BE,Lloydspharmacy (Fluconazole)
+0502010B0BEAAAB,Lloydspharmacy Thrush Oral 150mg capsules
+0502010B0BF,Azocan
+0502010B0BFAAAB,Azocan 150mg capsules
+0502010B0BFABAC,Azocan 200mg capsules
+0502010B0BFACAA,Azocan 50mg capsules
+0502010C0,Itraconazole
+0502010C0AA,Itraconazole
+0502010C0AAAAAA,Itraconazole 100mg capsules
+0502010C0AAABAB,Itraconazole 50mg/5ml oral solution sugar free
+0502010C0AAACAC,Itraconazole 50mg/5ml oral liquid
+0502010C0AAADAD,Itraconazole 250mg/25ml inf ampoules and diluent
+0502010C0BB,Sporanox
+0502010C0BBAAAA,Sporanox 100mg capsules
+0502010C0BBABAA,Sporanox-Pulse 100mg capsules
+0502010C0BBACAB,Sporanox 50mg/5ml oral solution
+0502010C0BBADAD,Sporanox I.V. 250mg/25ml inf ampoules and diluent
+0502010D0,Voriconazole
+0502010D0AA,Voriconazole
+0502010D0AAAAAA,Voriconazole 200mg tablets
+0502010D0AAABAB,Voriconazole 50mg tablets
+0502010D0AAACAC,Voriconazole 200mg powder for solution for infusion vials
+0502010D0AAADAD,Voriconazole 200mg/5ml oral suspension
+0502010D0AAAEAE,Voriconazole 1% eye drops preservative free
+0502010D0AAAFAF,Voriconazole 200mg inj vials
+0502010D0AAAGAG,Voriconazole 1% eye drops
+0502010D0AAAHAH,Voriconazole 100mg tablets
+0502010D0BB,VFEND
+0502010D0BBAAAA,VFEND 200mg tablets
+0502010D0BBABAB,VFEND 50mg tablets
+0502010D0BBACAC,VFEND 200mg powder for solution for infusion vials
+0502010D0BBADAD,VFEND 40mg/ml oral suspension
+0502010D0BBAEAF,VFEND 200mg inj vials
+0502010E0,Isavuconazole
+0502010E0AA,Isavuconazole
+0502010E0AAAAAA,Isavuconazole 100mg capsules
+0502010E0BB,Cresemba
+0502010E0BBAAAA,Cresemba 100mg capsules
+050202,Imidazole antifungals
+0502020,Imidazole antifungals
+0502020A0,Ketoconazole
+0502020A0AA,Ketoconazole (Systemic)
+0502020A0AAACAC,Ketoconazole 200mg tablets
+0502020A0AAADAD,Ketoconazole 100mg/5ml oral suspension
+0502020A0AAAEAE,Ketoconazole 60mg/5ml oral suspension
+0502020A0AAAFAF,Ketoconazole 75mg/5ml oral suspension
+0502020A0BB,Nizoral (Systemic)
+0502020A0BBAAAC,Nizoral 200mg tablets
+050203,Polyene antifungals
+0502030,Polyene antifungals
+0502030A0,Amphotericin
+0502030A0AA,Amphotericin (Systemic)
+0502030A0AAAAAA,Amphotericin B 50mg powder for solution for infusion vials
+0502030A0AAABAB,Amphotericin B 100mg/ml oral suspension sugar free
+0502030A0AAACAC,Amphotericin B 100mg tablets
+0502030A0AAAIAI,Amphotericin B liposomal 50mg pdr for dispersion for inf vl
+0502030A0AAAJAJ,Amphotericin B sod cholesteryl sulf complex 50mg inf vials
+0502030A0AAAMAM,Amphotericin B sod cholesteryl sulf complex 100mg inf vials
+0502030A0AAANAN,Amphotericin B 100mg/ml oral solution
+0502030A0BB,Fungilin (Systemic)
+0502030A0BBAAAC,Fungilin 100mg tablets
+0502030A0BBABAB,Fungilin 100mg/ml oral suspension
+0502030A0BC,Fungizone
+0502030A0BCAAAA,Fungizone 50mg pdr for concentrate for inf vials
+0502030A0BD,AmBisome
+0502030A0BDAAAI,AmBisome Liposomal powder for dispersion for inf vials
+0502030A0BE,Amphocil
+0502030A0BEAAAJ,Amphocil 50mg powder for solution for infusion vials
+0502030A0BEABAM,Amphocil 100mg powder for solution for infusion vials
+0502030B0,Nystatin
+0502030B0AA,Nystatin (Systemic)
+0502030B0AAABAB,"Nystatin 100,000units/ml oral suspension"
+0502030B0AAACAC,Nystatin powder
+0502030B0AAAIAI,"Nystatin 500,000unit tablets"
+0502030B0AAAKAK,Nystatin 250mg capsules
+0502030B0AAAXAX,"Nystatin 100,000units/ml oral suspension sugar free"
+0502030B0BB,Nystan (Systemic)
+0502030B0BBAAAI,"Nystan 500,000unit tablets"
+0502030B0BBABAB,"Nystan 100,000units/ml oral suspension (ready mixed)"
+0502030B0BG,Nystamont
+0502030B0BGAAAX,"Nystamont 100,000units/ml oral suspension"
+050204,Echinocandin antifungals
+0502040,Echinocandin antifungals
+0502040A0,Anidulafungin
+0502040A0AA,Anidulafungin
+0502040A0AAAAAA,Anidulafungin 100mg inf vials
+0502040A0AAABAB,Anidulafungin 100mg powder for solution for infusion vials
+0502040A0BB,Ecalta
+0502040A0BBAAAA,Ecalta 100mg pdr and solvent for concentrate for inf vials
+0502040A0BBABAB,Ecalta 100mg pdr for concentrate for inf vials
+0502040B0,Micafungin
+0502040B0AA,Micafungin
+0502040B0AAAAAA,Micafungin 100mg powder for solution for infusion vials
+0502040B0AAABAB,Micafungin 50mg powder for solution for infusion vials
+0502040B0BB,Mycamine
+0502040B0BBAAAA,Mycamine 100mg powder for solution for infusion vials
+0502040B0BBABAB,Mycamine 50mg powder for solution for infusion vials
+0502040C0,Caspofungin
+0502040C0AA,Caspofungin
+0502040C0AAAAAA,Caspofungin 50mg powder for solution for infusion vials
+0502040C0AAABAB,Caspofungin 70mg powder for solution for infusion vials
+0502040C0BB,Cancidas
+0502040C0BBAAAA,Cancidas 50mg powder for solution for infusion vials
+0502040C0BBABAB,Cancidas 70mg powder for solution for infusion vials
+050205,Other antifungals
+0502050,Other antifungals
+0502050B0,Griseofulvin
+0502050B0AA,Griseofulvin (Systemic)
+0502050B0AAABAB,Griseofulvin 125mg tablets
+0502050B0AAACAC,Griseofulvin 500mg tablets
+0502050B0AAAEAE,Griseofulvin 200mg/5ml oral suspension
+0502050B0AAAHAH,Griseofulvin 625mg/5ml oral suspension
+0502050B0AAAIAI,Griseofulvin 50mg/5ml oral suspension
+0502050B0AAAJAJ,Griseofulvin 300mg/5ml oral suspension
+0502050B0AAAKAK,Griseofulvin 500mg/5ml oral suspension
+0502050B0AAALAL,Griseofulvin 100mg/5ml oral suspension
+0502050B0AAAMAM,Griseofulvin 450mg/5ml oral suspension
+0502050B0AAANAN,Griseofulvin 112.5mg/5ml oral suspension
+0502050B0AAAPAP,Griseofulvin 150mg/5ml oral suspension
+0502050B0AAAQAQ,Griseofulvin 320mg/5ml oral suspension
+0502050B0AAARAR,Griseofulvin 250mg/5ml oral suspension
+0502050B0AAASAS,Griseofulvin 140mg/5ml oral suspension
+0502050B0AAATAT,Griseofulvin 190mg/5ml oral suspension
+0502050B0AAAUAU,Griseofulvin 280mg/5ml oral suspension
+0502050B0AAAVAV,Griseofulvin 170mg/5ml oral suspension
+0502050B0AAAWAW,Griseofulvin 350mg/5ml oral suspension
+0502050B0AAAXAX,Griseofulvin 230mg/5ml oral suspension
+0502050B0AAAYAY,Griseofulvin 90mg/5ml oral suspension
+0502050B0AAAZAZ,Griseofulvin 180mg/5ml oral suspension
+0502050B0AABABA,Griseofulvin 160mg/5ml oral suspension
+0502050B0AABBBB,Griseofulvin 220mg/5ml oral suspension
+0502050B0AABCBC,Griseofulvin 400mg/5ml oral suspension
+0502050B0AABDBD,Griseofulvin 40mg/5ml oral suspension
+0502050B0AABEBE,Griseofulvin 35mg/5ml oral suspension
+0502050B0AABFBF,Griseofulvin 225mg/5ml oral suspension
+0502050B0AABGBG,Griseofulvin 12.5mg/5ml oral suspension
+0502050B0AABHBH,Griseofulvin 240mg/5ml oral suspension
+0502050B0AABIBI,Griseofulvin 80mg/5ml oral suspension
+0502050B0AABJBJ,Griseofulvin 120mg/5ml oral suspension
+0502050B0AABLBL,Griseofulvin 390mg/5ml oral suspension
+0502050B0AABMBM,Griseofulvin 62.5mg/5ml oral suspension
+0502050B0AABNBN,Griseofulvin 20mg/5ml oral suspension
+0502050B0AABPBP,Griseofulvin 210mg/5ml oral suspension
+0502050B0AABQBQ,Griseofulvin 25mg/5ml oral suspension
+0502050B0AABRBR,Griseofulvin 167mg/5ml oral suspension
+0502050B0AABSBS,Griseofulvin 235mg/5ml oral suspension
+0502050B0AABTBT,Griseofulvin 318mg/5ml oral suspension
+0502050B0AABUBU,Griseofulvin 370mg/5ml oral suspension
+0502050B0AABVBV,Griseofulvin 75mg/5ml oral suspension
+0502050B0AABWBW,Griseofulvin 105mg/5ml oral suspension
+0502050B0AABXBX,Griseofulvin 70mg/5ml oral suspension
+0502050B0AABYBY,Griseofulvin 700mg/5ml oral suspension
+0502050B0AABZBZ,Griseofulvin 375mg/5ml oral suspension
+0502050B0AACACA,Griseofulvin 55mg/5ml oral suspension
+0502050B0AACBCB,Griseofulvin 10mg/5ml oral suspension
+0502050B0AACCCC,Griseofulvin 65mg/5ml oral suspension
+0502050B0AACDCD,Griseofulvin 1.25g/5ml oral suspension
+0502050B0AACECE,Griseofulvin 85mg/5ml oral suspension
+0502050B0AACFCF,Griseofulvin 110mg/5ml oral suspension
+0502050B0AACGCG,Griseofulvin 60mg/5ml oral suspension
+0502050B0AACHCH,Griseofulvin 187.5mg/5ml oral suspension
+0502050B0AACICI,Griseofulvin 360mg/5ml oral suspension
+0502050B0AACJCJ,Griseofulvin 135mg/5ml oral suspension
+0502050B0AACKCK,Griseofulvin 340mg/5ml oral suspension
+0502050B0AACLCL,Griseofulvin 130mg/5ml oral suspension
+0502050B0AACMCM,Griseofulvin 30mg/5ml oral suspension
+0502050B0AACNCN,Griseofulvin 312.5mg/5ml oral suspension
+0502050B0AACPCP,Griseofulvin 290mg/5ml oral suspension
+0502050B0AACQCQ,Griseofulvin 165mg/5ml oral suspension
+0502050B0AACRCR,Griseofulvin 270mg/5ml oral suspension
+0502050B0AACSCS,Griseofulvin 560mg/5ml oral suspension
+0502050B0AACTCT,Griseofulvin 125mg/5ml oral suspension sugar free
+0502050B0AACUCU,Griseofulvin 125mg/5ml oral suspension
+0502050B0AACVCV,Griseofulvin 175mg/5ml oral suspension
+0502050B0AACWCW,Griseofulvin 387mg/5ml oral solution
+0502050B0AACXCX,Griseofulvin 440mg/5ml oral suspension
+0502050B0BC,Grisovin
+0502050B0BCAAAB,Grisovin 125mg tablets
+0502050B0BCABAC,Grisovin 500mg tablets
+0502050B0BE,Fulsovin
+0502050B0BEAACT,Fulsovin 125mg/5ml oral suspension
+0502050C0,Terbinafine hydrochloride
+0502050C0AA,Terbinafine hydrochloride (Systemic)
+0502050C0AAAAAA,Terbinafine 250mg tablets
+0502050C0AAABAB,Terbinafine 125mg/5ml oral liquid
+0502050C0AAADAD,Terbinafine 62.5mg/5ml oral liquid
+0502050C0AAAEAE,Terbinafine 250mg/5ml oral solution
+0502050C0AAAFAF,Terbinafine 250mg/5ml oral suspension
+0502050C0BB,Lamisil (Systemic)
+0502050C0BBAAAA,Lamisil 250mg tablets
+0503,Antiviral drugs
+050301,HIV infection
+0503010,HIV infection
+050301000,Other HIV infection preparations
+050301000BB,Proprietary compound preparation BNF 0503010
+050301000BBABA0,Eviplera 200mg/25mg/245mg tablets
+050301000BBACA0,Stribild 150mg/150mg/200mg/245mg tablets
+050301000BBADA0,Triumeq 50mg/600mg/300mg tablets
+050301000BBAEA0,Genvoya 150mg/150mg/200mg/10mg tablets
+050301000BBAFA0,Odefsey 200mg/25mg/25mg tablets
+050301000BBAGA0,Symtuza 800mg/150mg/200mg/10mg tablets
+0503010A0,Lamivudine and zidovudine
+0503010A0AA,Lamivudine/zidovudine
+0503010A0AAAAAA,Zidovudine 300mg / Lamivudine 150mg tablets
+0503010A0BB,Combivir
+0503010A0BBAAAA,Combivir 150mg/300mg tablets
+0503010AA,Emtricitabine and tenofovir disoproxil
+0503010AAAA,Emtricitabine/tenofovir disoproxil
+0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tablets
+0503010AABB,Truvada
+0503010AABBAAAA,Truvada 200mg/245mg tablets
+0503010AABC,Ictastan
+0503010AABCAAAA,Ictastan 200mg/245mg tablets
+0503010AB,Tipranavir
+0503010ABAA,Tipranavir
+0503010ABAAAAAA,Tipranavir 250mg capsules
+0503010ABAAABAB,Tipranavir 100mg/ml oral solution sugar free
+0503010ABBB,Aptivus
+0503010ABBBAAAA,Aptivus 250mg capsules
+0503010ABBBABAB,Aptivus 100mg/ml oral solution
+0503010AC,Darunavir
+0503010ACAA,Darunavir
+0503010ACAAAAAA,Darunavir 300mg tablets
+0503010ACAAABAB,Darunavir 400mg tablets
+0503010ACAAACAC,Darunavir 600mg tablets
+0503010ACAAADAD,Darunavir 75mg tablets
+0503010ACAAAEAE,Darunavir 150mg tablets
+0503010ACAAAFAF,Darunavir 100mg/ml oral suspension sugar free
+0503010ACAAAGAG,Darunavir 800mg tablets
+0503010ACBB,Prezista
+0503010ACBBAAAA,Prezista 300mg tablets
+0503010ACBBABAB,Prezista 400mg tablets
+0503010ACBBACAC,Prezista 600mg tablets
+0503010ACBBADAD,Prezista 75mg tablets
+0503010ACBBAEAE,Prezista 150mg tablets
+0503010ACBBAFAF,Prezista 100mg/ml oral suspension
+0503010ACBBAGAG,Prezista 800mg tablets
+0503010AD,Maraviroc
+0503010ADAA,Maraviroc
+0503010ADAAAAAA,Maraviroc 150mg tablets
+0503010ADAAABAB,Maraviroc 300mg tablets
+0503010ADAAACAC,Maraviroc 20mg/ml oral solution sugar free
+0503010ADAAADAD,Maraviroc 75mg tablets
+0503010ADAAAEAE,Maraviroc 25mg tablets
+0503010ADBB,Celsentri
+0503010ADBBAAAA,Celsentri 150mg tablets
+0503010ADBBABAB,Celsentri 300mg tablets
+0503010ADBBACAC,Celsentri 20mg/ml oral solution
+0503010ADBBADAD,Celsentri 75mg tablets
+0503010ADBBAEAE,Celsentri 25mg tablets
+0503010AE,Raltegravir
+0503010AEAA,Raltegravir
+0503010AEAAAAAA,Raltegravir 400mg tablets
+0503010AEAAABAB,Raltegravir 100mg chewable tablets
+0503010AEAAACAC,Raltegravir 25mg chewable tablets
+0503010AEAAADAD,Raltegravir 100mg granules sachets
+0503010AEAAAEAE,Raltegravir 600mg tablets
+0503010AEBB,Isentress
+0503010AEBBAAAA,Isentress 400mg tablets
+0503010AEBBABAB,Isentress 100mg chewable tablets
+0503010AEBBACAC,Isentress 25mg chewable tablets
+0503010AEBBADAD,Isentress 100mg granules sachets
+0503010AEBBAEAE,Isentress 600mg tablets
+0503010AF,Etravirine
+0503010AFAA,Etravirine
+0503010AFAAAAAA,Etravirine 100mg tablets
+0503010AFAAABAB,Etravirine 200mg tablets
+0503010AFAAACAC,Etravirine 25mg tablets
+0503010AFBB,Intelence
+0503010AFBBAAAA,Intelence 100mg tablets
+0503010AFBBABAB,Intelence 200mg tablets
+0503010AFBBACAC,Intelence 25mg tablets
+0503010AG,Rilpivirine
+0503010AGAA,Rilpivirine
+0503010AGAAAAAA,Rilpivirine 25mg tablets
+0503010AGBB,Edurant
+0503010AGBBAAAA,Edurant 25mg tablets
+0503010AH,Dolutegravir
+0503010AHAA,Dolutegravir
+0503010AHAAAAAA,Dolutegravir 50mg tablets
+0503010AHAAABAB,Dolutegravir 10mg tablets
+0503010AHAAACAC,Dolutegravir 25mg tablets
+0503010AHBB,Tivicay
+0503010AHBBAAAA,Tivicay 50mg tablets
+0503010AHBBABAB,Tivicay 10mg tablets
+0503010AHBBACAC,Tivicay 25mg tablets
+0503010AI,Cobicistat
+0503010AIAA,Cobicistat
+0503010AIAAAAAA,Cobicistat 150mg tablets
+0503010AIBB,Tybost
+0503010AIBBAAAA,Tybost 150mg tablets
+0503010AJ,Elvitegravir
+0503010AJAA,Elvitegravir
+0503010AJAAAAAA,Elvitegravir 85mg tablets
+0503010AJAAABAB,Elvitegravir 150mg tablets
+0503010AJBB,Vitekta
+0503010AJBBAAAA,Vitekta 85mg tablets
+0503010AJBBABAB,Vitekta 150mg tablets
+0503010AK,Darunavir/cobicistat
+0503010AKAA,Darunavir/cobicistat
+0503010AKAAAAAA,Darunavir 800mg / Cobicistat 150mg tablets
+0503010AKBB,Rezolsta
+0503010AKBBAAAA,Rezolsta 800mg/150mg tablets
+0503010AL,Atazanavir and cobicistat
+0503010ALAA,Atazanavir/cobicistat
+0503010ALAAAAAA,Atazanavir 300mg / Cobicistat 150mg tablets
+0503010ALBB,Evotaz
+0503010ALBBAAAA,Evotaz 300mg/150mg tablets
+0503010AM,Emtricitabine and tenofovir alafenamide
+0503010AMAA,Emtricitabine/tenofovir alafenamide
+0503010AMAAAAAA,Emtricitabine 200mg / Tenofovir alafenamide 10mg tablets
+0503010AMAAABAB,Emtricitabine 200mg / Tenofovir alafenamide 25mg tablets
+0503010AMBB,Descovy
+0503010AMBBAAAA,Descovy 200mg/10mg tablets
+0503010AMBBABAB,Descovy 200mg/25mg tablets
+0503010AN,Efavirenz/emtricitabine/tenofovir disoproxil
+0503010ANAA,Efavirenz/emtricitabine/tenofovir disoproxil
+0503010ANAAAAAA,Efavirenz 600mg / Emtr 200mg /Tenofovir disoproxil 245mg tab
+0503010ANBB,Atripla
+0503010ANBBAAAA,Atripla 600mg/200mg/245mg tablets
+0503010AP,Dolutegravir/rilpivirine
+0503010APAA,Dolutegravir/rilpivirine
+0503010APAAAAAA,Dolutegravir 50mg / Rilpivirine 25mg tablets
+0503010APBB,Juluca
+0503010APBBAAAA,Juluca 50mg/25mg tablets
+0503010AQ,Bictegravir/emtricitabine/tenofovir alafenamide
+0503010AQAA,Bictegravir/emtricitabine/tenofovir alafenamide
+0503010AQAAAAAA,Bictegravir 50mg /Emtr 200mg /Tenofovir alafenamide 25mg tab
+0503010AQBB,Biktarvy
+0503010AQBBAAAA,Biktarvy 50mg/200mg/25mg tablets
+0503010AR,Letermovir
+0503010ARAA,Letermovir
+0503010ARAAAAAA,Letermovir 240mg tablets
+0503010ARBB,Prevymis
+0503010ARBBAAAA,Prevymis 240mg tablets
+0503010AS,Lamivudine/tenofovir disoproxil/doravirine
+0503010ASAA,Lamivudine/tenofovir disoproxil/doravirine
+0503010ASAAAAAA,Lamivudine 300mg/Tenofovir disoproxil 245mg/Doravirine 100mg
+0503010ASBB,Delstrigo
+0503010ASBBAAAA,Delstrigo 100mg/300mg/245mg tablets
+0503010AT,Doravirine
+0503010ATAA,Doravirine
+0503010ATAAAAAA,Doravirine 100mg tablets
+0503010ATBB,Pifeltro
+0503010ATBBAAAA,Pifeltro 100mg tablets
+0503010AU,Dolutegravir/lamivudine
+0503010AUAA,Dolutegravir/lamivudine
+0503010AUAAAAAA,Dolutegravir 50mg / Lamivudine 300mg tablets
+0503010AUBB,Dovato
+0503010AUBBAAAA,Dovato 50mg/300mg tablets
+0503010AV,Lamivudine/tenofovir disoproxil
+0503010AVAA,Lamivudine/tenofovir disoproxil
+0503010AVAAAAAA,Lamivudine 300mg / Tenofovir disoproxil 245mg tablets
+0503010B0,Nevirapine
+0503010B0AA,Nevirapine
+0503010B0AAAAAA,Nevirapine 200mg tablets
+0503010B0AAABAB,Nevirapine 50mg/5ml oral suspension
+0503010B0AAACAC,Nevirapine 50mg modified-release tablets
+0503010B0AAADAD,Nevirapine 100mg modified-release tablets
+0503010B0AAAEAE,Nevirapine 400mg modified-release tablets
+0503010B0BB,Viramune
+0503010B0BBAAAA,Viramune 200mg tablets
+0503010B0BBABAB,Viramune 50mg/5ml oral suspension
+0503010B0BBACAC,Viramune 50mg modified-release tablets
+0503010B0BBADAD,Viramune 100mg modified-release tablets
+0503010B0BBAEAE,Viramune 400mg modified-release tablets
+0503010C0,Nelfinavir mesilate
+0503010C0AA,Nelfinavir mesilate
+0503010C0AAAAAA,Nelfinavir 250mg tablets
+0503010C0AAABAB,Nelfinavir 50mg/g oral powder
+0503010C0BB,Viracept
+0503010C0BBAAAA,Viracept 250mg tablets
+0503010C0BBABAB,Viracept 50mg/g oral powder
+0503010D0,Efavirenz
+0503010D0AA,Efavirenz
+0503010D0AAAAAA,Efavirenz 200mg capsules
+0503010D0AAABAB,Efavirenz 100mg capsules
+0503010D0AAACAC,Efavirenz 50mg capsules
+0503010D0AAADAD,Efavirenz 600mg tablets
+0503010D0AAAEAE,Efavirenz 30mg/ml oral solution sugar free
+0503010D0BB,Sustiva
+0503010D0BBAAAA,Sustiva 200mg capsules
+0503010D0BBABAB,Sustiva 100mg capsules
+0503010D0BBACAC,Sustiva 50mg capsules
+0503010D0BBADAD,Sustiva 600mg tablets
+0503010D0BBAEAE,Sustiva 30mg/ml oral solution
+0503010E0,Abacavir
+0503010E0AA,Abacavir
+0503010E0AAAAAA,Abacavir 300mg tablets
+0503010E0AAABAB,Abacavir 20mg/ml oral solution sugar free
+0503010E0BB,Ziagen
+0503010E0BBAAAA,Ziagen 300mg tablets
+0503010E0BBABAB,Ziagen 20mg/ml oral solution
+0503010F0,Abacavir/lamivudine/zidovudine
+0503010F0AA,Abacavir/lamivudine/zidovudine
+0503010F0AAAAAA,Generic Trizivir tablets
+0503010F0BB,Trizivir
+0503010F0BBAAAA,Trizivir tablets
+0503010G0,Lopinavir and ritonavir
+0503010G0AA,Lopinavir/ritonavir
+0503010G0AAAAAA,Lopinavir 133.3mg / Ritonavir 33.3mg capsules
+0503010G0AAABAB,Lopinavir 400mg/5ml / Ritonavir 100mg/5ml oral solution
+0503010G0AAACAC,Lopinavir 200mg / Ritonavir 50mg tablets
+0503010G0AAADAD,Lopinavir 100mg / Ritonavir 25mg tablets
+0503010G0BB,Kaletra
+0503010G0BBAAAA,Kaletra 133.3mg/33.3mg capsules
+0503010G0BBABAB,Kaletra 80mg/20mg/1ml oral solution
+0503010G0BBACAC,Kaletra 200mg/50mg tablets
+0503010G0BBADAD,Kaletra 100mg/25mg tablets
+0503010H0,Tenofovir disoproxil
+0503010H0AA,Tenofovir disoproxil
+0503010H0AAAAAA,Tenofovir 245mg tablets
+0503010H0AAABAB,Tenofovir 33mg/g granules
+0503010H0AAACAC,Tenofovir 123mg tablets
+0503010H0AAADAD,Tenofovir 163mg tablets
+0503010H0AAAEAE,Tenofovir 204mg tablets
+0503010H0BB,Viread
+0503010H0BBAAAA,Viread 245mg tablets
+0503010H0BBABAB,Viread 33mg/g granules
+0503010H0BBACAC,Viread 123mg tablets
+0503010H0BBADAD,Viread 163mg tablets
+0503010H0BBAEAE,Viread 204mg tablets
+0503010I0,Amprenavir
+0503010I0AA,Amprenavir
+0503010I0AAAAAA,Amprenavir 150mg capsules
+0503010I0AAABAB,Amprenavir 50mg capsules
+0503010I0AAACAC,Amprenavir 15mg/ml oral solution sugar free
+0503010I0BB,Agenerase
+0503010I0BBAAAA,Agenerase 150mg capsules
+0503010I0BBABAB,Agenerase 50mg capsules
+0503010I0BBACAC,Agenerase 15mg/ml oral solution
+0503010J0,Enfuvirtide
+0503010J0AA,Enfuvirtide
+0503010J0AAAAAA,Enfuvirtide 108mg inj vials
+0503010J0BB,Fuzeon
+0503010J0BBAAAA,Fuzeon 108mg inj vials
+0503010K0,Emtricitabine
+0503010K0AA,Emtricitabine
+0503010K0AAAAAA,Emtricitabine 200mg capsules
+0503010K0AAABAB,Emtricitabine 10mg/ml oral solution sugar free
+0503010K0BB,Emtriva
+0503010K0BBAAAA,Emtriva 200mg capsules
+0503010K0BBABAB,Emtriva 10mg/ml oral solution
+0503010L0,Atazanavir
+0503010L0AA,Atazanavir
+0503010L0AAAAAA,Atazanavir 150mg capsules
+0503010L0AAABAB,Atazanavir 200mg capsules
+0503010L0AAACAC,Atazanavir 100mg capsules
+0503010L0AAADAD,Atazanavir 300mg capsules
+0503010L0BB,Reyataz
+0503010L0BBAAAA,Reyataz 150mg capsules
+0503010L0BBABAB,Reyataz 200mg capsules
+0503010L0BBACAC,Reyataz 100mg capsules
+0503010L0BBADAD,Reyataz 300mg capsules
+0503010M0,Fosamprenavir calcium
+0503010M0AA,Fosamprenavir calcium
+0503010M0AAAAAA,Fosamprenavir 700mg tablets
+0503010M0AAABAB,Fosamprenavir 50mg/ml oral suspension
+0503010M0BB,Telzir
+0503010M0BBAAAA,Telzir 700mg tablets
+0503010M0BBABAB,Telzir 50mg/ml oral suspension
+0503010N0,Didanosine
+0503010N0AA,Didanosine
+0503010N0AAACAC,Didanosine 25mg dispersible chewable tablets sugar free
+0503010N0AAADAD,Didanosine 150mg dispersible chewable tablets sugar free
+0503010N0AAAEAE,Didanosine 200mg dispersible chewable tablets sugar free
+0503010N0AAAFAF,Didanosine 125mg gastro-resistant capsules
+0503010N0AAAGAG,Didanosine 200mg gastro-resistant capsules
+0503010N0AAAHAH,Didanosine 250mg gastro-resistant capsules
+0503010N0AAAIAI,Didanosine 400mg gastro-resistant capsules
+0503010N0BB,Videx
+0503010N0BBACAC,Videx 25mg chewable dispersible tablets
+0503010N0BBADAD,Videx 150mg chewable dispersible tablets
+0503010N0BBAEAE,Videx 200mg chewable dispersible tablets
+0503010N0BBAFAF,Videx EC 125mg capsules
+0503010N0BBAGAG,Videx EC 200mg capsules
+0503010N0BBAHAH,Videx EC 250mg capsules
+0503010N0BBAIAI,Videx EC 400mg capsules
+0503010Q0,Lamivudine
+0503010Q0AA,Lamivudine
+0503010Q0AAAAAA,Lamivudine 150mg tablets
+0503010Q0AAABAB,Lamivudine 50mg/5ml oral solution
+0503010Q0AAACAC,Lamivudine 25mg/5ml oral solution
+0503010Q0AAADAD,Lamivudine 100mg tablets
+0503010Q0AAAEAE,Lamivudine 300mg tablets
+0503010Q0BB,Epivir
+0503010Q0BBAAAA,Epivir 150mg tablets
+0503010Q0BBABAB,Epivir 50mg/5ml oral solution
+0503010Q0BBACAE,Epivir 300mg tablets
+0503010Q0BC,Zeffix
+0503010Q0BCAAAC,Zeffix 5mg/ml oral solution
+0503010Q0BCABAD,Zeffix 100mg tablets
+0503010R0,Saquinavir mesylate
+0503010R0AA,Saquinavir mesylate
+0503010R0AAAAAA,Saquinavir mesilate 200mg capsules
+0503010R0AAABAB,Saquinavir mesilate 500mg tablets
+0503010R0BB,Invirase
+0503010R0BBAAAA,Invirase 200mg capsules
+0503010R0BBABAB,Invirase 500mg tablets
+0503010R0BC,Fortovase
+0503010R0BCAAAA,Fortovase 200mg capsules
+0503010S0,Stavudine
+0503010S0AA,Stavudine
+0503010S0AAAAAA,Stavudine 15mg capsules
+0503010S0AAABAB,Stavudine 20mg capsules
+0503010S0AAACAC,Stavudine 30mg capsules
+0503010S0AAADAD,Stavudine 40mg capsules
+0503010S0AAAEAE,Stavudine 1mg/ml oral solution
+0503010S0BB,Zerit
+0503010S0BBAAAA,Zerit 15mg capsules
+0503010S0BBABAB,Zerit 20mg capsules
+0503010S0BBACAC,Zerit 30mg capsules
+0503010S0BBADAD,Zerit 40mg capsules
+0503010S0BBAEAE,Zerit 1mg/ml oral solution
+0503010T0,Indinavir
+0503010T0AA,Indinavir
+0503010T0AAAAAA,Indinavir 400mg capsules
+0503010T0AAABAB,Indinavir 200mg capsules
+0503010T0AAACAC,Indinavir 333mg capsules
+0503010T0AAADAD,Indinavir 100mg capsules
+0503010T0BB,Crixivan
+0503010T0BBAAAA,Crixivan 400mg capsules
+0503010T0BBABAB,Crixivan 200mg capsules
+0503010T0BBACAC,Crixivan 333mg capsules
+0503010T0BBADAD,Crixivan 100mg capsules
+0503010U0,Ritonavir
+0503010U0AA,Ritonavir
+0503010U0AAAAAA,Ritonavir 100mg capsules
+0503010U0AAABAB,Ritonavir 80mg/1ml oral solution sugar free
+0503010U0AAACAC,Ritonavir 100mg tablets
+0503010U0AAADAD,Ritonavir 100mg oral powder sachets sugar free
+0503010U0BB,Norvir
+0503010U0BBABAB,Norvir 80mg/ml oral solution
+0503010U0BBACAA,Norvir 100mg capsules
+0503010U0BBADAC,Norvir 100mg tablets
+0503010U0BBAEAD,Norvir 100mg oral powder sachets
+0503010X0,Zalcitabine
+0503010X0AA,Zalcitabine
+0503010X0AAAAAA,Zalcitabine 750microgram tablets
+0503010X0AAABAB,Zalcitabine 375microgram tablets
+0503010X0BB,Hivid
+0503010X0BBAAAA,Hivid 750microgram tablets
+0503010X0BBABAB,Hivid 375microgram tablets
+0503010Y0,Zidovudine
+0503010Y0AA,Zidovudine
+0503010Y0AAAAAA,Zidovudine 100mg capsules
+0503010Y0AAABAB,Zidovudine 250mg capsules
+0503010Y0AAADAD,Zidovudine 10mg/1ml oral solution sugar free
+0503010Y0AAAEAE,Zidovudine 200mg/20ml solution for infusion vials
+0503010Y0BB,Retrovir
+0503010Y0BBAAAA,Retrovir 100mg capsules
+0503010Y0BBABAB,Retrovir 250mg capsules
+0503010Y0BBAEAD,Retrovir 100mg/10ml oral solution
+0503010Y0BBAFAE,Retrovir IV 200mg/20ml concentrate for inf vials
+0503010Z0,Abacavir and lamivudine
+0503010Z0AA,Abacavir/lamivudine
+0503010Z0AAAAAA,Abacavir 600mg / Lamivudine 300mg tablets
+0503010Z0BB,Kivexa
+0503010Z0BBAAAA,Kivexa 600mg/300mg tablets
+050302,Herpesvirus infections
+0503021,Herpes simplex and varicella-zoster
+0503021A0,Valaciclovir
+0503021A0AA,Valaciclovir
+0503021A0AAAAAA,Valaciclovir 500mg tablets
+0503021A0AAACAC,Valaciclovir 250mg tablets
+0503021A0AAADAD,Valaciclovir 25mg/1ml oral suspension
+0503021A0AAAEAE,Valaciclovir 100mg/5ml oral suspension
+0503021A0AAAFAF,Valaciclovir 250mg/5ml oral suspension
+0503021A0AAAGAG,Valaciclovir 200mg/5ml oral suspension
+0503021A0BB,Valtrex
+0503021A0BBAAAA,Valtrex 500mg tablets
+0503021A0BBABAC,Valtrex 250mg tablets
+0503021B0,Aciclovir sodium
+0503021B0AA,Aciclovir sodium
+0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials
+0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials
+0503021B0BB,Zovirax (Parenteral)
+0503021B0BBAAAA,Zovirax I.V. 250mg powder for solution for infusion vials
+0503021B0BBABAB,Zovirax I.V. 500mg powder for solution for infusion vials
+0503021C0,Aciclovir
+0503021C0AA,Aciclovir (Systemic)
+0503021C0AAAAAA,Aciclovir 200mg/5ml oral suspension sugar free
+0503021C0AAABAB,Aciclovir 200mg tablets
+0503021C0AAACAC,Aciclovir 400mg tablets
+0503021C0AAADAD,Aciclovir 800mg tablets
+0503021C0AAAEAE,Aciclovir 800mg dispersible tablets
+0503021C0AAAFAF,Aciclovir 400mg/5ml oral suspension sugar free
+0503021C0AAAGAG,Aciclovir 200mg dispersible tablets
+0503021C0AAAHAH,Aciclovir 400mg dispersible tablets
+0503021C0AAAIAI,Aciclovir 250mg/10ml solution for infusion vials
+0503021C0AAAJAJ,Aciclovir 500mg/20ml solution for infusion vials
+0503021C0AAAKAK,Aciclovir 1g/40ml solution for infusion vials
+0503021C0BB,Zovirax (Systemic)
+0503021C0BBABAA,Zovirax 200mg/5ml oral suspension
+0503021C0BBAEAE,Zovirax 800mg dispersible tablets
+0503021C0BBAFAF,Zovirax Double Strength 400mg/5ml oral suspension
+0503021C0BBAGAG,Zovirax 200mg dispersible tablets
+0503021C0BBAHAH,Zovirax 400mg dispersible tablets
+0503021C0BC,Virovir
+0503021C0BCAAAB,Virovir 200mg tablets
+0503021C0BCABAC,Virovir 400mg tablets
+0503021C0BCACAD,Virovir 800mg tablets
+0503021C0BD,Duvimex
+0503021C0BDAAAE,Duvimex 800mg dispersible tablets
+0503021C0BE,Ranovir
+0503021C0BEAAAB,Ranovir 200mg tablets
+0503021C0BEABAC,Ranovir 400mg tablets
+0503021C0BEACAD,Ranovir 800mg tablets
+0503021D0,Inosine pranobex
+0503021D0AA,Inosine pranobex
+0503021D0AAAAAA,Inosine acedoben dimepranol 500mg tablets
+0503021D0BB,Imunovir
+0503021D0BBAAAA,Imunovir 500mg tablets
+0503021E0,Famciclovir
+0503021E0AA,Famciclovir
+0503021E0AAAAAA,Famciclovir 250mg tablets
+0503021E0AAABAB,Famciclovir 125mg tablets
+0503021E0AAACAC,Famciclovir 750mg tablets
+0503021E0AAADAD,Famciclovir 500mg tablets
+0503021E0BB,Famvir
+0503021E0BBAAAA,Famvir 250mg tablets
+0503021E0BBABAB,Famvir 125mg tablets
+0503021E0BBACAC,Famvir 750mg tablets
+0503021E0BBADAD,Famvir 500mg tablets
+0503022,Cytomegalovirus infection
+0503022B0,Valganciclovir hydrochloride
+0503022B0AA,Valganciclovir hydrochloride
+0503022B0AAAAAA,Valganciclovir 450mg tablets
+0503022B0AAADAD,Valganciclovir 50mg/ml oral solution sugar free
+0503022B0AAAEAE,Valganciclovir 570mg/5ml oral liquid
+0503022B0BB,Valcyte
+0503022B0BBAAAA,Valcyte 450mg tablets
+0503022B0BBABAD,Valcyte 50mg/ml oral solution
+0503022C0,Cidofovir
+0503022C0AA,Cidofovir
+0503022C0AAAAAA,Cidofovir 375mg/5ml solution for infusion vials
+0503022C0BB,Vistide
+0503022C0BBAAAA,Vistide 375mg/5ml solution for infusion vials (Imported)
+0503022C0BBABAA,Vistide 375mg/5ml solution for infusion vials (Gilead)
+0503022D0,Ganciclovir
+0503022D0AA,Ganciclovir
+0503022D0AAAAAA,Ganciclovir 500mg powder for solution for infusion vials
+0503022D0AAACAC,Ganciclovir 250mg capsules
+0503022D0AAADAD,Ganciclovir 500mg capsules
+0503022D0BB,Cymevene
+0503022D0BBAAAA,Cymevene 500mg pdr for concentrate for inf vials
+0503022D0BBABAC,Cymevene 250mg capsules
+0503022D0BBACAD,Cymevene 500mg capsules
+0503022E0,Foscarnet sodium
+0503022E0AA,Foscarnet sodium
+0503022E0AAABAB,Foscarnet sodium 6g/250ml solution for infusion bottles
+0503022E0BB,Foscavir
+0503022E0BBABAB,Foscavir 6g/250ml solution for infusion bottles
+050303,Viral hepatitis
+0503031,Chronic hepatitis B
+0503031A0,Adefovir dipivoxil
+0503031A0AA,Adefovir dipivoxil
+0503031A0AAAAAA,Adefovir 10mg tablets
+0503031A0BB,Hepsera
+0503031A0BBAAAA,Hepsera 10mg tablets
+0503031B0,Entecavir
+0503031B0AA,Entecavir
+0503031B0AAAAAA,Entecavir 500microgram tablets
+0503031B0AAABAB,Entecavir 1mg tablets
+0503031B0AAACAC,Entecavir 50micrograms/ml oral solution sugar free
+0503031B0BB,Baraclude
+0503031B0BBAAAA,Baraclude 0.5mg tablets
+0503031B0BBABAB,Baraclude 1mg tablets
+0503031B0BBACAC,Baraclude 0.05mg/ml oral solution
+0503031C0,Telbivudine
+0503031C0AA,Telbivudine
+0503031C0AAAAAA,Telbivudine 600mg tablets
+0503031C0BB,Sebivo
+0503031C0BBAAAA,Sebivo 600mg tablets
+0503031D0,Tenofovir alafenamide
+0503031D0AA,Tenofovir alafenamide
+0503031D0AAAAAA,Tenofovir alafenamide 25mg tablets
+0503031D0BB,Vemlidy
+0503031D0BBAAAA,Vemlidy 25mg tablets
+0503032,Chronic hepatitis C
+0503032A0,Boceprevir
+0503032A0AA,Boceprevir
+0503032A0AAAAAA,Boceprevir 200mg capsules
+0503032A0BB,Victrelis
+0503032A0BBAAAA,Victrelis 200mg capsules
+0503032B0,Telaprevir
+0503032B0AA,Telaprevir
+0503032B0AAAAAA,Telaprevir 375mg tablets
+0503032B0BB,Incivo
+0503032B0BBAAAA,Incivo 375mg tablets
+0503032C0,Sofosbuvir
+0503032C0AA,Sofosbuvir
+0503032C0AAAAAA,Sofosbuvir 400mg tablets
+0503032C0BB,Sovaldi
+0503032C0BBAAAA,Sovaldi 400mg tablets
+0503032D0,Simeprevir
+0503032D0AA,Simeprevir
+0503032D0AAAAAA,Simeprevir 150mg capsules
+0503032D0BB,Olysio
+0503032D0BBAAAA,Olysio 150mg capsules
+0503032E0,Daclatasvir
+0503032E0AA,Daclatasvir
+0503032E0AAAAAA,Daclatasvir 60mg tablets
+0503032E0AAABAB,Daclatasvir 30mg tablets
+0503032E0AAACAC,Daclatasvir 90mg tablets
+0503032E0BB,Daklinza
+0503032E0BBAAAA,Daklinza 60mg tablets
+0503032E0BBABAB,Daklinza 30mg tablets
+0503032E0BBACAC,Daklinza 90mg tablets
+0503032F0,Sofosbuvir/ledipasvir
+0503032F0AA,Sofosbuvir/ledipasvir
+0503032F0AAAAAA,Sofosbuvir 400mg / Ledipasvir 90mg tablets
+0503032F0BB,Harvoni
+0503032F0BBAAAA,Harvoni 90mg/400mg tablets
+0503032G0,Paritaprevir/ritonavir/ombitasvir
+0503032G0AA,Paritaprevir/ritonavir/ombitasvir
+0503032G0AAAAAA,Generic Viekirax 12.5mg/75mg/50mg tablets
+0503032G0BB,Viekirax
+0503032G0BBAAAA,Viekirax 12.5mg/75mg/50mg tablets
+0503032H0,Dasabuvir
+0503032H0AA,Dasabuvir
+0503032H0AAAAAA,Dasabuvir 250mg tablets
+0503032H0BB,Exviera
+0503032H0BBAAAA,Exviera 250mg tablets
+0503032I0,Elbasvir/grazoprevir
+0503032I0AA,Elbasvir/grazoprevir
+0503032I0AAAAAA,Elbasvir 50mg / Grazoprevir 100mg tablets
+0503032I0BB,Zepatier
+0503032I0BBAAAA,Zepatier 50mg/100mg tablets
+0503032J0,Sofosbuvir/velpatasvir
+0503032J0AA,Sofosbuvir/velpatasvir
+0503032J0AAAAAA,Sofosbuvir 400mg / Velpatasvir 100mg tablets
+0503032J0BB,Epclusa
+0503032J0BBAAAA,Epclusa 400mg/100mg tablets
+0503032K0,Glecaprevir/pibrentasvir
+0503032K0AA,Glecaprevir/pibrentasvir
+0503032K0AAAAAA,Glecaprevir 100mg / Pibrentasvir 40mg tablets
+0503032K0BB,Maviret
+0503032K0BBAAAA,Maviret 100mg/40mg tablets
+0503032L0,Sofosbuvir/velpatasvir/voxilaprevir
+0503032L0BB,Vosevi
+0503032L0BBAAA0,Vosevi 400mg/100mg/100mg tablets
+050304,Influenza
+0503040,Influenza
+0503040A0,Zanamivir
+0503040A0AA,Zanamivir
+0503040A0AAAAAA,Zanamivir 5mg inhalation powder blisters with device
+0503040A0BB,Relenza
+0503040A0BBAAAA,Relenza 5mg inhalation powder blisters with Diskhaler
+0503040B0,Oseltamivir phosphate
+0503040B0AA,Oseltamivir phosphate
+0503040B0AAAAAA,Oseltamivir 75mg capsules
+0503040B0AAABAB,Oseltamivir 60mg/5ml oral suspension sugar free
+0503040B0AAACAC,Oseltamivir 30mg capsules
+0503040B0AAADAD,Oseltamivir 45mg capsules
+0503040B0AAAEAE,Oseltamivir 15mg/ml oral liquid
+0503040B0AAAFAF,Oseltamivir 15mg/ml oral solution sugar free
+0503040B0AAAGAG,Oseltamivir 6mg/ml oral suspension sugar free
+0503040B0BB,Tamiflu
+0503040B0BBAAAA,Tamiflu 75mg capsules
+0503040B0BBABAB,Tamiflu 12mg/ml oral suspension
+0503040B0BBACAC,Tamiflu 30mg capsules
+0503040B0BBADAD,Tamiflu 45mg capsules
+0503040B0BBAEAG,Tamiflu 6mg/ml oral suspension
+0503040C0,Amantadine hydrochloride
+0503040C0AA,Amantadine hydrochloride (Antiviral)
+0503040C0AAAAAA,Amantadine 100mg capsules (Antiviral)
+0503040C0AAABAB,Amantadine 100mg tablets
+0503040C0BB,Lysovir
+0503040C0BBAAAA,Lysovir 100mg capsules
+050305,Respiratory syncytial virus
+0503050,Respiratory syncytial virus
+0503050A0,Palivizumab
+0503050A0AA,Palivizumab
+0503050A0AAAAAA,Palivizumab 100mg inj vials
+0503050A0AAABAB,Palivizumab 50mg inj vials
+0503050A0AAACAC,Palivizumab 50mg/0.5ml solution for injection vials
+0503050A0AAADAD,Palivizumab 100mg/1ml solution for injection vials
+0503050A0BB,Synagis
+0503050A0BBAAAA,Synagis 100mg inj vials
+0503050A0BBABAB,Synagis 50mg inj vials
+0503050A0BBACAC,Synagis 50mg/0.5ml solution for injection vials
+0503050A0BBADAD,Synagis 100mg/1ml solution for injection vials
+0503050B0,Ribavirin
+0503050B0AA,Ribavirin
+0503050B0AAAAAA,Ribavirin 6g powder for nebuliser solution vials
+0503050B0AAABAB,Ribavirin 200mg capsules
+0503050B0AAAEAE,Ribavirin 200mg tablets
+0503050B0AAAGAG,Ribavirin 400mg tablets
+0503050B0AAAHAH,Ribavirin 40mg/ml oral solution
+0503050B0AAAIAI,Ribavirin 1.2g/12ml solution for injection vials
+0503050B0BC,Virazole
+0503050B0BCABAA,Virazole 6g powder for nebuliser solution vials
+0503050B0BCACAI,Virazole 1.2g/12ml solution for injection vials
+0503050B0BE,Rebetol
+0503050B0BEAAAB,Rebetol 200mg capsules
+0503050B0BEABAH,Rebetol 40mg/ml oral solution
+0503050B0BF,Copegus
+0503050B0BFAAAE,Copegus 200mg tablets
+0503050B0BFABAG,Copegus 400mg tablets
+0504,Antiprotozoal drugs
+050401,Antimalarials
+0504010,Antimalarials
+0504010AA,Artemether with lumefantrine
+0504010AAAA,Artemether/lumefantrine
+0504010AAAAAAAA,Artemether 20mg / Lumefantrine 120mg tablets
+0504010AABB,Riamet
+0504010AABBAAAA,Riamet tablets
+0504010AB,Piperaquine phosphate/artenimol
+0504010ABAA,Piperaquine phosphate/artenimol
+0504010ABAAAAAA,Piperaquine phosphate 320mg / Artenimol 40mg tablets
+0504010ABBB,Eurartesim
+0504010ABBBAAAA,Eurartesim 320mg/40mg tablets
+0504010F0,Chloroquine phosphate
+0504010F0AA,Chloroquine phosphate
+0504010F0AAAAAA,Chloroquine phosphate 80mg/5ml oral solution
+0504010F0AAABAB,Chloroquine phosphate 250mg tablets
+0504010F0BB,Avloclor
+0504010F0BBABAB,Avloclor 250mg tablets
+0504010F0BC,Malarivon
+0504010F0BCAAAA,Malarivon 80mg/5ml syrup
+0504010G0,Chloroquine sulfate
+0504010G0AA,Chloroquine sulfate
+0504010G0AAAAAA,Chloroquine sulfate 200mg/5ml inj ampoules
+0504010G0AAACAC,Chloroquine sulfate 200mg tablets
+0504010G0AAAFAF,Chloroquine sulfate 68mg/5ml oral solution
+0504010G0BB,Nivaquine
+0504010G0BBAAAC,Nivaquine 200mg tablets
+0504010G0BBABAF,Nivaquine 68mg/5ml syrup
+0504010G0BBACAA,Nivaquine 200mg/5ml solution for injection ampoules
+0504010K0,Primaquine
+0504010K0AA,Primaquine
+0504010K0AAAAAA,Primaquine 7.5mg tablets
+0504010L0,Mefloquine hydrochloride
+0504010L0AA,Mefloquine hydrochloride
+0504010L0AAAAAA,Mefloquine 250mg tablets
+0504010L0BB,Lariam
+0504010L0BBAAAA,Lariam 250mg tablets
+0504010M0,Proguanil hydrochloride
+0504010M0AA,Proguanil hydrochloride
+0504010M0AAAAAA,Proguanil 100mg tablets
+0504010M0AAACAC,Proguanil 100mg/5ml oral liquid
+0504010M0AAADAD,Proguanil 50mg/5ml oral liquid
+0504010M0AAAEAE,Proguanil 150mg/5ml oral liquid
+0504010M0AAAFAF,Proguanil 125mg/5ml oral liquid
+0504010M0BB,Paludrine
+0504010M0BBAAAA,Paludrine 100mg tablets
+0504010N0,Pyrimethamine
+0504010N0AA,Pyrimethamine
+0504010N0AAAAAA,Pyrimethamine 25mg tablets
+0504010N0AAAEAE,Pyrimethamine 5mg/5ml oral suspension
+0504010N0AAAFAF,Pyrimethamine 25mg/5ml oral suspension
+0504010N0AAAGAG,Pyrimethamine 7.5mg/5ml oral suspension
+0504010N0AAAHAH,Pyrimethamine 9mg/5ml oral suspension
+0504010N0AAAIAI,Pyrimethamine 10mg/5ml oral suspension
+0504010N0BB,Daraprim
+0504010N0BBAAAA,Daraprim 25mg tablets
+0504010P0,Pyrimethamine with sulfadoxine
+0504010P0AA,Pyrimethamine/sulfadoxine
+0504010P0AAAAAA,Pyrimethamine 25mg / Sulfadoxine 500mg tablets
+0504010P0BB,Fansidar
+0504010P0BBAAAA,Fansidar tablets
+0504010Q0,Pyrimethamine with dapsone
+0504010Q0AA,Pyrimethamine/dapsone
+0504010Q0AAAAAA,Dapsone 100mg / Pyrimethamine 12.5mg tablets
+0504010Q0BB,Maloprim
+0504010Q0BBAAAA,Maloprim tablets
+0504010T0,Quinine bisulfate
+0504010T0AA,Quinine bisulfate
+0504010T0AAAEAE,Quinine bisulfate 300mg tablets
+0504010T0AAAFAF,Quinine bisulfate 300mg/5ml oral suspension
+0504010T0AAAGAG,Quinine bisulfate 150mg/5ml oral solution
+0504010T0AAAHAH,Quinine bisulfate 100mg/5ml oral solution
+0504010T0AAAIAI,Quinine bisulfate 200mg/5ml oral solution
+0504010U0,Proguanil hydrochloride with atovaquone
+0504010U0AA,Proguanil hydrochloride/atovaquone
+0504010U0AAAAAA,Proguanil 100mg / Atovaquone 250mg tablets
+0504010U0AAABAB,Proguanil 25mg / Atovaquone 62.5mg tablets
+0504010U0BB,Malarone
+0504010U0BBAAAA,Malarone 250mg/100mg tablets
+0504010U0BBABAB,Malarone Paediatric 62.5mg/25mg tablets
+0504010U0BC,Reprapog
+0504010U0BCAAAB,Reprapog 62.5mg/25mg tablets
+0504010U0BCABAA,Reprapog 250mg/100mg tablets
+0504010U0BD,Mafamoz
+0504010U0BDAAAB,Mafamoz 62.5mg/25mg tablets
+0504010U0BDABAA,Mafamoz 250mg/100mg tablets
+0504010U0BE,Maloff Protect
+0504010U0BEAAAA,Maloff Protect 250mg/100mg tablets
+0504010V0,Quinine dihydrochloride
+0504010V0AA,Quinine dihydrochloide
+0504010V0AAAFAF,Quinine dihydrochloride 600mg/2ml inf ampoules
+0504010V0AAAGAG,Quinine dihydrochloride 300mg/1ml inf ampoules
+0504010V0AAAHAH,Quinine dihydrochloride 300mg/5ml oral solution
+0504010V0AAAIAI,Quinine dihydrochloride 200mg/5ml oral solution
+0504010V0AAAJAJ,Quinine dihydrochloride 100mg/5ml oral solution
+0504010V0AAAKAK,Quinine dihydrochloride 150mg/5ml oral solution
+0504010V0AAAMAM,Quinine dihydrochloride 87.5mg/5ml oral solution
+0504010V0AAANAN,Quinine dihydrochloride 125mg/5ml oral solution
+0504010V0AAAQAQ,Quinine dihydrochloride 30mg/5ml oral solution
+0504010X0,Quinine hydrochloride
+0504010X0AA,Quinine hydrochloride
+0504010X0AAADAD,Quinine hydrochloride 200mg/5ml oral liquid
+0504010X0AAAEAE,Quinine hydrochloride 300mg/5ml oral liquid
+0504010X0AAAFAF,Quinine hydrochloride 150mg/5ml oral liquid
+0504010X0AAAGAG,Quinine hydrochloride 125mg/5ml oral liquid
+0504010Y0,Quinine sulfate
+0504010Y0AA,Quinine sulfate
+0504010Y0AAA2A2,Quinine sulfate 100mg/5ml oral liquid
+0504010Y0AAA3A3,Quinine sulfate 75mg/5ml oral liquid
+0504010Y0AAA4A4,Quinine sulfate 50mg/5ml oral liquid
+0504010Y0AAA5A5,Quinine sulfate 150mg/5ml oral suspension
+0504010Y0AAA6A6,Quinine sulfate 10mg/5ml oral liquid
+0504010Y0AAA7A7,Quinine sulfate 250mg/5ml oral liquid
+0504010Y0AAAFAF,Quinine sulfate 200mg tablets
+0504010Y0AAAHAH,Quinine sulfate 300mg tablets
+0504010Y0AABABA,Quinine sulfate 125mg/5ml oral liquid
+0504010Y0AABBBB,Quinine sulfate 25mg/5ml oral liquid
+0504010Y0AABCBC,Quinine sulfate 300mg/5ml oral suspension
+0504010Y0AABDBD,Quinine sulfate 200mg/5ml oral suspension
+0504010Z0,Chloroquine phosphate with proguanil hydrochloride
+0504010Z0AA,Chloroquine phoshate/proguanil hydrochloride
+0504010Z0AAAAAA,Chloroquine phosphate 250mg tab and Proguanil 100mg tab
+0504010Z0BB,Paludrine/avloclor
+0504010Z0BBAAAA,Paludrine/Avloclor tablets anti-malarial travel pack
+050402,Amoebicides
+0504020,Amoebicides
+0504020G0,Diloxanide furoate
+0504020G0AA,Diloxanide furoate
+0504020G0AAAAAA,Diloxanide 500mg tablets
+0504020G0AAAFAF,Diloxanide 10mg/5ml oral liquid
+0504020G0AAAGAG,Diloxanide 50mg/5ml oral liquid
+0504020G0AAAHAH,Diloxanide 90mg/5ml oral liquid
+0504020G0AAAIAI,Diloxanide 40mg/5ml oral liquid
+050404,Antigiardial drugs
+0504040,Antigiardial drugs
+0504040M0,Mepacrine hydrochloride
+0504040M0AA,Mepacrine hydrochloride
+0504040M0AAAAAA,Mepacrine 100mg tablets
+0504040M0AAAGAG,Mepacrine 50mg capsules
+050405,Leishmaniacides
+0504050,Leishmaniacides
+0504050S0,Sodium stibogluconate
+0504050S0AA,Sodium stibogluconate
+0504050S0AAAAAA,Sodium stibogluconate 10g/100ml solution for injection vials
+0504050S0BB,Pentostam
+0504050S0BBAAAA,Pentostam 10g/100ml solution for injection vials
+0504050T0,Paromomycin sulfate
+0504050T0AA,Paromomycin sulfate
+0504050T0AAACAC,Paromomycin 125mg/5ml oral solution
+0504050T0AAAEAE,Paromomycin 250mg tablets
+0504050T0BB,Humatin
+0504050T0BBACAC,Humatin 125mg/5ml oral solution
+0504050T0BC,Gabbroral
+0504050T0BCAAAE,Gabbroral 250mg tablets
+050406,Trypanocides
+0504060,Trypanocides
+0504060A0,Nifurtimox
+0504060A0AA,Nifurtimox
+0504060A0AAAAAA,Nifurtimox 120mg tablets
+0504060B0,Benznidazole
+0504060B0AA,Benznidazole
+0504060B0AAAAAA,Benznidazole 50mg tablets
+050408,Drugs for pneumocystis pneumonia
+0504080,Drugs for pneumocystis pneumonia
+0504080A0,Atovaquone
+0504080A0AA,Atovaquone
+0504080A0AAABAB,Atovaquone 750mg/5ml oral suspension sugar free
+0504080A0BB,Wellvone
+0504080A0BBABAB,Wellvone 750mg/5ml oral suspension
+0504080P0,Pentamidine isetionate
+0504080P0AA,Pentamidine isetionate
+0504080P0AAAAAA,Pentamidine 300mg powder for solution for injection vials
+0504080P0AAABAB,Pentamidine 300mg/5ml nebuliser liquid
+0504080P0BB,Pentacarinat
+0504080P0BBAAAA,Pentacarinat 300mg powder for solution for injection vials
+0504080P0BBABAB,Pentacarinat Ready-to-Use 300mg/5ml nebuliser liquid
+0505,Anthelmintics
+050501,Drugs for threadworms
+0505010,Drugs for threadworms
+0505010D0,Mebendazole
+0505010D0AA,Mebendazole
+0505010D0AAAAAA,Mebendazole 100mg/5ml oral suspension
+0505010D0AAADAD,Mebendazole 100mg chewable tablets sugar free
+0505010D0BB,Vermox
+0505010D0BBAAAD,Vermox 100mg chewable tablets
+0505010D0BBABAA,Vermox 100mg/5ml oral suspension
+0505010D0BC,Ovex
+0505010D0BCAAAD,Ovex 100mg chewable tablets
+0505010D0BCABAA,Ovex 100mg/5ml oral suspension
+0505010D0BD,Pripsen (Mebendazole)
+0505010D0BDAAAD,Pripsen Mebendazole 100mg chewable tablets
+0505010D0BE,Boots Threadworm Treatment
+0505010D0BEAAAD,Boots Threadworm Treatment 100mg chewable tablets
+0505010H0,Piperazine
+0505010H0AA,Piperazine
+0505010H0AAAEAE,Piperazine 4g / Senna 15.3mg oral powder sachets sugar free
+0505010H0BH,Pripsen (Pipcrazine)
+0505010H0BHAAAE,Pripsen powder
+050502,Ascaricides
+0505020,Ascaricides
+0505020L0,Levamisole hydrochloride
+0505020L0AA,Levamisole hydrochloride
+0505020L0AAABAB,Levamisole 50mg tablets
+0505020L0AAAFAF,Levamisole 25mg tablets
+0505020L0AAAGAG,Levamisole 50mg/5ml oral suspension
+0505020L0BC,Ergamisol
+0505020L0BCAAAB,Ergamisol 50mg tablets
+050503,Drugs for tapeworm infections
+0505030,Drugs for tapeworm infections
+0505030A0,Albendazole
+0505030A0AA,Albendazole
+0505030A0AAABAB,Albendazole 400mg chewable tablets
+0505030A0AAACAC,Albendazole 200mg/5ml oral suspension
+0505030A0AAADAD,Albendazole 400mg tablets
+0505030A0BB,Eskazole
+0505030A0BBABAD,Eskazole 400mg tablets
+0505030A0BC,Zentil
+0505030A0BCAAAB,Zentel 400mg chewable tablets
+050505,Schistosomicides
+0505050,Schistosomicides
+0505050P0,Praziquantel
+0505050P0AA,Praziquantel
+0505050P0AAAAAA,Praziquantel 600mg tablets
+0505050P0AAABAB,Praziquantel 500mg tablets
+0505050P0AAADAD,Praziquantel 150mg tablets
+0505050P0BB,Biltricide
+0505050P0BBAAAA,Biltricide 600mg tablets
+0505050P0BC,Cesol
+0505050P0BCAAAD,Cesol 150mg tablets
+0505050P0BE,Cysticide
+0505050P0BEAAAB,Cysticide 500mg tablets
+050506,Filaricides
+0505060,Filaricides
+0505060I0,Ivermectin
+0505060I0AA,Ivermectin
+0505060I0AAACAC,Ivermectin 3mg tablets
+0505060I0AAADAD,Ivermectin 15mg tablets
+0505060I0AAAEAE,Ivermectin 6mg tablets
+0505060I0BB,Stromectol
+0505060I0BBAAAC,Stromectol 3mg tablets
+050508,Drugs for strongyloidiasis
+0505080,Drugs for strongyloidiasis
+0505080F0,Tiabendazole
+0505080F0AA,Tiabendazole (Systemic)
+0505080F0AAAGAG,Tiabendazole 500mg/5ml oral suspension

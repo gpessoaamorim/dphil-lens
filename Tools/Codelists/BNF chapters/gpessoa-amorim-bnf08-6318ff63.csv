@@ -1,0 +1,2073 @@
+code,term
+08,Malignant Disease and Immunosuppression
+0801,Cytotoxic drugs
+080100,Drugs for cytotoxic-induced side-effects
+0801000,Drugs for cytotoxic-induced side-effects
+0801000I0,Calcium folinate
+0801000I0AA,Calcium folinate (Antimetabolite)
+0801000I0AAAAAA,Calcium folinate 3mg/1ml solution for injection ampoules
+0801000I0AAAFAF,Calcium folinate 30mg/10ml solution for injection ampoules
+0801000I0AAAGAG,Calcium folinate 15mg/2ml solution for injection ampoules
+0801000I0AAAHAH,Calcium folinate 15mg tablets
+0801000I0AAAMAM,Calcium folinate 50mg/5ml solution for injection vials
+0801000I0AAAPAP,Calcium folinate 300mg/30ml solution for injection vials
+0801000I0AAATAT,Calcium folinate 100mg/10ml solution for injection vials
+0801000I0AAAWAW,Calcium folinate 15mg/5ml oral liquid
+0801000I0AAAXAX,Calcium folinate 7.5mg/5ml oral liquid
+0801000I0AAAYAY,Calcium folinate 12.5mg/5ml oral liquid
+0801000I0AAAZAZ,Calcium folinate 37.5mg/5ml oral liquid
+0801000I0AABBBB,Calcium folinate 6.67mg/5ml oral liquid
+0801000I0AABCBC,Calcium folinate 33.333mg/5ml oral liquid
+0801000I0AABEBE,Calcium folinate 350mg/35ml solution for injection vials
+0801000I0AABGBG,Calcium folinate 50mg/5ml solution for injection ampoules
+0801000I0AABHBH,Calcium folinate 200mg/20ml solution for injection vials
+0801000I0AABIBI,Calcium folinate 500mg/50ml solution for infusion vials
+0801000I0BB,Calcium leucovorin lederle
+0801000I0BBAAAH,Refolinon 15mg tablets
+0801000I0BC,Refolinon
+0801000I0BCACAF,Refolinon 30mg/10ml solution for injection ampoules
+0801000I0BF,Lederfolin
+0801000I0BFABBE,Lederfolin 350mg/35ml solution for injection vials
+0801000T0,Mesna
+0801000T0AA,Mesna (Cancer)
+0801000T0AAAAAA,Mesna 400mg/4ml solution for injection ampoules
+0801000T0AAABAB,Mesna 1g/10ml solution for injection ampoules
+0801000T0AAACAC,Mesna 400mg tablets
+0801000T0AAADAD,Mesna 600mg tablets
+0801000T0AAAEAE,Mesna 40mg/5ml oral solution
+0801000T0BB,Uromitexan
+0801000T0BBAAAA,Uromitexan 400mg/4ml solution for injection ampoules
+0801000T0BBABAB,Uromitexan 1g/10ml solution for injection ampoules
+0801000T0BBADAC,Uromitexan 400mg tablets
+0801000T0BBAEAD,Uromitexan 600mg tablets
+0801000U0,Calcium levofolinate
+0801000U0AA,Calcium levofolinate
+0801000U0AAAAAA,Calcium levofolinate 25mg/2.5ml solution for injection vials
+0801000U0AAABAB,Calcium levofolinate 175mg/17.5ml inj vials
+0801000U0BB,Isovorin
+0801000U0BBAAAA,Isovorin 25mg/2.5ml solution for injection vials
+0801000U0BBABAB,Isovorin 175mg/17.5ml solution for injection vials
+0801000V0,Amifostine
+0801000V0AA,Amifostine
+0801000V0AAAAAA,Amifostine 375mg powder for solution for infusion vials
+0801000V0AAABAB,Amifostine 500mg powder for solution for infusion vials
+0801000V0BB,Ethyol
+0801000V0BBAAAA,Ethyol 375mg powder for solution for infusion vials
+0801000V0BBABAB,Ethyol 500mg powder for solution for infusion vials
+0801000W0,Palifermin
+0801000W0AA,Palifermin
+0801000W0AAAAAA,Palifermin 6.25mg powder for solution for injection vials
+0801000W0BB,Kepivance
+0801000W0BBAAAA,Kepivance 6.25mg powder for solution for injection vials
+0801000X0,Disodium folinate
+0801000X0AA,Disodium folinate
+0801000X0AAAAAA,Disodium folinate 100mg/2ml solution for injection vials
+0801000X0AAABAB,Disodium folinate 400mg/8ml solution for injection vials
+0801000X0AAACAC,Disodium folinate 900mg/18ml solution for injection vials
+0801000X0AAADAD,Disodium folinate 200mg/4ml solution for injection vials
+0801000X0AAAEAE,Disodium folinate 50mg/1ml solution for injection vials
+0801000X0BB,Sodiofolin
+0801000X0BBAAAA,Sodiofolin 100mg/2ml solution for injection vials
+0801000X0BBABAB,Sodiofolin 400mg/8ml solution for injection vials
+0801000X0BBACAC,Sodiofolin 900mg/18ml solution for injection vials
+0801000Y0,Dexrazoxane
+0801000Y0AA,Dexrazoxane
+0801000Y0AAAAAA,Dexrazoxane 500mg powder for solution for infusion vials
+0801000Y0BB,Cardioxane
+0801000Y0BBAAAA,Cardioxane 500mg powder for solution for infusion vials
+0801000Z0,Levofolinic acid
+0801000Z0AA,Levofolinic acid
+0801000Z0AAAAAA,Levofolinic acid 50mg/1ml solution for injection vials
+0801000Z0AAABAB,Levofolinic acid 200mg/4ml solution for injection vials
+080101,Alkylating drugs
+0801010,Alkylating drugs
+0801010B0,Busulfan
+0801010B0AA,Busulfan
+0801010B0AAABAB,Busulfan 2mg tablets
+0801010B0AAADAD,Busulfan 2mg/5ml oral liquid
+0801010B0AAAEAE,Busulfan 60mg/10ml solution for infusion ampoules
+0801010B0AAAFAF,Busulfan 25mg capsules
+0801010B0AAAGAG,Busulfan 60mg/10ml solution for infusion vials
+0801010B0BB,Myleran
+0801010B0BBABAB,Myleran 2mg tablets
+0801010B0BC,Busilvex
+0801010B0BCAAAE,Busilvex 60mg/10ml concentrate for inf ampoules
+0801010D0,Carmustine
+0801010D0AA,Carmustine
+0801010D0AAAAAA,Carmustine 100mg inf vials
+0801010D0AAABAB,Carmustine 7.7mg implant
+0801010D0BB,BiCNU
+0801010D0BBAAAA,BiCNU 100mg inf vials
+0801010D0BC,Gliadel
+0801010D0BCAAAB,Gliadel 7.7mg implant
+0801010D0BD,Carmustine obvius
+0801010D0BDAAAA,Carmustine Obvius 100mg vials
+0801010F0,Chlorambucil
+0801010F0AA,Chlorambucil
+0801010F0AAAAAA,Chlorambucil 2mg tablets
+0801010F0AAABAB,Chlorambucil 5mg tablets
+0801010F0BB,Leukeran
+0801010F0BBAAAA,Leukeran 2mg tablets
+0801010F0BBABAB,Leukeran 5mg tablets
+0801010H0,Cyclophosphamide
+0801010H0AA,Cyclophosphamide
+0801010H0AAABAB,Cyclophosphamide 200mg inj vials
+0801010H0AAACAC,Cyclophosphamide 500mg inj vials
+0801010H0AAADAD,Cyclophosphamide 1g powder for solution for injection vials
+0801010H0AAAFAF,Cyclophosphamide 50mg tablets
+0801010H0AAAKAK,Cyclophosphamide 25mg tablets
+0801010H0AAAMAM,Cyclophosphamide 35mg/5ml oral liquid
+0801010H0AAANAN,Cyclophosphamide 50mg/5ml oral liquid
+0801010H0AAAPAP,Cyclophosphamide 25mg/5ml oral liquid
+0801010H0AAAQAQ,Cyclophosphamide 75mg/5ml oral liquid
+0801010H0AAARAR,Cyclophosphamide 100mg/5ml oral liquid
+0801010H0AAAVAV,Cyclophosphamide 40mg/5ml oral liquid
+0801010H0BB,Endoxana
+0801010H0BBABAF,Endoxana 50mg tablets
+0801010H0BBADAB,Endoxana 200mg powder for solution for injection vials
+0801010H0BBAEAC,Endoxana 500mg powder for solution for injection vials
+0801010H0BBAFAD,Endoxana 1g powder for solution for injection vials
+0801010H0BD,Cytoxan
+0801010H0BDAAAK,Cytoxan 25mg tablets
+0801010J0,Estramustine phosphate
+0801010J0AA,Estramustine phosphate
+0801010J0AAAAAA,Estramustine 140mg capsules
+0801010J0BB,Estracyt
+0801010J0BBAAAA,Estracyt 140mg capsules
+0801010N0,Ifosfamide
+0801010N0AA,Ifosfamide
+0801010N0AAABAB,Ifosfamide 1g powder for solution for injection vials
+0801010N0AAACAC,Ifosfamide 2g powder for solution for injection vials
+0801010N0BB,Mitoxana
+0801010N0BBABAB,Mitoxana 1g powder for solution for injection vials
+0801010N0BBACAC,Mitoxana 2g powder for solution for injection vials
+0801010Q0,Lomustine
+0801010Q0AA,Lomustine
+0801010Q0AAAAAA,Lomustine 10mg capsules
+0801010Q0AAABAB,Lomustine 40mg capsules
+0801010Q0AAADAD,Lomustine 100mg capsules
+0801010Q0BB,CeeNU
+0801010Q0BBACAA,CeeNU 10mg capsules
+0801010Q0BBADAD,CeeNU 100mg capsules
+0801010S0,Melphalan
+0801010S0AA,Melphalan
+0801010S0AAABAB,Melphalan 2mg tablets
+0801010S0AAACAC,Melphalan 5mg tablets
+0801010S0AAADAD,Melphalan 50mg inj vials
+0801010S0BB,Alkeran
+0801010S0BBAAAB,Alkeran 2mg tablets
+0801010S0BBABAC,Alkeran 5mg tablets
+0801010S0BBADAD,Alkeran 50mg inj vials
+0801010W0,Chlormethine hydrochloride
+0801010W0AA,Chlormethine hydrochloride
+0801010W0AAAAAA,Chlormethine 10mg solution for injection vials
+0801010W0AAABAB,Chlormethine 160micrograms/g gel
+0801010W0BC,Ledaga
+0801010W0BCAAAB,Ledaga 160micrograms/g gel
+0801010Z0,Treosulfan
+0801010Z0AA,Treosulfan
+0801010Z0AAABAB,Treosulfan 5g powder for solution for injection vials
+0801010Z0AAACAC,Treosulfan 250mg capsules
+0801010Z0AAADAD,Treosulfan 1g powder for solution for injection vials
+0801010Z0BB,Trecondi
+0801010Z0BBAAAD,Trecondi 1g powder for solution for infusion
+0801010Z0BBABAB,Trecondi 5g powder for solution for infusion
+080102,Anthracyclines and cytotoxic antibiotics
+0801020,Anthracyclines and cytotoxic antibiotics
+0801020D0,Dactinomycin
+0801020D0AA,Dactinomycin
+0801020D0AAAAAA,Dactinomycin 500microgram inj vials
+0801020D0BB,Cosmegen Lyovac
+0801020D0BBAAAA,Cosmegen Lyovac 500microgram inj vials
+0801020G0,Bleomycin
+0801020G0AA,Bleomycin
+0801020G0AAAAAA,"Bleomycin 15,000unit powder for solution for injection vials"
+0801020G0BC,Bleo-Kyowa
+0801020G0BCAAAA,"Bleo-Kyowa 15,000unit inj vials"
+0801020J0,Daunorubicin
+0801020J0AA,Daunorubicin
+0801020J0AAAAAA,Daunorubicin (liposomal) 50mg/25ml inf vials
+0801020J0AAABAB,Daunorubicin 20mg powder for solution for infusion vials
+0801020J0BB,DaunoXome
+0801020J0BBAAAA,DaunoXome 50mg/25ml concentrate for inf vials
+0801020K0,Doxorubicin hydrochloride
+0801020K0AA,Doxorubicin hydrochloride
+0801020K0AAAAAA,Doxorubicin 10mg powder for solution for injection vials
+0801020K0AAABAB,Doxorubicin 50mg powder for solution for injection vials
+0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials
+0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials
+0801020K0AAAEAE,Doxorubin 200mg/100ml solution for infusion vials
+0801020K0AAAFAF,Doxorubicin liposomal pegylated 20mg/10ml inf vials
+0801020K0AAAGAG,Doxorubicin liposomal pegylated 50mg/25ml inf vials
+0801020K0AAAHAH,Doxorubicin (liposomal) 50mg inf vials
+0801020K0AAAIAI,Doxorubicin 10mg/2ml solution for injection vials
+0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials
+0801020K0BC,Doxorubicin (Cytosafe)
+0801020K0BCAEAC,Doxorubicin 10mg/5ml solution for injection Cytosafe vials
+0801020K0BCAFAD,Doxorubicin 50mg/25ml solution for injection Cytosafe vials
+0801020K0BCAGAJ,Doxorubicin 200mg/100ml inj Cytosafe vials
+0801020K0BD,Caelyx
+0801020K0BDAAAF,Caelyx pegylated liposomal 20mg/10ml concentrate for inf
+0801020K0BDABAG,Caelyx pegylated liposomal 50mg/25ml concentrate for inf
+0801020K0BE,Myocet
+0801020K0BEAAAH,Myocet 50mg inf vials
+0801020N0,Epirubicin hydrochloride
+0801020N0AA,Epirubicin hydrochloride
+0801020N0AAAAAA,Epirubicin 10mg powder for solution for injection vials
+0801020N0AAABAB,Epirubicin 20mg powder for solution for injection vials
+0801020N0AAACAC,Epirubicin 50mg powder for solution for injection vials
+0801020N0AAADAD,Epirubicin 10mg/5ml solution for injection vials
+0801020N0AAAEAE,Epirubicin 50mg/25ml solution for injection vials
+0801020N0AAAFAF,Epirubicin 200mg/100ml solution for infusion vials
+0801020N0AAAGAG,Epirubicin 100mg/50ml solution for infusion vials
+0801020N0AAAIAI,Epirubicin 20mg/10ml solution for injection vials
+0801020N0BB,Pharmorubicin
+0801020N0BBAAAA,Pharmorubicin Rapid Dissolution 10mg inj vials
+0801020N0BBABAB,Pharmorubicin Rapid Dissolution 20mg inj vials
+0801020N0BBACAC,Pharmorubicin Rapid Dissolution 50mg inj vials
+0801020N0BBADAD,Pharmorubicin 10mg/5ml solution for injection Cytosafe vials
+0801020N0BBAEAE,Pharmorubicin 50mg/25ml inj Cytosafe vials
+0801020N0BBAFAF,Pharmorubicin 200mg/100ml inf Cytosafe vials
+0801020P0,Idarubicin hydrochloride
+0801020P0AA,Idarubicin hydrochloride
+0801020P0AAAAAA,Idarubicin 5mg powder for solution for injection vials
+0801020P0AAABAB,Idarubicin 10mg powder for solution for injection vials
+0801020P0AAACAC,Idarubicin 5mg capsules
+0801020P0AAADAD,Idarubicin 10mg capsules
+0801020P0AAAEAE,Idarubicin 25mg capsules
+0801020P0AAAFAF,Idarubicin 10mg/10ml solution for injection vials
+0801020P0AAAGAG,Idarubicin 5mg/5ml solution for injection vials
+0801020P0BB,Zavedos
+0801020P0BBAAAA,Zavedos 5mg powder for solution for injection vials
+0801020P0BBABAB,Zavedos 10mg powder for solution for injection vials
+0801020P0BBACAD,Zavedos 10mg capsules
+0801020P0BBADAE,Zavedos 25mg capsules
+0801020P0BBAEAC,Zavedos 5mg capsules
+0801020Q0,Mitomycin
+0801020Q0AA,Mitomycin
+0801020Q0AAADAD,Mitomycin 40mg powder for intravesical solution vials
+0801020Q0AAAEAE,Mitomycin 2mg powder for solution for injection vials
+0801020Q0AAAFAF,Mitomycin 10mg powder for solution for injection vials
+0801020Q0AAAGAG,Mitomycin 20mg powder for solution for injection vials
+0801020Q0BB,Mitomycin-C Kyowa
+0801020Q0BBAAAE,Mitomycin-C Kyowa 2mg inj vials
+0801020Q0BBABAF,Mitomycin-C Kyowa 10mg inj vials
+0801020Q0BBACAG,Mitomycin-C Kyowa 20mg inj vials
+0801020Q0BBADAD,Mitomycin-C Kyowa 40mg pdr for intravesical solution vials
+0801020Q0BC,Mitocin
+0801020Q0BCAAAG,Mitocin 20mg powder for solution for injection vials
+0801020R0,Mitoxantrone
+0801020R0AA,Mitoxantrone
+0801020R0AAAAAA,Mitoxantrone 20mg/10ml solution for infusion vials
+0801020R0AAABAB,Mitoxantrone 25mg/12.5ml solution for infusion vials
+0801020R0AAACAC,Mitoxantrone 30mg/15ml solution for infusion vials
+0801020R0AAAEAE,Mitoxantrone 10mg/5ml solution for infusion vials
+0801020R0BB,Novantrone
+0801020R0BBAAAA,Novantrone 20mg/10ml solution for infusion vials
+0801020R0BBABAB,Novantrone 25mg/12.5ml solution for infusion vials
+0801020R0BBACAC,Novantrone 30mg/15ml solution for infusion vials
+0801020R0BC,Onkotrone
+0801020R0BCAAAA,Onkotrone 20mg/10ml solution for infusion vials
+0801020R0BCABAB,Onkotrone 25mg/12.5ml solution for infusion vials
+080103,Antimetabolites
+0801030,Antimetabolites
+0801030AA,Clofarabine
+0801030AAAA,Clofarabine
+0801030AAAAAAAA,Clofarabine 20mg/20ml solution for infusion vials
+0801030AABB,Evoltra
+0801030AABBAAAA,Evoltra 20mg/20ml concentrate for inf vials
+0801030AB,Nelarabine
+0801030ABAA,Nelarabine
+0801030ABAAAAAA,Nelarabine 250mg/50ml solution for infusion vials
+0801030ABBB,Atriance
+0801030ABBBAAAA,Atriance 250mg/50ml solution for infusion vials
+0801030AC,Azacitidine
+0801030ACAA,Azacitidine
+0801030ACAAAAAA,Azacitidine 100mg powder for suspension for injection vials
+0801030ACBB,Vidaza
+0801030ACBBAAAA,Vidaza 100mg powder for suspension for injection vials
+0801030AD,Tegafur/gimeracil/oteracil
+0801030ADAA,Tegafur/gimeracil/oteracil
+0801030ADAAAAAA,Generic Teysuno 15mg/4.35mg/11.8mg capsules
+0801030ADAAABAB,Generic Teysuno 20mg/5.8mg/15.8mg capsules
+0801030ADBB,Teysuno
+0801030ADBBAAAA,Teysuno 15mg/4.35mg/11.8mg capsules
+0801030ADBBABAB,Teysuno 20mg/5.8mg/15.8mg capsules
+0801030AE,Decitabine
+0801030AEAA,Decitabine
+0801030AEAAAAAA,Decitabine 50mg powder for solution for infusion vials
+0801030AEBB,Dacogen
+0801030AEBBAAAA,Dacogen 50mg pdr for concentrate for inf vials
+0801030AF,Trifluridine/tipiracil
+0801030AFAA,Trifluridine/tipiracil
+0801030AFAAAAAA,Trifluridine 15mg / Tipiracil 6.14mg tablets
+0801030AFAAABAB,Trifluridine 20mg / Tipiracil 8.19mg tablets
+0801030AFBB,Lonsurf
+0801030AFBBAAAA,Lonsurf 15mg/6.14mg tablets
+0801030AFBBABAB,Lonsurf 20mg/8.19mg tablets
+0801030AG,Gilteritinib
+0801030AGAA,Gilteritinib
+0801030AGAAAAAA,Gilteritinib 40mg tablets
+0801030AGBB,Xospata
+0801030AGBBAAAA,Xospata 40mg tablets
+0801030C0,Cladribine
+0801030C0AA,Cladribine
+0801030C0AAAAAA,Cladribine 10mg/10ml solution for infusion vials
+0801030C0AAABAB,Cladribine 10mg/5ml solution for injection vials
+0801030C0BB,Leustat
+0801030C0BBAAAA,Leustat 10mg/10ml solution for infusion vials
+0801030C0BC,Litak
+0801030C0BCAAAB,Litak 10mg/5ml solution for injection vials
+0801030D0,Cytarabine
+0801030D0AA,Cytarabine
+0801030D0AAAHAH,Cytarabine 100mg/1ml solution for injection vials
+0801030D0AAAIAI,Cytarabine 100mg/5ml solution for injection vials
+0801030D0AAAJAJ,Cytarabine 500mg/5ml solution for injection vials
+0801030D0AAAKAK,Cytarabine 1g/10ml solution for injection vials
+0801030D0AAALAL,Cytarabine 2g/20ml solution for injection vials
+0801030D0AAAMAM,Cytarabine 500mg/25ml solution for injection vials
+0801030D0AAANAN,Cytarabine (liposomal) 50mg/5ml inj vials
+0801030D0AAAPAP,Cytarabine 4g/40ml solution for injection vials
+0801030D0AAAQAQ,Cytarabine 5g/50ml solution for infusion vials
+0801030D0BE,Depocyte
+0801030D0BEAAAN,DepoCyte 50mg/5ml suspension for injection vials
+0801030D0BF,Cytarabine (Cytosafe)
+0801030D0BFAAAI,Cytarabine 100mg/5ml solution for injection Cytosafe vials
+0801030D0BFABAM,Cytarabine 500mg/25ml solution for injection Cytosafe vials
+0801030D0BFACAK,Cytarabine 1g/10ml solution for injection Cytosafe vials
+0801030D0BFADAL,Cytarabine 2g/20ml solution for injection Cytosafe vials
+0801030H0,Fluorouracil (Antimetabolites)
+0801030H0AA,Fluorouracil (Antimetabolites)
+0801030H0AAAAAA,Fluorouracil 250mg capsules
+0801030H0AAADAD,Fluorouracil 500mg/20ml solution for injection vials
+0801030H0AAAEAE,Fluorouracil 2.5g/100ml solution for infusion vials
+0801030H0AAAHAH,Fluorouracil 250mg/10ml solution for injection vials
+0801030H0AAARAR,Fluorouracil 500mg/10ml solution for injection vials
+0801030H0AAATAT,Fluorouracil 2.5g/50ml solution for infusion vials
+0801030H0AAAUAU,Fluorouracil 5g/100ml solution for infusion vials
+0801030H0AAAVAV,Fluorouracil 0.5% cream
+0801030H0AAAWAW,Fluorouracil 1g/20ml solution for injection vials
+0801030H0AAAXAX,Fluorouracil 1% cream
+0801030H0AABBBB,Fluorouracil 250mg/5ml solution for injection vials
+0801030H0AABCBC,Fluorouracil 1g/40ml inj pre-filled syringes
+0801030H0AABDBD,Fluorouracil 1.1g/44ml inj pre-filled syringes
+0801030H0AABEBE,Fluorouracil 1.2g/48ml inj pre-filled syringes
+0801030H0AABFBF,Fluorouracil 200mg/8ml inj pre-filled syringes
+0801030H0AABGBG,Fluorouracil 500mg/20ml inj pre-filled syringes
+0801030H0AABHBH,Fluorouracil 600mg/24ml inj pre-filled syringes
+0801030H0AABIBI,Fluorouracil 800mg/32ml inj pre-filled syringes
+0801030H0AABJBJ,Fluorouracil 900mg/36ml inj pre-filled syringes
+0801030H0AABKBK,Fluorouracil 950mg/38ml inj pre-filled syringes
+0801030H0BD,Fluoroplex
+0801030H0BDAAAX,Fluoroplex 1% cream
+0801030H0BF,Carac
+0801030H0BFAAAV,Carac 0.5% cream
+0801030L0,Mercaptopurine
+0801030L0AA,Mercaptopurine
+0801030L0AAAAAA,Mercaptopurine 50mg tablets
+0801030L0AAABAB,Mercaptopurine 10mg tablets
+0801030L0AAACAC,Mercaptopurine 5mg/5ml oral suspension
+0801030L0AAAFAF,Mercaptopurine 50mg/5ml oral suspension
+0801030L0AAAGAG,Mercaptopurine 10mg capsules
+0801030L0AAAHAH,Mercaptopurine 25mg/5ml oral suspension
+0801030L0AAAIAI,Mercaptopurine 75mg/5ml oral suspension
+0801030L0AAAJAJ,Mercaptopurine 25mg tablets
+0801030L0AAAKAK,Mercaptopurine 45mg/5ml oral suspension
+0801030L0AAALAL,Mercaptopurine 25mg capsules
+0801030L0AAAMAM,Mercaptopurine 30mg capsules
+0801030L0AAANAN,Mercaptopurine 75mg tablets
+0801030L0AAAPAP,Mercaptopurine 75mg capsules
+0801030L0AAAQAQ,Mercaptopurine 20mg/ml oral suspension
+0801030L0AAARAR,Mercaptopurine 20mg capsules
+0801030L0AAASAS,Mercaptopurine 12.5mg capsules
+0801030L0BB,Puri-Nethol
+0801030L0BBAAAA,Puri-Nethol 50mg tablets
+0801030L0BC,Xaluprine
+0801030L0BCABAQ,Xaluprine 20mg/ml oral suspension
+0801030L0BD,Hanixol
+0801030L0BDAAAA,Hanixol 50mg tablets
+0801030P0,Methotrexate
+0801030P0AA,Methotrexate
+0801030P0AAAIAI,Methotrexate 5mg/2ml solution for injection vials
+0801030P0AAAKAK,Methotrexate 500mg/20ml solution for injection vials
+0801030P0AAANAN,Methotrexate 50mg/2ml solution for injection vials
+0801030P0AAASAS,Methotrexate 200mg/8ml solution for injection vials
+0801030P0AABPBP,Methotrexate 5mg/0.2ml inj pre-filled syringes
+0801030P0AACGCG,Methotrexate 30mg/1.2ml inj pre-filled syringes
+0801030P0AACKCK,Methotrexate 1g/10ml solution for injection vials
+0801030P0AACSCS,Methotrexate 5g/50ml solution for infusion vials
+0801030P0AACTCT,Methotrexate 1g/40ml solution for injection vials
+0801030P0AACUCU,Methotrexate 5g/200ml solution for infusion vials
+0801030P0AADNDN,Methotrexate 35mg/1.4ml inj pre-filled syringes
+0801030P0AADRDR,Methotrexate 27.5mg/1.1ml inj pre-filled syringes
+0801030P0AADVDV,Methotrexate 50mg/2ml inj pre-filled syringes
+0801030P0AAEAEA,Methotrexate 32.5mg/1.3ml inj pre-filled syringes
+0801030P0AAFDFD,Methotrexate 25mg/3ml inj pre-filled syringes
+0801030P0AAFEFE,Methotrexate 20mg/0.8ml inj pre-filled syringes
+0801030P0AAFFFF,Methotrexate 22.5mg/0.9ml inj pre-filled syringes
+0801030P0AAFGFG,Methotrexate 25mg/1ml inj pre-filled syringes
+0801030P0AAFHFH,Methotrexate 10mg/0.4ml inj pre-filled syringes
+0801030P0AAFIFI,Methotrexate 7.5mg/0.3ml inj pre-filled syringes
+0801030P0AAFJFJ,Methotrexate 12.5mg/0.5ml inj pre-filled syringes
+0801030P0AAFKFK,Methotrexate 15mg/0.6ml inj pre-filled syringes
+0801030P0AAFLFL,Methotrexate 17.5mg/0.7ml inj pre-filled syringes
+0801030P0AAFMFM,Methotrexate 7.5mg/0.3ml inj pre-filled disposable devices
+0801030P0AAFNFN,Methotrexate 10mg/0.4ml inj pre-filled disposable devices
+0801030P0AAFPFP,Methotrexate 12.5mg/0.5ml inj pre-filled disposable devices
+0801030P0AAFQFQ,Methotrexate 15mg/0.6ml inj pre-filled disposable devices
+0801030P0AAFRFR,Methotrexate 17.5mg/0.7ml inj pre-filled disposable devices
+0801030P0AAFSFS,Methotrexate 20mg/0.8ml inj pre-filled disposable devices
+0801030P0AAFTFT,Methotrexate 22.5mg/0.9ml inj pre-filled disposable devices
+0801030P0AAFUFU,Methotrexate 25mg/1ml inj pre-filled disposable devices
+0801030P0BE,Zlatal
+0801030P0BEAAFE,Zlatal 20mg/0.8ml solution for injection pre-filled syringes
+0801030P0BEABFF,Zlatal 22.5mg/0.9ml inj pre-filled syringes
+0801030P0BEACFG,Zlatal 25mg/1ml solution for injection pre-filled syringes
+0801030P0BEADFH,Zlatal 10mg/0.4ml solution for injection pre-filled syringes
+0801030P0BEAEFI,Zlatal 7.5mg/0.3ml inj pre-filled syringes
+0801030P0BEAFFJ,Zlatal 12.5mg/0.5ml inj pre-filled syringes
+0801030P0BEAGFK,Zlatal 15mg/0.6ml solution for injection pre-filled syringes
+0801030P0BEAHFL,Zlatal 17.5mg/0.7ml inj pre-filled syringes
+0801030P0BF,Nordimet
+0801030P0BFAAFM,Nordimet 7.5mg/0.3ml solution for injection pre-filled pens
+0801030P0BFABFN,Nordimet 10mg/0.4ml solution for injection pre-filled pens
+0801030P0BFACFP,Nordimet 12.5mg/0.5ml solution for injection pre-filled pens
+0801030P0BFADFQ,Nordimet 15mg/0.6ml solution for injection pre-filled pens
+0801030P0BFAEFR,Nordimet 17.5mg/0.7ml solution for injection pre-filled pens
+0801030P0BFAFFS,Nordimet 20mg/0.8ml solution for injection pre-filled pens
+0801030P0BFAGFT,Nordimet 22.5mg/0.9ml solution for injection pre-filled pens
+0801030P0BFAHFU,Nordimet 25mg/1ml solution for injection pre-filled pens
+0801030S0,Tegafur
+0801030S0AA,Tegafur
+0801030S0AAABAB,Tegafur 100mg / Uracil 224mg capsules
+0801030S0BC,Uftoral
+0801030S0BCAAAB,Uftoral capsules
+0801030T0,Tioguanine
+0801030T0AA,Tioguanine
+0801030T0AAAAAA,Tioguanine 40mg tablets
+0801030T0AAACAC,Tioguanine 10mg capsules
+0801030T0BB,Lanvis
+0801030T0BBAAAA,Lanvis 40mg tablets
+0801030V0,Capecitabine
+0801030V0AA,Capecitabine
+0801030V0AAAAAA,Capecitabine 500mg tablets
+0801030V0AAABAB,Capecitabine 150mg tablets
+0801030V0AAACAC,Capecitabine 300mg tablets
+0801030V0BB,Xeloda
+0801030V0BBAAAA,Xeloda 500mg tablets
+0801030V0BBABAB,Xeloda 150mg tablets
+0801030W0,Fludarabine phosphate
+0801030W0AA,Fludarabine phosphate
+0801030W0AAAAAA,Fludarabine phosphate 10mg tablets
+0801030W0AAABAB,Fludarabine phosphate 50mg inj vials
+0801030W0AAACAC,Fludarabine phosphate 50mg/2ml solution for injection vials
+0801030W0BB,Fludara
+0801030W0BBAAAA,Fludara 10mg tablets
+0801030W0BBABAB,Fludara 50mg powder for solution for injection vials
+0801030X0,Gemcitabine
+0801030X0AA,Gemcitabine
+0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials
+0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials
+0801030X0AAACAC,Gemcitabine 1.5g powder for solution for infusion vials
+0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials
+0801030X0AAAEAE,Gemcitabine 200mg/5.3ml solution for infusion vials
+0801030X0AAAFAF,Gemcitabine 1g/26.3ml solution for infusion vials
+0801030X0AAAGAG,Gemcitabine 2g/52.6ml solution for infusion vials
+0801030X0AAAHAH,Gemcitabine 200mg/2ml solution for infusion vials
+0801030X0AAAIAI,Gemcitabine 1g/10ml solution for infusion vials
+0801030X0AAAJAJ,Gemcitabine 2g/20ml solution for infusion vials
+0801030X0AAAKAK,Gemcitabine 200mg/5ml solution for infusion vials
+0801030X0AAALAL,Gemcitabine 1g/25ml solution for infusion vials
+0801030X0AAAMAM,Gemcitabine 2g/50ml solution for infusion vials
+0801030X0AAANAN,Gemcitabine 200mg/5.26ml solution for infusion vials
+0801030X0BB,Gemzar
+0801030X0BBAAAA,Gemzar 1g powder for solution for infusion vials
+0801030X0BBABAB,Gemzar 200mg powder for solution for infusion vials
+0801030Y0,Pemetrexed
+0801030Y0AA,Pemetrexed
+0801030Y0AAAAAA,Pemetrexed 500mg powder for solution for infusion vials
+0801030Y0AAABAB,Pemetrexed 100mg powder for solution for infusion vials
+0801030Y0BB,Alimta
+0801030Y0BBAAAA,Alimta 500mg pdr for concentrate for inf vials
+0801030Y0BBABAB,Alimta 100mg pdr for concentrate for inf vials
+0801030Z0,Raltitrexed
+0801030Z0AA,Raltitrexed
+0801030Z0AAAAAA,Raltitrexed 2mg powder for solution for infusion vials
+0801030Z0BB,Tomudex
+0801030Z0BBAAAA,Tomudex 2mg powder for solution for infusion vials
+080104,Vinca alkaloids and etoposide
+0801040,Vinca alkaloids and etoposide
+0801040D0,Etoposide
+0801040D0AA,Etoposide
+0801040D0AAAAAA,Etoposide 50mg capsules
+0801040D0AAABAB,Etoposide 100mg capsules
+0801040D0AAADAD,Etoposide 100mg/5ml solution for infusion vials
+0801040D0AAAEAE,Etoposide 200mg/10ml solution for infusion vials
+0801040D0AAAFAF,Etoposide 500mg/25ml solution for infusion vials
+0801040D0AAAGAG,Etoposide 100mg powder for solution for injection vials
+0801040D0BB,Vepesid
+0801040D0BBAAAA,Vepesid 50mg capsules
+0801040D0BBABAB,Vepesid 100mg capsules
+0801040D0BBADAD,Vepesid 100mg/5ml solution for infusion vials
+0801040D0BC,Eposin
+0801040D0BCAAAD,Eposin 100mg/5ml concentrate for solution for infusion vials
+0801040D0BCABAF,Eposin 500mg/25ml concentrate for inf vials
+0801040D0BD,Etopophos
+0801040D0BDAAAG,Etopophos 100mg powder for solution for injection vials
+0801040H0,Vinblastine sulfate
+0801040H0AA,Vinblastine sulfate
+0801040H0AAAAAA,Vinblastine 10mg powder for solution for injection vials
+0801040H0AAABAB,Vinblastine 10mg/10ml solution for injection vials
+0801040H0BB,Velbe
+0801040H0BBAAAA,Velbe 10mg powder for solution for injection vials
+0801040M0,Vincristine sulfate
+0801040M0AA,Vincristine sulfate
+0801040M0AAAEAE,Vincristine 1mg/1ml solution for injection vials
+0801040M0AAAFAF,Vincristine 2mg/2ml solution for injection vials
+0801040M0AAAGAG,Vincristine 5mg/5ml solution for injection vials
+0801040M0BB,Oncovin
+0801040M0BBADAE,Oncovin 1mg/1ml solution for injection vials
+0801040Q0,Vindesine sulfate
+0801040Q0AA,Vindesine sulfate
+0801040Q0AAAAAA,Vindesine 5mg powder for solution for injection vials
+0801040Q0BB,Eldisine
+0801040Q0BBAAAA,Eldisine 5mg powder for solution for injection vials
+0801040R0,Vinorelbine
+0801040R0AA,Vinorelbine
+0801040R0AAAAAA,Vinorelbine 10mg/1ml solution for infusion vials
+0801040R0AAABAB,Vinorelbine 50mg/5ml solution for infusion vials
+0801040R0AAACAC,Vinorelbine 20mg capsules
+0801040R0AAADAD,Vinorelbine 30mg capsules
+0801040R0AAAEAE,Vinorelbine 80mg capsules
+0801040R0BB,Navelbine
+0801040R0BBAAAA,Navelbine 10mg/1ml concentrate for inf vials
+0801040R0BBABAB,Navelbine 50mg/5ml concentrate for inf vials
+0801040R0BBACAC,Navelbine 20mg capsules
+0801040R0BBADAD,Navelbine 30mg capsules
+0801040R0BBAEAE,Navelbine 80mg capsules
+080105,Other antineoplastic drugs
+0801050,Other antineoplastic drugs
+0801050AA,Imatinib mesilate
+0801050AAAA,Imatinib mesilate
+0801050AAAAAAAA,Imatinib 100mg capsules
+0801050AAAAABAB,Imatinib 400mg tablets
+0801050AAAAACAC,Imatinib 100mg tablets
+0801050AAAAADAD,Imatinib 400mg capsules
+0801050AABB,Glivec
+0801050AABBAAAA,Glivec 100mg capsules
+0801050AABBABAB,Glivec 400mg tablets
+0801050AABBACAC,Glivec 100mg tablets
+0801050AABC,Nibix
+0801050AABCAAAA,Nibix 100mg capsules
+0801050AABCABAD,Nibix 400mg capsules
+0801050AB,Bexarotene
+0801050ABAA,Bexarotene
+0801050ABAAAAAA,Bexarotene 75mg capsules
+0801050ABBB,Targretin
+0801050ABBBAAAA,Targretin 75mg capsules
+0801050AC,Bortezomib
+0801050ACAA,Bortezomib
+0801050ACAAAAAA,Bortezomib 3.5mg powder for solution for injection vials
+0801050ACBB,Velcade
+0801050ACBBAAAA,Velcade 3.5mg powder for solution for injection vials
+0801050AD,Trastuzumab
+0801050ADAA,Trastuzumab
+0801050ADAAAAAA,Trastuzumab 150mg powder for solution for infusion vials
+0801050ADAAABAB,Trastuzumab 600mg/5ml solution for injection vials
+0801050ADAAACAC,Trastuzumab emtansine 100mg inf vials
+0801050ADAAADAD,Trastuzumab emtansine 160mg inf vials
+0801050ADAAAEAE,Trastuzumab 420mg powder for solution for infusion vials
+0801050ADBB,Herceptin
+0801050ADBBAAAA,Herceptin 150mg pdr for concentrate for inf vials
+0801050ADBBABAB,Herceptin 600mg/5ml solution for injection vials
+0801050ADBC,Kadcyla
+0801050ADBCAAAC,Kadcyla 100mg pdr for concentrate for inf vials
+0801050ADBCABAD,Kadcyla 160mg pdr for concentrate for inf vials
+0801050ADBD,Ontruzant
+0801050ADBDAAAA,Ontruzant 150mg pdr for concentrate for inf vials
+0801050ADBE,Herzuma
+0801050ADBEAAAA,Herzuma 150mg pdr for concentrate for inf vials
+0801050ADBEABAE,Herzuma 420mg pdr for concentrate for inf vials
+0801050ADBF,Kanjinti
+0801050ADBFAAAA,Kanjinti 150mg pdr for concentrate for inf vials
+0801050ADBFABAE,Kanjinti 420mg pdr for concentrate for inf vials
+0801050ADBG,Trazimera
+0801050ADBGAAAA,Trazimera 150mg pdr for concentrate for inf vials
+0801050ADBGABAE,Trazimera 420mg pdr for concentrate for inf vials
+0801050AE,Erlotinib
+0801050AEAA,Erlotinib
+0801050AEAAAAAA,Erlotinib 100mg tablets
+0801050AEAAABAB,Erlotinib 150mg tablets
+0801050AEAAACAC,Erlotinib 25mg tablets
+0801050AEBB,Tarceva
+0801050AEBBAAAA,Tarceva 100mg tablets
+0801050AEBBABAB,Tarceva 150mg tablets
+0801050AEBBACAC,Tarceva 25mg tablets
+0801050AF,Topotecan
+0801050AFAA,Topotecan
+0801050AFAAAAAA,Topotecan 1mg powder for solution for infusion vials
+0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials
+0801050AFAAACAC,Topotecan 250microgram capsules
+0801050AFAAADAD,Topotecan 1mg capsules
+0801050AFAAAEAE,Topotecan 4mg/4ml solution for infusion vials
+0801050AFAAAFAF,Topotecan 1mg/1ml solution for infusion vials
+0801050AFBB,Hycamtin
+0801050AFBBAAAA,Hycamtin 1mg pdr for concentrate for inf vials
+0801050AFBBABAB,Hycamtin 4mg pdr for concentrate for inf vials
+0801050AFBBACAC,Hycamtin 0.25mg capsules
+0801050AFBBADAD,Hycamtin 1mg capsules
+0801050AFBC,Potactasol
+0801050AFBCAAAA,Potactasol 1mg pdr for concentrate for inf vials
+0801050AFBCABAB,Potactasol 4mg pdr for concentrate for inf vials
+0801050AG,Cetuximab
+0801050AGAA,Cetuximab
+0801050AGAAAAAA,Cetuximab 100mg/50ml solution for infusion vials
+0801050AGAAABAB,Cetuximab 100mg/20ml solution for infusion vials
+0801050AGAAACAC,Cetuximab 500mg/100ml solution for infusion vials
+0801050AGBB,Erbitux
+0801050AGBBAAAA,Erbitux 100mg/50ml solution for infusion vials
+0801050AGBBABAB,Erbitux 100mg/20ml solution for infusion vials
+0801050AGBBACAC,Erbitux 500mg/100ml solution for infusion vials
+0801050AH,Porfimer sodium
+0801050AHAA,Porfimer sodium
+0801050AHAAAAAA,Porfimer sodium 15mg powder for solution for injection vials
+0801050AHAAABAB,Porfimer sodium 75mg powder for solution for injection vials
+0801050AHBB,Photofrin
+0801050AHBBAAAA,Photofrin 15mg powder for solution for injection vials
+0801050AHBBABAB,Photofrin 75mg powder for solution for injection vials
+0801050AI,Arsenic
+0801050AIAA,Arsenic
+0801050AIAAAAAA,Arsenic 10mg/10ml solution for infusion ampoules
+0801050AIBB,Trisenox
+0801050AIBBAAAA,Trisenox 10mg/10ml concentrate for inf ampoules
+0801050AJ,Sorafenib
+0801050AJAA,Sorafenib
+0801050AJAAAAAA,Sorafenib 200mg tablets
+0801050AJBB,Nexavar
+0801050AJBBAAAA,Nexavar 200mg tablets
+0801050AK,Temoporfin
+0801050AKAA,Temoporfin
+0801050AKAAAAAA,Temoporfin 20mg/5ml solution for injection vials
+0801050AKAAABAB,Temoporfin 1mg/1ml solution for injection vials
+0801050AKAAACAC,Temoporfin 3mg/3ml solution for injection vials
+0801050AKAAADAD,Temoporfin 6mg/6ml solution for injection vials
+0801050AKBB,Foscan
+0801050AKBBAAAA,Foscan 20mg/5ml solution for injection vials
+0801050AKBBABAB,Foscan 1mg/1ml solution for injection vials
+0801050AKBBACAC,Foscan 3mg/3ml solution for injection vials
+0801050AKBBADAD,Foscan 6mg/6ml solution for injection vials
+0801050AL,Oxaliplatin
+0801050ALAA,Oxaliplatin
+0801050ALAAAAAA,Oxaliplatin 50mg/10ml solution for infusion vials
+0801050ALAAABAB,Oxaliplatin 100mg/20ml solution for infusion vials
+0801050ALAAACAC,Oxaliplatin 50mg powder for solution for infusion vials
+0801050ALAAADAD,Oxaliplatin 100mg powder for solution for infusion vials
+0801050ALAAAEAE,Oxaliplatin 200mg/40ml solution for infusion vials
+0801050ALAAAFAF,Oxaliplatin 150mg powder for solution for infusion vials
+0801050ALBB,Eloxatin
+0801050ALBBAAAA,Eloxatin 50mg/10ml concentrate for inf vials
+0801050ALBBABAB,Eloxatin 100mg/20ml concentrate for inf vials
+0801050ALBBACAE,Eloxatin 200mg/40ml concentrate for inf vials
+0801050AM,Sunitinib
+0801050AMAA,Sunitinib
+0801050AMAAAAAA,Sunitinib 12.5mg capsules
+0801050AMAAABAB,Sunitinib 25mg capsules
+0801050AMAAACAC,Sunitinib 50mg capsules
+0801050AMBB,Sutent
+0801050AMBBAAAA,Sutent 12.5mg capsules
+0801050AMBBABAB,Sutent 25mg capsules
+0801050AMBBACAC,Sutent 50mg capsules
+0801050AN,Dasatinib
+0801050ANAA,Dasatinib
+0801050ANAAAAAA,Dasatinib 20mg tablets
+0801050ANAAABAB,Dasatinib 50mg tablets
+0801050ANAAACAC,Dasatinib 70mg tablets
+0801050ANAAADAD,Dasatinib 100mg tablets
+0801050ANAAAEAE,Dasatinib 140mg tablets
+0801050ANAAAFAF,Dasatinib 80mg tablets
+0801050ANAAAGAG,Dasatinib 10mg/ml oral suspension
+0801050ANBB,Sprycel
+0801050ANBBAAAA,Sprycel 20mg tablets
+0801050ANBBABAB,Sprycel 50mg tablets
+0801050ANBBACAC,Sprycel 70mg tablets
+0801050ANBBADAD,Sprycel 100mg tablets
+0801050ANBBAEAE,Sprycel 140mg tablets
+0801050ANBBAFAF,Sprycel 80mg tablets
+0801050ANBBAGAG,Sprycel 10mg/ml oral suspension
+0801050AP,Bevacizumab
+0801050APAA,Bevacizumab
+0801050APAAAAAA,Bevacizumab 100mg/4ml solution for infusion vials
+0801050APAAABAB,Bevacizumab 400mg/16ml solution for infusion vials
+0801050APAAACAC,Bevacizumab 1.25mg/0.05ml solution for injection vials
+0801050APBB,Avastin
+0801050APBBAAAA,Avastin 100mg/4ml solution for infusion vials
+0801050APBBABAB,Avastin 400mg/16ml solution for infusion vials
+0801050APBC,Zirabev
+0801050APBCAAAA,Zirabev 100mg/4ml solution for infusion vials
+0801050APBCABAB,Zirabev 400mg/16ml solution for infusion vials
+0801050AR,Panitumumab
+0801050ARAA,Panitumumab
+0801050ARAAAAAA,Panitumumab 100mg/5ml solution for infusion vials
+0801050ARAAABAB,Panitumumab 400mg/20ml solution for infusion vials
+0801050ARBB,Vectibix
+0801050ARBBAAAA,Vectibix 100mg/5ml concentrate for inf vials
+0801050ARBBABAB,Vectibix 400mg/20ml concentrate for inf vials
+0801050AS,Nilotinib
+0801050ASAA,Nilotinib
+0801050ASAAAAAA,Nilotinib 200mg capsules
+0801050ASAAABAB,Nilotinib 150mg capsules
+0801050ASAAACAC,Nilotinib 50mg capsules
+0801050ASBB,Tasigna
+0801050ASBBAAAA,Tasigna 200mg capsules
+0801050ASBBABAB,Tasigna 150mg capsules
+0801050ASBBACAC,Tasigna 50mg capsules
+0801050AT,Lapatinib
+0801050ATAA,Lapatinib
+0801050ATAAAAAA,Lapatinib 250mg tablets
+0801050ATBB,Tyverb
+0801050ATBBAAAA,Tyverb 250mg tablets
+0801050AU,Temsirolimus
+0801050AUAA,Temsirolimus
+0801050AUAAAAAA,Temsirolimus 30mg/1.2ml inf vials and diluent
+0801050AUBB,Torisel
+0801050AUBBAAAA,Torisel 30mg/1.2ml concentrate for inf vials and diluent
+0801050AV,Trabectedin
+0801050AVAA,Trabectedin
+0801050AVAAAAAA,Trabectedin 250microgram inf vials
+0801050AVAAABAB,Trabectedin 1mg powder for solution for infusion vials
+0801050AVBB,Yondelis
+0801050AVBBAAAA,Yondelis 0.25mg pdr for concentrate for inf vials
+0801050AVBBABAB,Yondelis 1mg pdr for concentrate for inf vials
+0801050AW,Gefitinib
+0801050AWAA,Gefitinib
+0801050AWAAAAAA,Gefitinib 250mg tablets
+0801050AWBB,Iressa
+0801050AWBBAAAA,Iressa 250mg tablets
+0801050AX,Everolimus
+0801050AXAA,Everolimus
+0801050AXAAAAAA,Everolimus 5mg tablets
+0801050AXAAABAB,Everolimus 10mg tablets
+0801050AXAAACAC,Everolimus 2.5mg tablets
+0801050AXAAADAD,Everolimus 250microgram tablets
+0801050AXAAAEAE,Everolimus 750microgram tablets
+0801050AXAAAFAF,Everolimus 500microgram tablets
+0801050AXAAAGAG,Everolimus 2mg dispersible tablets sugar free
+0801050AXAAAHAH,Everolimus 3mg dispersible tablets sugar free
+0801050AXAAAIAI,Everolimus 5mg dispersible tablets sugar free
+0801050AXBB,Afinitor
+0801050AXBBAAAA,Afinitor 5mg tablets
+0801050AXBBABAB,Afinitor 10mg tablets
+0801050AXBBACAC,Afinitor 2.5mg tablets
+0801050AXBC,Votubia
+0801050AXBCAAAA,Votubia 5mg tablets
+0801050AXBCABAC,Votubia 2.5mg tablets
+0801050AXBCACAB,Votubia 10mg tablets
+0801050AXBCADAG,Votubia 2mg dispersible tablets
+0801050AXBCAEAH,Votubia 3mg dispersible tablets
+0801050AXBCAFAI,Votubia 5mg dispersible tablets
+0801050AXBD,Certican
+0801050AXBDAAAD,Certican 0.25mg tablets
+0801050AXBDABAE,Certican 0.75mg tablets
+0801050AXBDACAF,Certican 0.5mg tablets
+0801050AXBE,Zortress
+0801050AXBEAAAD,Zortress 250microgram tablets
+0801050AXBEABAE,Zortress 750microgram tablets
+0801050AZ,Pazopanib
+0801050AZAA,Pazopanib
+0801050AZAAAAAA,Pazopanib 200mg tablets
+0801050AZAAABAB,Pazopanib 400mg tablets
+0801050AZBB,Votrient
+0801050AZBBAAAA,Votrient 200mg tablets
+0801050AZBBABAB,Votrient 400mg tablets
+0801050BA,Pegaspargase
+0801050BAAA,Pegaspargase
+0801050BAAAAAAA,"Pegaspargase 3,750units/5ml solution for injection vials"
+0801050BAAAABAB,"Pegaspargase 3,750units inj vials"
+0801050BABB,Oncaspar
+0801050BABBAAAA,"Oncaspar 3,750units/5ml inj vials (Imported)"
+0801050BABBABAA,"Oncaspar 3,750units/5ml solution for injection vials"
+0801050BABBACAB,"Oncaspar 3,750unit powder for solution for injection vials"
+0801050BB,Eribulin
+0801050BBAA,Eribulin
+0801050BBAAAAAA,Eribulin 880micrograms/2ml solution for injection vials
+0801050BBAAABAB,Eribulin 1320micrograms/3ml solution for injection vials
+0801050BBBB,Halaven
+0801050BBBBAAAA,Halaven 0.88mg/2ml solution for injection vials
+0801050BBBBABAB,Halaven 1.32mg/3ml solution for injection vials
+0801050BC,Ipilimumab
+0801050BCAA,Ipilimumab
+0801050BCAAAAAA,Ipilimumab 50mg/10ml solution for infusion vials
+0801050BCAAABAB,Ipilimumab 200mg/40ml solution for infusion vials
+0801050BCBB,Yervoy
+0801050BCBBAAAA,Yervoy 50mg/10ml concentrate for solution for infusion vials
+0801050BCBBABAB,Yervoy 200mg/40ml concentrate for inf vials
+0801050BD,Vemurafenib
+0801050BDAA,Vemurafenib
+0801050BDAAAAAA,Vemurafenib 240mg tablets
+0801050BDBB,Zelboraf
+0801050BDBBAAAA,Zelboraf 240mg tablets
+0801050BE,Paclitaxel albumin
+0801050BEAA,Paclitaxel albumin
+0801050BEAAAAAA,Paclitaxel albumin 100mg inf vials
+0801050BEBB,Abraxane
+0801050BEBBAAAA,Abraxane 100mg powder for suspension for infusion vials
+0801050BF,Catumaxomab
+0801050BFAA,Catumaxomab
+0801050BFAAAAAA,Catumaxomab 50micrograms/0.5ml inf pre-filled syringes
+0801050BFAAABAB,Catumaxomab 10micrograms/0.1ml inf pre-filled syringes
+0801050BFBB,Removab
+0801050BFBBAAAA,Removab 50micrograms/0.5 concentrate for inf pfs
+0801050BFBBABAB,Removab 10micrograms/0.1ml concentrate for inf pfs
+0801050BG,Vandetanib
+0801050BGAA,Vandetanib
+0801050BGAAAAAA,Vandetanib 100mg tablets
+0801050BGAAABAB,Vandetanib 300mg tablets
+0801050BGBB,Caprelsa
+0801050BGBBAAAA,Caprelsa 100mg tablets
+0801050BGBBABAB,Caprelsa 300mg tablets
+0801050BH,Pipobroman
+0801050BHAA,Pipobroman
+0801050BHAAAAAA,Pipobroman 25mg tablets
+0801050BI,Ruxolitinib
+0801050BIAA,Ruxolitinib
+0801050BIAAAAAA,Ruxolitinib 5mg tablets
+0801050BIAAABAB,Ruxolitinib 15mg tablets
+0801050BIAAACAC,Ruxolitinib 20mg tablets
+0801050BIAAADAD,Ruxolitinib 10mg tablets
+0801050BIBB,Jakavi
+0801050BIBBAAAA,Jakavi 5mg tablets
+0801050BIBBABAB,Jakavi 15mg tablets
+0801050BIBBACAC,Jakavi 20mg tablets
+0801050BIBBADAD,Jakavi 10mg tablets
+0801050BJ,Axitinib
+0801050BJAA,Axitinib
+0801050BJAAAAAA,Axitinib 1mg tablets
+0801050BJAAABAB,Axitinib 5mg tablets
+0801050BJAAACAC,Axitinib 7mg tablets
+0801050BJAAADAD,Axitinib 3mg tablets
+0801050BJBB,Inlyta
+0801050BJBBAAAA,Inlyta 1mg tablets
+0801050BJBBABAB,Inlyta 5mg tablets
+0801050BJBBACAC,Inlyta 7mg tablets
+0801050BJBBADAD,Inlyta 3mg tablets
+0801050BK,Pertuzumab
+0801050BKAA,Pertuzumab
+0801050BKAAAAAA,Pertuzumab 420mg/14ml solution for infusion vials
+0801050BKBB,Perjeta
+0801050BKBBAAAA,Perjeta 420mg/14ml concentrate for inf vials
+0801050BL,Bosutinib
+0801050BLAA,Bosutinib
+0801050BLAAAAAA,Bosutinib 100mg tablets
+0801050BLAAABAB,Bosutinib 500mg tablets
+0801050BLAAACAC,Bosutinib 400mg tablets
+0801050BLBB,Bosulif
+0801050BLBBAAAA,Bosulif 100mg tablets
+0801050BLBBABAB,Bosulif 500mg tablets
+0801050BLBBACAC,Bosulif 400mg tablets
+0801050BM,Vismodegib
+0801050BMAA,Vismodegib
+0801050BMAAAAAA,Vismodegib 150mg capsules
+0801050BMBB,Erivedge
+0801050BMBBAAAA,Erivedge 150mg capsules
+0801050BN,Regorafenib
+0801050BNAA,Regorafenib
+0801050BNAAAAAA,Regorafenib 40mg tablets
+0801050BNBB,Stivarga
+0801050BNBBAAAA,Stivarga 40mg tablets
+0801050BP,Afatinib
+0801050BPAA,Afatinib
+0801050BPAAAAAA,Afatinib 30mg tablets
+0801050BPAAABAB,Afatinib 40mg tablets
+0801050BPAAACAC,Afatinib 20mg tablets
+0801050BPAAADAD,Afatinib 50mg tablets
+0801050BPBB,Gilotrif
+0801050BPBBAAAA,Gilotrif 30mg tablets
+0801050BPBBABAB,Gilotrif 40mg tablets
+0801050BPBBACAC,Gilotrif 20mg tablets
+0801050BPBC,Giotrif
+0801050BPBCAAAC,Giotrif 20mg tablets
+0801050BPBCABAA,Giotrif 30mg tablets
+0801050BPBCACAB,Giotrif 40mg tablets
+0801050BPBCADAD,Giotrif 50mg tablets
+0801050BQ,Ponatinib
+0801050BQAA,Ponatinib
+0801050BQAAAAAA,Ponatinib 15mg tablets
+0801050BQAAABAB,Ponatinib 45mg tablets
+0801050BQAAACAC,Ponatinib 30mg tablets
+0801050BQBB,Iclusig
+0801050BQBBAAAA,Iclusig 15mg tablets
+0801050BQBBABAB,Iclusig 45mg tablets
+0801050BQBBACAC,Iclusig 30mg tablets
+0801050BR,Cabozantinib
+0801050BRAA,Cabozantinib
+0801050BRAAAAAA,Cabozantinib 20mg capsules
+0801050BRAAABAB,Cabozantinib 20mg capsules and Cabozantinib 80mg capsules
+0801050BRAAACAC,Cabozantinib 20mg tablets
+0801050BRAAADAD,Cabozantinib 40mg tablets
+0801050BRAAAEAE,Cabozantinib 60mg tablets
+0801050BRBB,Cometriq
+0801050BRBBAAAA,Cometriq 20mg capsules
+0801050BRBBABAB,Cometriq 20mg capsules and Cometriq 80mg capsules
+0801050BRBC,Cabometyx
+0801050BRBCAAAC,Cabometyx 20mg tablets
+0801050BRBCABAD,Cabometyx 40mg tablets
+0801050BRBCACAE,Cabometyx 60mg tablets
+0801050BS,Ibrutinib
+0801050BSAA,Ibrutinib
+0801050BSAAAAAA,Ibrutinib 140mg capsules
+0801050BSAAABAB,Ibrutinib 140mg tablets
+0801050BSAAACAC,Ibrutinib 280mg tablets
+0801050BSAAADAD,Ibrutinib 420mg tablets
+0801050BSAAAEAE,Ibrutinib 560mg tablets
+0801050BSBB,Imbruvica
+0801050BSBBAAAA,Imbruvica 140mg capsules
+0801050BSBBABAB,Imbruvica 140mg tablets
+0801050BSBBACAC,Imbruvica 280mg tablets
+0801050BSBBADAD,Imbruvica 420mg tablets
+0801050BSBBAEAE,Imbruvica 560mg tablets
+0801050BT,Nintedanib
+0801050BTAA,Nintedanib
+0801050BTAAAAAA,Nintedanib 100mg capsules
+0801050BTAAABAB,Nintedanib 150mg capsules
+0801050BTBB,Vargatef
+0801050BTBBAAAA,Vargatef 100mg capsules
+0801050BTBBABAB,Vargatef 150mg capsules
+0801050BTBC,Ofev
+0801050BTBCAAAA,Ofev 100mg capsules
+0801050BTBCABAB,Ofev 150mg capsules
+0801050BU,Asparaginase
+0801050BUAA,Asparaginase
+0801050BUAAAAAA,"Asparaginase 5,000unit inj vials"
+0801050BUAAABAB,"Asparaginase 10,000unit inj vials"
+0801050BV,Lenvatinib
+0801050BVAA,Lenvatinib
+0801050BVAAAAAA,Lenvatinib 4mg capsules
+0801050BVAAABAB,Lenvatinib 10mg capsules
+0801050BVBB,Lenvima
+0801050BVBBAAAA,Lenvima 4mg capsules
+0801050BVBBABAB,Lenvima 10mg capsules
+0801050BVBC,Kisplyx
+0801050BVBCAAAA,Kisplyx 4mg capsules
+0801050BVBCABAB,Kisplyx 10mg capsules
+0801050BW,Panobinostat
+0801050BWAA,Panobinostat
+0801050BWAAAAAA,Panobinostat 20mg capsules
+0801050BWAAABAB,Panobinostat 10mg capsules
+0801050BWAAACAC,Panobinostat 15mg capsules
+0801050BWBB,Farydak
+0801050BWBBAAAA,Farydak 20mg capsules
+0801050BWBBABAB,Farydak 10mg capsules
+0801050BWBBACAC,Farydak 15mg capsules
+0801050BY,Olaparib
+0801050BYAA,Olaparib
+0801050BYAAAAAA,Olaparib 50mg capsules
+0801050BYAAABAB,Olaparib 100mg tablets
+0801050BYAAACAC,Olaparib 150mg tablets
+0801050BYBB,Lynparza
+0801050BYBBAAAA,Lynparza 50mg capsules
+0801050BYBBABAB,Lynparza 100mg tablets
+0801050BYBBACAC,Lynparza 150mg tablets
+0801050BZ,Ramucirumab
+0801050BZAA,Ramucirumab
+0801050BZAAAAAA,Ramucirumab 100mg/10ml solution for infusion vials
+0801050BZAAABAB,Ramucirumab 500mg/50ml solution for infusion vials
+0801050BZBB,Cyramza
+0801050BZBBAAAA,Cyramza 100mg/10ml concentrate for inf vials
+0801050BZBBABAB,Cyramza 500mg/50ml concentrate for inf vials
+0801050C0,Amsacrine
+0801050C0AA,Amsacrine
+0801050C0AAAAAA,Amsacrine 75mg/1.5ml inf ampoules and diluent
+0801050C0BB,Amsidine
+0801050C0BBAAAA,Amsidine 75mg/1.5ml inf ampoules and diluent (Mercury)
+0801050C0BBABAA,Amsidine 75mg/1.5ml inf ampoules and diluent (Eurocept)
+0801050CA,Pembrolizumab
+0801050CAAA,Pembrolizumab
+0801050CAAAAAAA,Pembrolizumab 50mg powder for solution for infusion vials
+0801050CAAAABAB,Pembrolizumab 100mg/4ml solution for infusion vials
+0801050CABB,Keytruda
+0801050CABBAAAA,Keytruda 50mg pdr for concentrate for inf vials
+0801050CABBABAB,Keytruda 100mg/4ml concentrate for inf vials
+0801050CB,Palbociclib
+0801050CBAA,Palbociclib
+0801050CBAAAAAA,Palbociclib 75mg capsules
+0801050CBAAABAB,Palbociclib 100mg capsules
+0801050CBAAACAC,Palbociclib 125mg capsules
+0801050CBBB,Ibrance
+0801050CBBBAAAA,Ibrance 75mg capsules
+0801050CBBBABAB,Ibrance 100mg capsules
+0801050CBBBACAC,Ibrance 125mg capsules
+0801050CC,Ixazomib
+0801050CCAA,Ixazomib
+0801050CCAAAAAA,Ixazomib 2.3mg capsules
+0801050CCAAABAB,Ixazomib 3mg capsules
+0801050CCAAACAC,Ixazomib 4mg capsules
+0801050CCBB,Ninlaro
+0801050CCBBAAAA,Ninlaro 2.3mg capsules
+0801050CCBBABAB,Ninlaro 3mg capsules
+0801050CCBBACAC,Ninlaro 4mg capsules
+0801050CD,Alectinib
+0801050CDAA,Alectinib
+0801050CDAAAAAA,Alectinib 150mg capsules
+0801050CDBB,Alecensa
+0801050CDBBAAAA,Alecensa 150mg capsules
+0801050CE,Inotuzumab
+0801050CEAA,Inotuzumab
+0801050CEAAAAAA,Inotuzumab ozogamicin 1mg inf vials
+0801050CEBB,Besponsa
+0801050CEBBAAAA,Besponsa 1mg pdr for concentrate for inf
+0801050CF,Avelumab
+0801050CFAA,Avelumab
+0801050CFAAAAAA,Avelumab 200mg/10ml solution for infusion vials
+0801050CFBB,Bavencio
+0801050CFBBAAAA,Bavencio 200mg/10ml concentrate for inf vials
+0801050CG,Osimertinib
+0801050CGAA,Osimertinib
+0801050CGAAAAAA,Osimertinib 40mg tablets
+0801050CGAAABAB,Osimertinib 80mg tablets
+0801050CGBB,Tagrisso
+0801050CGBBAAAA,Tagrisso 40mg tablets
+0801050CGBBABAB,Tagrisso 80mg tablets
+0801050CH,Trametinib
+0801050CHAA,Trametinib
+0801050CHAAAAAA,Trametinib 500micrograms tablets
+0801050CHAAABAB,Trametinib 2mg tablets
+0801050CHBB,Mekinist
+0801050CHBBAAAA,Mekinist 0.5mg tablets
+0801050CHBBABAB,Mekinist 2mg tablets
+0801050CI,Cobimetinib
+0801050CIAA,Cobimetinib
+0801050CIAAAAAA,Cobimetinib 20mg tablets
+0801050CIBB,Cotellic
+0801050CIBBAAAA,Cotellic 20mg tablets
+0801050CJ,Niraparib
+0801050CJAA,Niraparib
+0801050CJAAAAAA,Niraparib 100mg capsules
+0801050CJBB,Zejula
+0801050CJBBAAAA,Zejula 100mg capsules
+0801050CK,Midostaurin
+0801050CKAA,Midostaurin
+0801050CKAAAAAA,Midostaurin 25mg capsules
+0801050CKBB,Rydapt
+0801050CKBBAAAA,Rydapt 25mg capsules
+0801050CL,Abemaciclib
+0801050CLAA,Abemaciclib
+0801050CLAAAAAA,Abemaciclib 100mg tablets
+0801050CLAAABAB,Abemaciclib 150mg tablets
+0801050CLAAACAC,Abemaciclib 50mg tablets
+0801050CLBB,Verzenios
+0801050CLBBAAAA,Verzenios 100mg tablets
+0801050CLBBABAB,Verzenios 150mg tablets
+0801050CLBBACAC,Verzenios 50mg tablets
+0801050CM,Encorafenib
+0801050CMAA,Encorafenib
+0801050CMAAAAAA,Encorafenib 75mg capsules
+0801050CMAAABAB,Encorafenib 50mg capsules
+0801050CMBB,Braftovi
+0801050CMBBAAAA,Braftovi 75mg capsules
+0801050CMBBABAB,Braftovi 50mg capsules
+0801050CN,Binimetinib
+0801050CNAA,Binimetinib
+0801050CNAAAAAA,Binimetinib 15mg tablets
+0801050CNBB,Mektovi
+0801050CNBBAAAA,Mektovi 15mg tablets
+0801050CP,Brigatinib
+0801050CPAA,Brigatinib
+0801050CPAAAAAA,Brigatinib 180mg tablets
+0801050CPAAABAB,Brigatinib 30mg tablets
+0801050CPAAACAC,Brigatinib 90mg tablets
+0801050CPAAADAD,Brigatinib 90mg tablets and Brigatinib 180mg tablets
+0801050CPBB,Alunbrig
+0801050CPBBAAAA,Alunbrig 180mg tablets
+0801050CPBBABAB,Alunbrig 30mg tablets
+0801050CPBBACAC,Alunbrig 90mg tablets
+0801050CPBBADAD,Alunbrig 90mg/180mg tablets treatment initiation pack
+0801050CQ,Dacomitinib
+0801050CQAA,Dacomitinib
+0801050CQAAAAAA,Dacomitinib 15mg tablets
+0801050CQAAABAB,Dacomitinib 30mg tablets
+0801050CQAAACAC,Dacomitinib 45mg tablets
+0801050CQBB,Vizimpro
+0801050CQBBAAAA,Vizimpro 15mg tablets
+0801050CQBBABAB,Vizimpro 30mg tablets
+0801050CQBBACAC,Vizimpro 45mg tablets
+0801050D0,Docetaxel
+0801050D0AA,Docetaxel
+0801050D0AAAAAA,Docetaxel 20mg/0.5ml solution for infusion vials and diluent
+0801050D0AAABAB,Docetaxel 80mg/2ml solution for infusion vials and diluent
+0801050D0AAACAC,Docetaxel 20mg/1ml solution for infusion vials
+0801050D0AAADAD,Docetaxel 80mg/4ml solution for infusion vials
+0801050D0AAAEAE,Docetaxel 20mg/2ml solution for infusion vials
+0801050D0AAAFAF,Docetaxel 80mg/8ml solution for infusion vials
+0801050D0AAAGAG,Docetaxel 160mg/16ml solution for infusion vials
+0801050D0AAAHAH,Docetaxel 140mg/7ml solution for infusion vials
+0801050D0AAAIAI,Docetaxel 160mg/8ml solution for infusion vials
+0801050D0AAALAL,Docetaxel 20mg/0.72ml inf vials and diluent
+0801050D0AAAMAM,Docetaxel 80mg/2.88ml inf vials and diluent
+0801050D0BB,Taxotere
+0801050D0BBAAAA,Taxotere 20mg/0.5ml solution for infusion vials and diluent
+0801050D0BBABAB,Taxotere 80mg/2ml solution for infusion vials and diluent
+0801050D0BBACAC,Taxotere 20mg/1ml concentrate for inf vials
+0801050D0BBADAD,Taxotere 80mg/4ml concentrate for inf vials
+0801050D0BBAEAI,Taxotere 160mg/8ml concentrate for inf vials
+0801050D0BC,Taxceus
+0801050D0BCAAAC,Taxceus 20mg/1ml concentrate for solution for infusion vials
+0801050D0BCABAD,Taxceus 80mg/4ml concentrate for solution for infusion vials
+0801050D0BCACAH,Taxceus 140mg/7ml concentrate for inf vials
+0801050F0,Carboplatin
+0801050F0AA,Carboplatin
+0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials
+0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials
+0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials
+0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials
+0801050F0BB,Paraplatin
+0801050F0BBADAD,Paraplatin 50mg/5ml solution for infusion vials
+0801050F0BBAEAE,Paraplatin 150mg/15ml solution for infusion vials
+0801050F0BBAFAF,Paraplatin 450mg/45ml solution for infusion vials
+0801050F0BBAGAG,Paraplatin 600mg/60ml solution for infusion vials
+0801050I0,Cisplatin
+0801050I0AA,Cisplatin
+0801050I0AAABAB,Cisplatin 50mg powder for solution for infusion vials
+0801050I0AAADAD,Cisplatin 50mg/50ml solution for infusion vials
+0801050I0AAAEAE,Cisplatin 10mg/10ml solution for infusion vials
+0801050I0AAAFAF,Cisplatin 100mg/100ml solution for infusion vials
+0801050J0,Crisantaspase
+0801050J0AA,Crisantaspase
+0801050J0AAAAAA,"Crisantaspase 10,000unit inj vials"
+0801050J0BB,Erwinase
+0801050J0BBAAAA,"Erwinase 10,000unit powder for solution for injection vials"
+0801050L0,Dacarbazine
+0801050L0AA,Dacarbazine
+0801050L0AAAAAA,Dacarbazine 100mg powder for solution for injection vials
+0801050L0AAABAB,Dacarbazine 200mg powder for solution for injection vials
+0801050L0AAACAC,Dacarbazine 600mg powder for solution for infusion vials
+0801050L0AAADAD,Dacarbazine 500mg powder for solution for infusion vials
+0801050L0AAAEAE,Dacarbazine 1g powder for solution for infusion vials
+0801050L0BB,DTIC-Dome
+0801050L0BBABAB,DTIC-Dome 200mg powder for solution for injection vials
+0801050P0,Hydroxycarbamide
+0801050P0AA,Hydroxycarbamide
+0801050P0AAAAAA,Hydroxycarbamide 500mg capsules
+0801050P0AAABAB,Hydroxycarbamide 500mg/5ml oral solution
+0801050P0AAACAC,Hydroxycarbamide 300mg capsules
+0801050P0AAADAD,Hydroxycarbamide 500mg/5ml oral suspension
+0801050P0AAAEAE,Hydroxycarbamide 500mg/5ml oral solution sugar free
+0801050P0BB,Hydrea
+0801050P0BBAAAA,Hydrea 500mg capsules
+0801050P0BC,Droxia
+0801050P0BCAAAC,Droxia 300mg capsules
+0801050P0BD,Xromi
+0801050P0BDAAAE,Xromi 100mg/ml oral solution
+0801050Q0,Irinotecan hydrochloride
+0801050Q0AA,Irinotecan hydrochloride
+0801050Q0AAAAAA,Irinotecan 100mg/5ml solution for infusion vials
+0801050Q0AAABAB,Irinotecan 40mg/2ml solution for infusion vials
+0801050Q0AAACAC,Irinotecan 300mg/15ml solution for infusion vials
+0801050Q0AAADAD,Irinotecan 500mg/25ml solution for infusion vials
+0801050Q0AAAEAE,Irinotecan pegylated liposomal 43mg/10ml inf vials
+0801050Q0BB,Campto
+0801050Q0BBAAAA,Campto 100mg/5ml concentrate for solution for infusion vials
+0801050Q0BBABAB,Campto 40mg/2ml concentrate for solution for infusion vials
+0801050Q0BBACAC,Campto 300mg/15ml concentrate for inf vials
+0801050Q0BC,Onivyde
+0801050Q0BCAAAE,Onivyde pegylated liposomal 43mg/10ml concentrate for inf
+0801050R0,Mitotane
+0801050R0AA,Mitotane
+0801050R0AAAAAA,Mitotane 500mg tablets
+0801050R0BB,Lysodren
+0801050R0BBAAAA,Lysodren 500mg tablets
+0801050S0,Pentostatin
+0801050S0AA,Pentostatin
+0801050S0AAAAAA,Pentostatin 10mg powder for solution for injection vials
+0801050S0BB,Nipent
+0801050S0BBAAAA,Nipent 10mg powder for solution for injection vials
+0801050U0,Procarbazine hydrochloride
+0801050U0AA,Procarbazine hydrochloride
+0801050U0AAAAAA,Procarbazine 50mg capsules
+0801050V0,Paclitaxel
+0801050V0AA,Paclitaxel
+0801050V0AAAAAA,Paclitaxel 30mg/5ml solution for infusion vials
+0801050V0AAABAB,Paclitaxel 100mg/16.7ml solution for infusion vials
+0801050V0AAACAC,Paclitaxel 150mg/25ml solution for infusion vials
+0801050V0AAADAD,Paclitaxel 300mg/50ml solution for infusion vials
+0801050V0BB,Taxol
+0801050V0BBAAAA,Taxol 30mg/5ml solution for infusion vials
+0801050V0BBABAB,Taxol 100mg/16.7ml solution for infusion vials
+0801050V0BBACAD,Taxol 300mg/50ml solution for infusion vials
+0801050V0BBADAC,Taxol 150mg/25ml solution for infusion vials
+0801050V0BC,Paxene
+0801050V0BCAAAA,Paxene 30mg/5ml solution for infusion vials
+0801050V0BCABAB,Paxene 100mg/16.7ml solution for infusion vials
+0801050V0BCACAC,Paxene 150mg/25ml solution for infusion vials
+0801050V0BCADAD,Paxene 300mg/50ml solution for infusion vials
+0801050W0,Razoxane
+0801050W0AA,Razoxane
+0801050W0AAAAAA,Razoxane 125mg tablets
+0801050X0,Tretinoin
+0801050X0AA,Tretinoin (Systemic)
+0801050X0AAAAAA,Tretinoin 10mg capsules
+0801050X0BB,Vesanoid
+0801050X0BBAAAA,Vesanoid 10mg capsules
+0801050Y0,Temozolomide
+0801050Y0AA,Temozolomide
+0801050Y0AAAAAA,Temozolomide 100mg capsules
+0801050Y0AAABAB,Temozolomide 250mg capsules
+0801050Y0AAACAC,Temozolomide 5mg capsules
+0801050Y0AAADAD,Temozolomide 20mg capsules
+0801050Y0AAAEAE,Temozolomide 140mg capsules
+0801050Y0AAAFAF,Temozolomide 180mg capsules
+0801050Y0BB,Temodal
+0801050Y0BBAAAA,Temodal 100mg capsules
+0801050Y0BBABAB,Temodal 250mg capsules
+0801050Y0BBACAC,Temodal 5mg capsules
+0801050Y0BBADAD,Temodal 20mg capsules
+0801050Y0BBAEAE,Temodal 140mg capsules
+0801050Y0BBAFAF,Temodal 180mg capsules
+0801050Y0BC,Temomedac
+0801050Y0BCAAAC,Temomedac 5mg capsules
+0801050Y0BCABAD,Temomedac 20mg capsules
+0801050Y0BCACAA,Temomedac 100mg capsules
+0801050Y0BCADAE,Temomedac 140mg capsules
+0801050Y0BCAEAF,Temomedac 180mg capsules
+0801050Y0BCAFAB,Temomedac 250mg capsules
+080106,Other cytotoxic drugs
+0801060,Other cytotoxic drugs
+0801060A0,Daunorubicin/cytarabine
+0801060A0AA,Daunorubicin/cytarabine
+0801060A0AAAAAA,Daunorubicin 44mg / Cytarabine 100mg inf vials
+0801060A0BB,Vyxeos
+0801060A0BBAAAA,Vyxeos liposomal 44mg/100mg pdr for concentrate for inf
+0802,Drugs affecting the immune response
+080201,Antiproliferative immunosuppressants
+0802010,Antiproliferative immunosuppressants
+0802010G0,Azathioprine
+0802010G0AA,Azathioprine
+0802010G0AAAAAA,Azathioprine 50mg powder for solution for injection vials
+0802010G0AAADAD,Azathioprine 25mg tablets
+0802010G0AAAEAE,Azathioprine 50mg tablets
+0802010G0AAAHAH,Azathioprine 10mg capsules
+0802010G0AAAPAP,Azathioprine 50mg/5ml oral solution
+0802010G0AAAQAQ,Azathioprine 40mg/5ml oral liquid
+0802010G0AAARAR,Azathioprine 10mg/5ml oral liquid
+0802010G0AAASAS,Azathioprine 25mg/5ml oral solution
+0802010G0AAATAT,Azathioprine 75mg/5ml oral liquid
+0802010G0AAAUAU,Azathioprine 15mg/5ml oral liquid
+0802010G0AAAVAV,Azathioprine 100mg/5ml oral solution
+0802010G0AAAWAW,Azathioprine 20mg/5ml oral solution
+0802010G0AAAXAX,Azathioprine 125mg/5ml oral liquid
+0802010G0AAAYAY,Azathioprine 5mg/5ml oral liquid
+0802010G0AABABA,Azathioprine 45mg/5ml oral liquid
+0802010G0AABBBB,Azathioprine 7mg/5ml oral liquid
+0802010G0AABCBC,Azathioprine 30mg/5ml oral liquid
+0802010G0AABDBD,Azathioprine 17.5mg/5ml oral liquid
+0802010G0AABEBE,Azathioprine 35mg/5ml oral liquid
+0802010G0AABFBF,Azathioprine 37.5mg/5ml oral liquid
+0802010G0AABGBG,Azathioprine 60mg/5ml oral liquid
+0802010G0AABIBI,Azathioprine 200mg/5ml oral liquid
+0802010G0AABJBJ,Azathioprine 175mg/5ml oral liquid
+0802010G0AABKBK,Azathioprine 17mg/5ml oral liquid
+0802010G0AABPBP,Azathioprine 5mg capsules
+0802010G0AABRBR,Azathioprine 30mg capsules
+0802010G0AABSBS,Azathioprine 12mg/5ml oral liquid
+0802010G0AABTBT,Azathioprine 4mg/5ml oral liquid
+0802010G0AABXBX,Azathioprine 120mg/5ml oral liquid
+0802010G0AABYBY,Azathioprine 150mg/5ml oral liquid
+0802010G0AABZBZ,Azathioprine 70mg/5ml oral liquid
+0802010G0AACBCB,Azathioprine 2.5mg/5ml oral liquid
+0802010G0AACCCC,Azathioprine 80mg/5ml oral liquid
+0802010G0AACDCD,Azathioprine 90mg/5ml oral liquid
+0802010G0AACECE,Azathioprine 13mg/5ml oral liquid
+0802010G0AACGCG,Azathioprine 250mg/5ml oral liquid
+0802010G0AACHCH,Azathioprine 50mg/5ml oral suspension
+0802010G0AACICI,Azathioprine 25mg/5ml oral suspension
+0802010G0AACJCJ,Azathioprine 100mg/5ml oral suspension
+0802010G0AACKCK,Azathioprine 20mg/5ml oral suspension
+0802010G0AACLCL,Azathioprine 65mg/5ml oral suspension
+0802010G0BC,Imuran
+0802010G0BCAAAD,Imuran 25mg tablets
+0802010G0BCABAE,Imuran 50mg tablets
+0802010G0BCACAA,Imuran 50mg powder for solution for injection vials
+0802010G0BE,Immunoprin
+0802010G0BEAAAE,Immunoprin 50mg tablets
+0802010G0BH,Azapress
+0802010G0BHAAAE,Azapress 50mg tablets
+0802010M0,Mycophenolate mofetil
+0802010M0AA,Mycophenolate mofetil (Systemic)
+0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules
+0802010M0AAABAB,Mycophenolate mofetil 500mg tablets
+0802010M0AAACAC,Mycophenolate mofetil 250mg/5ml oral suspension
+0802010M0AAADAD,Mycophenolate mofetil 300mg/5ml oral suspension
+0802010M0AAAEAE,Mycophenolate mofetil 500mg/5ml oral suspension
+0802010M0AAAGAG,Mycophenolate mofetil 100mg/5ml oral suspension
+0802010M0AAAHAH,Mycophenolate mofetil 500mg inf vials
+0802010M0AAAIAI,Mycophenolate mofetil 125mg/5ml oral suspension
+0802010M0AAAJAJ,Mycophenolate mofetil 1g/5ml oral suspension sugar free
+0802010M0BB,CellCept
+0802010M0BBAAAA,CellCept 250mg capsules
+0802010M0BBABAB,CellCept 500mg tablets
+0802010M0BBADAH,CellCept 500mg powder for solution for infusion vials
+0802010M0BBAEAJ,CellCept 1g/5ml oral suspension
+0802010M0BC,Myfenax
+0802010M0BCAAAB,Myfenax 500mg tablets
+0802010M0BCABAA,Myfenax 250mg capsules
+0802010M0BD,Arzip
+0802010M0BDAAAA,Arzip 250mg capsules
+0802010M0BDABAB,Arzip 500mg tablets
+0802010N0,Mycophenolic sodium
+0802010N0AA,Mycophenolic sodium
+0802010N0AAAAAA,Mycophenolic acid 180mg gastro-resistant tablets
+0802010N0AAABAB,Mycophenolic acid 360mg gastro-resistant tablets
+0802010N0BB,Myfortic
+0802010N0BBAAAA,Myfortic 180mg gastro-resistant tablets
+0802010N0BBABAB,Myfortic 360mg gastro-resistant tablets
+0802010N0BC,Ceptava
+0802010N0BCAAAA,Ceptava 180mg gastro-resistant tablets
+0802010N0BCABAB,Ceptava 360mg gastro-resistant tablets
+080202,Corticosteroids and other immunosuppressants
+0802020,Corticosteroids and other immunosuppressants
+0802020D0,Basiliximab
+0802020D0AA,Basiliximab
+0802020D0AAAAAA,Basiliximab 20mg inj vials
+0802020D0AAABAB,Basiliximab 10mg inj vials
+0802020D0BB,Simulect
+0802020D0BBAAAA,Simulect 20mg inj vials
+0802020D0BBABAB,Simulect 10mg inj vials
+0802020G0,Ciclosporin
+0802020G0AA,Ciclosporin (Systemic)
+0802020G0AAAAAA,Ciclosporin 50mg/1ml solution for infusion ampoules
+0802020G0AAACAC,Ciclosporin 25mg capsules
+0802020G0AAADAD,Ciclosporin 100mg capsules
+0802020G0AAAEAE,Ciclosporin 250mg/5ml solution for infusion ampoules
+0802020G0AAAFAF,Ciclosporin 50mg capsules
+0802020G0AAAGAG,Ciclosporin 100mg/ml oral solution sugar free
+0802020G0AAAHAH,Ciclosporin 10mg capsules
+0802020G0BB,Sandimmun
+0802020G0BBAAAG,Sandimmun 100mg/ml oral solution
+0802020G0BBABAE,Sandimmun 250mg/5ml concentrate for inf ampoules
+0802020G0BBACAA,Sandimmun 50mg/1ml concentrate for inf ampoules
+0802020G0BBADAC,Sandimmun 25mg capsules
+0802020G0BBAEAD,Sandimmun 100mg capsules
+0802020G0BBAFAF,Sandimmun 50mg capsules
+0802020G0BC,Neoral
+0802020G0BCAAAG,Neoral 100mg/ml oral solution
+0802020G0BCABAC,Neoral 25mg capsules
+0802020G0BCACAF,Neoral 50mg capsules
+0802020G0BCADAD,Neoral 100mg capsules
+0802020G0BCAEAH,Neoral 10mg capsules
+0802020G0BE,Deximune
+0802020G0BEAAAC,Deximune 25mg capsules
+0802020G0BEABAF,Deximune 50mg capsules
+0802020G0BEACAD,Deximune 100mg capsules
+0802020G0BF,Capimune
+0802020G0BFAAAC,Capimune 25mg capsules
+0802020G0BFABAF,Capimune 50mg capsules
+0802020G0BFACAD,Capimune 100mg capsules
+0802020G0BG,Capsorin
+0802020G0BGAAAD,Capsorin 100mg capsules
+0802020G0BGABAF,Capsorin 50mg capsules
+0802020G0BGACAC,Capsorin 25mg capsules
+0802020G0BGADAG,Capsorin 100mg/ml oral solution
+0802020G0BH,Vanquoral
+0802020G0BHAAAC,Vanquoral 25mg capsules
+0802020G0BHABAF,Vanquoral 50mg capsules
+0802020G0BHACAD,Vanquoral 100mg capsules
+0802020G0BHADAH,Vanquoral 10mg capsules
+0802020T0,Tacrolimus
+0802020T0AA,Tacrolimus (Systemic)
+0802020T0AAAAAA,Tacrolimus 5mg capsules
+0802020T0AAABAB,Tacrolimus 1mg capsules
+0802020T0AAACAC,Tacrolimus 5mg/1ml solution for infusion ampoules
+0802020T0AAAFAF,Tacrolimus 500microgram capsules
+0802020T0AAAGAG,Tacrolimus 2.5mg/5ml oral liquid
+0802020T0AAAKAK,Tacrolimus 2mg/5ml oral suspension
+0802020T0AAALAL,Tacrolimus 5mg/5ml oral suspension
+0802020T0AAAMAM,Tacrolimus 500microgram modified-release capsules
+0802020T0AAANAN,Tacrolimus 1mg modified-release capsules
+0802020T0AAAPAP,Tacrolimus 5mg modified-release capsules
+0802020T0AAARAR,Tacrolimus 500micrograms/5ml oral suspension
+0802020T0AAASAS,Tacrolimus 25mg/5ml oral liquid
+0802020T0AAATAT,Tacrolimus 3mg modified-release capsules
+0802020T0AAAVAV,Tacrolimus 200microgram granules sachets sugar free
+0802020T0AAAWAW,Tacrolimus 1mg granules sachets sugar free
+0802020T0AAAXAX,Tacrolimus 0.0001% mouthwash
+0802020T0AABABA,Tacrolimus 800micrograms/5ml oral solution
+0802020T0AABBBB,Tacrolimus 900micrograms/5ml oral suspension
+0802020T0AABCBC,Tacrolimus 1mg modified-release tablets
+0802020T0AABDBD,Tacrolimus 750microgram modified-release tablets
+0802020T0AABEBE,Tacrolimus 4mg modified-release tablets
+0802020T0AABFBF,Tacrolimus 750microgram capsules
+0802020T0AABGBG,Tacrolimus 2mg capsules
+0802020T0AABHBH,Tacrolimus 2microgram suppositories
+0802020T0AABIBI,Tacrolimus 2mg suppositories
+0802020T0AABJBJ,Tacrolimus 2mg modified-release capsules
+0802020T0BB,Prograf
+0802020T0BBAAAA,Prograf 5mg capsules
+0802020T0BBABAB,Prograf 1mg capsules
+0802020T0BBACAC,Prograf 5mg/1ml solution for infusion ampoules
+0802020T0BBADAF,Prograf 500microgram capsules
+0802020T0BC,Advagraf
+0802020T0BCAAAM,Advagraf 0.5mg modified-release capsules
+0802020T0BCABAN,Advagraf 1mg modified-release capsules
+0802020T0BCACAP,Advagraf 5mg modified-release capsules
+0802020T0BCADAT,Advagraf 3mg modified-release capsules
+0802020T0BD,Modigraf
+0802020T0BDAAAV,Modigraf 0.2mg granules sachets
+0802020T0BDABAW,Modigraf 1mg granules sachets
+0802020T0BE,Adoport
+0802020T0BEAAAB,Adoport 1mg capsules
+0802020T0BEABAA,Adoport 5mg capsules
+0802020T0BEACAF,Adoport 0.5mg capsules
+0802020T0BEADBF,Adoport 0.75mg capsules
+0802020T0BEAEBG,Adoport 2mg capsules
+0802020T0BF,Vivadex
+0802020T0BFAAAA,Vivadex 5mg capsules
+0802020T0BFABAB,Vivadex 1mg capsules
+0802020T0BFACAF,Vivadex 0.5mg capsules
+0802020T0BG,Tacni
+0802020T0BGAAAF,Tacni 0.5mg capsules
+0802020T0BGABAB,Tacni 1mg capsules
+0802020T0BGACAA,Tacni 5mg capsules
+0802020T0BH,Capexion
+0802020T0BHAAAF,Capexion 0.5mg capsules
+0802020T0BHABAB,Capexion 1mg capsules
+0802020T0BHACAA,Capexion 5mg capsules
+0802020T0BI,Perixis
+0802020T0BIAAAF,Perixis 0.5mg capsules
+0802020T0BIABAB,Perixis 1mg capsules
+0802020T0BIACAA,Perixis 5mg capsules
+0802020T0BJ,Envarsus
+0802020T0BJAABC,Envarsus 1mg modified-release tablets
+0802020T0BJABBD,Envarsus 750microgram modified-release tablets
+0802020T0BJACBE,Envarsus 4mg modified-release tablets
+0802020T0BK,Dailiport
+0802020T0BKAAAM,Dailiport 0.5mg modified-release capsules
+0802020T0BKABAN,Dailiport 1mg modified-release capsules
+0802020T0BKACAT,Dailiport 3mg modified-release capsules
+0802020T0BKADAP,Dailiport 5mg modified-release capsules
+0802020T0BKAEBJ,Dailiport 2mg modified-release capsules
+0802020U0,Sirolimus
+0802020U0AA,Sirolimus
+0802020U0AAACAC,Sirolimus 1mg/ml oral solution sugar free
+0802020U0AAADAD,Sirolimus 1mg tablets
+0802020U0AAAEAE,Sirolimus 2mg tablets
+0802020U0AAAFAF,Sirolimus 500microgram tablets
+0802020U0BB,Rapamune
+0802020U0BBACAC,Rapamune 1mg/ml oral solution
+0802020U0BBADAD,Rapamune 1mg tablets
+0802020U0BBAEAE,Rapamune 2mg tablets
+0802020U0BBAFAF,Rapamune 0.5mg tablets
+0802020V0,Daclizumab
+0802020V0AA,Daclizumab
+0802020V0AAAAAA,Daclizumab 25mg/5ml solution for infusion vials
+0802020V0BB,Zenapax
+0802020V0BBAAAA,Zenapax 25mg/5ml solution for infusion vials
+0802020X0,Antithymocyte immunoglobulin
+0802020X0AA,Antithymocyte immunoglobulin
+0802020X0AAAAAA,Antithymocyte immunoglobulin (rabbit) 25mg inf vials
+0802020X0BB,Thymoglobuline
+0802020X0BBAAAA,Thymoglobuline 25mg inf vials
+0802020Y0,Belatacept
+0802020Y0AA,Belatacept
+0802020Y0AAAAAA,Belatacept 250mg powder for solution for infusion vials
+0802020Y0BB,Nulojix
+0802020Y0BBAAAA,Nulojix 250mg pdr for concentrate for inf vials
+080203,Anti-lymphocyte monoclonal antibodies
+0802030,Anti-lymphocyte monoclonal antibodies
+0802030E0,Alemtuzumab
+0802030E0AA,Alemtuzumab
+0802030E0AAAAAA,Alemtuzumab 30mg/1ml solution for infusion vials
+0802030E0AAABAB,Alemtuzumab 12mg/1.2ml solution for infusion vials
+0802030E0BB,MabCampath
+0802030E0BBAAAA,MabCampath 30mg/1ml concentrate for inf vials
+0802030E0BC,Lemtrada
+0802030E0BCAAAB,Lemtrada 12mg/1.2ml concentrate for inf vials
+0802030F0,Rituximab
+0802030F0AA,Rituximab
+0802030F0AAAAAA,Rituximab 500mg/50ml solution for infusion vials
+0802030F0AAABAB,Rituximab 100mg/10ml solution for infusion vials
+0802030F0AAACAC,Rituximab 1.4g/11.7ml solution for injection vials
+0802030F0BB,MabThera
+0802030F0BBAAAA,MabThera 500mg/50ml concentrate for inf vials
+0802030F0BBABAB,MabThera 100mg/10ml concentrate for inf vials
+0802030F0BBACAC,MabThera 1400mg/11.7ml solution for injection vials
+0802030F0BC,Truxima
+0802030F0BCAAAA,Truxima 500mg/50ml concentrate for inf vials
+0802030F0BCABAB,Truxima 100mg/10ml concentrate for inf vials
+0802030F0BD,Rixathon
+0802030F0BDAAAB,Rixathon 100mg/10ml concentrate for inf vials
+0802030F0BDABAA,Rixathon 500mg/50ml concentrate for inf vials
+0802030F0BE,Ruxience
+0802030F0BEABAA,Ruxience 500mg/50ml concentrate for inf vials
+0802030F0BEACAB,Ruxience 100mg/10ml concentrate for inf vials
+0802030G0,Obinutuzumab
+0802030G0AA,Obinutuzumab
+0802030G0AAAAAA,Obinutuzumab 1g/40ml solution for infusion vials
+0802030G0BB,Gazyvaro
+0802030G0BBAAAA,Gazyvaro 1000mg/40ml concentrate for inf vials
+080204,Other immunomodulating drugs
+0802040,Other immunomodulating drugs
+0802040A0,Peginterferon alpha
+0802040A0AA,Peginterf A
+0802040A0AAAAAA,Peginterferon alfa-2b 80microgram inj vials
+0802040A0AAABAB,Peginterferon alfa-2b 100microgram inj vials
+0802040A0AAACAC,Peginterferon alfa-2b 50microgram inj vials
+0802040A0AAADAD,Peginterferon alfa-2b 150microgram inj vials
+0802040A0AAAEAE,Peginterferon alfa-2b 120microgram inj vials
+0802040A0AAAFAF,Peginterferon alfa-2a 180micrograms/0.5ml inj pfs
+0802040A0AAAGAG,Peginterferon alfa-2a 135micrograms/0.5ml inj pfs
+0802040A0AAAHAH,Peginterferon alfa-2b 150microgram inj pf dispos dev
+0802040A0AAAIAI,Peginterferon alfa-2b 120microgram inj pf dispos dev
+0802040A0AAAJAJ,Peginterferon alfa-2b 50microgram inj pf dispos dev
+0802040A0AAAKAK,Peginterferon alfa-2b 100microgram inj pf dispos dev
+0802040A0AAALAL,Peginterferon alfa-2b 80microgram inj pf dispos dev
+0802040A0AAAMAM,Peginterferon alfa-2a 135micrograms/0.5ml inj pf dispos dev
+0802040A0AAANAN,Peginterferon alfa-2a 180micrograms/0.5ml inj pf dispos dev
+0802040A0AAAPAP,Peginterferon alfa-2a 90micrograms/0.5ml inj pfs
+0802040A0BB,ViraferonPeg
+0802040A0BBAAAA,ViraferonPeg 80microgram inj vials
+0802040A0BBABAB,ViraferonPeg 100microgram inj vials
+0802040A0BBACAC,ViraferonPeg 50microgram inj vials
+0802040A0BBADAD,ViraferonPeg 150microgram inj vials
+0802040A0BBAEAE,ViraferonPeg 120microgram inj vials
+0802040A0BBAFAH,ViraferonPeg 150microgram inj pre-filled pens
+0802040A0BBAGAI,ViraferonPeg 120microgram inj pre-filled pens
+0802040A0BBAHAJ,ViraferonPeg 50microgram inj pre-filled pens
+0802040A0BBAIAK,ViraferonPeg 100microgram inj pre-filled pens
+0802040A0BBAJAL,ViraferonPeg 80microgram inj pre-filled pens
+0802040A0BBAKAL,ViraferonPeg 80microgram inj pre-filled pens CLEARCLICK
+0802040A0BBALAJ,ViraferonPeg 50microgram inj pre-filled pens CLEARCLICK
+0802040A0BBAMAI,ViraferonPeg 120microgram inj pre-filled pens CLEARCLICK
+0802040A0BBANAH,ViraferonPeg 150microgram inj pre-filled pens CLEARCLICK
+0802040A0BBAPAK,ViraferonPeg 100microgram inj pre-filled pens CLEARCLICK
+0802040A0BC,Pegintron
+0802040A0BCAAAA,Pegintron 80microgram inj vials
+0802040A0BCABAB,PegIntron 100microgram inj vials
+0802040A0BCACAC,Pegintron 50microgram inj vials
+0802040A0BCADAD,Pegintron 150microg inj vials
+0802040A0BCAEAE,Pegintron 120microgram inj vials
+0802040A0BD,Pegasys
+0802040A0BDAAAF,Pegasys 180micrograms/0.5ml inj pre-filled syringes
+0802040A0BDABAG,Pegasys 135micrograms/0.5ml inj pre-filled syringes
+0802040A0BDACAM,Pegasys 135micrograms/0.5ml inj pre-filled pens
+0802040A0BDADAN,Pegasys 180micrograms/0.5ml inj pre-filled pens
+0802040A0BDAEAP,Pegasys 90micrograms/0.5ml inj pre-filled syringes
+0802040AA,Thalidomide (Immunomodulating)
+0802040AAAA,Thalidomide (Immunomodulating)
+0802040AAAAAAAA,Thalidomide 50mg capsules
+0802040AABB,Thalidomide Pharmion
+0802040AABBAAAA,Thalidomide Celgene 50mg capsules
+0802040AB,Histamine dihydrocloride
+0802040ABAA,Histamine dihydrochloride
+0802040ABAAAAAA,Histamine dihydrochloride 500micrograms/0.5ml inj vials
+0802040ABBB,Ceplene
+0802040ABBBAAAA,Ceplene 0.5mg/0.5ml solution for injection vials
+0802040AC,Canakinumab
+0802040ACAA,Canakinumab
+0802040ACAAAAAA,Canakinumab 150mg powder for solution for injection vials
+0802040ACAAABAB,Canakinumab 150mg/1ml solution for injection vials
+0802040ACBB,Ilaris
+0802040ACBBAAAA,Ilaris 150mg powder for solution for injection vials
+0802040ACBBABAB,Ilaris 150mg/1ml solution for injection vials
+0802040AD,Fingolimod
+0802040ADAA,Fingolimod hydrochloride
+0802040ADAAAAAA,Fingolimod 500microgram capsules
+0802040ADAAABAB,Fingolimod 250microgram capsules
+0802040ADBB,Gilenya
+0802040ADBBAAAA,Gilenya 0.5mg capsules
+0802040ADBBABAB,Gilenya 0.25mg capsules
+0802040AI,Dabrafenib
+0802040AIAA,Dabrafenib
+0802040AIAAAAAA,Dabrafenib 50mg capsules
+0802040AIAAABAB,Dabrafenib 75mg capsules
+0802040AIBB,Tafinlar
+0802040AIBBAAAA,Tafinlar 50mg capsules
+0802040AIBBABAB,Tafinlar 75mg capsules
+0802040AJ,Pomalidomide
+0802040AJAA,Pomalidomide
+0802040AJAAAAAA,Pomalidomide 1mg capsules
+0802040AJAAABAB,Pomalidomide 2mg capsules
+0802040AJAAACAC,Pomalidomide 3mg capsules
+0802040AJAAADAD,Pomalidomide 4mg capsules
+0802040AJBB,Imnovid
+0802040AJBBAAAA,Imnovid 1mg capsules
+0802040AJBBABAB,Imnovid 2mg capsules
+0802040AJBBACAC,Imnovid 3mg capsules
+0802040AJBBADAD,Imnovid 4mg capsules
+0802040AK,Dimethyl fumar
+0802040AKAA,Dimethyl fumar
+0802040AKAAAAAA,Dimethyl fumarate 120mg gastro-resistant capsules
+0802040AKAAABAB,Dimethyl fumarate 240mg gastro-resistant capsules
+0802040AKAAACAC,Dimethyl fumarate 30mg gastro-resistant tablets
+0802040AKAAADAD,Dimethyl fumarate 120mg gastro-resistant tablets
+0802040AKBB,Tecfidera
+0802040AKBBAAAA,Tecfidera 120mg gastro-resistant capsules
+0802040AKBBABAB,Tecfidera 240mg gastro-resistant capsules
+0802040AKBC,Skilarence
+0802040AKBCAAAC,Skilarence 30mg gastro-resistant tablets
+0802040AKBCABAD,Skilarence 120mg gastro-resistant tablets
+0802040AL,Teriflunomide
+0802040ALAA,Teriflunomide
+0802040ALAAAAAA,Teriflunomide 14mg tablets
+0802040ALBB,Aubagio
+0802040ALBBAAAA,Aubagio 14mg tablets
+0802040AM,Siltuximab
+0802040AMAA,Siltuximab
+0802040AMAAAAAA,Siltuximab 400mg powder for solution for infusion vials
+0802040AMAAABAB,Siltuximab 100mg powder for solution for infusion vials
+0802040AMBB,Sylvant
+0802040AMBBAAAA,Sylvant 400mg pdr for concentrate for inf vials
+0802040AMBBABAB,Sylvant 100mg pdr for concentrate for inf vials
+0802040AP,Peginterferon beta
+0802040APAA,Peginterf B
+0802040APAAAAAA,Peginterferon beta-1a 63microg and 94microg/0.5ml inj
+0802040APAAABAB,Peginterferon beta-1a 125micrograms/0.5ml inj pf dispos dev
+0802040APBB,Plegridy
+0802040APBBAAAA,Plegridy 63mcg/0.5ml and 94mcg/0.5ml inj pf pens TIP
+0802040APBBABAB,Plegridy 125micrograms/0.5ml inj pre-filled pens
+0802040AQ,Aldesleukin
+0802040AQAA,Aldesleukin
+0802040AQAAAAAA,Aldesleukin 18million unit inj vials
+0802040AQBB,Proleukin
+0802040AQBBAAAA,Proleukin 18million unit inj vials
+0802040AT,Nivolumab
+0802040ATAA,Nivolumab
+0802040ATAAAAAA,Nivolumab 40mg/4ml solution for infusion vials
+0802040ATAAABAB,Nivolumab 100mg/10ml solution for infusion vials
+0802040ATAAACAC,Nivolumab 240mg/24ml solution for infusion vials
+0802040ATBB,Opdivo
+0802040ATBBAAAA,Opdivo 40mg/4ml concentrate for solution for infusion vials
+0802040ATBBABAB,Opdivo 100mg/10ml concentrate for inf vials
+0802040ATBBACAC,Opdivo 240mg/24ml concentrate for inf vials
+0802040ATBC,Nivolumab BMS
+0802040ATBCAAAB,Nivolumab BMS 100mg/10ml concentrate for inf vials
+0802040ATBCABAA,Nivolumab BMS 40mg/4ml concentrate for inf vials
+0802040AY,Cladribine (Immunomodulating)
+0802040AYAA,Cladribine (Immunoglobulin)
+0802040AYAAAAAA,Cladribine 10mg tablets
+0802040AYBB,Mavenclad
+0802040AYBBAAAA,Mavenclad 10mg tablets
+0802040AZ,Daclizumab (Immunomodulating)
+0802040AZAA,Daclizumab (Immunomodulating)
+0802040AZAAAAAA,Daclizumab 150mg/1ml inj pre-filled disposable devices
+0802040AZBB,Zinbryta
+0802040AZBBAAAA,Zinbryta 150mg/1ml solution for injection pre-filled pens
+0802040BA,Tivozanib
+0802040BAAA,Tivozanib
+0802040BAAAAAAA,Tivozanib 1340microgram capsules
+0802040BAAAABAB,Tivozanib 890microgram capsules
+0802040BABB,Fotivda
+0802040BABBAAAA,Fotivda 1340microgram capsules
+0802040BABBABAB,Fotivda 890microgram capsules
+0802040BB,Siponimod
+0802040BBAA,Siponimod
+0802040BBAAAAAA,Siponimod 250microgram tablets
+0802040BBAAABAB,Siponimod 2mg tablets
+0802040BBBB,Mayzent
+0802040BBBBAAAA,Mayzent 0.25mg tablets
+0802040BBBBABAB,Mayzent 2mg tablets
+0802040J0,Interferon alpha
+0802040J0AA,Interferon A
+0802040J0AAAGAG,Interferon alfa-2b 3million unit inj vials
+0802040J0AAAHAH,Interferon alfa-2b 10million unit inj vials
+0802040J0AAAKAK,Interferon alfa-2b 1million unit inj vials
+0802040J0AAAUAU,Interferon alfa-2b 18million units/3ml inj vials
+0802040J0AAAVAV,Interferon alfa-2a 3million units/0.5ml inj pfs
+0802040J0AAAWAW,Interferon alfa-2a 4.5million units/0.5ml inj pfs
+0802040J0AAAXAX,Interferon alfa-2a 6million units/0.5ml inj pfs
+0802040J0AAAYAY,Interferon alfa-2a 9million units/0.5ml inj pfs
+0802040J0AABBBB,Interferon alfa-2b 18million units/1.2ml inj pf dispos dev
+0802040J0AABCBC,Interferon alfa-2b 30million units/1.2ml inj pf dispos dev
+0802040J0AABDBD,Interferon alfa-2b 60million units/1.2ml inj pf dispos dev
+0802040J0AABEBE,Interferon alfa-2b 25million units/2.5ml inj multidose vials
+0802040J0AABFBF,Interferon alfa-2a 18million units/0.6ml inj cartridges
+0802040J0AABGBG,Interferon alfa-2a 18million units/0.5ml inj pfs
+0802040J0BB,IntronA
+0802040J0BBAAAG,IntronA 3million unit inj vials
+0802040J0BBACAH,IntronA 10million unit inj vials
+0802040J0BBAEAK,IntronA 1million unit inj vials
+0802040J0BBAIBB,IntronA 18million units/1.2ml inj multidose pens
+0802040J0BBAJBC,IntronA 30million units/1.2ml inj multidose pens
+0802040J0BBAKBD,IntronA 60million units/1.2ml inj multidose pens
+0802040J0BBALBE,IntronA 25million units/2.5ml inj multidose vials
+0802040J0BC,Roferon-A
+0802040J0BCAJAV,Roferon-A 3million units/0.5ml inj pre-filled syringes
+0802040J0BCAKAW,Roferon-A 4.5million units/0.5ml inj pre-filled syringes
+0802040J0BCALAX,Roferon-A 6million units/0.5ml inj pre-filled syringes
+0802040J0BCAMAY,Roferon-A 9million units/0.5ml inj pre-filled syringes
+0802040J0BCAPBF,Roferon-A 18million units/0.6ml inj cartridges
+0802040J0BCAQBG,Roferon-A 18million units/0.5ml inj pre-filled syringes
+0802040J0BF,Viraferon
+0802040J0BFACAU,Viraferon 18million units/3ml inj multidose vials
+0802040J0BFADBB,Viraferon 18million units/1.2ml inj multidose pens
+0802040J0BFAEBC,Viraferon 30million units/1.2ml inj multidose pens
+0802040M0,Interferon beta
+0802040M0AA,Interferon B
+0802040M0AAADAD,Interferon beta-1b 300microgram inj vials
+0802040M0AAAEAE,Interferon beta-1a 30microgram inj vials
+0802040M0AAAFAF,Interferon beta-1a 6million units/0.5ml inj pfs
+0802040M0AAAGAG,Interferon beta-1a 12million units/0.5ml inj pfs
+0802040M0AAAIAI,Interferon beta-1a 6mu/0.5ml & 2.4mu/0.2ml inj pfs
+0802040M0AAAJAJ,Interferon beta-1a 6million units/0.5ml inj 1.5ml cartridges
+0802040M0AAAKAK,Interferon beta-1a 12 million units/0.5ml inj 1.5ml cart
+0802040M0AAALAL,Generic Rebif initiation pack
+0802040M0AAAMAM,Interferon beta-1a 6million units/0.5ml inj pf dispos dev
+0802040M0AAANAN,Interferon beta-1a 12million units/0.5ml inj pf dispos dev
+0802040M0AAAQAQ,Interferon beta-1a 6mu/0.5ml & 2.4mu/0.2ml inj pf dev
+0802040M0BB,Rebif
+0802040M0BBADAF,Rebif 22micrograms/0.5ml (6million units) inj pfs
+0802040M0BBAEAG,Rebif 44micrograms/0.5ml (12million units) inj pfs
+0802040M0BBAFAI,Rebif 22microg/0.5ml inj and Rebif 8.8microg/0.2ml inj pfs
+0802040M0BBAGAJ,Rebif 22micrograms/0.5ml (6million units) inj 1.5ml cart
+0802040M0BBAHAK,Rebif 44micrograms/0.5ml (12million units) inj 1.5ml cart
+0802040M0BBAIAL,Rebif 8.8microg/0.1ml with 22microg/0.25ml initiation pack
+0802040M0BBAJAM,Rebif 22microg/0.5ml (6million units) inj pre-filled pens
+0802040M0BBAKAN,Rebif 44micrograms/0.5ml (12million units) inj pf pens
+0802040M0BBALAQ,Rebif 22microg/0.5ml inj and Rebif 8.8microg/0.2ml inj
+0802040M0BC,Betaferon
+0802040M0BCAAAD,Betaferon 300microgram inj vials
+0802040M0BD,Avonex
+0802040M0BDAAAE,Avonex 30microgram inj vials
+0802040M0BDABAF,Avonex 30micrograms/0.5ml (6million units) inj pfs
+0802040M0BDACAM,Avonex 30micrograms/0.5ml (6million units) inj pf pens
+0802040M0BE,Extavia
+0802040M0BEAAAD,Extavia 300microgram inj vials
+0802040U0,Glatiramer acetate
+0802040U0AA,Glatiramer acetate
+0802040U0AAAAAA,Glatiramer acetate 20mg inj vials
+0802040U0AAABAB,Glatiramer acetate 20mg/1ml inj pre-filled syringes
+0802040U0AAACAC,Glatiramer acetate 40mg/1ml inj pre-filled syringes
+0802040U0BB,Copaxone
+0802040U0BBAAAA,Copaxone 20mg inj vials
+0802040U0BBABAB,Copaxone 20mg/1ml solution for injection pre-filled syringes
+0802040U0BBACAC,Copaxone 40mg/1ml solution for injection pre-filled syringes
+0802040U0BC,Brabio
+0802040U0BCAAAB,Brabio 20mg/1ml solution for injection pre-filled syringes
+0802040U0BCABAC,Brabio 40mg/1ml solution for injection pre-filled syringes
+0802040W0,Natalizumab
+0802040W0AA,Natalizumab
+0802040W0AAAAAA,Natalizumab 300mg/15ml solution for infusion vials
+0802040W0BB,Tysabri
+0802040W0BBAAAA,Tysabri 300mg/15ml concentrate for inf vials
+0802040X0,Bacillus calmette-guerin (B.C.G.)
+0802040X0AA,Bacillus Calmette-Guerin (B.C.G.) (Immunomodulator)
+0802040X0AAAAAA,TICE strain Bacillus of Calmette-Guerin 12.5mg instil vials
+0802040X0AAABAB,Connaught strain BCG 81mg instil vials
+0802040X0BB,OncoTICE
+0802040X0BBAAAA,OncoTICE 12.5mg instil vials
+0802040X0BC,ImmuCyst
+0802040X0BCAAAB,ImmuCyst 81mg instil vials
+0802040Y0,Lenalidomide
+0802040Y0AA,Lenalidomide
+0802040Y0AAAAAA,Lenalidomide 5mg capsules
+0802040Y0AAABAB,Lenalidomide 10mg capsules
+0802040Y0AAACAC,Lenalidomide 15mg capsules
+0802040Y0AAADAD,Lenalidomide 25mg capsules
+0802040Y0AAAEAE,Lenalidomide 2.5mg capsules
+0802040Y0AAAFAF,Lenalidomide 7.5mg capsules
+0802040Y0AAAGAG,Lenalidomide 20mg capsules
+0802040Y0BB,Revlimid
+0802040Y0BBAAAA,Revlimid 5mg capsules
+0802040Y0BBABAB,Revlimid 10mg capsules
+0802040Y0BBACAC,Revlimid 15mg capsules
+0802040Y0BBADAD,Revlimid 25mg capsules
+0802040Y0BBAEAE,Revlimid 2.5mg capsules
+0802040Y0BBAFAF,Revlimid 7.5mg capsules
+0802040Y0BBAGAG,Revlimid 20mg capsules
+0802040Z0,Interferon gamma
+0802040Z0AA,Interferon gamma-1b
+0802040Z0AAAAAA,Interferon gamma-1b (rcmb human) 100microg/0.5ml inj vials
+0802040Z0BB,Immukin
+0802040Z0BBAAAA,Immukin 100micrograms/0.5ml solution for injection vials
+0803,Sex hormones and hormone antagonists in malignant disease
+080301,Oestrogens
+0803010,Oestrogens
+0803010D0,Fosfestrol tetrasodium
+0803010D0AA,Fosfestrol Tetraso
+0803010D0AAACAC,Fosfestrol 300mg/5ml solution for injection ampoules
+0803010D0AAADAD,Fosfestrol 120mg tablets
+0803010D0BB,Honvan
+0803010D0BBACAC,Honvan 300mg/5ml solution for injection ampoules
+0803010D0BBADAD,Honvan 120mg tablets
+0803010K0,Diethylstilbestrol
+0803010K0AA,Diethylstilbestrol (Systemic)
+0803010K0AAAKAK,Diethylstilbestrol 1mg tablets
+0803010K0AAALAL,Diethylstilbestrol 5mg tablets
+080302,Progestogens
+0803020,Progestogens
+0803020D0,Gestonorone hexanoate
+0803020D0AA,Gestonorone hexanoate
+0803020D0AAAAAA,Gestonorone 200mg/2ml solution for injection ampoules
+0803020H0,Medroxyprogesterone acetate
+0803020H0AA,Medroxyprogest acetate (Cancer)
+0803020H0AAABAB,Medroxyprogesterone 500mg/2.5ml inj vials
+0803020H0AAACAC,Medroxyprogesterone 100mg tablets
+0803020H0AAADAD,Medroxyprogesterone 200mg tablets
+0803020H0AAAEAE,Medroxyprogesterone 250mg tablets
+0803020H0AAAFAF,Medroxyprogesterone 400mg tablets
+0803020H0AAAGAG,Medroxyprogesterone 500mg tablets
+0803020H0AAAKAK,Medroxyprogesterone 400mg/5ml oral liquid
+0803020H0AAANAN,Medroxyprogesterone 100mg/5ml oral liquid
+0803020H0AAAPAP,Medroxyprogesterone 20mg/5ml oral suspension
+0803020H0AAAQAQ,Medroxyprogesterone 200mg/5ml oral suspension
+0803020H0AAARAR,Medroxyprogesterone 10mg/5ml oral liquid
+0803020H0BC,Farlutal
+0803020H0BCAAAC,Farlutal 100 tablets
+0803020H0BCABAE,Farlutal 250 tablets
+0803020H0BCACAG,Farlutal 500 tablets
+0803020H0BCADAB,Farlutal 500 suspension for injection 2.5ml vials
+0803020H0BD,Provera (Cancer)
+0803020H0BDAAAC,Provera 100mg tablets
+0803020H0BDACAD,Provera 200mg tablets
+0803020H0BDADAF,Provera 400mg tablets
+0803020L0,Megestrol acetate
+0803020L0AA,Megestrol acetate
+0803020L0AAAAAA,Megestrol 40mg tablets
+0803020L0AAABAB,Megestrol 160mg tablets
+0803020L0AAACAC,Megestrol 160mg/5ml oral suspension
+0803020L0AAADAD,Megestrol 80mg/5ml oral suspension
+0803020L0AAAEAE,Megestrol 20mg/5ml oral suspension
+0803020L0AAAFAF,Megestrol 10mg/5ml oral suspension
+0803020L0AAAGAG,Megestrol 200mg/5ml oral suspension
+0803020L0AAAHAH,Megestrol 40mg/5ml oral suspension
+0803020L0AAAIAI,Megestrol 50mg capsules
+0803020L0AAAJAJ,Megestrol 20mg capsules
+0803020L0AAAKAK,Megestrol 80mg tablets
+0803020L0BB,Megace
+0803020L0BBAAAA,Megace 40mg tablets
+0803020L0BBACAB,Megace 160mg tablets
+080303,Androgens
+0803030,Androgens
+0803030T0,Testolactone
+0803030T0AA,Testolactone
+0803030T0AAAAAA,Testolactone 50mg tablets
+0803030T0BC,Teslac
+0803030T0BCAAAA,Teslac 50mg tablets
+080304,Hormone antagonists
+0803041,Breast cancer
+0803041A0,Aminoglutethimide
+0803041A0AA,Aminoglutethimide
+0803041A0AAAAAA,Aminoglutethimide 250mg tablets
+0803041A0BB,Orimeten
+0803041A0BBAAAA,Orimeten 250mg tablets
+0803041AA,Fulvestrant
+0803041AAAA,Fulvestrant
+0803041AAAAAAAA,Fulvestrant 250mg/5ml inj pre-filled syringes
+0803041AABB,Faslodex
+0803041AABBAAAA,Faslodex 250mg/5ml inj pre-filled syringes
+0803041B0,Anastrozole
+0803041B0AA,Anastrozole
+0803041B0AAAAAA,Anastrozole 1mg tablets
+0803041B0AAABAB,Anastrozole 1mg/5ml oral solution
+0803041B0BB,Arimidex
+0803041B0BBAAAA,Arimidex 1mg tablets
+0803041B0BC,Nastrosa
+0803041B0BCAAAA,Nastrosa 1mg tablets
+0803041C0,Exemestane
+0803041C0AA,Exemestane
+0803041C0AAAAAA,Exemestane 25mg tablets
+0803041C0BB,Aromasin
+0803041C0BBAAAA,Aromasin 25mg tablets
+0803041L0,Letrozole
+0803041L0AA,Letrozole
+0803041L0AAAAAA,Letrozole 2.5mg tablets
+0803041L0BB,Femara
+0803041L0BBAAAA,Femara 2.5mg tablets
+0803041S0,Tamoxifen citrate
+0803041S0AA,Tamoxifen citrate
+0803041S0AAAAAA,Tamoxifen 10mg tablets
+0803041S0AAABAB,Tamoxifen 20mg tablets
+0803041S0AAACAC,Tamoxifen 40mg tablets
+0803041S0AAAGAG,Tamoxifen 20mg/5ml oral liquid
+0803041S0AAAHAH,Tamoxifen 10mg/5ml oral liquid
+0803041S0AAAIAI,Tamoxifen 40mg/5ml oral liquid
+0803041S0AAAJAJ,Tamoxifen 10mg/5ml oral solution sugar free
+0803041S0BC,Nolvadex
+0803041S0BCAAAA,Nolvadex 10mg tablets
+0803041S0BCABAB,Nolvadex D 20mg tablets
+0803041S0BF,Tamofen
+0803041S0BFAAAA,Tamofen 10 tablets
+0803041S0BFABAB,Tamofen 20 tablets
+0803041S0BFACAC,Tamofen 40 tablets
+0803041S0BJ,Emblon
+0803041S0BJABAA,Emblon 10mg tablets
+0803041S0BL,Soltamox
+0803041S0BLAAAJ,Soltamox 10mg/5ml oral solution
+0803041U0,Toremifene citrate
+0803041U0AA,Toremifene citrate
+0803041U0AAAAAA,Toremifene 60mg tablets
+0803041U0BB,Fareston
+0803041U0BBAAAA,Fareston 60mg tablets
+0803042,Prostate cancer and gonadorelin analogues
+0803042A0,Bicalutamide
+0803042A0AA,Bicalutamide
+0803042A0AAAAAA,Bicalutamide 50mg tablets
+0803042A0AAABAB,Bicalutamide 150mg tablets
+0803042A0AAACAC,Bicalutamide 50mg/5ml oral suspension
+0803042A0AAADAD,Bicalutamide 150mg/5ml oral suspension
+0803042A0BB,Casodex
+0803042A0BBAAAA,Casodex 50mg tablets
+0803042A0BBABAB,Casodex 150mg tablets
+0803042B0,Buserelin
+0803042B0AA,Buserelin (Prostate)
+0803042B0AAAAAA,Buserelin 5.5mg/5.5ml solution for injection vials(Prostate)
+0803042B0AAABAB,Buserelin 100micrograms/dose nasal spray
+0803042B0BB,Suprefact
+0803042B0BBAAAA,Suprefact 5.5mg/5.5ml solution for injection vials
+0803042B0BBABAB,Suprefact 100micrograms/dose nasal spray
+0803042E0,Cyproterone acetate
+0803042E0AA,Cyprote acetate (Prostate)
+0803042E0AAAAAA,Cyproterone 50mg tablets
+0803042E0AAABAB,Cyproterone 100mg tablets
+0803042E0AAADAD,Cyproterone 100mg/5ml oral liquid
+0803042E0AAAEAE,Cyproterone 25mg/5ml oral liquid
+0803042E0AAAFAF,Cyproterone 50mg/5ml oral suspension
+0803042E0AAAHAH,Cyproterone 150mg/5ml oral liquid
+0803042E0AAAIAI,Cyproterone 2mg/5ml oral suspension
+0803042E0BB,Cyprostat
+0803042E0BBAAAA,Cyprostat 50mg tablets
+0803042E0BBABAB,Cyprostat 100mg tablets
+0803042H0,Flutamide
+0803042H0AA,Flutamide
+0803042H0AAAAAA,Flutamide 250mg tablets
+0803042H0BB,Drogenil
+0803042H0BBAAAA,Drogenil 250mg tablets
+0803042H0BC,Chimax
+0803042H0BCAAAA,Chimax 250mg tablets
+0803042K0,Goserelin acetate
+0803042K0AA,Goserelin acetate
+0803042K0AAAAAA,Goserelin 3.6mg implant pre-filled syringes
+0803042K0AAABAB,Goserelin 10.8mg implant pre-filled syringes
+0803042K0BB,Zoladex
+0803042K0BBAAAA,Zoladex 3.6mg implant SafeSystem pre-filled syringes
+0803042K0BBABAB,Zoladex LA 10.8mg implant SafeSystem pre-filled syringes
+0803042K0BC,Novgos
+0803042K0BCAAAA,Novgos 3.6mg implant pre-filled syringes
+0803042N0,Leuprorelin acetate
+0803042N0AA,Leuprorelin acetate
+0803042N0AAAAAA,Leuprorelin 3.75mg inj vials
+0803042N0AAABAB,Leuprorelin 11.25mg inj vials
+0803042N0AAACAC,Leuprorelin 3.75mg inj pre-filled syringes
+0803042N0AAADAD,Leuprorelin 11.25mg inj pre-filled syringes
+0803042N0AAAEAE,Leuprorelin 22.5mg inj vials
+0803042N0AAAFAF,Leuprorelin 10.72mg implant pre-filled syringes
+0803042N0BB,Prostap
+0803042N0BBAAAA,Prostap SR 3.75mg inj vials
+0803042N0BBABAB,Prostap 3 Depot 11.25mg inj vials
+0803042N0BBACAC,Prostap SR DCS 3.75mg inj pre-filled syringes
+0803042N0BBADAD,Prostap 3 DCS 11.25mg inj pre-filled syringes
+0803042N0BC,Lutrate
+0803042N0BCAAAA,Lutrate 1 month Depot 3.75mg inj vials
+0803042N0BCABAE,Lutrate 3 month Depot 22.5mg inj vials
+0803042N0BD,Staladex
+0803042N0BDAAAF,Staladex 10.72mg implant pre-filled syringes
+0803042P0,Triptorelin acetate
+0803042P0AA,Triptorelin (acetate)
+0803042P0AAAAAA,Triptorelin acetate 3mg inj vials
+0803042P0AAABAB,Triptorelin acetate 3.75mg inj pre-filled syringes
+0803042P0AAACAC,Triptorelin 11.25mg inj vials
+0803042P0BB,Decapeptyl (Prostate)
+0803042P0BBAAAA,Decapeptyl SR 3mg inj vials
+0803042P0BBABAC,Decapeptyl SR 11.25mg inj vials
+0803042P0BC,Gonapeptyl Depot
+0803042P0BCAAAB,Gonapeptyl Depot 3.75mg inj pre-filled syringes
+0803042Q0,Histrelin acetate
+0803042Q0AA,Histrelin acetate
+0803042Q0AAAAAA,Histrelin 50mg implant with device
+0803042Q0BB,Vantas
+0803042Q0BBAAAA,Vantas 50mg implant with implantation device
+0803042R0,Degarelix
+0803042R0AA,Degarelix
+0803042R0AAAAAA,Degarelix 80mg inj vials
+0803042R0AAABAB,Degarelix 120mg inj vials
+0803042R0BB,Firmagon
+0803042R0BBAAAA,Firmagon 80mg inj vials
+0803042R0BBABAB,Firmagon 120mg inj vials
+0803042S0,Triptorelin embonate
+0803042S0AA,Triptorelin embonate
+0803042S0AAABAB,Triptorelin embonate 22.5mg inj vials
+0803042S0AAACAC,Triptorelin embonate 11.25mg inj vials
+0803042S0BC,Decapeptyl (embonate)
+0803042S0BCAAAB,Decapeptyl SR 22.5mg inj vials
+0803042S0BD,Salvacyl (embonate)
+0803042S0BDAAAC,Salvacyl 11.25mg inj vials
+0803042T0,Abiraterone
+0803042T0AA,Abiraterone
+0803042T0AAAAAA,Abiraterone 250mg tablets
+0803042T0AAABAB,Abiraterone 500mg tablets
+0803042T0BB,Zytiga
+0803042T0BBAAAA,Zytiga 250mg tablets
+0803042T0BBABAB,Zytiga 500mg tablets
+0803042U0,Enzalutamide
+0803042U0AA,Enzalutamide
+0803042U0AAAAAA,Enzalutamide 40mg capsules
+0803042U0AAABAB,Enzalutamide 40mg tablets
+0803042U0BB,Xtandi
+0803042U0BBAAAA,Xtandi 40mg capsules
+0803042U0BBABAB,Xtandi 40mg tablets
+0803042V0,Apalutamide
+0803042V0AA,Apalutamide
+0803042V0AAAAAA,Apalutamide 60mg tablets
+0803042V0BB,Erleada
+0803042V0BBAAAA,Erleada 60mg tablets
+0803043,Somatostatin analogues
+0803043N0,Octreotide acetate
+0803043N0AA,Octreotide acetate
+0803043N0AAAAAA,Octreotide 50micrograms/1ml solution for injection ampoules
+0803043N0AAABAB,Octreotide 100micrograms/1ml solution for injection ampoules
+0803043N0AAACAC,Octreotide 500micrograms/1ml solution for injection ampoules
+0803043N0AAADAD,Octreotide 1mg/5ml solution for injection vials
+0803043N0AAAEAE,Octreotide 10mg inj vials
+0803043N0AAAFAF,Octreotide 30mg inj vials
+0803043N0AAAGAG,Octreotide 20mg inj vials
+0803043N0AAAKAK,Octreotide 50micrograms/1ml solution for injection vials
+0803043N0AAALAL,Octreotide 100micrograms/1ml solution for injection vials
+0803043N0AAAMAM,Octreotide 500micrograms/1ml solution for injection vials
+0803043N0AAANAN,Octreotide 50micrograms/1ml inj pre-filled syringes
+0803043N0AAAPAP,Octreotide 100micrograms/1ml inj pre-filled syringes
+0803043N0AAAQAQ,Octreotide 500micrograms/1ml inj pre-filled syringes
+0803043N0BB,Sandostatin
+0803043N0BBAAAA,Sandostatin 50micrograms/1ml solution for injection ampoules
+0803043N0BBABAB,Sandostatin 100micrograms/1ml inj ampoules
+0803043N0BBACAC,Sandostatin 500micrograms/1ml inj ampoules
+0803043N0BBADAD,Sandostatin 1mg/5ml solution for injection vials
+0803043N0BBAEAE,Sandostatin LAR 10mg inj vials
+0803043N0BBAFAF,Sandostatin LAR 30mg inj vials
+0803043N0BBAGAG,Sandostatin LAR 20mg inj vials
+0803043N0BC,Olatuton
+0803043N0BCAAAE,Olatuton 10mg inj vials
+0803043N0BCABAG,Olatuton 20mg inj vials
+0803043N0BCACAF,Olatuton 30mg inj vials
+0803043P0,Lanreotide
+0803043P0AA,Lanreotide
+0803043P0AAAAAA,Lanreotide 30mg inj vials
+0803043P0AAABAB,Lanreotide 60mg/0.3ml inj pre-filled syringes
+0803043P0AAACAC,Lanreotide 90mg/0.3ml inj pre-filled syringes
+0803043P0AAADAD,Lanreotide 120mg/0.5ml inj pre-filled syringes
+0803043P0AAAEAE,Lanreotide 60mg/0.5ml inj pre-filled syringes
+0803043P0AAAFAF,Lanreotide 90mg/0.5ml inj pre-filled syringes
+0803043P0BB,Somatuline
+0803043P0BBAAAA,Somatuline LA 30mg inj vials
+0803043P0BBABAB,Somatuline Autogel 60mg/0.3ml inj pre-filled syringes
+0803043P0BBACAC,Somatuline Autogel 90mg/0.3ml inj pre-filled syringes
+0803043P0BBADAD,Somatuline Autogel 120mg/0.5ml inj pre-filled syringes
+0803043P0BBAEAE,Somatuline Autogel 60mg/0.5ml inj pfs with safety system
+0803043P0BBAFAF,Somatuline Autogel 90mg/0.5ml inj pfs with safety system
+0803043P0BBAGAD,Somatuline Autogel 120mg/0.5ml inj pfs with safety system
+0803043Q0,Pasireotide
+0803043Q0AA,Pasireotide
+0803043Q0AAAAAA,Pasireotide 300micrograms/1ml inj ampoules
+0803043Q0AAABAB,Pasireotide 600micrograms/1ml inj ampoules
+0803043Q0AAACAC,Pasireotide 900micrograms/1ml inj ampoules
+0803043Q0AAADAD,Pasireotide 20mg inj vials
+0803043Q0AAAEAE,Pasireotide 40mg inj vials
+0803043Q0AAAFAF,Pasireotide 60mg inj vials
+0803043Q0AAAGAG,Pasireotide 10mg inj vials
+0803043Q0AAAHAH,Pasireotide 30mg inj vials
+0803043Q0BB,Signifor
+0803043Q0BBAAAA,Signifor 0.3mg/1ml solution for injection ampoules
+0803043Q0BBABAB,Signifor 0.6mg/1ml solution for injection ampoules
+0803043Q0BBACAC,Signifor 0.9mg/1ml solution for injection ampoules
+0803043Q0BBADAD,Signifor 20mg inj vials
+0803043Q0BBAEAE,Signifor 40mg inj vials
+0803043Q0BBAFAF,Signifor 60mg inj vials
+0803043Q0BBAGAG,Signifor 10mg inj vials
+0803043Q0BBAHAH,Signifor 30mg inj vials
